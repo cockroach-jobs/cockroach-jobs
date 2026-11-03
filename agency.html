@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="hi" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="agencyPageTitle">भर्ती आयोग हब | Cockroach Jobs Portal</title>
+  <meta name="description" id="agencyMetaDesc" content="आयोग की सभी भर्तियां, OTR रजिस्ट्रेशन पोर्टल, वार्षिक परीक्षा कैलेंडर, पद एवं इन-हैंड सैलरी की विस्तृत जानकारी।">
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪳</text></svg>">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="styles.css">
+  
+  <style>
+    .agency-container {
+      max-width: 1100px;
+      margin: 24px auto 60px;
+      padding: 0 16px;
+    }
+
+    .breadcrumbs {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-bottom: 20px;
+      padding: 8px 14px;
+      background: var(--bg-secondary);
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border-color);
+    }
+
+    .breadcrumbs a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .breadcrumbs a:hover {
+      text-decoration: underline;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 28px 0 14px;
+      border-bottom: 2px solid var(--border-color);
+      padding-bottom: 8px;
+    }
+
+    .section-head h2 {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .agency-ad-slot {
+      margin: 20px 0;
+      padding: 14px;
+      background: var(--bg-secondary);
+      border: 1px dashed var(--border-color);
+      border-radius: var(--radius-sm);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Marquee Ticker -->
+  <div class="ticker-bar">
+    <div class="container ticker-flex">
+      <span class="ticker-badge">LIVE HUB</span>
+      <div class="ticker-content">
+        <marquee behavior="scroll" direction="left" scrollamount="6" onmouseover="this.stop();" onmouseout="this.start();">
+          🪳 <strong>कॉकरोच जॉब्स पोर्टल:</strong> आधिकारिक आयोग हब • 100% वेरिफाइड OTR, परीक्षा कैलेंडर एवं पदवार सैलरी। कोई डुप्लिकेशन नहीं।
+        </marquee>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-container">
+      <div class="logo-area">
+        <a href="/" class="brand-logo">
+          <span class="logo-icon">🪳</span>
+          <div class="logo-text">
+            <span class="logo-name">Cockroach Jobs</span>
+            <span class="logo-tagline">100% Official Govt Links</span>
+          </div>
+        </a>
+      </div>
+      <nav class="nav-links">
+        <a href="/" class="nav-item">🏠 मुख्य पेज</a>
+        <a href="/#results" class="nav-item">🏆 परिणाम</a>
+        <a href="/#admit-cards" class="nav-item">🎟️ प्रवेश पत्र</a>
+        <a href="/#latest-jobs" class="nav-item">💼 नौकरियां</a>
+      </nav>
+      <div class="nav-actions">
+        <button id="themeToggle" class="btn-theme" title="थीम बदलें">☀️ Light</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Agency Hub Container -->
+  <main class="agency-container">
+
+    <!-- Breadcrumbs -->
+    <div class="breadcrumbs">
+      <a href="/">होम (Home)</a>
+      <span>›</span>
+      <span>आयोग हब</span>
+      <span>›</span>
+      <span id="breadcrumbAgencyName" style="color:var(--text-main);">लोड हो रहा है...</span>
+    </div>
+
+    <!-- Top Ad Banner -->
+    <div class="agency-ad-slot">
+      <small style="color:var(--text-muted); display:block; margin-bottom:4px;">SPONSORED ADVERTISEMENT</small>
+      <div style="font-weight:600; color:var(--text-muted);">📢 प्रायोजित विज्ञापन स्लॉट (Adsterra / Monetag Code Here)</div>
+    </div>
+
+    <!-- Agency Hero Header Card -->
+    <div class="agency-hero-card" id="agencyHeroCard">
+      <div class="agency-header-flex">
+        <div class="agency-logo-emblem" id="agencyEmblem">🏛️</div>
+        <div class="agency-info-main">
+          <h1 class="agency-name-title" id="agencyTitle">लोड हो रहा है...</h1>
+          <div class="agency-meta-pills" id="agencyMetaPills">
+            <span>📍 मुख्यालय: नई दिल्ली</span>
+            <span>•</span>
+            <span>🏛️ केंद्रीय संवैधानिक आयोग</span>
+          </div>
+        </div>
+        <div>
+          <a href="#" target="_blank" rel="noopener" id="btnOfficialPortal" class="card-btn-apply" style="padding:10px 18px; font-size:0.9rem;">
+            🌐 मुख्य आधिकारिक पोर्टल →
+          </a>
+        </div>
+      </div>
+      <p id="agencyDescription" style="margin-top:16px; font-size:0.95rem; line-height:1.6; color:var(--text-muted);">
+        लोड हो रहा है...
+      </p>
+    </div>
+
+    <!-- 🚦 OTR Health & Readiness Card (Psychological Security & Action Loop) -->
+    <div class="otr-health-card">
+      <div class="otr-text-wrap">
+        <h3>
+          <span class="pulse-dot green"></span>
+          <span id="otrHeading">क्या आपका OTR 2026 रजिस्ट्रेशन पूरा है?</span>
+        </h3>
+        <p id="otrText">
+          आयोग के नए नियमों के अनुसार आवेदन करने से पहले One Time Registration (OTR) अनिवार्य है। सर्वर क्रैश और अंतिम तिथि की भीड़ से बचने के लिए अभी अपनी प्रोफाइल तैयार रखें।
+        </p>
+      </div>
+      <div>
+        <a href="#" target="_blank" rel="noopener" id="btnOtrAction" class="btn-otr-register">
+          ⚡ 1-क्लिक OTR डायरेक्ट पोर्टल →
+        </a>
+      </div>
+    </div>
+
+    <!-- Flagship Exams & Career Mapped Matrix -->
+    <div class="section-head">
+      <h2>💼 नियमित प्रमुख परीक्षाएं एवं पद प्रोफाइल (Exam & Career Matrix)</h2>
+      <span style="font-size:0.85rem; color:var(--text-muted);">सैलरी, योग्यता एवं शारीरिक मापदंड</span>
+    </div>
+
+    <div class="flagship-grid" id="flagshipGrid">
+      <!-- Populated via JS -->
+      <div style="grid-column:1/-1; text-align:center; padding:30px; color:var(--text-muted);">
+        लोड हो रहा है...
+      </div>
+    </div>
+
+    <!-- Middle In-Content Ad -->
+    <div class="agency-ad-slot">
+      <small style="color:var(--text-muted); display:block; margin-bottom:4px;">SPONSORED ADVERTISEMENT</small>
+      <div style="font-weight:600; color:var(--text-muted);">📢 प्रायोजित विज्ञापन स्लॉट</div>
+    </div>
+
+    <!-- Annual Calendar Roadmap Timeline -->
+    <div class="section-head">
+      <h2>📅 वार्षिक परीक्षा कैलेंडर रोडमैप (Annual Exam Calendar)</h2>
+      <span style="font-size:0.85rem; color:var(--accent); font-weight:700;">अपेक्षित तिथियां</span>
+    </div>
+
+    <div class="calendar-timeline-card">
+      <p style="font-size:0.9rem; color:var(--text-muted); margin-bottom:12px;">
+        📌 नीचे आयोग द्वारा अधिसूचित वार्षिक चक्र की महत्वपूर्ण तारीखें दी गई हैं:
+      </p>
+      <div class="timeline-step-list" id="timelineStepList">
+        <div class="timeline-step">
+          <div class="step-month">जनवरी - फरवरी</div>
+          <div class="step-title">विज्ञप्ति एवं ऑनलाइन आवेदन</div>
+          <div class="step-desc">आधिकारिक नोटिफिकेशन जारी व OTR वेरिफिकेशन</div>
+        </div>
+        <div class="timeline-step">
+          <div class="step-month">अप्रैल - मई</div>
+          <div class="step-title">प्रारंभिक परीक्षा (Tier-1)</div>
+          <div class="step-desc">कंप्यूटर आधारित टेस्ट व एडमिट कार्ड</div>
+        </div>
+        <div class="timeline-step">
+          <div class="step-month">जुलाई - अगस्त</div>
+          <div class="step-title">मुख्य परीक्षा (Tier-2)</div>
+          <div class="step-desc">लिखित परीक्षा व टाइपिंग/कौशल परीक्षण</div>
+        </div>
+        <div class="timeline-step">
+          <div class="step-month">अक्टूबर - नवंबर</div>
+          <div class="step-title">अंतिम चयन व दस्तावेज सत्यापन</div>
+          <div class="step-desc">मेडिकल परीक्षण एवं पद आवंटन सूची</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Active Live Job Notices for this Agency -->
+    <div class="section-head">
+      <h2>🔴 सक्रिय सरकारी नौकरियां व एडमिट कार्ड (Live Updates)</h2>
+      <span id="activeCountBadge" class="urgency-badge">0 सक्रिय अपडेट्स</span>
+    </div>
+
+    <div class="job-cards-grid" id="agencyJobsGrid">
+      <!-- Filtered Jobs Populated here -->
+    </div>
+
+    <!-- Viral WhatsApp Share Loop Banner -->
+    <div style="margin-top:40px; padding:20px; background:var(--card-bg); border:1px solid var(--border-color); border-radius:var(--radius-md); text-align:center;">
+      <h3 style="color:var(--text-main); margin-bottom:8px;">📲 अपने दोस्तों और स्टडी ग्रुप को अपडेट रखें</h3>
+      <p style="color:var(--text-muted); font-size:0.9rem; margin-bottom:14px;">
+        इस आयोग की सभी भर्तियों, OTR और सीधे सरकारी लिंक्स को एक क्लिक में शेयर करें:
+      </p>
+      <button id="btnShareAgencyWhatsapp" class="btn-action-whatsapp" style="margin:0 auto; padding:12px 28px; font-size:1rem;">
+        📲 WhatsApp पर शेयर करें (1-Tap Share)
+      </button>
+    </div>
+
+    <!-- Back to Home -->
+    <div style="text-align:center; margin:30px 0;">
+      <a href="/" class="btn-back-home">← मुख्य पोर्टल पर वापस जाएं</a>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-container">
+      <div class="footer-col">
+        <div class="footer-brand">🪳 Cockroach Jobs Portal</div>
+        <p class="footer-text">100% प्रमाणित आधिकारिक सरकारी लिंक्स के साथ भारत का सबसे अटूट व आधुनिक भर्ती पोर्टल।</p>
+      </div>
+      <div class="footer-col">
+        <h4>महत्वपूर्ण पेजेस</h4>
+        <ul class="footer-links">
+          <li><a href="/privacy-policy">गोपनीयता नीति (Privacy Policy)</a></li>
+          <li><a href="/disclaimer">अस्वीकरण (Disclaimer)</a></li>
+          <li><a href="/contact">संपर्क करें (Contact Us)</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2026 Cockroach Jobs Portal. सभी अधिकार सुरक्षित।</p>
+    </div>
+  </footer>
+
+  <!-- Dynamic Hub Engine Script -->
+  <script>
+    // Theme setup
+    const themeToggle = document.getElementById("themeToggle");
+    const currentTheme = localStorage.getItem("cockroach_theme") || "dark";
+    document.documentElement.setAttribute("data-theme", currentTheme);
+    if (themeToggle) {
+      themeToggle.textContent = currentTheme === "dark" ? "☀️ Light" : "🌙 Dark";
+      themeToggle.addEventListener("click", () => {
+        const active = document.documentElement.getAttribute("data-theme");
+        const next = active === "dark" ? "light" : "dark";
+        document.documentElement.setAttribute("data-theme", next);
+        localStorage.setItem("cockroach_theme", next);
+        themeToggle.textContent = next === "dark" ? "☀️ Light" : "🌙 Dark";
+      });
+    }
+
+    const EMBLEM_MAP = {
+      "upsc": "🦅",
+      "ssc": "💼",
+      "rrb": "🚆",
+      "ibps": "🏦",
+      "sbi": "🏛️",
+      "rbi": "💰",
+      "nta": "🎓",
+      "defence-tri": "⚔️",
+      "paramilitary-mha": "🛡️"
+    };
+
+    async function loadAgencyHub() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const agencySlug = (urlParams.get("id") || "ssc").toLowerCase();
+
+      try {
+        const [resCat, resJobs] = await Promise.all([
+          fetch("exam_catalog.json?v=" + Date.now()),
+          fetch("jobs_data.json?v=" + Date.now())
+        ]);
+        
+        const catalog = await resCat.json();
+        const allJobs = await resJobs.json();
+
+        // Find agency in catalog
+        let targetAgency = null;
+        let agencyKey = null;
+
+        for (const [k, v] of Object.entries(catalog.agencies)) {
+          if (v.slug === agencySlug || k.toLowerCase().includes(agencySlug)) {
+            targetAgency = v;
+            agencyKey = k;
+            break;
+          }
+        }
+
+        if (!targetAgency) {
+          // Default to SSC if not found
+          targetAgency = catalog.agencies["AGENCY_SSC"];
+          agencyKey = "AGENCY_SSC";
+        }
+
+        // 1. Populate Hero Header
+        document.title = `${targetAgency.name_hi} - सभी भर्तियां, OTR व कैलेंडर | Cockroach Jobs`;
+        document.getElementById("agencyPageTitle").textContent = targetAgency.name_hi;
+        document.getElementById("breadcrumbAgencyName").textContent = targetAgency.name_hi;
+        document.getElementById("agencyTitle").textContent = targetAgency.name_hi;
+        document.getElementById("agencyEmblem").textContent = EMBLEM_MAP[targetAgency.slug] || "🏛️";
+        
+        document.getElementById("agencyMetaPills").innerHTML = `
+          <span>📍 ${targetAgency.headquarters || 'नई दिल्ली'}</span>
+          <span>•</span>
+          <span>🏛️ ${targetAgency.category || 'केंद्रीय भर्ती आयोग'}</span>
+          <span>•</span>
+          <span>📅 स्थापित: ${targetAgency.established || '1975'}</span>
+        `;
+        document.getElementById("agencyDescription").textContent = targetAgency.description || "केंद्र सरकार के अंतर्गत विभिन्न पदों पर निष्पक्ष एवं समयबद्ध भर्ती आयोजित करने वाली प्रमुख संस्था।";
+
+        const offBtn = document.getElementById("btnOfficialPortal");
+        offBtn.href = targetAgency.official_website || "https://india.gov.in";
+
+        // 2. OTR Banner
+        const otrBtn = document.getElementById("btnOtrAction");
+        otrBtn.href = targetAgency.apply_portal || targetAgency.official_website || "#";
+        document.getElementById("otrHeading").textContent = `क्या आपका ${targetAgency.slug.toUpperCase()} OTR 2026 रजिस्ट्रेशन पूरा है?`;
+
+        // 3. Flagship Exams Matrix
+        const flagshipGrid = document.getElementById("flagshipGrid");
+        const mappedExams = [];
+        for (const [exId, exData] of Object.entries(catalog.flagship_exams)) {
+          if (exData.agency_id === agencyKey) {
+            mappedExams.push(exData);
+          }
+        }
+
+        if (mappedExams.length > 0) {
+          flagshipGrid.innerHTML = mappedExams.map(ex => {
+            let postsHtml = "";
+            if (ex.mapped_posts && ex.mapped_posts.length > 0) {
+              postsHtml = ex.mapped_posts.map(p => `
+                <li class="mapped-post-item">
+                  <span class="post-name-text">🌟 ${p.name}</span>
+                  <span class="post-pay-chip">${p.pay_scale || 'Level 7'}</span>
+                </li>
+              `).join("");
+            }
+
+            return `
+              <div class="flagship-card">
+                <div class="flagship-badge-row">
+                  <span class="badge badge-job">नियमित परीक्षा</span>
+                  <span style="font-size:0.75rem; color:var(--text-muted); font-weight:700;">${ex.frequency || 'Annual'}</span>
+                </div>
+                <h3 class="flagship-title">${ex.title_hi || ex.title}</h3>
+                <p style="font-size:0.84rem; color:var(--text-muted); margin-bottom:8px;">
+                  🎓 <strong>पात्रता:</strong> ${ex.min_qualification || 'स्नातक / 12वीं'} • 🎂 <strong>आयु:</strong> ${ex.age_limit || '18-30 वर्ष'}
+                </p>
+                <div style="font-size:0.8rem; font-weight:800; color:var(--accent); margin-top:8px;">
+                  🎖️ शामिल प्रमुख पद एवं सैलरी:
+                </div>
+                <ul class="mapped-posts-list">
+                  ${postsHtml}
+                </ul>
+              </div>
+            `;
+          }).join("");
+        } else {
+          flagshipGrid.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:20px; color:var(--text-muted);">इस आयोग की परीक्षा सूची जल्द ही अद्यतन की जा रही है।</div>`;
+        }
+
+        // 4. Filter Jobs for this Agency
+        const agencyTag = targetAgency.slug.toUpperCase();
+        const agencyJobs = allJobs.filter(j => {
+          const matchTag = (j.tag || '').toUpperCase();
+          const matchDept = (j.department || '').toUpperCase();
+          const matchTitle = (j.title || '').toUpperCase();
+          return matchTag.includes(agencyTag) || matchDept.includes(agencyTag) || matchTitle.includes(agencyTag);
+        });
+
+        document.getElementById("activeCountBadge").textContent = `${agencyJobs.length} सक्रिय अपडेट्स`;
+
+        const jobsGrid = document.getElementById("agencyJobsGrid");
+        if (agencyJobs.length > 0) {
+          jobsGrid.innerHTML = agencyJobs.map(job => {
+            const links = job.links || {};
+            const applyUrl = links.primary_url || "#";
+            const pdfUrl = links.notification_pdf || links.notification_url || "#";
+            const applyText = job.category === 'result' ? '⚡ रिजल्ट देखें' : (job.category === 'admit_card' ? '⚡ एडमिट कार्ड' : '⚡ सीधे आवेदन');
+
+            return `
+              <div class="job-card" onclick="location.href='job.html?id=${job.id}'">
+                <div class="card-top">
+                  <span class="badge badge-${job.category}">${job.category.toUpperCase()}</span>
+                  <span class="card-date">📅 ${job.post_date || 'New'}</span>
+                </div>
+                <h3 class="card-title">
+                  <span class="pulse-dot"></span>
+                  ${job.title}
+                </h3>
+                <div class="card-dept">🏛️ ${job.department}</div>
+                <ul class="card-meta-list">
+                  <li>📍 <strong>क्षेत्र:</strong> ${job.state || 'All India'}</li>
+                  ${job.important_dates && job.important_dates.last_date ? `<li>⏰ <strong>अंतिम तिथि:</strong> <span style="color:#ef4444; font-weight:800;">${job.important_dates.last_date}</span></li>` : ''}
+                </ul>
+                <div class="card-actions-group">
+                  <div class="card-actions-row">
+                    <a href="${applyUrl}" target="_blank" rel="noopener" class="card-btn-apply" onclick="event.stopPropagation()">
+                      ${applyText}
+                    </a>
+                    <a href="${pdfUrl}" target="_blank" rel="noopener" class="card-btn-pdf" onclick="event.stopPropagation()">
+                      📄 PDF सूचना
+                    </a>
+                  </div>
+                  <a href="job.html?id=${job.id}" target="_blank" class="card-btn-details" onclick="event.stopPropagation()">
+                    📖 विस्तार से जानकारी देखें (नया पेज) →
+                  </a>
+                </div>
+              </div>
+            `;
+          }).join("");
+        } else {
+          jobsGrid.innerHTML = `
+            <div style="grid-column:1/-1; text-align:center; padding:30px; background:var(--card-bg); border:1px dashed var(--border-color); border-radius:var(--radius-sm);">
+              <p style="color:var(--text-muted);">वर्तमान में इस आयोग की कोई सक्रिय भर्ती सूचना नहीं है। शीघ्र अद्यतन की जाएगी।</p>
+            </div>
+          `;
+        }
+
+        // 5. WhatsApp Viral Share Button
+        document.getElementById("btnShareAgencyWhatsapp").onclick = () => {
+          const shareMsg = `🪳 *${targetAgency.name_hi}* की सभी लाइव भर्तियां, OTR रजिस्ट्रेशन और पदवार सैलरी की पूरी जानकारी कॉकरोच जॉब्स पोर्टल पर देखें:\n${window.location.href}`;
+          window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(shareMsg)}`, "_blank");
+        };
+
+      } catch (err) {
+        console.error("Error loading agency hub:", err);
+      }
+    }
+
+    loadAgencyHub();
+  </script>
+</body>
+</html>
