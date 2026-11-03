@@ -546,6 +546,30 @@ const modalFullPageBtn = document.getElementById("modalFullPageBtn");
 const modalNotificationBtn = document.getElementById("modalNotificationBtn");
 const modalOfficialSiteBtn = document.getElementById("modalOfficialSiteBtn");
 const modalShareWhatsappBtn = document.getElementById("modalShareWhatsappBtn");
+const smartSearchHint = document.getElementById("smartSearchHint");
+
+let examCatalog = null;
+let aliasIndex = {};
+
+// Build reverse alias index from exam_catalog.json
+function buildAliasIndex() {
+  aliasIndex = {};
+  if (!examCatalog || !examCatalog.flagship_exams) return;
+  for (const [examId, exam] of Object.entries(examCatalog.flagship_exams)) {
+    if (exam.aliases && Array.isArray(exam.aliases)) {
+      exam.aliases.forEach(alias => {
+        aliasIndex[alias.toLowerCase().trim()] = exam;
+      });
+    }
+    // Also index post names
+    if (exam.mapped_posts && Array.isArray(exam.mapped_posts)) {
+      exam.mapped_posts.forEach(post => {
+        aliasIndex[post.name.toLowerCase().trim()] = exam;
+        if (post.name_hi) aliasIndex[post.name_hi.toLowerCase().trim()] = exam;
+      });
+    }
+  }
+}
 
 // Initialize application
 document.addEventListener("DOMContentLoaded", () => {
@@ -557,9 +581,19 @@ document.addEventListener("DOMContentLoaded", () => {
 // Load Data (Fetch JSON with Fallback)
 async function loadJobsData() {
   try {
-    const res = await fetch("jobs_data.json?v=" + Date.now());
-    if (!res.ok) throw new Error("Network response was not ok");
-    allJobs = await res.json();
+    const [resJobs, resCat] = await Promise.all([
+      fetch("jobs_data.json?v=" + Date.now()),
+      fetch("exam_catalog.json?v=" + Date.now()).catch(() => null)
+    ]);
+    if (resJobs && resJobs.ok) {
+      allJobs = await resJobs.json();
+    } else {
+      allJobs = FALLBACK_DATA;
+    }
+    if (resCat && resCat.ok) {
+      examCatalog = await resCat.json();
+      buildAliasIndex();
+    }
   } catch (err) {
     console.warn("Using embedded fallback data due to:", err);
     allJobs = FALLBACK_DATA;
@@ -614,6 +648,32 @@ function populateQuickList(container, items) {
 function applyAllFilters() {
   const query = searchInput ? searchInput.value.toLowerCase().trim() : "";
 
+  // Check smart alias matching
+  let matchedExam = null;
+  if (query && aliasIndex) {
+    if (aliasIndex[query]) {
+      matchedExam = aliasIndex[query];
+    } else {
+      // Partial alias match
+      for (const [alias, exam] of Object.entries(aliasIndex)) {
+        if (alias.includes(query) || query.includes(alias)) {
+          matchedExam = exam;
+          break;
+        }
+      }
+    }
+  }
+
+  // Update Smart Search Hint Banner
+  if (smartSearchHint) {
+    if (matchedExam) {
+      smartSearchHint.innerHTML = `💡 <strong>स्मार्ट खोज:</strong> आपने सर्च किया: <em>'${query.toUpperCase()}'</em> • यह पद <strong>${matchedExam.title}</strong> के अंतर्गत आता है।`;
+      smartSearchHint.style.display = "block";
+    } else {
+      smartSearchHint.style.display = "none";
+    }
+  }
+
   const filtered = allJobs.filter(job => {
     // Category Tab Filter
     if (activeCategory !== "all" && job.category !== activeCategory) {
@@ -628,7 +688,24 @@ function applyAllFilters() {
     // Search query check
     if (query) {
       const matchText = `${job.title} ${job.title_hi || ''} ${job.department} ${job.tag || ''} ${job.state}`.toLowerCase();
-      if (!matchText.includes(query)) return false;
+      let matches = matchText.includes(query);
+
+      // If text doesn't directly match, but matched a flagship exam in our catalog
+      if (!matches && matchedExam) {
+        const examTerms = [
+          matchedExam.title.toLowerCase(),
+          matchedExam.slug.toLowerCase(),
+          (matchedExam.agency_id || '').toLowerCase()
+        ];
+        if (matchedExam.slug) {
+          const words = matchedExam.slug.split("-");
+          if (words.some(w => w.length > 2 && matchText.includes(w))) {
+            matches = true;
+          }
+        }
+      }
+
+      if (!matches) return false;
     }
 
     return true;
