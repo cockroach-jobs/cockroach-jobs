@@ -702,6 +702,85 @@ body {
   color: var(--text-main);
 }
 
+/* Multiple Action Buttons on Job Card */
+.card-actions-group {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card-actions-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+}
+
+.card-btn-apply {
+  background: #10b981;
+  color: #ffffff;
+  border: none;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  transition: opacity 0.2s;
+}
+
+.card-btn-apply:hover {
+  background: #059669;
+}
+
+.card-btn-pdf {
+  background: #ef4444;
+  color: #ffffff;
+  border: none;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  transition: opacity 0.2s;
+}
+
+.card-btn-pdf:hover {
+  background: #dc2626;
+}
+
+.card-btn-details {
+  background: var(--bg-secondary);
+  color: var(--accent);
+  border: 1px solid var(--border-color);
+  padding: 9px;
+  border-radius: var(--radius-sm);
+  font-weight: 800;
+  font-size: 0.88rem;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: all 0.2s;
+}
+
+.card-btn-details:hover {
+  background: var(--accent);
+  color: #000000;
+  border-color: var(--accent);
+}
+
 .card-btn {
   width: 100%;
   background: var(--bg-secondary);
