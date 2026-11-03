@@ -454,12 +454,18 @@ def main():
 
     print(f"[OK] Saved total {len(final_list)} authentic jobs to {json_path}!")
 
-    print("[3/3] Generating static job pages in /jobs/...")
+    print("[3/3] Generating static job pages in /jobs/ & sitemap.xml...")
     try:
         from generate_job_pages import generate_pages
         generate_pages()
     except Exception as e:
         print(f"Warning generating static pages: {e}")
+
+    try:
+        from generate_sitemap import generate_sitemap
+        generate_sitemap()
+    except Exception as e:
+        print(f"Warning generating sitemap: {e}")
 
 if __name__ == "__main__":
     main()
