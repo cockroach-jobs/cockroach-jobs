@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Priority Search Engine Sitemaps
+Sitemap: https://cockroachjobsportal.pages.dev/sitemap.xml
