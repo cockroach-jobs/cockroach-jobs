@@ -742,23 +742,33 @@ function renderCards(jobs) {
     const pdfUrl = links.notification_pdf || links.notification_url || "#";
     const applyText = job.category === 'result' ? '⚡ रिजल्ट देखें' : (job.category === 'admit_card' ? '⚡ एडमिट कार्ड' : '⚡ सीधे आवेदन');
 
+    const urgencyLabel = job.important_dates && job.important_dates.last_date ? `<span class="urgency-badge">⏳ अंतिम तिथि: ${job.important_dates.last_date}</span>` : '';
+    const agencySlug = (job.tag || 'ssc').toLowerCase();
+
     return `
       <div class="job-card" onclick="openJobModal('${job.id}')">
         <div class="card-top">
           <span class="badge ${badgeClass}">${categoryName}</span>
+          ${urgencyLabel}
           <span class="card-date">📅 ${job.post_date || 'New'}</span>
         </div>
         <h3 class="card-title">
+          <span class="pulse-dot ${job.category === 'job' ? 'green' : ''}"></span>
           <a href="job.html?id=${job.id}" target="_blank" onclick="event.stopPropagation()" style="color:inherit; text-decoration:none;">
             ${escapeHtml(job.title)}
           </a>
         </h3>
-        <div class="card-dept">🏛️ ${escapeHtml(job.department)}</div>
+        <div class="card-dept">
+          🏛️ ${escapeHtml(job.department)}
+          <a href="agency.html?id=${agencySlug}" onclick="event.stopPropagation()" style="margin-left:8px; font-size:0.75rem; color:var(--accent); text-decoration:underline;">
+            (आयोग हब देखें →)
+          </a>
+        </div>
         
         <ul class="card-meta-list">
           <li>📍 <strong>क्षेत्र:</strong> ${job.state || 'All India'}</li>
-          ${job.important_dates && job.important_dates.last_date ? `<li>⏰ <strong>अंतिम तिथि:</strong> ${job.important_dates.last_date}</li>` : ''}
-          ${job.vacancy_details && job.vacancy_details[0] ? `<li>👥 <strong>कुल पद:</strong> ${job.vacancy_details[0].total}</li>` : ''}
+          ${job.important_dates && job.important_dates.last_date ? `<li>⏰ <strong>अंतिम तिथि:</strong> <strong style="color:#ef4444;">${job.important_dates.last_date}</strong></li>` : ''}
+          ${job.vacancy_details && job.vacancy_details[0] ? `<li>👥 <strong>कुल पद:</strong> <span style="color:#10b981; font-weight:800;">${job.vacancy_details[0].total}</span></li>` : ''}
         </ul>
 
         <div class="card-actions-group">
