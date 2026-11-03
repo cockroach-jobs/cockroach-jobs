@@ -702,6 +702,38 @@
           window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(shareText)}`, "_blank");
         };
 
+        // Google for Jobs Structured Data (Schema.org JobPosting)
+        try {
+          const schemaObj = {
+            "@context": "https://schema.org",
+            "@type": "JobPosting",
+            "title": job.title,
+            "description": job.short_info || job.title,
+            "datePosted": (job.post_date ? job.post_date.split('/').reverse().join('-') : "2026-11-03"),
+            "validThrough": "2026-12-31T23:59:59Z",
+            "employmentType": "FULL_TIME",
+            "hiringOrganization": {
+              "@type": "Organization",
+              "name": job.department,
+              "sameAs": officialUrl
+            },
+            "jobLocation": {
+              "@type": "Place",
+              "address": {
+                "@type": "PostalAddress",
+                "addressRegion": job.state || "All India",
+                "addressCountry": "IN"
+              }
+            }
+          };
+          const scriptTag = document.createElement("script");
+          scriptTag.type = "application/ld+json";
+          scriptTag.text = JSON.stringify(schemaObj);
+          document.head.appendChild(scriptTag);
+        } catch (e) {
+          console.warn("Schema injection error:", e);
+        }
+
       } catch (err) {
         console.error("Error loading job:", err);
         document.getElementById("jobTitle").textContent = "डेटा लोड करने में समस्या आई";
