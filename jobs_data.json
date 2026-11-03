@@ -34,9 +34,10 @@
     ],
     "links": {
       "primary_action": "Apply Online (MP Online)",
-      "primary_url": "https://esb.mponline.gov.in",
-      "notification_url": "https://esb.mp.gov.in",
-      "official_website": "https://esb.mp.gov.in"
+      "primary_url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/ExamsList.aspx",
+      "notification_url": "https://esb.mp.gov.in/Rulebooks.html",
+      "official_website": "https://esb.mp.gov.in",
+      "notification_pdf": "https://esb.mp.gov.in/Rulebooks.html"
     }
   },
   {
@@ -74,9 +75,10 @@
     ],
     "links": {
       "primary_action": "Apply Online (SSO Rajasthan)",
-      "primary_url": "https://sso.rajasthan.gov.in",
+      "primary_url": "https://sso.rajasthan.gov.in/signin",
       "notification_url": "https://rsmssb.rajasthan.gov.in",
-      "official_website": "https://rsmssb.rajasthan.gov.in"
+      "official_website": "https://rsmssb.rajasthan.gov.in",
+      "notification_pdf": "https://rsmssb.rajasthan.gov.in"
     }
   },
   {
@@ -116,7 +118,8 @@
       "primary_action": "Apply Online (One Time Registration)",
       "primary_url": "https://onetimeregn.haryana.gov.in",
       "notification_url": "https://hssc.gov.in/advertisements",
-      "official_website": "https://hssc.gov.in"
+      "official_website": "https://hssc.gov.in",
+      "notification_pdf": "https://hssc.gov.in/advertisements"
     }
   },
   {
@@ -153,7 +156,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -190,7 +194,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -225,9 +230,10 @@
     ],
     "links": {
       "primary_action": "Apply Online (Official Portal)",
-      "primary_url": "https://uppsc.up.nic.in",
+      "primary_url": "https://uppsc.up.nic.in/CandidatePages/OTR/OTR_Home.aspx",
       "notification_url": "https://uppsc.up.nic.in/AllNotifications.aspx",
-      "official_website": "https://uppsc.up.nic.in"
+      "official_website": "https://uppsc.up.nic.in",
+      "notification_pdf": "https://uppsc.up.nic.in/AllNotifications.aspx"
     }
   },
   {
@@ -264,7 +270,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -300,8 +307,9 @@
     "links": {
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://rectt.bsf.gov.in",
-      "notification_url": "https://bsf.gov.in",
-      "official_website": "https://rectt.bsf.gov.in"
+      "notification_url": "https://rectt.bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in",
+      "notification_pdf": "https://rectt.bsf.gov.in"
     }
   },
   {
@@ -338,7 +346,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -375,7 +384,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -412,7 +422,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -448,8 +459,9 @@
     "links": {
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -486,7 +498,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -523,7 +536,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://exams.nta.ac.in",
       "notification_url": "https://nta.ac.in/Notice",
-      "official_website": "https://nta.ac.in"
+      "official_website": "https://nta.ac.in",
+      "notification_pdf": "https://nta.ac.in/Notice"
     }
   },
   {
@@ -560,7 +574,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -597,7 +612,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -634,7 +650,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -671,7 +688,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -707,8 +725,9 @@
     "links": {
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -744,8 +763,9 @@
     "links": {
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://rectt.bsf.gov.in",
-      "notification_url": "https://bsf.gov.in",
-      "official_website": "https://rectt.bsf.gov.in"
+      "notification_url": "https://rectt.bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in",
+      "notification_pdf": "https://rectt.bsf.gov.in"
     }
   },
   {
@@ -782,7 +802,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://onlinebpsc.bihar.gov.in",
       "notification_url": "https://bpsc.bih.nic.in",
-      "official_website": "https://bpsc.bih.nic.in"
+      "official_website": "https://bpsc.bih.nic.in",
+      "notification_pdf": "https://bpsc.bih.nic.in"
     }
   },
   {
@@ -819,7 +840,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -856,7 +878,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -892,8 +915,9 @@
     "links": {
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://rectt.bsf.gov.in",
-      "notification_url": "https://bsf.gov.in",
-      "official_website": "https://rectt.bsf.gov.in"
+      "notification_url": "https://rectt.bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in",
+      "notification_pdf": "https://rectt.bsf.gov.in"
     }
   },
   {
@@ -930,7 +954,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -966,8 +991,9 @@
     "links": {
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -1004,7 +1030,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://onlinebpsc.bihar.gov.in",
       "notification_url": "https://bpsc.bih.nic.in",
-      "official_website": "https://bpsc.bih.nic.in"
+      "official_website": "https://bpsc.bih.nic.in",
+      "notification_pdf": "https://bpsc.bih.nic.in"
     }
   },
   {
@@ -1041,7 +1068,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1078,7 +1106,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -1115,7 +1144,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1150,9 +1180,10 @@
     ],
     "links": {
       "primary_action": "Download Official Admit Card",
-      "primary_url": "https://sso.rajasthan.gov.in",
+      "primary_url": "https://sso.rajasthan.gov.in/signin",
       "notification_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
-      "official_website": "https://rsmssb.rajasthan.gov.in"
+      "official_website": "https://rsmssb.rajasthan.gov.in",
+      "notification_pdf": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ="
     }
   },
   {
@@ -1189,7 +1220,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1226,7 +1258,8 @@
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1263,7 +1296,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1298,9 +1332,10 @@
     ],
     "links": {
       "primary_action": "Download Official Result / Marks",
-      "primary_url": "https://upsconline.nic.in",
+      "primary_url": "https://upsconline.nic.in/upsc/OTRP/index.php",
       "notification_url": "https://upsc.gov.in/examinations/active-exams",
-      "official_website": "https://upsc.gov.in"
+      "official_website": "https://upsc.gov.in",
+      "notification_pdf": "https://upsc.gov.in/examinations/active-exams"
     }
   },
   {
@@ -1337,7 +1372,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://ibpsonline.ibps.in",
       "notification_url": "https://ibps.in/career",
-      "official_website": "https://ibps.in"
+      "official_website": "https://ibps.in",
+      "notification_pdf": "https://ibps.in/career"
     }
   },
   {
@@ -1372,9 +1408,10 @@
     ],
     "links": {
       "primary_action": "Download Official Result / Marks",
-      "primary_url": "https://upsconline.nic.in",
+      "primary_url": "https://upsconline.nic.in/upsc/OTRP/index.php",
       "notification_url": "https://upsc.gov.in/examinations/active-exams",
-      "official_website": "https://upsc.gov.in"
+      "official_website": "https://upsc.gov.in",
+      "notification_pdf": "https://upsc.gov.in/examinations/active-exams"
     }
   },
   {
@@ -1411,7 +1448,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://ibpsonline.ibps.in",
       "notification_url": "https://ibps.in/career",
-      "official_website": "https://ibps.in"
+      "official_website": "https://ibps.in",
+      "notification_pdf": "https://ibps.in/career"
     }
   },
   {
@@ -1448,7 +1486,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://onlinebpsc.bihar.gov.in",
       "notification_url": "https://bpsc.bih.nic.in",
-      "official_website": "https://bpsc.bih.nic.in"
+      "official_website": "https://bpsc.bih.nic.in",
+      "notification_pdf": "https://bpsc.bih.nic.in"
     }
   },
   {
@@ -1485,7 +1524,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -1520,9 +1560,10 @@
     ],
     "links": {
       "primary_action": "Download Official Result / Marks",
-      "primary_url": "https://sso.rajasthan.gov.in",
+      "primary_url": "https://sso.rajasthan.gov.in/signin",
       "notification_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
-      "official_website": "https://rsmssb.rajasthan.gov.in"
+      "official_website": "https://rsmssb.rajasthan.gov.in",
+      "notification_pdf": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ="
     }
   },
   {
@@ -1559,7 +1600,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1594,9 +1636,10 @@
     ],
     "links": {
       "primary_action": "Download Official Result / Marks",
-      "primary_url": "https://sso.rajasthan.gov.in",
+      "primary_url": "https://sso.rajasthan.gov.in/signin",
       "notification_url": "https://rpsc.rajasthan.gov.in/news",
-      "official_website": "https://rpsc.rajasthan.gov.in"
+      "official_website": "https://rpsc.rajasthan.gov.in",
+      "notification_pdf": "https://rpsc.rajasthan.gov.in/news"
     }
   },
   {
@@ -1631,9 +1674,10 @@
     ],
     "links": {
       "primary_action": "Download Official Result / Marks",
-      "primary_url": "https://uppsc.up.nic.in",
+      "primary_url": "https://uppsc.up.nic.in/CandidatePages/OTR/OTR_Home.aspx",
       "notification_url": "https://uppsc.up.nic.in/AllNotifications.aspx",
-      "official_website": "https://uppsc.up.nic.in"
+      "official_website": "https://uppsc.up.nic.in",
+      "notification_pdf": "https://uppsc.up.nic.in/AllNotifications.aspx"
     }
   },
   {
@@ -1670,7 +1714,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://onlinebpsc.bihar.gov.in",
       "notification_url": "https://bpsc.bih.nic.in",
-      "official_website": "https://bpsc.bih.nic.in"
+      "official_website": "https://bpsc.bih.nic.in",
+      "notification_pdf": "https://bpsc.bih.nic.in"
     }
   },
   {
@@ -1706,8 +1751,9 @@
     "links": {
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -1743,8 +1789,9 @@
     "links": {
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -1779,9 +1826,10 @@
     ],
     "links": {
       "primary_action": "Download Official Result / Marks",
-      "primary_url": "https://upsconline.nic.in",
+      "primary_url": "https://upsconline.nic.in/upsc/OTRP/index.php",
       "notification_url": "https://upsc.gov.in/examinations/active-exams",
-      "official_website": "https://upsc.gov.in"
+      "official_website": "https://upsc.gov.in",
+      "notification_pdf": "https://upsc.gov.in/examinations/active-exams"
     }
   },
   {
@@ -1816,9 +1864,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1853,9 +1902,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://bsf.gov.in",
-      "notification_url": "https://bsf.gov.in",
-      "official_website": "https://rectt.bsf.gov.in"
+      "primary_url": "https://rectt.bsf.gov.in",
+      "notification_url": "https://rectt.bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in",
+      "notification_pdf": "https://rectt.bsf.gov.in"
     }
   },
   {
@@ -1890,9 +1940,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://upsssc.gov.in",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -1927,9 +1978,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -1964,9 +2016,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -2001,9 +2054,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -2038,9 +2092,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2075,9 +2130,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://esb.mp.gov.in/e_default.html",
+      "primary_url": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/ExamsList.aspx",
       "notification_url": "https://esb.mp.gov.in/e_default.html",
-      "official_website": "https://esb.mp.gov.in"
+      "official_website": "https://esb.mp.gov.in",
+      "notification_pdf": "https://esb.mp.gov.in/e_default.html"
     }
   },
   {
@@ -2112,9 +2168,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
+      "primary_url": "https://sso.rajasthan.gov.in/signin",
       "notification_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
-      "official_website": "https://rsmssb.rajasthan.gov.in"
+      "official_website": "https://rsmssb.rajasthan.gov.in",
+      "notification_pdf": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ="
     }
   },
   {
@@ -2149,9 +2206,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2186,9 +2244,10 @@
     ],
     "links": {
       "primary_action": "Download Official Syllabus PDF",
-      "primary_url": "https://upsssc.gov.in",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -2223,9 +2282,10 @@
     ],
     "links": {
       "primary_action": "Download Official Syllabus PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2260,9 +2320,10 @@
     ],
     "links": {
       "primary_action": "Download Official Syllabus PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2297,9 +2358,10 @@
     ],
     "links": {
       "primary_action": "Download Official Syllabus PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2334,9 +2396,10 @@
     ],
     "links": {
       "primary_action": "Download Official Syllabus PDF",
-      "primary_url": "https://upsssc.gov.in",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -2373,7 +2436,8 @@
       "primary_action": "Apply Online Admission",
       "primary_url": "https://exams.nta.ac.in",
       "notification_url": "https://nta.ac.in/Notice",
-      "official_website": "https://nta.ac.in"
+      "official_website": "https://nta.ac.in",
+      "notification_pdf": "https://nta.ac.in/Notice"
     }
   },
   {
@@ -2410,7 +2474,8 @@
       "primary_action": "Apply Online Admission",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2447,7 +2512,8 @@
       "primary_action": "Apply Online Admission",
       "primary_url": "https://exams.nta.ac.in",
       "notification_url": "https://nta.ac.in/Notice",
-      "official_website": "https://nta.ac.in"
+      "official_website": "https://nta.ac.in",
+      "notification_pdf": "https://nta.ac.in/Notice"
     }
   },
   {
@@ -2483,8 +2549,9 @@
     "links": {
       "primary_action": "Apply Online Admission",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -2521,7 +2588,8 @@
       "primary_action": "Apply Online Admission",
       "primary_url": "https://exams.nta.ac.in",
       "notification_url": "https://nta.ac.in/Notice",
-      "official_website": "https://nta.ac.in"
+      "official_website": "https://nta.ac.in",
+      "notification_pdf": "https://nta.ac.in/Notice"
     }
   },
   {
@@ -2564,7 +2632,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2606,8 +2675,9 @@
     "links": {
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -2647,8 +2717,9 @@
     "links": {
       "primary_action": "Download Official Admit Card",
       "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
-      "notification_url": "https://upsssc.gov.in",
-      "official_website": "https://upsssc.gov.in"
+      "notification_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "official_website": "https://upsssc.gov.in",
+      "notification_pdf": "https://upsssc.gov.in/Online_App/Notifications.aspx"
     }
   },
   {
@@ -2695,7 +2766,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
       "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
-      "official_website": "https://indianrailways.gov.in"
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "notification_pdf": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244"
     }
   },
   {
@@ -2734,9 +2806,10 @@
     ],
     "links": {
       "primary_action": "Download Official Result / Marks",
-      "primary_url": "https://upsconline.nic.in",
+      "primary_url": "https://upsconline.nic.in/upsc/OTRP/index.php",
       "notification_url": "https://upsc.gov.in/examinations/active-exams",
-      "official_website": "https://upsc.gov.in"
+      "official_website": "https://upsc.gov.in",
+      "notification_pdf": "https://upsc.gov.in/examinations/active-exams"
     }
   },
   {
@@ -2781,7 +2854,8 @@
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://onlinebpsc.bihar.gov.in",
       "notification_url": "https://bpsc.bih.nic.in",
-      "official_website": "https://bpsc.bih.nic.in"
+      "official_website": "https://bpsc.bih.nic.in",
+      "notification_pdf": "https://bpsc.bih.nic.in"
     }
   },
   {
@@ -2819,9 +2893,10 @@
     ],
     "links": {
       "primary_action": "Download Official Admit Card",
-      "primary_url": "https://upsconline.nic.in",
+      "primary_url": "https://upsconline.nic.in/upsc/OTRP/index.php",
       "notification_url": "https://upsc.gov.in/examinations/active-exams",
-      "official_website": "https://upsc.gov.in"
+      "official_website": "https://upsc.gov.in",
+      "notification_pdf": "https://upsc.gov.in/examinations/active-exams"
     }
   },
   {
@@ -2861,7 +2936,8 @@
       "primary_action": "Apply Online Admission",
       "primary_url": "https://exams.nta.ac.in",
       "notification_url": "https://nta.ac.in/Notice",
-      "official_website": "https://nta.ac.in"
+      "official_website": "https://nta.ac.in",
+      "notification_pdf": "https://nta.ac.in/Notice"
     }
   },
   {
@@ -2899,9 +2975,10 @@
     ],
     "links": {
       "primary_action": "Download Official Syllabus PDF",
-      "primary_url": "https://ssc.gov.in/notices",
+      "primary_url": "https://ssc.gov.in/login",
       "notification_url": "https://ssc.gov.in/notices",
-      "official_website": "https://ssc.gov.in"
+      "official_website": "https://ssc.gov.in",
+      "notification_pdf": "https://ssc.gov.in/notices"
     }
   },
   {
@@ -2938,9 +3015,10 @@
     ],
     "links": {
       "primary_action": "Download Official Answer Key PDF",
-      "primary_url": "https://bsf.gov.in",
-      "notification_url": "https://bsf.gov.in",
-      "official_website": "https://rectt.bsf.gov.in"
+      "primary_url": "https://rectt.bsf.gov.in",
+      "notification_url": "https://rectt.bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in",
+      "notification_pdf": "https://rectt.bsf.gov.in"
     }
   },
   {
@@ -2979,7 +3057,8 @@
       "primary_action": "Download Official Result / Marks",
       "primary_url": "https://uppbpb.gov.in",
       "notification_url": "https://uppbpb.gov.in/notices",
-      "official_website": "https://uppbpb.gov.in"
+      "official_website": "https://uppbpb.gov.in",
+      "notification_pdf": "https://uppbpb.gov.in/notices"
     }
   },
   {
@@ -3017,8 +3096,9 @@
     "links": {
       "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://rectt.bsf.gov.in",
-      "notification_url": "https://bsf.gov.in",
-      "official_website": "https://rectt.bsf.gov.in"
+      "notification_url": "https://rectt.bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in",
+      "notification_pdf": "https://rectt.bsf.gov.in"
     }
   }
 ]
