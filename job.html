@@ -396,9 +396,15 @@
           <span class="badge" id="jobStateBadge" style="background:#3b82f6;">All India</span>
           <span class="badge" id="jobDateBadge" style="background:#64748b;">📅 New</span>
         </div>
-        <h1 class="job-main-title" id="jobTitle">लोड हो रहा है...</h1>
+        <h1 class="job-main-title">
+          <span class="pulse-dot"></span>
+          <span id="jobTitle">लोड हो रहा है...</span>
+        </h1>
         <div class="job-dept-line">
           <span id="jobDepartment">🏛️ संबंधित विभाग</span>
+          <a href="#" id="jobAgencyHubLink" style="font-size:0.85rem; color:var(--accent); text-decoration:underline; font-weight:700; margin-left:8px;">
+            (🏛️ आयोग हब, OTR व कैलेंडर देखें →)
+          </a>
         </div>
       </div>
 
@@ -609,6 +615,8 @@
         document.getElementById("breadcrumbTitle").textContent = job.title;
         document.getElementById("jobTitle").textContent = job.title;
         document.getElementById("jobDepartment").textContent = `🏛️ ${job.department}`;
+        const hubLink = document.getElementById("jobAgencyHubLink");
+        if (hubLink) hubLink.href = "agency.html?id=" + (job.tag || 'ssc').toLowerCase();
         document.getElementById("jobCategoryBadge").textContent = (job.category || 'Job').toUpperCase();
         document.getElementById("jobStateBadge").textContent = `📍 ${job.state || 'All India'}`;
         document.getElementById("jobDateBadge").textContent = `📅 ${job.post_date || 'New'}`;
