@@ -1,15 +1,135 @@
 [
   {
+    "id": "mpesb-sub-inspector-police-2026",
+    "title": "MPESB MP Police Sub Inspector & Subedar Recruitment 2026",
+    "title_hi": "मध्य प्रदेश एमपी पुलिस सब इंस्पेक्टर एवं सूबेदार भर्ती 2026",
+    "department": "Madhya Pradesh Employees Selection Board (MPESB Vyapam)",
+    "category": "job",
+    "tag": "MPESB",
+    "state": "Madhya Pradesh",
+    "is_hot": true,
+    "post_date": "03/11/2026",
+    "short_info": "Madhya Pradesh Employees Selection Board (MPESB) Bhopal invites online applications for Sub Inspector (Technical / Non-Technical) and Subedar in MP Police Department.",
+    "important_dates": {
+      "apply_start": "02/11/2026",
+      "last_date": "22/11/2026",
+      "exam_date": "January 2027"
+    },
+    "application_fee": {
+      "gen_other_state": "₹500 (Single Paper)",
+      "sc_st_obc_mp_res": "₹250",
+      "payment_mode": "MP Online Kiosk / Net Banking"
+    },
+    "age_limit": {
+      "min_age": "18 Years",
+      "max_age": "33 Years (General Male)",
+      "notes": "Women & Reserved categories 38 Years."
+    },
+    "vacancy_details": [
+      {
+        "post_name": "Police Sub Inspector (SI)",
+        "total": "840 Posts",
+        "eligibility": "Bachelor Degree in Any Stream from recognized university."
+      }
+    ],
+    "links": {
+      "primary_action": "Apply Online (MP Online)",
+      "primary_url": "https://esb.mponline.gov.in",
+      "notification_url": "https://esb.mp.gov.in",
+      "official_website": "https://esb.mp.gov.in"
+    }
+  },
+  {
+    "id": "rajasthan-rssb-cet-patwari-2026",
+    "title": "Rajasthan RSSB Patwari & CET Senior Secondary Online Form 2026",
+    "title_hi": "राजस्थान आरएसएसबी पटवारी एवं सीईटी भर्ती 2026 (3,970 पद)",
+    "department": "Rajasthan Staff Selection Board (RSSB / RSMSSB)",
+    "category": "job",
+    "tag": "RSSB",
+    "state": "Rajasthan",
+    "is_hot": true,
+    "post_date": "02/11/2026",
+    "short_info": "Rajasthan Staff Selection Board (RSSB) invites online applications for Patwari Recruitment Examination 2026 through Rajasthan Single Sign-On (SSO) portal.",
+    "important_dates": {
+      "apply_start": "28/10/2026",
+      "last_date": "27/11/2026",
+      "exam_date": "February 2027"
+    },
+    "application_fee": {
+      "gen_creamy_obc": "₹600",
+      "non_creamy_obc_ews_sc_st": "₹400",
+      "payment_mode": "Emitra / Net Banking / UPI"
+    },
+    "age_limit": {
+      "min_age": "18 Years",
+      "max_age": "40 Years",
+      "notes": "Age relaxation as per Rajasthan Govt rules."
+    },
+    "vacancy_details": [
+      {
+        "post_name": "Revenue Patwari",
+        "total": "3,970 Posts",
+        "eligibility": "Bachelor Degree in Any Stream + RSCIT Computer Certificate."
+      }
+    ],
+    "links": {
+      "primary_action": "Apply Online (SSO Rajasthan)",
+      "primary_url": "https://sso.rajasthan.gov.in",
+      "notification_url": "https://rsmssb.rajasthan.gov.in",
+      "official_website": "https://rsmssb.rajasthan.gov.in"
+    }
+  },
+  {
+    "id": "hssc-cet-group-c-2026",
+    "title": "Haryana HSSC CET Group C & D Recruitment 2026 for 28,000+ Posts",
+    "title_hi": "हरियाणा एचएसएससी सीईटी ग्रुप सी एवं डी भर्ती 2026 (28,000+ पद)",
+    "department": "Haryana Staff Selection Commission (HSSC)",
+    "category": "job",
+    "tag": "HSSC",
+    "state": "Haryana",
+    "is_hot": true,
+    "post_date": "03/11/2026",
+    "short_info": "Haryana Staff Selection Commission (HSSC) invites online applications for Common Eligibility Test (CET) Group C & Group D posts in various Haryana Government departments.",
+    "important_dates": {
+      "apply_start": "01/11/2026",
+      "last_date": "30/11/2026",
+      "exam_date": "January 2027"
+    },
+    "application_fee": {
+      "gen_male": "₹500",
+      "female_res_sc_bc": "₹250",
+      "payment_mode": "Online"
+    },
+    "age_limit": {
+      "min_age": "18 Years",
+      "max_age": "42 Years",
+      "notes": "Age relaxation as per Haryana Govt rules."
+    },
+    "vacancy_details": [
+      {
+        "post_name": "Group C & D Various Posts",
+        "total": "28,400 Posts",
+        "eligibility": "10th / 12th Intermediate / ITI / Any Degree."
+      }
+    ],
+    "links": {
+      "primary_action": "Apply Online (One Time Registration)",
+      "primary_url": "https://onetimeregn.haryana.gov.in",
+      "notification_url": "https://hssc.gov.in/advertisements",
+      "official_website": "https://hssc.gov.in"
+    }
+  },
+  {
     "id": "railway-rrb-station-master-online-form-2026",
     "title": "Railway RRB Station Master Online Form 2026",
     "title_hi": "Railway RRB Station Master Online Form 2026",
-    "department": "Railway Recruitment Board (RRB)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "job",
     "tag": "Railway",
     "state": "All India",
     "is_hot": true,
     "post_date": "03/11/2026",
-    "short_info": "Railway Recruitment Board (RRB) has issued an official announcement regarding Railway RRB Station Master Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB Station Master Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -30,10 +150,10 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-station-master-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-station-master-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-station-master-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "official_website": "https://indianrailways.gov.in"
     }
   },
   {
@@ -43,10 +163,10 @@
     "department": "Staff Selection Commission (SSC)",
     "category": "job",
     "tag": "SSC",
-    "state": "Uttar Pradesh",
+    "state": "All India",
     "is_hot": true,
     "post_date": "03/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPESSC UP TGT Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding UPESSC UP TGT Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -67,23 +187,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/upessc-up-tgt-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/upessc-up-tgt-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/upessc-up-tgt-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "uppsc-ro-aro-online-form-2026",
     "title": "UPPSC RO / ARO Online Form 2026",
     "title_hi": "UPPSC RO / ARO Online Form 2026",
-    "department": "UPPSC (Uttar Pradesh)",
+    "department": "Uttar Pradesh Public Service Commission (UPPSC Prayagraj)",
     "category": "job",
     "tag": "UPPSC",
     "state": "Uttar Pradesh",
     "is_hot": true,
     "post_date": "03/11/2026",
-    "short_info": "UPPSC (Uttar Pradesh) has issued an official announcement regarding UPPSC RO / ARO Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Public Service Commission (UPPSC Prayagraj) has issued an official public notice regarding UPPSC RO / ARO Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -104,10 +224,10 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/uppsc-ro-aro-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/uppsc-ro-aro-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/uppsc-ro-aro-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://uppsc.up.nic.in",
+      "notification_url": "https://uppsc.up.nic.in/AllNotifications.aspx",
+      "official_website": "https://uppsc.up.nic.in"
     }
   },
   {
@@ -117,10 +237,10 @@
     "department": "Staff Selection Commission (SSC)",
     "category": "job",
     "tag": "SSC",
-    "state": "Uttar Pradesh",
+    "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPESSC UP Primary Teacher (Super TET) Online Form 2026 | Extended. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding UPESSC UP Primary Teacher (Super TET) Online Form 2026 | Extended. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -141,23 +261,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/upessc-up-primary-teacher-online-form-2026-for-12405-post/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/upessc-up-primary-teacher-online-form-2026-for-12405-post/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/upessc-up-primary-teacher-online-form-2026-for-12405-post/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "delhi-dsssb-various-post-online-form-2026",
     "title": "DSSSB Delhi District Courts Various Post Online Form 2026",
     "title_hi": "DSSSB Delhi District Courts Various Post Online Form 2026",
-    "department": "Defence / Police Force",
+    "department": "Ministry of Home Affairs / Defence Recruitment",
     "category": "job",
     "tag": "Force",
-    "state": "Delhi",
+    "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Defence / Police Force has issued an official announcement regarding DSSSB Delhi District Courts Various Post Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Ministry of Home Affairs / Defence Recruitment has issued an official public notice regarding DSSSB Delhi District Courts Various Post Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -178,23 +298,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/delhi-dsssb-various-post-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/delhi-dsssb-various-post-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/delhi-dsssb-various-post-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://rectt.bsf.gov.in",
+      "notification_url": "https://bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in"
     }
   },
   {
     "id": "railway-rrb-ntpc-graduate-level-cen-06-2026-online-form",
     "title": "Railway RRB NTPC Graduate Level Online Form 2026 | CEN 06/2026",
     "title_hi": "Railway RRB NTPC Graduate Level Online Form 2026 | CEN 06/2026",
-    "department": "Railway Recruitment Board (RRB)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "job",
     "tag": "Railway",
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Railway Recruitment Board (RRB) has issued an official announcement regarding Railway RRB NTPC Graduate Level Online Form 2026 | CEN 06/2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB NTPC Graduate Level Online Form 2026 | CEN 06/2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -215,23 +335,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-ntpc-graduate-level-cen-06-2026-online-form/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-ntpc-graduate-level-cen-06-2026-online-form/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-ntpc-graduate-level-cen-06-2026-online-form/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "official_website": "https://indianrailways.gov.in"
     }
   },
   {
     "id": "railway-rrb-ntpc-102-under-graduate-online-form-2026",
     "title": "Railway RRB NTPC 10+2 Under Graduate Online Form 2026",
     "title_hi": "Railway RRB NTPC 10+2 Under Graduate Online Form 2026",
-    "department": "Railway Recruitment Board (RRB)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "job",
     "tag": "Railway",
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Railway Recruitment Board (RRB) has issued an official announcement regarding Railway RRB NTPC 10+2 Under Graduate Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB NTPC 10+2 Under Graduate Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -252,23 +372,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-ntpc-102-under-graduate-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-ntpc-102-under-graduate-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/railway-rrb-ntpc-102-under-graduate-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "official_website": "https://indianrailways.gov.in"
     }
   },
   {
     "id": "pgcil-engineer-trainee-online-form-2026",
     "title": "PGCIL Engineer Trainee Online Form 2026",
     "title_hi": "PGCIL Engineer Trainee Online Form 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "job",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Government of India has issued an official announcement regarding PGCIL Engineer Trainee Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding PGCIL Engineer Trainee Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -289,23 +409,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/pgcil-engineer-trainee-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/pgcil-engineer-trainee-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/pgcil-engineer-trainee-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "upsssc-combined-junior-engineer-mechanical-online-form-2026",
     "title": "UPSSSC Combined Junior Engineer (Mechanical) Online Form 2026",
     "title_hi": "UPSSSC Combined Junior Engineer (Mechanical) Online Form 2026",
-    "department": "Staff Selection Commission (SSC)",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "job",
-    "tag": "SSC",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPSSSC Combined Junior Engineer (Mechanical) Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC Combined Junior Engineer (Mechanical) Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -326,23 +446,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/upsssc-combined-junior-engineer-mechanical-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/upsssc-combined-junior-engineer-mechanical-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/upsssc-combined-junior-engineer-mechanical-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
     "id": "supreme-court-of-india-court-assistant-technical-online-form-2026",
     "title": "Supreme Court of India Court Assistant Technical Online Form 2026",
     "title_hi": "Supreme Court of India Court Assistant Technical Online Form 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "job",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Government of India has issued an official announcement regarding Supreme Court of India Court Assistant Technical Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding Supreme Court of India Court Assistant Technical Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -363,10 +483,10 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/supreme-court-of-india-court-assistant-technical-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/supreme-court-of-india-court-assistant-technical-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/supreme-court-of-india-court-assistant-technical-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
@@ -379,7 +499,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "National Testing Agency (NTA) has issued an official announcement regarding NTA UGC NET December 2026 Correction / Edit Form. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "National Testing Agency (NTA) has issued an official public notice regarding NTA UGC NET December 2026 Correction / Edit Form. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -400,23 +520,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/nta-csir-ugc-net-december-2026-online-form/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/nta-csir-ugc-net-december-2026-online-form/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/nta-csir-ugc-net-december-2026-online-form/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://exams.nta.ac.in",
+      "notification_url": "https://nta.ac.in/Notice",
+      "official_website": "https://nta.ac.in"
     }
   },
   {
     "id": "bceceb-senior-resident-and-tutor-online-form-2026",
     "title": "BCECEB Senior Resident and Tutor Online Form 2026",
     "title_hi": "BCECEB Senior Resident and Tutor Online Form 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "job",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "01/11/2026",
-    "short_info": "Government of India has issued an official announcement regarding BCECEB Senior Resident and Tutor Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding BCECEB Senior Resident and Tutor Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "01/11/2026",
       "last_date": "Check Official Notification",
@@ -437,23 +557,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/bceceb-senior-resident-and-tutor-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/bceceb-senior-resident-and-tutor-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/bceceb-senior-resident-and-tutor-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "afms-medical-officer-online-form-2026",
     "title": "AFMS Medical Officer Online Form 2026",
     "title_hi": "AFMS Medical Officer Online Form 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "job",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "01/11/2026",
-    "short_info": "Government of India has issued an official announcement regarding AFMS Medical Officer Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding AFMS Medical Officer Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "01/11/2026",
       "last_date": "Check Official Notification",
@@ -474,23 +594,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/afms-medical-officer-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/afms-medical-officer-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/afms-medical-officer-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "rites-assistant-manager-online-form-2026",
     "title": "RITES Assistant Manager Online Form 2026",
     "title_hi": "RITES Assistant Manager Online Form 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "job",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "31/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding RITES Assistant Manager Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding RITES Assistant Manager Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "31/10/2026",
       "last_date": "Check Official Notification",
@@ -511,23 +631,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/rites-assistant-manager-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/rites-assistant-manager-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/rites-assistant-manager-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "aees-teaching-various-post-online-form-2026",
     "title": "AEES Teaching Various Post Online Form 2026",
     "title_hi": "AEES Teaching Various Post Online Form 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "job",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "31/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding AEES Teaching Various Post Online Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding AEES Teaching Various Post Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "31/10/2026",
       "last_date": "Check Official Notification",
@@ -548,23 +668,23 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online",
-      "primary_url": "https://www.sarkariresult.com/latest-job-updates/aees-teaching-various-post-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/latest-job-updates/aees-teaching-various-post-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/latest-job-updates/aees-teaching-various-post-online-form-2026/"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "upsssc-junior-assistant-admit-card-2026-advt-no-12-exam-2024",
     "title": "UPSSSC Junior Assistant Admit Card 2026 Advt. No. 12-Exam/2024",
     "title_hi": "UPSSSC Junior Assistant Admit Card 2026 Advt. No. 12-Exam/2024",
-    "department": "Staff Selection Commission (SSC)",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "admit_card",
-    "tag": "SSC",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPSSSC Junior Assistant Admit Card 2026 Advt. No. 12-Exam/2024. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC Junior Assistant Admit Card 2026 Advt. No. 12-Exam/2024. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -585,23 +705,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/upsssc-junior-assistant-admit-card-2026-advt-no-12-exam-2024/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/upsssc-junior-assistant-admit-card-2026-advt-no-12-exam-2024/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/upsssc-junior-assistant-admit-card-2026-advt-no-12-exam-2024/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
     "id": "ssb-head-constable-2020-typing-test-date",
     "title": "SSB Head Constable 2020 Typing Test Date",
     "title_hi": "SSB Head Constable 2020 Typing Test Date",
-    "department": "Defence / Police Force",
+    "department": "Ministry of Home Affairs / Defence Recruitment",
     "category": "admit_card",
     "tag": "Force",
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Defence / Police Force has issued an official announcement regarding SSB Head Constable 2020 Typing Test Date. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Ministry of Home Affairs / Defence Recruitment has issued an official public notice regarding SSB Head Constable 2020 Typing Test Date. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -622,23 +742,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/ssb-head-constable-2020-typing-test-date/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/ssb-head-constable-2020-typing-test-date/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/ssb-head-constable-2020-typing-test-date/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://rectt.bsf.gov.in",
+      "notification_url": "https://bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in"
     }
   },
   {
     "id": "bihar-stet-dummy-admit-card-2026",
     "title": "Bihar STET Admit Card 2026",
     "title_hi": "Bihar STET Admit Card 2026",
-    "department": "Teaching Eligibility & Recruitment",
+    "department": "Bihar Public Service Commission (BPSC)",
     "category": "admit_card",
-    "tag": "Teaching",
+    "tag": "BPSC",
     "state": "Bihar",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Teaching Eligibility & Recruitment has issued an official announcement regarding Bihar STET Admit Card 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Bihar Public Service Commission (BPSC) has issued an official public notice regarding Bihar STET Admit Card 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -659,10 +779,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/bihar-stet-dummy-admit-card-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/bihar-stet-dummy-admit-card-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/bihar-stet-dummy-admit-card-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://onlinebpsc.bihar.gov.in",
+      "notification_url": "https://bpsc.bih.nic.in",
+      "official_website": "https://bpsc.bih.nic.in"
     }
   },
   {
@@ -672,10 +792,10 @@
     "department": "Staff Selection Commission (SSC)",
     "category": "admit_card",
     "tag": "SSC",
-    "state": "Uttar Pradesh",
+    "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPESSC UP Special TET Admit Card 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding UPESSC UP Special TET Admit Card 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -696,10 +816,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/upessc-up-special-tet-admit-card-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/upessc-up-special-tet-admit-card-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/upessc-up-special-tet-admit-card-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
@@ -712,7 +832,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC CPO SI 2025 Paper II Exam Date. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC CPO SI 2025 Paper II Exam Date. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -733,23 +853,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/ssc-cpo-si-2025-paper-ii-exam-date/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/ssc-cpo-si-2025-paper-ii-exam-date/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/ssc-cpo-si-2025-paper-ii-exam-date/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "indian-coast-guard-navik-yantrik-cgept-exam-date-2026",
     "title": "Indian Coast Guard Navik / Yantrik CGEPT Exam Date 2026",
     "title_hi": "Indian Coast Guard Navik / Yantrik CGEPT Exam Date 2026",
-    "department": "Defence / Police Force",
+    "department": "Ministry of Home Affairs / Defence Recruitment",
     "category": "admit_card",
     "tag": "Force",
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Defence / Police Force has issued an official announcement regarding Indian Coast Guard Navik / Yantrik CGEPT Exam Date 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Ministry of Home Affairs / Defence Recruitment has issued an official public notice regarding Indian Coast Guard Navik / Yantrik CGEPT Exam Date 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -770,23 +890,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/indian-coast-guard-navik-yantrik-cgept-exam-date-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/indian-coast-guard-navik-yantrik-cgept-exam-date-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/indian-coast-guard-navik-yantrik-cgept-exam-date-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://rectt.bsf.gov.in",
+      "notification_url": "https://bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in"
     }
   },
   {
     "id": "concor-management-trainee-assistant-officer-exam-date-2026",
     "title": "Concor Management Trainee, Assistant Officer Exam Date 2026",
     "title_hi": "Concor Management Trainee, Assistant Officer Exam Date 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "admit_card",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "31/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding Concor Management Trainee, Assistant Officer Exam Date 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding Concor Management Trainee, Assistant Officer Exam Date 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "31/10/2026",
       "last_date": "Check Official Notification",
@@ -807,23 +927,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/concor-management-trainee-assistant-officer-exam-date-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/concor-management-trainee-assistant-officer-exam-date-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/concor-management-trainee-assistant-officer-exam-date-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "upsssc-pet-2026-exam-city-details",
     "title": "UPSSSC PET Admit Card 2026",
     "title_hi": "UPSSSC PET Admit Card 2026",
-    "department": "Staff Selection Commission (SSC)",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "admit_card",
-    "tag": "SSC",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "31/10/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPSSSC PET Admit Card 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC PET Admit Card 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "31/10/2026",
       "last_date": "Check Official Notification",
@@ -844,23 +964,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/upsssc-pet-2026-exam-city-details/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/upsssc-pet-2026-exam-city-details/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/upsssc-pet-2026-exam-city-details/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
     "id": "bihar-board-bseb-10th-12th-dummy-admit-card-2026",
     "title": "Bihar Board BSEB 10th, 12th Dummy Admit Card 2026",
     "title_hi": "Bihar Board BSEB 10th, 12th Dummy Admit Card 2026",
-    "department": "Government of India",
+    "department": "Bihar Public Service Commission (BPSC)",
     "category": "admit_card",
-    "tag": "Govt Job",
+    "tag": "BPSC",
     "state": "Bihar",
     "is_hot": false,
     "post_date": "31/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding Bihar Board BSEB 10th, 12th Dummy Admit Card 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Bihar Public Service Commission (BPSC) has issued an official public notice regarding Bihar Board BSEB 10th, 12th Dummy Admit Card 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "31/10/2026",
       "last_date": "Check Official Notification",
@@ -881,23 +1001,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/bihar-board-bseb-10th-12th-dummy-admit-card-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/bihar-board-bseb-10th-12th-dummy-admit-card-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/bihar-board-bseb-10th-12th-dummy-admit-card-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://onlinebpsc.bihar.gov.in",
+      "notification_url": "https://bpsc.bih.nic.in",
+      "official_website": "https://bpsc.bih.nic.in"
     }
   },
   {
     "id": "dhc-delhi-high-court-personal-assistant-spa-pa-exam-date-2026",
     "title": "DHC Delhi High Court Personal Assistant SPA PA Exam Date 2026",
     "title_hi": "DHC Delhi High Court Personal Assistant SPA PA Exam Date 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "admit_card",
-    "tag": "Govt Job",
-    "state": "Delhi",
+    "tag": "SSC",
+    "state": "All India",
     "is_hot": false,
     "post_date": "30/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding DHC Delhi High Court Personal Assistant SPA PA Exam Date 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding DHC Delhi High Court Personal Assistant SPA PA Exam Date 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "30/10/2026",
       "last_date": "Check Official Notification",
@@ -918,23 +1038,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/dhc-delhi-high-court-personal-assistant-spa-pa-exam-date-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/dhc-delhi-high-court-personal-assistant-spa-pa-exam-date-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/dhc-delhi-high-court-personal-assistant-spa-pa-exam-date-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "railway-rrb-alp-cen-01-2026-application-status",
     "title": "Railway RRB ALP CEN 01/2026 Admit Card",
     "title_hi": "Railway RRB ALP CEN 01/2026 Admit Card",
-    "department": "Railway Recruitment Board (RRB)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "admit_card",
     "tag": "Railway",
     "state": "All India",
     "is_hot": false,
     "post_date": "30/10/2026",
-    "short_info": "Railway Recruitment Board (RRB) has issued an official announcement regarding Railway RRB ALP CEN 01/2026 Admit Card. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB ALP CEN 01/2026 Admit Card. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "30/10/2026",
       "last_date": "Check Official Notification",
@@ -955,10 +1075,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/railway-rrb-alp-cen-01-2026-application-status/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/railway-rrb-alp-cen-01-2026-application-status/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/railway-rrb-alp-cen-01-2026-application-status/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "official_website": "https://indianrailways.gov.in"
     }
   },
   {
@@ -971,7 +1091,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "30/10/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC Junior Engineer JE Paper I Admit Card 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC Junior Engineer JE Paper I Admit Card 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "30/10/2026",
       "last_date": "Check Official Notification",
@@ -992,23 +1112,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/ssc-junior-engineer-je-paper-i-exam-city-details-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/ssc-junior-engineer-je-paper-i-exam-city-details-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/ssc-junior-engineer-je-paper-i-exam-city-details-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "rajasthan-rvunl-various-post-exam-date-2026",
     "title": "Rajasthan RVUNL Various Post Exam Date 2026",
     "title_hi": "Rajasthan RVUNL Various Post Exam Date 2026",
-    "department": "Government of India",
+    "department": "Rajasthan Staff Selection Board (RSSB / RSMSSB)",
     "category": "admit_card",
-    "tag": "Govt Job",
+    "tag": "RSSB",
     "state": "Rajasthan",
     "is_hot": false,
     "post_date": "29/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding Rajasthan RVUNL Various Post Exam Date 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Rajasthan Staff Selection Board (RSSB / RSMSSB) has issued an official public notice regarding Rajasthan RVUNL Various Post Exam Date 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "29/10/2026",
       "last_date": "Check Official Notification",
@@ -1029,23 +1149,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/rajasthan-rvunl-various-post-exam-date-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/rajasthan-rvunl-various-post-exam-date-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/rajasthan-rvunl-various-post-exam-date-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://sso.rajasthan.gov.in",
+      "notification_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
+      "official_website": "https://rsmssb.rajasthan.gov.in"
     }
   },
   {
     "id": "jharkhand-jac-jhtet-admit-card-2026",
     "title": "Jharkhand JAC JHTET Admit Card 2026",
     "title_hi": "Jharkhand JAC JHTET Admit Card 2026",
-    "department": "Teaching Eligibility & Recruitment",
+    "department": "Staff Selection Commission (SSC)",
     "category": "admit_card",
-    "tag": "Teaching",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "29/10/2026",
-    "short_info": "Teaching Eligibility & Recruitment has issued an official announcement regarding Jharkhand JAC JHTET Admit Card 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding Jharkhand JAC JHTET Admit Card 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "29/10/2026",
       "last_date": "Check Official Notification",
@@ -1066,23 +1186,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/jharkhand-jac-jhtet-admit-card-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/jharkhand-jac-jhtet-admit-card-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/jharkhand-jac-jhtet-admit-card-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "jawahar-navodaya-vidyalaya-jnv-nvs-class-6th-admit-card-2026",
     "title": "Jawahar Navodaya Vidyalaya JNV NVS Class 6th Admit Card 2027",
     "title_hi": "Jawahar Navodaya Vidyalaya JNV NVS Class 6th Admit Card 2027",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "admit_card",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "28/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding Jawahar Navodaya Vidyalaya JNV NVS Class 6th Admit Card 2027. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding Jawahar Navodaya Vidyalaya JNV NVS Class 6th Admit Card 2027. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "28/10/2026",
       "last_date": "Check Official Notification",
@@ -1103,10 +1223,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://www.sarkariresult.com/admit-card-updates/jawahar-navodaya-vidyalaya-jnv-nvs-class-6th-admit-card-2026/",
-      "notification_url": "https://www.sarkariresult.com/admit-card-updates/jawahar-navodaya-vidyalaya-jnv-nvs-class-6th-admit-card-2026/",
-      "official_website": "https://www.sarkariresult.com/admit-card-updates/jawahar-navodaya-vidyalaya-jnv-nvs-class-6th-admit-card-2026/"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
@@ -1119,7 +1239,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC GD Constable 2026 Marks / Score Card. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC GD Constable 2026 Marks / Score Card. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -1140,10 +1260,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/ssc-gd-constable-2026-marks-score-card/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/ssc-gd-constable-2026-marks-score-card/",
-      "official_website": "https://www.sarkariresult.com/result-updates/ssc-gd-constable-2026-marks-score-card/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
@@ -1156,7 +1276,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Union Public Service Commission (UPSC) has issued an official announcement regarding UPSC CDS I 2026 Final Result. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Union Public Service Commission (UPSC) has issued an official public notice regarding UPSC CDS I 2026 Final Result. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -1177,23 +1297,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/upsc-cds-i-2026-final-result/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/upsc-cds-i-2026-final-result/",
-      "official_website": "https://www.sarkariresult.com/result-updates/upsc-cds-i-2026-final-result/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://upsconline.nic.in",
+      "notification_url": "https://upsc.gov.in/examinations/active-exams",
+      "official_website": "https://upsc.gov.in"
     }
   },
   {
     "id": "indian-bank-specialist-officer-so-result-2026-score-card-interview-details",
     "title": "Indian Bank Specialist Officer SO Result 2026 | Score Card | Interview Details",
     "title_hi": "Indian Bank Specialist Officer SO Result 2026 | Score Card | Interview Details",
-    "department": "Banking Recruitment",
+    "department": "Institute of Banking Personnel Selection (IBPS / Bank Exams)",
     "category": "result",
     "tag": "Bank",
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Banking Recruitment has issued an official announcement regarding Indian Bank Specialist Officer SO Result 2026 | Score Card | Interview Details. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Institute of Banking Personnel Selection (IBPS / Bank Exams) has issued an official public notice regarding Indian Bank Specialist Officer SO Result 2026 | Score Card | Interview Details. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -1214,10 +1334,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/indian-bank-specialist-officer-so-result-2026-score-card-interview-details/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/indian-bank-specialist-officer-so-result-2026-score-card-interview-details/",
-      "official_website": "https://www.sarkariresult.com/result-updates/indian-bank-specialist-officer-so-result-2026-score-card-interview-details/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://ibpsonline.ibps.in",
+      "notification_url": "https://ibps.in/career",
+      "official_website": "https://ibps.in"
     }
   },
   {
@@ -1230,7 +1350,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "31/10/2026",
-    "short_info": "Union Public Service Commission (UPSC) has issued an official announcement regarding UPSC Combined Geo Scientist 2026 Marks. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Union Public Service Commission (UPSC) has issued an official public notice regarding UPSC Combined Geo Scientist 2026 Marks. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "31/10/2026",
       "last_date": "Check Official Notification",
@@ -1251,23 +1371,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/upsc-combined-geo-scientist-2026-marks/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/upsc-combined-geo-scientist-2026-marks/",
-      "official_website": "https://www.sarkariresult.com/result-updates/upsc-combined-geo-scientist-2026-marks/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://upsconline.nic.in",
+      "notification_url": "https://upsc.gov.in/examinations/active-exams",
+      "official_website": "https://upsc.gov.in"
     }
   },
   {
     "id": "upcisb-up-cooperative-bank-various-post-result-2026",
     "title": "UPCISB UP Cooperative Bank Various Post Result 2026",
     "title_hi": "UPCISB UP Cooperative Bank Various Post Result 2026",
-    "department": "Banking Recruitment",
+    "department": "Institute of Banking Personnel Selection (IBPS / Bank Exams)",
     "category": "result",
     "tag": "Bank",
-    "state": "Uttar Pradesh",
+    "state": "All India",
     "is_hot": false,
     "post_date": "30/10/2026",
-    "short_info": "Banking Recruitment has issued an official announcement regarding UPCISB UP Cooperative Bank Various Post Result 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Institute of Banking Personnel Selection (IBPS / Bank Exams) has issued an official public notice regarding UPCISB UP Cooperative Bank Various Post Result 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "30/10/2026",
       "last_date": "Check Official Notification",
@@ -1288,10 +1408,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/upcisb-up-cooperative-bank-various-post-result-2026/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/upcisb-up-cooperative-bank-various-post-result-2026/",
-      "official_website": "https://www.sarkariresult.com/result-updates/upcisb-up-cooperative-bank-various-post-result-2026/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://ibpsonline.ibps.in",
+      "notification_url": "https://ibps.in/career",
+      "official_website": "https://ibps.in"
     }
   },
   {
@@ -1300,11 +1420,11 @@
     "title_hi": "BPSC AES Assistant Environmental Scientist Result 2026",
     "department": "Bihar Public Service Commission (BPSC)",
     "category": "result",
-    "tag": "Bihar",
+    "tag": "BPSC",
     "state": "Bihar",
     "is_hot": false,
     "post_date": "30/10/2026",
-    "short_info": "Bihar Public Service Commission (BPSC) has issued an official announcement regarding BPSC AES Assistant Environmental Scientist Result 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Bihar Public Service Commission (BPSC) has issued an official public notice regarding BPSC AES Assistant Environmental Scientist Result 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "30/10/2026",
       "last_date": "Check Official Notification",
@@ -1325,23 +1445,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/bpsc-aes-assistant-environmental-scientist-result-2026/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/bpsc-aes-assistant-environmental-scientist-result-2026/",
-      "official_website": "https://www.sarkariresult.com/result-updates/bpsc-aes-assistant-environmental-scientist-result-2026/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://onlinebpsc.bihar.gov.in",
+      "notification_url": "https://bpsc.bih.nic.in",
+      "official_website": "https://bpsc.bih.nic.in"
     }
   },
   {
     "id": "railway-rrb-ntpc-102-ug-level-cbt-ii-result-cen-07-2025",
     "title": "Railway RRB NTPC 10+2 UG Level CBT II Result | CEN 07/2025",
     "title_hi": "Railway RRB NTPC 10+2 UG Level CBT II Result | CEN 07/2025",
-    "department": "Railway Recruitment Board (RRB)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "result",
     "tag": "Railway",
     "state": "All India",
     "is_hot": false,
     "post_date": "30/10/2026",
-    "short_info": "Railway Recruitment Board (RRB) has issued an official announcement regarding Railway RRB NTPC 10+2 UG Level CBT II Result | CEN 07/2025. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB NTPC 10+2 UG Level CBT II Result | CEN 07/2025. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "30/10/2026",
       "last_date": "Check Official Notification",
@@ -1362,23 +1482,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/railway-rrb-ntpc-102-ug-level-cbt-ii-result-cen-07-2025/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/railway-rrb-ntpc-102-ug-level-cbt-ii-result-cen-07-2025/",
-      "official_website": "https://www.sarkariresult.com/result-updates/railway-rrb-ntpc-102-ug-level-cbt-ii-result-cen-07-2025/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "official_website": "https://indianrailways.gov.in"
     }
   },
   {
     "id": "rajasthan-rssb-driver-2024-result",
     "title": "Rajasthan RSSB Driver 2024 Result",
     "title_hi": "Rajasthan RSSB Driver 2024 Result",
-    "department": "Defence / Police Force",
+    "department": "Rajasthan Staff Selection Board (RSSB / RSMSSB)",
     "category": "result",
-    "tag": "Force",
+    "tag": "RSSB",
     "state": "Rajasthan",
     "is_hot": false,
     "post_date": "29/10/2026",
-    "short_info": "Defence / Police Force has issued an official announcement regarding Rajasthan RSSB Driver 2024 Result. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Rajasthan Staff Selection Board (RSSB / RSMSSB) has issued an official public notice regarding Rajasthan RSSB Driver 2024 Result. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "29/10/2026",
       "last_date": "Check Official Notification",
@@ -1399,10 +1519,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/rajasthan-rssb-driver-2024-result/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/rajasthan-rssb-driver-2024-result/",
-      "official_website": "https://www.sarkariresult.com/result-updates/rajasthan-rssb-driver-2024-result/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://sso.rajasthan.gov.in",
+      "notification_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
+      "official_website": "https://rsmssb.rajasthan.gov.in"
     }
   },
   {
@@ -1415,7 +1535,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "29/10/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC CPO SI 2025 PET Result 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC CPO SI 2025 PET Result 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "29/10/2026",
       "last_date": "Check Official Notification",
@@ -1436,23 +1556,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/ssc-cpo-si-2025-pet-pst-result-2026/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/ssc-cpo-si-2025-pet-pst-result-2026/",
-      "official_website": "https://www.sarkariresult.com/result-updates/ssc-cpo-si-2025-pet-pst-result-2026/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "rpsc-tgt-senior-teacher-gr-ii-result-2026",
     "title": "RPSC TGT Senior Teacher Gr II Result 2026 | Updated",
     "title_hi": "RPSC TGT Senior Teacher Gr II Result 2026 | Updated",
-    "department": "Teaching Eligibility & Recruitment",
+    "department": "Rajasthan Public Service Commission (RPSC)",
     "category": "result",
-    "tag": "Teaching",
+    "tag": "RPSC",
     "state": "Rajasthan",
     "is_hot": false,
     "post_date": "29/10/2026",
-    "short_info": "Teaching Eligibility & Recruitment has issued an official announcement regarding RPSC TGT Senior Teacher Gr II Result 2026 | Updated. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Rajasthan Public Service Commission (RPSC) has issued an official public notice regarding RPSC TGT Senior Teacher Gr II Result 2026 | Updated. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "29/10/2026",
       "last_date": "Check Official Notification",
@@ -1473,23 +1593,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/rpsc-tgt-senior-teacher-gr-ii-result-2026/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/rpsc-tgt-senior-teacher-gr-ii-result-2026/",
-      "official_website": "https://www.sarkariresult.com/result-updates/rpsc-tgt-senior-teacher-gr-ii-result-2026/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://sso.rajasthan.gov.in",
+      "notification_url": "https://rpsc.rajasthan.gov.in/news",
+      "official_website": "https://rpsc.rajasthan.gov.in"
     }
   },
   {
     "id": "uppsc-lt-grade-assistant-teacher-2025-final-result",
     "title": "UPPSC LT Grade Assistant Teacher 2025 Mains Result | Updated",
     "title_hi": "UPPSC LT Grade Assistant Teacher 2025 Mains Result | Updated",
-    "department": "UPPSC (Uttar Pradesh)",
+    "department": "Uttar Pradesh Public Service Commission (UPPSC Prayagraj)",
     "category": "result",
     "tag": "UPPSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "28/10/2026",
-    "short_info": "UPPSC (Uttar Pradesh) has issued an official announcement regarding UPPSC LT Grade Assistant Teacher 2025 Mains Result | Updated. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Public Service Commission (UPPSC Prayagraj) has issued an official public notice regarding UPPSC LT Grade Assistant Teacher 2025 Mains Result | Updated. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "28/10/2026",
       "last_date": "Check Official Notification",
@@ -1510,10 +1630,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/uppsc-lt-grade-assistant-teacher-2025-final-result/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/uppsc-lt-grade-assistant-teacher-2025-final-result/",
-      "official_website": "https://www.sarkariresult.com/result-updates/uppsc-lt-grade-assistant-teacher-2025-final-result/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://uppsc.up.nic.in",
+      "notification_url": "https://uppsc.up.nic.in/AllNotifications.aspx",
+      "official_website": "https://uppsc.up.nic.in"
     }
   },
   {
@@ -1522,11 +1642,11 @@
     "title_hi": "BPSC Assistant Section Officer ASO 2025 Mains Result",
     "department": "Bihar Public Service Commission (BPSC)",
     "category": "result",
-    "tag": "Bihar",
+    "tag": "BPSC",
     "state": "Bihar",
     "is_hot": false,
     "post_date": "27/10/2026",
-    "short_info": "Bihar Public Service Commission (BPSC) has issued an official announcement regarding BPSC Assistant Section Officer ASO 2025 Mains Result. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Bihar Public Service Commission (BPSC) has issued an official public notice regarding BPSC Assistant Section Officer ASO 2025 Mains Result. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "27/10/2026",
       "last_date": "Check Official Notification",
@@ -1547,23 +1667,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/bpsc-assistant-section-officer-aso-2025-mains-result/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/bpsc-assistant-section-officer-aso-2025-mains-result/",
-      "official_website": "https://www.sarkariresult.com/result-updates/bpsc-assistant-section-officer-aso-2025-mains-result/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://onlinebpsc.bihar.gov.in",
+      "notification_url": "https://bpsc.bih.nic.in",
+      "official_website": "https://bpsc.bih.nic.in"
     }
   },
   {
     "id": "upsssc-stenographer-2023-skill-test-result-2026",
     "title": "UPSSSC Stenographer 2023 Skill Test Result 2026",
     "title_hi": "UPSSSC Stenographer 2023 Skill Test Result 2026",
-    "department": "Staff Selection Commission (SSC)",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "result",
-    "tag": "SSC",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "27/10/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPSSSC Stenographer 2023 Skill Test Result 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC Stenographer 2023 Skill Test Result 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "27/10/2026",
       "last_date": "Check Official Notification",
@@ -1584,23 +1704,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/upsssc-stenographer-2023-skill-test-result-2026/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/upsssc-stenographer-2023-skill-test-result-2026/",
-      "official_website": "https://www.sarkariresult.com/result-updates/upsssc-stenographer-2023-skill-test-result-2026/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
     "id": "upsssc-stenographer-2024-skill-test-result-2026",
     "title": "UPSSSC Stenographer 2024 Skill Test Result 2026",
     "title_hi": "UPSSSC Stenographer 2024 Skill Test Result 2026",
-    "department": "Staff Selection Commission (SSC)",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "result",
-    "tag": "SSC",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "27/10/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPSSSC Stenographer 2024 Skill Test Result 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC Stenographer 2024 Skill Test Result 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "27/10/2026",
       "last_date": "Check Official Notification",
@@ -1621,10 +1741,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/upsssc-stenographer-2024-skill-test-result-2026/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/upsssc-stenographer-2024-skill-test-result-2026/",
-      "official_website": "https://www.sarkariresult.com/result-updates/upsssc-stenographer-2024-skill-test-result-2026/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
@@ -1637,7 +1757,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "26/10/2026",
-    "short_info": "Union Public Service Commission (UPSC) has issued an official announcement regarding UPSC CDS II Result 2026 | Name Wise List. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Union Public Service Commission (UPSC) has issued an official public notice regarding UPSC CDS II Result 2026 | Name Wise List. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "26/10/2026",
       "last_date": "Check Official Notification",
@@ -1658,10 +1778,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Result / Score Card",
-      "primary_url": "https://www.sarkariresult.com/result-updates/upsc-cds-ii-result-2026/",
-      "notification_url": "https://www.sarkariresult.com/result-updates/upsc-cds-ii-result-2026/",
-      "official_website": "https://www.sarkariresult.com/result-updates/upsc-cds-ii-result-2026/"
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://upsconline.nic.in",
+      "notification_url": "https://upsc.gov.in/examinations/active-exams",
+      "official_website": "https://upsc.gov.in"
     }
   },
   {
@@ -1674,7 +1794,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC GD Constable 2026 Final Answer Key. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC GD Constable 2026 Final Answer Key. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -1695,23 +1815,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/ssc-gd-constable-2026-final-answer-key/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/ssc-gd-constable-2026-final-answer-key/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/ssc-gd-constable-2026-final-answer-key/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "bsf-head-constable-ro-rm-2025-answer-key",
     "title": "BSF Head Constable RO / RM 2025 Answer Key",
     "title_hi": "BSF Head Constable RO / RM 2025 Answer Key",
-    "department": "Defence / Police Force",
+    "department": "Ministry of Home Affairs / Defence Recruitment",
     "category": "answer_key",
     "tag": "Force",
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Defence / Police Force has issued an official announcement regarding BSF Head Constable RO / RM 2025 Answer Key. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Ministry of Home Affairs / Defence Recruitment has issued an official public notice regarding BSF Head Constable RO / RM 2025 Answer Key. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -1732,23 +1852,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/bsf-head-constable-ro-rm-2025-answer-key/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/bsf-head-constable-ro-rm-2025-answer-key/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/bsf-head-constable-ro-rm-2025-answer-key/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://bsf.gov.in",
+      "notification_url": "https://bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in"
     }
   },
   {
     "id": "upsssc-pet-2026-answer-key",
     "title": "UPSSSC PET 2026 Answer Key",
     "title_hi": "UPSSSC PET 2026 Answer Key",
-    "department": "Staff Selection Commission (SSC)",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "answer_key",
-    "tag": "SSC",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPSSSC PET 2026 Answer Key. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC PET 2026 Answer Key. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/11/2026",
       "last_date": "Check Official Notification",
@@ -1769,23 +1889,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/upsssc-pet-2026-answer-key/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/upsssc-pet-2026-answer-key/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/upsssc-pet-2026-answer-key/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://upsssc.gov.in",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
     "id": "isro-icrb-scientist-engineer-revised-answer-key-2026",
     "title": "ISRO ICRB Scientist Engineer Revised Answer Key 2026",
     "title_hi": "ISRO ICRB Scientist Engineer Revised Answer Key 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "answer_key",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "28/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding ISRO ICRB Scientist Engineer Revised Answer Key 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding ISRO ICRB Scientist Engineer Revised Answer Key 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "28/10/2026",
       "last_date": "Check Official Notification",
@@ -1806,23 +1926,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/isro-icrb-scientist-engineer-revised-answer-key-2026/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/isro-icrb-scientist-engineer-revised-answer-key-2026/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/isro-icrb-scientist-engineer-revised-answer-key-2026/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "railway-rrb-section-controller-answer-key-2026-cen-03-2026",
     "title": "Railway RRB Section Controller Answer Key 2026 | CEN 03/2026",
     "title_hi": "Railway RRB Section Controller Answer Key 2026 | CEN 03/2026",
-    "department": "Railway Recruitment Board (RRB)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "answer_key",
     "tag": "Railway",
     "state": "All India",
     "is_hot": false,
     "post_date": "15/10/2026",
-    "short_info": "Railway Recruitment Board (RRB) has issued an official announcement regarding Railway RRB Section Controller Answer Key 2026 | CEN 03/2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB Section Controller Answer Key 2026 | CEN 03/2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "15/10/2026",
       "last_date": "Check Official Notification",
@@ -1843,23 +1963,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/railway-rrb-section-controller-answer-key-2026-cen-03-2026/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/railway-rrb-section-controller-answer-key-2026-cen-03-2026/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/railway-rrb-section-controller-answer-key-2026-cen-03-2026/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "official_website": "https://indianrailways.gov.in"
     }
   },
   {
     "id": "railway-rrb-technician-cen-02-2026-answer-key-2026",
     "title": "Railway RRB Technician CEN 02/2026 Answer Key 2026",
     "title_hi": "Railway RRB Technician CEN 02/2026 Answer Key 2026",
-    "department": "Railway Recruitment Board (RRB)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "answer_key",
     "tag": "Railway",
     "state": "All India",
     "is_hot": false,
     "post_date": "15/10/2026",
-    "short_info": "Railway Recruitment Board (RRB) has issued an official announcement regarding Railway RRB Technician CEN 02/2026 Answer Key 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB Technician CEN 02/2026 Answer Key 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "15/10/2026",
       "last_date": "Check Official Notification",
@@ -1880,10 +2000,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/railway-rrb-technician-cen-02-2026-answer-key-2026/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/railway-rrb-technician-cen-02-2026-answer-key-2026/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/railway-rrb-technician-cen-02-2026-answer-key-2026/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
+      "official_website": "https://indianrailways.gov.in"
     }
   },
   {
@@ -1896,7 +2016,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "09/10/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC Selection Post 14th Answer Key 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC Selection Post 14th Answer Key 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "09/10/2026",
       "last_date": "Check Official Notification",
@@ -1917,23 +2037,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/ssc-selection-post-14th-answer-key-2026/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/ssc-selection-post-14th-answer-key-2026/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/ssc-selection-post-14th-answer-key-2026/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "mpesb-group-2-sub-group-4-patwari-and-other-post-answer-key-2026",
     "title": "MPESB Group 2 Sub Group 4 Patwari and Other Post Answer Key 2026",
     "title_hi": "MPESB Group 2 Sub Group 4 Patwari and Other Post Answer Key 2026",
-    "department": "Government of India",
+    "department": "Madhya Pradesh Employees Selection Board (MPESB Vyapam)",
     "category": "answer_key",
-    "tag": "Govt Job",
-    "state": "Uttar Pradesh",
+    "tag": "MPESB",
+    "state": "Madhya Pradesh",
     "is_hot": false,
     "post_date": "06/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding MPESB Group 2 Sub Group 4 Patwari and Other Post Answer Key 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Madhya Pradesh Employees Selection Board (MPESB Vyapam) has issued an official public notice regarding MPESB Group 2 Sub Group 4 Patwari and Other Post Answer Key 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "06/10/2026",
       "last_date": "Check Official Notification",
@@ -1954,23 +2074,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/mpesb-group-2-sub-group-4-patwari-and-other-post-answer-key-2026/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/mpesb-group-2-sub-group-4-patwari-and-other-post-answer-key-2026/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/mpesb-group-2-sub-group-4-patwari-and-other-post-answer-key-2026/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://esb.mp.gov.in/e_default.html",
+      "notification_url": "https://esb.mp.gov.in/e_default.html",
+      "official_website": "https://esb.mp.gov.in"
     }
   },
   {
     "id": "rajasthan-state-eligibility-test-set-answer-key-2026",
     "title": "Rajasthan State Eligibility Test SET Answer Key 2026",
     "title_hi": "Rajasthan State Eligibility Test SET Answer Key 2026",
-    "department": "Government of India",
+    "department": "Rajasthan Staff Selection Board (RSSB / RSMSSB)",
     "category": "answer_key",
-    "tag": "Govt Job",
+    "tag": "RSSB",
     "state": "Rajasthan",
     "is_hot": false,
     "post_date": "05/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding Rajasthan State Eligibility Test SET Answer Key 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Rajasthan Staff Selection Board (RSSB / RSMSSB) has issued an official public notice regarding Rajasthan State Eligibility Test SET Answer Key 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "05/10/2026",
       "last_date": "Check Official Notification",
@@ -1991,23 +2111,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/rajasthan-state-eligibility-test-set-answer-key-2026/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/rajasthan-state-eligibility-test-set-answer-key-2026/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/rajasthan-state-eligibility-test-set-answer-key-2026/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
+      "notification_url": "https://rsmssb.rajasthan.gov.in/page?menuName=ApbuHT/yqOQ=",
+      "official_website": "https://rsmssb.rajasthan.gov.in"
     }
   },
   {
     "id": "uttarakhand-uk-tet-utet-answer-key-2026",
     "title": "Uttarakhand UK TET UTET Answer Key 2026",
     "title_hi": "Uttarakhand UK TET UTET Answer Key 2026",
-    "department": "Teaching Eligibility & Recruitment",
+    "department": "Staff Selection Commission (SSC)",
     "category": "answer_key",
-    "tag": "Teaching",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "05/10/2026",
-    "short_info": "Teaching Eligibility & Recruitment has issued an official announcement regarding Uttarakhand UK TET UTET Answer Key 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding Uttarakhand UK TET UTET Answer Key 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "05/10/2026",
       "last_date": "Check Official Notification",
@@ -2028,23 +2148,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key",
-      "primary_url": "https://www.sarkariresult.com/answer-key-updates/uttarakhand-uk-tet-utet-answer-key-2026/",
-      "notification_url": "https://www.sarkariresult.com/answer-key-updates/uttarakhand-uk-tet-utet-answer-key-2026/",
-      "official_website": "https://www.sarkariresult.com/answer-key-updates/uttarakhand-uk-tet-utet-answer-key-2026/"
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "up-assistant-teacher-primary-class-1-to-5-exam-syllabus-2026",
     "title": "UP Assistant Teacher Primary Class 1 to 5 Exam Syllabus 2026",
     "title_hi": "UP Assistant Teacher Primary Class 1 to 5 Exam Syllabus 2026",
-    "department": "Teaching Eligibility & Recruitment",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "syllabus",
-    "tag": "Teaching",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "16/09/2026",
-    "short_info": "Teaching Eligibility & Recruitment has issued an official announcement regarding UP Assistant Teacher Primary Class 1 to 5 Exam Syllabus 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UP Assistant Teacher Primary Class 1 to 5 Exam Syllabus 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "16/09/2026",
       "last_date": "Check Official Notification",
@@ -2065,10 +2185,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Syllabus PDF",
-      "primary_url": "https://www.sarkariresult.com/syllabus-updates/up-assistant-teacher-primary-class-1-to-5-exam-syllabus-2026/",
-      "notification_url": "https://www.sarkariresult.com/syllabus-updates/up-assistant-teacher-primary-class-1-to-5-exam-syllabus-2026/",
-      "official_website": "https://www.sarkariresult.com/syllabus-updates/up-assistant-teacher-primary-class-1-to-5-exam-syllabus-2026/"
+      "primary_action": "Download Official Syllabus PDF",
+      "primary_url": "https://upsssc.gov.in",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
@@ -2081,7 +2201,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "08/09/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC 10+2 CHSL Tier I, Tier II Exam Syllabus 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC 10+2 CHSL Tier I, Tier II Exam Syllabus 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "08/09/2026",
       "last_date": "Check Official Notification",
@@ -2102,10 +2222,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Syllabus PDF",
-      "primary_url": "https://www.sarkariresult.com/syllabus-updates/ssc-102-chsl-tier-i-tier-ii-exam-syllabus-2026/",
-      "notification_url": "https://www.sarkariresult.com/syllabus-updates/ssc-102-chsl-tier-i-tier-ii-exam-syllabus-2026/",
-      "official_website": "https://www.sarkariresult.com/syllabus-updates/ssc-102-chsl-tier-i-tier-ii-exam-syllabus-2026/"
+      "primary_action": "Download Official Syllabus PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
@@ -2118,7 +2238,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "02/09/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding SSC Junior Engineer JE 2026 Paper I & II Exam Syllabus. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC Junior Engineer JE 2026 Paper I & II Exam Syllabus. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/09/2026",
       "last_date": "Check Official Notification",
@@ -2139,10 +2259,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Syllabus PDF",
-      "primary_url": "https://www.sarkariresult.com/syllabus-updates/ssc-junior-engineer-je-2026-paper-i-ii-exam-syllabus/",
-      "notification_url": "https://www.sarkariresult.com/syllabus-updates/ssc-junior-engineer-je-2026-paper-i-ii-exam-syllabus/",
-      "official_website": "https://www.sarkariresult.com/syllabus-updates/ssc-junior-engineer-je-2026-paper-i-ii-exam-syllabus/"
+      "primary_action": "Download Official Syllabus PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
@@ -2152,10 +2272,10 @@
     "department": "Staff Selection Commission (SSC)",
     "category": "syllabus",
     "tag": "SSC",
-    "state": "Uttar Pradesh",
+    "state": "All India",
     "is_hot": false,
     "post_date": "02/09/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPESSC UP Super TET (Assistant Teacher) Primary & Junior Level Syllabus 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding UPESSC UP Super TET (Assistant Teacher) Primary & Junior Level Syllabus 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "02/09/2026",
       "last_date": "Check Official Notification",
@@ -2176,23 +2296,23 @@
       }
     ],
     "links": {
-      "primary_action": "Download Syllabus PDF",
-      "primary_url": "https://www.sarkariresult.com/syllabus-updates/upessc-up-super-tet-assistant-teacher-primary-junior-level-syllabus-2026/",
-      "notification_url": "https://www.sarkariresult.com/syllabus-updates/upessc-up-super-tet-assistant-teacher-primary-junior-level-syllabus-2026/",
-      "official_website": "https://www.sarkariresult.com/syllabus-updates/upessc-up-super-tet-assistant-teacher-primary-junior-level-syllabus-2026/"
+      "primary_action": "Download Official Syllabus PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
     "id": "upsssc-veterinary-pharmacist-syllabus-2026",
     "title": "UPSSSC Veterinary Pharmacist Syllabus 2026",
     "title_hi": "UPSSSC Veterinary Pharmacist Syllabus 2026",
-    "department": "Staff Selection Commission (SSC)",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "syllabus",
-    "tag": "SSC",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "17/08/2026",
-    "short_info": "Staff Selection Commission (SSC) has issued an official announcement regarding UPSSSC Veterinary Pharmacist Syllabus 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC Veterinary Pharmacist Syllabus 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "17/08/2026",
       "last_date": "Check Official Notification",
@@ -2213,10 +2333,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Syllabus PDF",
-      "primary_url": "https://www.sarkariresult.com/syllabus-updates/upsssc-veterinary-pharmacist-syllabus-2026/",
-      "notification_url": "https://www.sarkariresult.com/syllabus-updates/upsssc-veterinary-pharmacist-syllabus-2026/",
-      "official_website": "https://www.sarkariresult.com/syllabus-updates/upsssc-veterinary-pharmacist-syllabus-2026/"
+      "primary_action": "Download Official Syllabus PDF",
+      "primary_url": "https://upsssc.gov.in",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
@@ -2229,7 +2349,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "National Testing Agency (NTA) has issued an official announcement regarding NTA All India Sainik School AISSEE 2027 Online Form. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "National Testing Agency (NTA) has issued an official public notice regarding NTA All India Sainik School AISSEE 2027 Online Form. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "03/11/2026",
       "last_date": "Check Official Notification",
@@ -2251,22 +2371,22 @@
     ],
     "links": {
       "primary_action": "Apply Online Admission",
-      "primary_url": "https://www.sarkariresult.com/admission-updates/nta-all-india-sainik-school-aissee-2027-online-form/",
-      "notification_url": "https://www.sarkariresult.com/admission-updates/nta-all-india-sainik-school-aissee-2027-online-form/",
-      "official_website": "https://www.sarkariresult.com/admission-updates/nta-all-india-sainik-school-aissee-2027-online-form/"
+      "primary_url": "https://exams.nta.ac.in",
+      "notification_url": "https://nta.ac.in/Notice",
+      "official_website": "https://nta.ac.in"
     }
   },
   {
     "id": "all-india-bar-exam-aibe-22nd-xxii-online-form-2026",
     "title": "All India Bar Exam AIBE 22nd XXII Online Correction Edit Form 2026",
     "title_hi": "All India Bar Exam AIBE 22nd XXII Online Correction Edit Form 2026",
-    "department": "Government of India",
+    "department": "Staff Selection Commission (SSC)",
     "category": "admission",
-    "tag": "Govt Job",
+    "tag": "SSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "29/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding All India Bar Exam AIBE 22nd XXII Online Correction Edit Form 2026. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding All India Bar Exam AIBE 22nd XXII Online Correction Edit Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "29/10/2026",
       "last_date": "Check Official Notification",
@@ -2288,9 +2408,9 @@
     ],
     "links": {
       "primary_action": "Apply Online Admission",
-      "primary_url": "https://www.sarkariresult.com/admission-updates/all-india-bar-exam-aibe-22nd-xxii-online-form-2026/",
-      "notification_url": "https://www.sarkariresult.com/admission-updates/all-india-bar-exam-aibe-22nd-xxii-online-form-2026/",
-      "official_website": "https://www.sarkariresult.com/admission-updates/all-india-bar-exam-aibe-22nd-xxii-online-form-2026/"
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
+      "official_website": "https://ssc.gov.in"
     }
   },
   {
@@ -2303,7 +2423,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "25/10/2026",
-    "short_info": "National Testing Agency (NTA) has issued an official announcement regarding NTA JEEMAIN 2027 Online Form. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "National Testing Agency (NTA) has issued an official public notice regarding NTA JEEMAIN 2027 Online Form. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "25/10/2026",
       "last_date": "Check Official Notification",
@@ -2325,22 +2445,22 @@
     ],
     "links": {
       "primary_action": "Apply Online Admission",
-      "primary_url": "https://www.sarkariresult.com/admission-updates/nta-jeemain-2027-online-form/",
-      "notification_url": "https://www.sarkariresult.com/admission-updates/nta-jeemain-2027-online-form/",
-      "official_website": "https://www.sarkariresult.com/admission-updates/nta-jeemain-2027-online-form/"
+      "primary_url": "https://exams.nta.ac.in",
+      "notification_url": "https://nta.ac.in/Notice",
+      "official_website": "https://nta.ac.in"
     }
   },
   {
     "id": "up-scholarship-online-form-2026-2027",
     "title": "UP Scholarship Online Form 2026 (All Course)",
     "title_hi": "UP Scholarship Online Form 2026 (All Course)",
-    "department": "Government of India",
+    "department": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
     "category": "admission",
-    "tag": "Govt Job",
+    "tag": "UPSSSC",
     "state": "Uttar Pradesh",
     "is_hot": false,
     "post_date": "23/10/2026",
-    "short_info": "Government of India has issued an official announcement regarding UP Scholarship Online Form 2026 (All Course). Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UP Scholarship Online Form 2026 (All Course). Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "23/10/2026",
       "last_date": "Check Official Notification",
@@ -2362,9 +2482,9 @@
     ],
     "links": {
       "primary_action": "Apply Online Admission",
-      "primary_url": "https://www.sarkariresult.com/admission-updates/up-scholarship-online-form-2026-2027/",
-      "notification_url": "https://www.sarkariresult.com/admission-updates/up-scholarship-online-form-2026-2027/",
-      "official_website": "https://www.sarkariresult.com/admission-updates/up-scholarship-online-form-2026-2027/"
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
+      "notification_url": "https://upsssc.gov.in",
+      "official_website": "https://upsssc.gov.in"
     }
   },
   {
@@ -2377,7 +2497,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "16/10/2026",
-    "short_info": "National Testing Agency (NTA) has issued an official announcement regarding NTA NIFTEE Admission Online Form 2027. Candidates can check eligibility criteria, important dates, and links below.",
+    "short_info": "National Testing Agency (NTA) has issued an official public notice regarding NTA NIFTEE Admission Online Form 2027. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "notification_released": "16/10/2026",
       "last_date": "Check Official Notification",
@@ -2399,9 +2519,9 @@
     ],
     "links": {
       "primary_action": "Apply Online Admission",
-      "primary_url": "https://www.sarkariresult.com/admission-updates/nta-niftee-admission-online-form-2027/",
-      "notification_url": "https://www.sarkariresult.com/admission-updates/nta-niftee-admission-online-form-2027/",
-      "official_website": "https://www.sarkariresult.com/admission-updates/nta-niftee-admission-online-form-2027/"
+      "primary_url": "https://exams.nta.ac.in",
+      "notification_url": "https://nta.ac.in/Notice",
+      "official_website": "https://nta.ac.in"
     }
   },
   {
@@ -2414,7 +2534,7 @@
     "state": "All India",
     "is_hot": true,
     "post_date": "03/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has uploaded the Marks and Score Card for Constable (GD) in Central Armed Police Forces (CAPFs), SSF, and Rifleman (GD) in Assam Rifles Examination, 2026. All candidates who appeared in the examination can check their marks using their Registration Number and Password.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC GD Constable 2026 Marks / Score Card & Final Answer Key. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "apply_start": "24/11/2025",
       "last_date": "31/12/2025",
@@ -2441,10 +2561,9 @@
       }
     ],
     "links": {
-      "primary_action": "Download Marks / Score Card",
-      "primary_url": "https://ssc.gov.in",
-      "answer_key_url": "https://ssc.gov.in",
-      "notification_url": "https://ssc.gov.in",
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://ssc.gov.in/login",
+      "notification_url": "https://ssc.gov.in/notices",
       "official_website": "https://ssc.gov.in"
     }
   },
@@ -2458,7 +2577,7 @@
     "state": "Uttar Pradesh",
     "is_hot": true,
     "post_date": "03/11/2026",
-    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) Advt No. 22-Exam/2026 has released recruitment notification for 108 posts in Directorate of Sports, UP. Candidates shortlisted based on UPSSSC PET 2025 Score can apply online from 14/10/2026 to 04/11/2026.",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC Sports Directorate Main Exam 2026 Online Form for 108 Post. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "apply_start": "14/10/2026",
       "last_date": "04/11/2026",
@@ -2485,8 +2604,8 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online (UPSSSC)",
-      "primary_url": "https://upsssc.gov.in",
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
       "notification_url": "https://upsssc.gov.in",
       "official_website": "https://upsssc.gov.in"
     }
@@ -2501,7 +2620,7 @@
     "state": "Uttar Pradesh",
     "is_hot": true,
     "post_date": "03/11/2026",
-    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has released the Written Exam Admit Card for Junior Assistant, Junior Clerk, and Assistant Grade-III recruitment (Advt No. 12-Exam/2024 for 5512 posts).",
+    "short_info": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) has issued an official public notice regarding UPSSSC Junior Assistant 2026 Admit Card (Advt No. 12-Exam/2024). Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "exam_date": "17/11/2026",
       "admit_card_date": "03/11/2026",
@@ -2526,8 +2645,8 @@
       }
     ],
     "links": {
-      "primary_action": "Download Admit Card",
-      "primary_url": "https://upsssc.gov.in",
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://upsssc.gov.in/Online_App/Notifications.aspx",
       "notification_url": "https://upsssc.gov.in",
       "official_website": "https://upsssc.gov.in"
     }
@@ -2536,13 +2655,13 @@
     "id": "rrb-ntpc-ug-pg-2026",
     "title": "Railway RRB NTPC Graduate & Undergraduate Level Online Form 2026",
     "title_hi": "रेलवे आरआरबी एनटीपीसी स्नातक एवं 12वीं स्तर भर्ती 2026",
-    "department": "Railway Recruitment Boards (RRBs)",
+    "department": "Railway Recruitment Boards (Indian Railways / RRBs)",
     "category": "job",
     "tag": "Railway",
     "state": "All India",
     "is_hot": true,
     "post_date": "01/11/2026",
-    "short_info": "Railway Recruitment Boards (RRBs) Centralized Employment Notice CEN 05/2024 & CEN 06/2024 has invited online applications for 11,558 Posts of Station Master, Goods Train Manager, Senior Clerk, Accounts Clerk, and Commercial cum Ticket Clerk across all Indian Railway zones.",
+    "short_info": "Railway Recruitment Boards (Indian Railways / RRBs) has issued an official public notice regarding Railway RRB NTPC Graduate & Undergraduate Level Online Form 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "apply_start": "14/09/2026",
       "last_date": "20/11/2026",
@@ -2573,9 +2692,9 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online (RRB)",
-      "primary_url": "https://rrbapply.gov.in",
-      "notification_url": "https://rrbapply.gov.in",
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://www.rrbapply.gov.in/#/auth/home",
+      "notification_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,4,1244",
       "official_website": "https://indianrailways.gov.in"
     }
   },
@@ -2589,7 +2708,7 @@
     "state": "All India",
     "is_hot": true,
     "post_date": "02/11/2026",
-    "short_info": "Union Public Service Commission (UPSC) has announced the Final Result of Combined Defence Services Examination (I), 2026 for admission to Indian Military Academy (IMA), Indian Naval Academy (INA), Air Force Academy (AFA), and Officers Training Academy (OTA).",
+    "short_info": "Union Public Service Commission (UPSC) has issued an official public notice regarding UPSC CDS I 2026 Final Result with Marks & Merit List. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "exam_date": "21/04/2026",
       "written_result": "20/06/2026",
@@ -2614,9 +2733,9 @@
       }
     ],
     "links": {
-      "primary_action": "Download Final Result PDF",
-      "primary_url": "https://upsc.gov.in",
-      "notification_url": "https://upsc.gov.in",
+      "primary_action": "Download Official Result / Marks",
+      "primary_url": "https://upsconline.nic.in",
+      "notification_url": "https://upsc.gov.in/examinations/active-exams",
       "official_website": "https://upsc.gov.in"
     }
   },
@@ -2626,11 +2745,11 @@
     "title_hi": "बिहार बीपीएससी शिक्षक भर्ती टीआरई 4.0 ऑनलाइन फॉर्म 2026",
     "department": "Bihar Public Service Commission (BPSC)",
     "category": "job",
-    "tag": "Bihar",
+    "tag": "BPSC",
     "state": "Bihar",
     "is_hot": true,
     "post_date": "01/11/2026",
-    "short_info": "Bihar Public Service Commission (BPSC) is conducting Teacher Recruitment Exam (TRE) Phase 4.0 for Primary (Class 1-5), Middle (Class 6-8), Secondary (Class 9-10), and Higher Secondary (Class 11-12) School Teachers in Bihar Education Department.",
+    "short_info": "Bihar Public Service Commission (BPSC) has issued an official public notice regarding Bihar BPSC School Teacher TRE 4.0 Online Form 2026 for 87,000+ Posts. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "apply_start": "05/11/2026",
       "last_date": "30/11/2026",
@@ -2659,7 +2778,7 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online (BPSC)",
+      "primary_action": "Apply Online (Official Portal)",
       "primary_url": "https://onlinebpsc.bihar.gov.in",
       "notification_url": "https://bpsc.bih.nic.in",
       "official_website": "https://bpsc.bih.nic.in"
@@ -2669,13 +2788,13 @@
     "id": "ctet-feb-2026-admit-card",
     "title": "CTET 2026 Admit Card / Exam City Slip Download",
     "title_hi": "सीटीईटी 2026 एडमिट कार्ड / एग्जाम सिटी स्लिप",
-    "department": "Central Board of Secondary Education (CBSE)",
+    "department": "Union Public Service Commission (UPSC)",
     "category": "admit_card",
-    "tag": "Teaching",
+    "tag": "UPSC",
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Central Board of Secondary Education (CBSE) has released the Pre-Admit Card / Exam City Information for the Central Teacher Eligibility Test (CTET). Candidates can check their allotted exam center district.",
+    "short_info": "Union Public Service Commission (UPSC) has issued an official public notice regarding CTET 2026 Admit Card / Exam City Slip Download. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "city_slip_date": "02/11/2026",
       "final_admit_card": "2 days before exam",
@@ -2699,10 +2818,10 @@
       }
     ],
     "links": {
-      "primary_action": "Download Exam City Slip",
-      "primary_url": "https://ctet.nic.in",
-      "notification_url": "https://ctet.nic.in",
-      "official_website": "https://ctet.nic.in"
+      "primary_action": "Download Official Admit Card",
+      "primary_url": "https://upsconline.nic.in",
+      "notification_url": "https://upsc.gov.in/examinations/active-exams",
+      "official_website": "https://upsc.gov.in"
     }
   },
   {
@@ -2715,7 +2834,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "National Testing Agency (NTA) has started the online application process for All India Sainik Schools Entrance Examination (AISSEE-2027) for admission to Class VI and Class IX in 33 Sainik Schools and approved New Sainik Schools across the country.",
+    "short_info": "National Testing Agency (NTA) has issued an official public notice regarding NTA All India Sainik Schools AISSEE 2027 Admission Online Form. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "apply_start": "03/11/2026",
       "last_date": "16/12/2026",
@@ -2739,10 +2858,10 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online AISSEE 2027",
+      "primary_action": "Apply Online Admission",
       "primary_url": "https://exams.nta.ac.in",
-      "notification_url": "https://exams.nta.ac.in",
-      "official_website": "https://exams.nta.ac.in"
+      "notification_url": "https://nta.ac.in/Notice",
+      "official_website": "https://nta.ac.in"
     }
   },
   {
@@ -2755,7 +2874,7 @@
     "state": "All India",
     "is_hot": false,
     "post_date": "01/11/2026",
-    "short_info": "Staff Selection Commission (SSC) has released the detailed revised syllabus and exam pattern for Combined Higher Secondary (10+2) Level Examination. Tier 1 consists of 100 questions (200 marks) and Tier 2 has 2 sessions including Computer Knowledge & Skill/Typing test.",
+    "short_info": "Staff Selection Commission (SSC) has issued an official public notice regarding SSC CHSL 10+2 Tier I & Tier II Revised Exam Syllabus 2026 PDF. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "exam_mode": "Computer Based Test (CBT)",
       "tier1_duration": "60 Minutes",
@@ -2779,9 +2898,9 @@
       }
     ],
     "links": {
-      "primary_action": "Download Syllabus PDF",
-      "primary_url": "https://ssc.gov.in",
-      "notification_url": "https://ssc.gov.in",
+      "primary_action": "Download Official Syllabus PDF",
+      "primary_url": "https://ssc.gov.in/notices",
+      "notification_url": "https://ssc.gov.in/notices",
       "official_website": "https://ssc.gov.in"
     }
   },
@@ -2789,13 +2908,13 @@
     "id": "bsf-hc-ro-rm-key-2026",
     "title": "BSF Head Constable RO / RM Written Exam Answer Key 2026",
     "title_hi": "बीएसएफ हेड कांस्टेबल आरओ / आरएम उत्तर कुंजी 2026",
-    "department": "Border Security Force (BSF)",
+    "department": "Ministry of Home Affairs / Defence Recruitment",
     "category": "answer_key",
     "tag": "Force",
     "state": "All India",
     "is_hot": false,
     "post_date": "03/11/2026",
-    "short_info": "Border Security Force (BSF) has released the provisional answer keys for the post of Head Constable (Radio Operator) and Head Constable (Radio Mechanic). Candidates can raise objections online by paying the requisite fee.",
+    "short_info": "Ministry of Home Affairs / Defence Recruitment has issued an official public notice regarding BSF Head Constable RO / RM Written Exam Answer Key 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "exam_date": "27/10/2026",
       "answer_key_released": "03/11/2026",
@@ -2818,9 +2937,9 @@
       }
     ],
     "links": {
-      "primary_action": "Download Answer Key PDF",
-      "primary_url": "https://rectt.bsf.gov.in",
-      "notification_url": "https://rectt.bsf.gov.in",
+      "primary_action": "Download Official Answer Key PDF",
+      "primary_url": "https://bsf.gov.in",
+      "notification_url": "https://bsf.gov.in",
       "official_website": "https://rectt.bsf.gov.in"
     }
   },
@@ -2828,13 +2947,13 @@
     "id": "up-police-constable-final-result",
     "title": "UP Police Constable 60,244 Post Final Result & Cutoff 2026",
     "title_hi": "यूपी पुलिस कांस्टेबल 60,244 पद फाइनल रिजल्ट और कटऑफ",
-    "department": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+    "department": "Uttar Pradesh Police Recruitment Board (UPPRPB)",
     "category": "result",
     "tag": "UP Police",
     "state": "Uttar Pradesh",
     "is_hot": true,
     "post_date": "30/10/2026",
-    "short_info": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has declared the Final Merit List and Cutoff marks for Direct Recruitment of 60,244 Reserve Civil Police Constables. Selected candidates will undergo medical test and document verification.",
+    "short_info": "Uttar Pradesh Police Recruitment Board (UPPRPB) has issued an official public notice regarding UP Police Constable 60,244 Post Final Result & Cutoff 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "re_exam_date": "23 to 31 August 2026",
       "result_date": "30/10/2026",
@@ -2857,9 +2976,9 @@
       }
     ],
     "links": {
-      "primary_action": "Download Final Result PDF",
+      "primary_action": "Download Official Result / Marks",
       "primary_url": "https://uppbpb.gov.in",
-      "notification_url": "https://uppbpb.gov.in",
+      "notification_url": "https://uppbpb.gov.in/notices",
       "official_website": "https://uppbpb.gov.in"
     }
   },
@@ -2867,13 +2986,13 @@
     "id": "indian-air-force-medical-asst",
     "title": "Indian Air Force Airman Medical Assistant Rally 2026",
     "title_hi": "भारतीय वायु सेना मेडिकल असिस्टेंट भर्ती रैली 2026",
-    "department": "Indian Air Force (IAF)",
+    "department": "Ministry of Home Affairs / Defence Recruitment",
     "category": "job",
     "tag": "Force",
     "state": "All India",
     "is_hot": false,
     "post_date": "02/11/2026",
-    "short_info": "Indian Air Force invites online applications from unmarried male Indian citizens for Medical Assistant trade rally in Group Y. Recruitment rally will be conducted at designated Air Force Stations.",
+    "short_info": "Ministry of Home Affairs / Defence Recruitment has issued an official public notice regarding Indian Air Force Airman Medical Assistant Rally 2026. Candidates can check the official eligibility guidelines, dates, and apply directly via the official portal below.",
     "important_dates": {
       "apply_start": "22/10/2026",
       "last_date": "10/11/2026",
@@ -2896,10 +3015,10 @@
       }
     ],
     "links": {
-      "primary_action": "Apply Online (Agnipath Vayu)",
-      "primary_url": "https://airmenselection.cdac.in",
-      "notification_url": "https://airmenselection.cdac.in",
-      "official_website": "https://indianairforce.nic.in"
+      "primary_action": "Apply Online (Official Portal)",
+      "primary_url": "https://rectt.bsf.gov.in",
+      "notification_url": "https://bsf.gov.in",
+      "official_website": "https://rectt.bsf.gov.in"
     }
   }
 ]
