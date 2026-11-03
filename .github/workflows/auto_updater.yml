@@ -1,0 +1,37 @@
+name: 🪳 Auto Update Cockroach Jobs
+
+on:
+  schedule:
+    # Runs 3 times a day: 9:30 AM, 3:30 PM, 9:30 PM IST
+    - cron: '0 4,10,16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Check out repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 🚀 Run Auto Updater Script
+        run: python scripts/auto_updater.py
+
+      - name: 💾 Commit & Push New Jobs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs_data.json
+          if git diff --staged --quiet; then
+            echo "No new jobs discovered. Everything is up to date."
+          else
+            git commit -m "🪳 Auto-update: Fresh Govt Jobs & Results [skip ci]"
+            git push
+          fi
