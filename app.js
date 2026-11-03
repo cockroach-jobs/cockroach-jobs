@@ -542,6 +542,7 @@ const modalFeeTable = document.getElementById("modalFeeTable");
 const modalAgeContent = document.getElementById("modalAgeContent");
 const modalVacancyTable = document.getElementById("modalVacancyTable");
 const modalPrimaryBtn = document.getElementById("modalPrimaryBtn");
+const modalFullPageBtn = document.getElementById("modalFullPageBtn");
 const modalNotificationBtn = document.getElementById("modalNotificationBtn");
 const modalOfficialSiteBtn = document.getElementById("modalOfficialSiteBtn");
 const modalShareWhatsappBtn = document.getElementById("modalShareWhatsappBtn");
@@ -601,7 +602,7 @@ function populateQuickList(container, items) {
 
   container.innerHTML = items.map(item => `
     <li>
-      <a href="javascript:void(0)" onclick="openJobModal('${item.id}')" title="${escapeHtml(item.title)}">
+      <a href="job.html?id=${item.id}" target="_blank" title="${escapeHtml(item.title)}">
         ${item.is_hot ? '<span style="color:#ef4444; font-weight:800; margin-right:4px;">•</span>' : ''}
         ${escapeHtml(item.title)}
       </a>
@@ -659,6 +660,10 @@ function renderCards(jobs) {
   jobsContainer.innerHTML = jobs.map(job => {
     const badgeClass = getBadgeClass(job.category);
     const categoryName = getCategoryName(job.category);
+    const links = job.links || {};
+    const applyUrl = links.primary_url || links.apply_url || "#";
+    const pdfUrl = links.notification_pdf || links.notification_url || "#";
+    const applyText = job.category === 'result' ? '⚡ रिजल्ट देखें' : (job.category === 'admit_card' ? '⚡ एडमिट कार्ड' : '⚡ सीधे आवेदन');
 
     return `
       <div class="job-card" onclick="openJobModal('${job.id}')">
@@ -666,7 +671,11 @@ function renderCards(jobs) {
           <span class="badge ${badgeClass}">${categoryName}</span>
           <span class="card-date">📅 ${job.post_date || 'New'}</span>
         </div>
-        <h3 class="card-title">${escapeHtml(job.title)}</h3>
+        <h3 class="card-title">
+          <a href="job.html?id=${job.id}" target="_blank" onclick="event.stopPropagation()" style="color:inherit; text-decoration:none;">
+            ${escapeHtml(job.title)}
+          </a>
+        </h3>
         <div class="card-dept">🏛️ ${escapeHtml(job.department)}</div>
         
         <ul class="card-meta-list">
@@ -675,7 +684,19 @@ function renderCards(jobs) {
           ${job.vacancy_details && job.vacancy_details[0] ? `<li>👥 <strong>कुल पद:</strong> ${job.vacancy_details[0].total}</li>` : ''}
         </ul>
 
-        <button class="card-btn">पूरी जानकारी एवं लिंक देखें →</button>
+        <div class="card-actions-group">
+          <div class="card-actions-row">
+            <a href="${applyUrl}" target="_blank" rel="noopener" class="card-btn-apply" onclick="event.stopPropagation()" title="सीधे आधिकारिक पोर्टल पर जाएं">
+              ${applyText}
+            </a>
+            <a href="${pdfUrl}" target="_blank" rel="noopener" class="card-btn-pdf" onclick="event.stopPropagation()" title="आधिकारिक अधिसूचना PDF डाउनलोड करें">
+              📄 PDF सूचना
+            </a>
+          </div>
+          <a href="job.html?id=${job.id}" target="_blank" class="card-btn-details" onclick="event.stopPropagation()">
+            📖 विस्तार से जानकारी देखें (नया पेज) →
+          </a>
+        </div>
       </div>
     `;
   }).join("");
@@ -740,11 +761,15 @@ window.openJobModal = function(jobId) {
 
   // Direct Action Buttons
   const links = job.links || {};
+  if (modalFullPageBtn) {
+    modalFullPageBtn.href = `job.html?id=${job.id}`;
+  }
   modalPrimaryBtn.textContent = links.primary_action || "⚡ सीधे आवेदन / परिणाम देखें";
   modalPrimaryBtn.href = links.primary_url || "#";
 
-  if (links.notification_url) {
-    modalNotificationBtn.href = links.notification_url;
+  const pdfUrl = links.notification_pdf || links.notification_url;
+  if (pdfUrl) {
+    modalNotificationBtn.href = pdfUrl;
     modalNotificationBtn.style.display = "inline-block";
   } else {
     modalNotificationBtn.style.display = "none";
