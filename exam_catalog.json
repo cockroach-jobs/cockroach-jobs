@@ -1,0 +1,536 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-11-03",
+  "description": "Cockroach Jobs Portal - Central Government Recruitment Taxonomy & Entity Graph",
+  "agencies": {
+    "AGENCY_UPSC": {
+      "id": "AGENCY_UPSC",
+      "slug": "upsc",
+      "name": "Union Public Service Commission",
+      "name_hi": "संघ लोक सेवा आयोग (UPSC)",
+      "established": "1926",
+      "headquarters": "Dholpur House, Shahjahan Road, New Delhi",
+      "official_website": "https://upsc.gov.in",
+      "apply_portal": "https://upsconline.nic.in/upsc/OTRP/index.php",
+      "notice_url": "https://upsc.gov.in/examinations/active-exams",
+      "category": "Civil, Defence & Central Services",
+      "description": "भारत का सर्वोच्च संवैधानिक भर्ती आयोग, जो अखिल भारतीय सेवाओं (IAS, IPS, IFS) एवं ग्रुप 'ए' राजपत्रित पदों की परीक्षाएं आयोजित करता है।"
+    },
+    "AGENCY_SSC": {
+      "id": "AGENCY_SSC",
+      "slug": "ssc",
+      "name": "Staff Selection Commission",
+      "name_hi": "कर्मचारी चयन आयोग (SSC)",
+      "established": "1975",
+      "headquarters": "Block No. 12, CGO Complex, Lodhi Road, New Delhi",
+      "official_website": "https://ssc.gov.in",
+      "apply_portal": "https://ssc.gov.in/login",
+      "notice_url": "https://ssc.gov.in/notices",
+      "category": "Group B & Group C Central Staff",
+      "description": "केंद्र सरकार के सभी मंत्रालयों, विभागों एवं अधीनस्थ कार्यालयों में ग्रुप 'बी' (अराजपत्रित) एवं ग्रुप 'सी' पदों की सबसे बड़ी भर्ती एजेंसी।"
+    },
+    "AGENCY_RRB": {
+      "id": "AGENCY_RRB",
+      "slug": "rrb",
+      "name": "Railway Recruitment Control Board (RRBs / RRCs)",
+      "name_hi": "रेलवे भर्ती बोर्ड (भारतीय रेलवे)",
+      "established": "1998",
+      "headquarters": "Rail Bhavan, New Delhi (21 Zonal RRBs)",
+      "official_website": "https://rrb.indianrailways.gov.in",
+      "apply_portal": "https://www.rrbapply.gov.in/#/auth/home",
+      "notice_url": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281",
+      "category": "Indian Railways (Non-Technical, Technical, Group D)",
+      "description": "भारतीय रेलवे में स्टेशन मास्टर, लोको पायलट, तकनीशियन, गार्ड, क्लर्क व ग्रुप डी पदों की केंद्रीय भर्ती संस्था।"
+    },
+    "AGENCY_IBPS": {
+      "id": "AGENCY_IBPS",
+      "slug": "ibps",
+      "name": "Institute of Banking Personnel Selection",
+      "name_hi": "बैंकिंग कार्मिक चयन संस्थान (IBPS)",
+      "established": "1975",
+      "headquarters": "Mumbai, Maharashtra",
+      "official_website": "https://ibps.in",
+      "apply_portal": "https://ibpsonline.ibps.in",
+      "notice_url": "https://www.ibps.in/index.php/all-notifications/",
+      "category": "Public Sector Banks & Regional Rural Banks",
+      "description": "देश के 11 राष्ट्रीयकृत बैंकों और 43 क्षेत्रीय ग्रामीण बैंकों (RRBs) में पीओ, क्लर्क व स्पेशलिस्ट ऑफिसर की अधिकृत भर्ती संस्था।"
+    },
+    "AGENCY_SBI": {
+      "id": "AGENCY_SBI",
+      "slug": "sbi",
+      "name": "State Bank of India (Central Recruitment)",
+      "name_hi": "भारतीय स्टेट बैंक",
+      "headquarters": "Corporate Centre, Mumbai",
+      "official_website": "https://sbi.co.in",
+      "apply_portal": "https://sbi.co.in/web/careers",
+      "notice_url": "https://sbi.co.in/web/careers/current-openings",
+      "category": "Banking (Autonomous Apex Bank)"
+    },
+    "AGENCY_RBI": {
+      "id": "AGENCY_RBI",
+      "slug": "rbi",
+      "name": "Reserve Bank of India Services Board",
+      "name_hi": "भारतीय रिज़र्व बैंक सेवा बोर्ड",
+      "headquarters": "Mumbai",
+      "official_website": "https://rbi.org.in",
+      "apply_portal": "https://opportunities.rbi.org.in",
+      "notice_url": "https://opportunities.rbi.org.in/scripts/vacancies.aspx",
+      "category": "Central Banking & Regulatory"
+    },
+    "AGENCY_NTA": {
+      "id": "AGENCY_NTA",
+      "slug": "nta",
+      "name": "National Testing Agency",
+      "name_hi": "राष्ट्रीय परीक्षा एजेंसी (NTA)",
+      "established": "2017",
+      "headquarters": "Okhla, New Delhi",
+      "official_website": "https://nta.ac.in",
+      "apply_portal": "https://exams.nta.ac.in",
+      "notice_url": "https://nta.ac.in/Notice",
+      "category": "National Eligibility & Higher Education Recruitment"
+    },
+    "AGENCY_DEFENCE_TRI": {
+      "id": "AGENCY_DEFENCE_TRI",
+      "slug": "defence-tri",
+      "name": "Integrated Defence Staff & Armed Forces",
+      "name_hi": "भारतीय सशस्त्र सेनाएं (थल, नौ एवं वायु सेना)",
+      "headquarters": "Ministry of Defence, New Delhi",
+      "official_website": "https://mod.gov.in",
+      "apply_portal": "https://joinindianarmy.nic.in",
+      "notice_url": "https://mod.gov.in",
+      "category": "Defence & Military Services"
+    },
+    "AGENCY_PARAMIL_MHA": {
+      "id": "AGENCY_PARAMIL_MHA",
+      "slug": "paramilitary-mha",
+      "name": "Ministry of Home Affairs - CAPF Recruitment",
+      "name_hi": "गृह मंत्रालय - केंद्रीय सशस्त्र पुलिस बल (BSF, CISF, CRPF, ITBP, SSB)",
+      "headquarters": "North Block, New Delhi",
+      "official_website": "https://mha.gov.in",
+      "apply_portal": "https://rectt.bsf.gov.in",
+      "notice_url": "https://mha.gov.in",
+      "category": "Paramilitary & Border Security"
+    }
+  },
+  "flagship_exams": {
+    "EXAM_UPSC_CSE": {
+      "id": "EXAM_UPSC_CSE",
+      "agency_id": "AGENCY_UPSC",
+      "slug": "upsc-civil-services",
+      "title": "UPSC Civil Services Examination (CSE)",
+      "title_hi": "यूपीएससी सिविल सेवा परीक्षा (आईएएस / आईपीएस)",
+      "frequency": "Annual (हर वर्ष फरवरी में नोटिफिकेशन)",
+      "min_qualification": "Bachelor's Degree in Any Stream",
+      "age_limit": "21 to 32 Years (General) + Caste Relaxation",
+      "selection_stages": ["Preliminary Exam (CSAT + GS)", "Mains Written (9 Papers)", "Personality Test / Interview"],
+      "aliases": [
+        "ias",
+        "ips",
+        "ifs",
+        "irs",
+        "collector",
+        "dm",
+        "sdm",
+        "sp",
+        "dsp",
+        "civil services",
+        "upsc cse",
+        "upsc civil services",
+        "ias exam",
+        "ips exam",
+        "irs officer"
+      ],
+      "mapped_posts": [
+        {
+          "post_id": "POST_IAS",
+          "name": "Indian Administrative Service (IAS)",
+          "name_hi": "भारतीय प्रशासनिक सेवा",
+          "pay_scale": "Level 10 (₹56,100) to Level 17 (Cabinet Secretary)",
+          "cadre_type": "All India Service",
+          "physical_test": "No Physical Standard (Open for all including PwD)"
+        },
+        {
+          "post_id": "POST_IPS",
+          "name": "Indian Police Service (IPS)",
+          "name_hi": "भारतीय पुलिस सेवा",
+          "pay_scale": "Level 10 (₹56,100) to Level 17 (DGP)",
+          "cadre_type": "All India Service",
+          "physical_test": "Mandatory Height: Male 165 cm, Female 150 cm; Chest: 84 cm"
+        },
+        {
+          "post_id": "POST_IFS",
+          "name": "Indian Foreign Service (IFS)",
+          "name_hi": "भारतीय विदेश सेवा (राजदूत / डिप्लोमैट)",
+          "pay_scale": "Level 10 + Foreign Allowances",
+          "cadre_type": "Central Civil Services Group A"
+        },
+        {
+          "post_id": "POST_IRS_IT",
+          "name": "Indian Revenue Service (Income Tax - IRS)",
+          "name_hi": "भारतीय राजस्व सेवा (आयकर उपायुक्त)",
+          "pay_scale": "Level 10 (Assistant Commissioner Income Tax)",
+          "cadre_type": "Central Civil Services Group A"
+        },
+        {
+          "post_id": "POST_IRS_CUST",
+          "name": "Indian Revenue Service (Customs & Indirect Taxes)",
+          "name_hi": "भारतीय राजस्व सेवा (कस्टम्स एवं जीएसटी)",
+          "pay_scale": "Level 10 (Assistant Commissioner Customs/GST)",
+          "cadre_type": "Central Civil Services Group A"
+        }
+      ]
+    },
+    "EXAM_UPSC_NDA": {
+      "id": "EXAM_UPSC_NDA",
+      "agency_id": "AGENCY_UPSC",
+      "slug": "upsc-nda-na",
+      "title": "National Defence Academy & Naval Academy Examination (NDA)",
+      "title_hi": "राष्ट्रीय रक्षा अकादमी (एनडीए परीक्षा)",
+      "frequency": "Twice a Year (NDA I - April, NDA II - September)",
+      "min_qualification": "12th Intermediate (PCM for Navy/Air Force, Any stream for Army)",
+      "age_limit": "16.5 to 19.5 Years (Unmarried Male & Female)",
+      "aliases": [
+        "nda",
+        "nda 1",
+        "nda 2",
+        "national defence academy",
+        "army lieutenant",
+        "air force flying officer 12th",
+        "navy sub lieutenant 12th",
+        "defence officer after 12th"
+      ],
+      "mapped_posts": [
+        {"post_id": "POST_NDA_ARMY", "name": "Indian Army Cadet -> Lieutenant", "pay_scale": "Level 10 (₹56,100)"},
+        {"post_id": "POST_NDA_NAVY", "name": "Indian Navy Cadet -> Sub Lieutenant", "pay_scale": "Level 10 (₹56,100)"},
+        {"post_id": "POST_NDA_AIRFORCE", "name": "Indian Air Force Cadet -> Flying Officer", "pay_scale": "Level 10 (₹56,100)"}
+      ]
+    },
+    "EXAM_UPSC_CDS": {
+      "id": "EXAM_UPSC_CDS",
+      "agency_id": "AGENCY_UPSC",
+      "slug": "upsc-cds",
+      "title": "Combined Defence Services Examination (CDS)",
+      "title_hi": "सम्मिलित रक्षा सेवा (सीडीएस परीक्षा)",
+      "frequency": "Twice a Year (CDS I & CDS II)",
+      "min_qualification": "Graduation Degree in Any Stream (B.Tech for Navy)",
+      "age_limit": "19 to 25 Years",
+      "aliases": ["cds", "cds 1", "cds 2", "ima", "ota", "ina", "afa", "defence graduate officer"],
+      "mapped_posts": [
+        {"post_id": "POST_CDS_IMA", "name": "Indian Military Academy (IMA Dehradun)"},
+        {"post_id": "POST_CDS_OTA", "name": "Officers Training Academy (OTA Chennai)"},
+        {"post_id": "POST_CDS_INA", "name": "Indian Naval Academy (INA Ezhimala)"},
+        {"post_id": "POST_CDS_AFA", "name": "Air Force Academy (AFA Hyderabad)"}
+      ]
+    },
+    "EXAM_SSC_CGL": {
+      "id": "EXAM_SSC_CGL",
+      "agency_id": "AGENCY_SSC",
+      "slug": "ssc-cgl",
+      "title": "SSC Combined Graduate Level Examination (CGL)",
+      "title_hi": "एसएससी सीजीएल परीक्षा (इनकम टैक्स / एक्साइज / सीबीआई इंस्पेक्टर)",
+      "frequency": "Annual (हर वर्ष)",
+      "min_qualification": "Bachelor's Degree in Any Stream",
+      "age_limit": "18 to 30 / 32 Years as per post",
+      "selection_stages": ["Tier I Computer Based Test", "Tier II CBT + Computer Knowledge & Typing"],
+      "aliases": [
+        "cgl",
+        "ssc cgl",
+        "income tax inspector",
+        "central excise inspector",
+        "gst inspector",
+        "preventive officer",
+        "customs examiner",
+        "cbi sub inspector",
+        "cbi si",
+        "ed aeo",
+        "enforcement officer",
+        "aso mea",
+        "aso in css",
+        "cag auditor",
+        "cgl 2026",
+        "ssc inspector"
+      ],
+      "mapped_posts": [
+        {
+          "post_id": "POST_SSC_IT_INSPECTOR",
+          "name": "Inspector of Income Tax (CBDT)",
+          "name_hi": "आयकर निरीक्षक (Income Tax Inspector)",
+          "pay_scale": "Level 7 (₹44,900 - ₹1,42,400)",
+          "cadre_type": "Group B Non-Gazetted"
+        },
+        {
+          "post_id": "POST_SSC_GST_INSPECTOR",
+          "name": "Inspector (Central Excise & GST) - CBIC",
+          "name_hi": "केंद्रीय उत्पाद शुल्क एवं जीएसटी इंस्पेक्टर",
+          "pay_scale": "Level 7 (₹44,900 - ₹1,42,400)",
+          "physical_test": "Walking: 1600 m in 15 min; Cycling: 8 km in 30 min"
+        },
+        {
+          "post_id": "POST_SSC_CBI_SI",
+          "name": "Sub Inspector (Central Bureau of Investigation - CBI)",
+          "name_hi": "उप निरीक्षक (सीबीआई)",
+          "pay_scale": "Level 7 (₹44,900 - ₹1,42,400) + 25% Special Allowance",
+          "physical_test": "Height: 165 cm (Male), 150 cm (Female)"
+        },
+        {
+          "post_id": "POST_SSC_ED_AEO",
+          "name": "Assistant Enforcement Officer (Directorate of Enforcement - ED)",
+          "name_hi": "सहायक प्रवर्तन अधिकारी (ईडी)",
+          "pay_scale": "Level 7 (₹44,900 - ₹1,42,400)"
+        },
+        {
+          "post_id": "POST_SSC_MEA_ASO",
+          "name": "Assistant Section Officer (Ministry of External Affairs - MEA)",
+          "name_hi": "सहायक अनुभाग अधिकारी (विदेश मंत्रालय - विदेश पोस्टिंग)",
+          "pay_scale": "Level 7 (₹44,900 - ₹1,42,400) + Foreign Posting Perks"
+        },
+        {
+          "post_id": "POST_SSC_CAG_AUDITOR",
+          "name": "Auditor (Comptroller & Auditor General of India - CAG)",
+          "name_hi": "ऑडिटर (कैग)",
+          "pay_scale": "Level 5 (₹29,200 - ₹92,300)"
+        }
+      ]
+    },
+    "EXAM_SSC_CHSL": {
+      "id": "EXAM_SSC_CHSL",
+      "agency_id": "AGENCY_SSC",
+      "slug": "ssc-chsl",
+      "title": "SSC Combined Higher Secondary Level (10+2) Examination (CHSL)",
+      "title_hi": "एसएससी सीएचएसएल 10+2 परीक्षा (एलडीसी / डीईओ / क्लर्क)",
+      "frequency": "Annual",
+      "min_qualification": "12th Intermediate Passed",
+      "age_limit": "18 to 27 Years",
+      "aliases": [
+        "chsl",
+        "ssc chsl",
+        "10+2 clerk",
+        "ldc",
+        "lower division clerk",
+        "deo",
+        "data entry operator",
+        "jsa",
+        "junior secretariat assistant",
+        "postal assistant",
+        "sorting assistant"
+      ],
+      "mapped_posts": [
+        {"post_id": "POST_SSC_LDC", "name": "Lower Division Clerk (LDC) / JSA", "pay_scale": "Level 2 (₹19,900 - ₹63,200)"},
+        {"post_id": "POST_SSC_DEO", "name": "Data Entry Operator (DEO)", "pay_scale": "Level 4 (₹25,500 - ₹81,100)"}
+      ]
+    },
+    "EXAM_SSC_GD": {
+      "id": "EXAM_SSC_GD",
+      "agency_id": "AGENCY_SSC",
+      "slug": "ssc-gd-constable",
+      "title": "SSC Constable (General Duty) in CAPFs, SSF and Rifleman (GD) in Assam Rifles",
+      "title_hi": "एसएससी जीडी कांस्टेबल भर्ती (बीएसएफ, सीआईएसएफ, सीआरपीएफ, आईटीबीपी, एसएसबी)",
+      "frequency": "Annual (भारत की सबसे बड़ी 10वीं पास सिपाही भर्ती)",
+      "min_qualification": "10th Class (Matriculation) Passed",
+      "age_limit": "18 to 23 Years",
+      "selection_stages": ["Computer Based Examination (CBE)", "Physical Efficiency Test (PET - 5km Race)", "Physical Standard Test (PST)", "Detailed Medical Examination (DME)"],
+      "aliases": [
+        "ssc gd",
+        "gd constable",
+        "bsf constable",
+        "cisf constable",
+        "crpf constable",
+        "itbp constable",
+        "ssb constable",
+        "assam rifles rifleman",
+        "ssf constable",
+        "10th pass police",
+        "fauji bharti",
+        "ssc gd 2026"
+      ],
+      "mapped_posts": [
+        {"post_id": "POST_GD_BSF", "name": "Border Security Force (BSF) Constable GD", "pay_scale": "Level 3 (₹21,700 - ₹69,100)"},
+        {"post_id": "POST_GD_CISF", "name": "Central Industrial Security Force (CISF) Constable GD", "pay_scale": "Level 3 (₹21,700 - ₹69,100)"},
+        {"post_id": "POST_GD_CRPF", "name": "Central Reserve Police Force (CRPF) Constable GD", "pay_scale": "Level 3 (₹21,700 - ₹69,100)"},
+        {"post_id": "POST_GD_ITBP", "name": "Indo-Tibetan Border Police (ITBP) Constable GD", "pay_scale": "Level 3 (₹21,700 - ₹69,100)"},
+        {"post_id": "POST_GD_SSB", "name": "Sashastra Seema Bal (SSB) Constable GD", "pay_scale": "Level 3 (₹21,700 - ₹69,100)"},
+        {"post_id": "POST_GD_AR", "name": "Assam Rifles (AR) Rifleman General Duty", "pay_scale": "Level 3 (₹21,700 - ₹69,100)"}
+      ]
+    },
+    "EXAM_SSC_CPO": {
+      "id": "EXAM_SSC_CPO",
+      "agency_id": "AGENCY_SSC",
+      "slug": "ssc-cpo-si",
+      "title": "SSC Sub-Inspector in Delhi Police and Central Armed Police Forces (CPO)",
+      "title_hi": "एसएससी सीपीओ सब इंस्पेक्टर भर्ती (दिल्ली पुलिस एवं अर्धसैनिक बल दरोगा)",
+      "frequency": "Annual",
+      "min_qualification": "Bachelor's Degree in Any Stream (+ LMV Driving License for Delhi Police)",
+      "age_limit": "20 to 25 Years",
+      "aliases": [
+        "ssc cpo",
+        "cpo si",
+        "delhi police si",
+        "delhi police daroga",
+        "bsf si",
+        "crpf si",
+        "cisf asi",
+        "itbp si",
+        "capf sub inspector"
+      ],
+      "mapped_posts": [
+        {"post_id": "POST_CPO_DP", "name": "Sub-Inspector (Executive) in Delhi Police", "pay_scale": "Level 6 (₹35,400 - ₹1,12,400)"},
+        {"post_id": "POST_CPO_CAPF", "name": "Sub-Inspector (GD) in CAPFs (BSF, CISF, CRPF, ITBP, SSB)", "pay_scale": "Level 6 (₹35,400 - ₹1,12,400)"}
+      ]
+    },
+    "EXAM_RRB_NTPC_GRAD": {
+      "id": "EXAM_RRB_NTPC_GRAD",
+      "agency_id": "AGENCY_RRB",
+      "slug": "rrb-ntpc-graduate",
+      "title": "Railway RRB Non-Technical Popular Categories (Graduate Level) - CEN 05/2024 & CEN 06/2026",
+      "title_hi": "रेलवे आरआरबी एनटीपीसी स्नातक स्तर (स्टेशन मास्टर / गुड्स ट्रेन मैनेजर)",
+      "frequency": "Cyclic",
+      "min_qualification": "Bachelor's Degree in Any Stream",
+      "age_limit": "18 to 36 Years (Relaxed)",
+      "selection_stages": ["CBT 1 (Screening)", "CBT 2 (Score Based)", "CBAT (Aptitude for Station Master) / Typing Test", "Document Verification & Medical (A2 for SM)"],
+      "aliases": [
+        "rrb ntpc",
+        "station master",
+        "station master recruitment",
+        "goods guard",
+        "goods train manager",
+        "senior clerk",
+        "junior accounts assistant",
+        "rrb ntpc graduate",
+        "railway graduate jobs"
+      ],
+      "mapped_posts": [
+        {
+          "post_id": "POST_RRB_STATION_MASTER",
+          "name": "Station Master (SM)",
+          "name_hi": "स्टेशन मास्टर",
+          "pay_scale": "Level 6 (₹35,400 Basic)",
+          "medical_standard": "A-2 (Strict Vision Standard without Glasses/Lasik conditions)"
+        },
+        {
+          "post_id": "POST_RRB_GOODS_GUARD",
+          "name": "Goods Train Manager (Earlier Goods Guard)",
+          "name_hi": "गुड्स ट्रेन मैनेजर (मालगाड़ी गार्ड)",
+          "pay_scale": "Level 5 (₹29,200 Basic) + Running Allowances",
+          "medical_standard": "A-2"
+        },
+        {
+          "post_id": "POST_RRB_SENIOR_CLERK",
+          "name": "Senior Commercial cum Ticket Supervisor",
+          "name_hi": "वरिष्ठ टिकट पर्यवेक्षक",
+          "pay_scale": "Level 6 (₹35,400 Basic)",
+          "medical_standard": "B-2"
+        }
+      ]
+    },
+    "EXAM_RRB_NTPC_UG": {
+      "id": "EXAM_RRB_NTPC_UG",
+      "agency_id": "AGENCY_RRB",
+      "slug": "rrb-ntpc-undergraduate",
+      "title": "Railway RRB NTPC Under Graduate (10+2 Level) - CEN 07/2026",
+      "title_hi": "रेलवे आरआरबी एनटीपीसी 10+2 स्तर भर्ती (टिकट कलेक्टर / क्लर्क)",
+      "frequency": "Cyclic",
+      "min_qualification": "12th Intermediate Passed with 50% Marks",
+      "age_limit": "18 to 33 Years",
+      "aliases": [
+        "rrb ntpc 10+2",
+        "railway tc",
+        "ticket collector",
+        "ticket clerk",
+        "commercial cum ticket clerk",
+        "railway accounts clerk",
+        "trains clerk"
+      ],
+      "mapped_posts": [
+        {
+          "post_id": "POST_RRB_TC",
+          "name": "Commercial cum Ticket Clerk (CC/TC)",
+          "name_hi": "कमर्शियल कम टिकट क्लर्क (टीसी)",
+          "pay_scale": "Level 3 (₹21,700 Basic)",
+          "medical_standard": "B-2"
+        },
+        {
+          "post_id": "POST_RRB_JR_CLERK",
+          "name": "Junior Clerk cum Typist",
+          "name_hi": "कनिष्ठ लिपिक सह टंकक",
+          "pay_scale": "Level 2 (₹19,900 Basic)",
+          "medical_standard": "C-2"
+        }
+      ]
+    },
+    "EXAM_RRB_ALP": {
+      "id": "EXAM_RRB_ALP",
+      "agency_id": "AGENCY_RRB",
+      "slug": "rrb-alp",
+      "title": "Railway RRB Assistant Loco Pilot (ALP)",
+      "title_hi": "रेलवे असिस्टेंट लोको पायलट भर्ती (ट्रेन ड्राइवर)",
+      "frequency": "Annual / Cyclic",
+      "min_qualification": "10th Matriculation + ITI (in specified trades) OR Diploma / Degree in Engineering",
+      "age_limit": "18 to 33 Years",
+      "selection_stages": ["CBT 1", "CBT 2 (Part A + Part B Trade)", "Computer-Based Aptitude Test (CBAT / Psycho)", "Medical Exam (A-1 Mandatory)"],
+      "aliases": [
+        "rrb alp",
+        "alp",
+        "assistant loco pilot",
+        "loco pilot",
+        "train driver",
+        "railway pilot",
+        "railway loco pilot"
+      ],
+      "mapped_posts": [
+        {
+          "post_id": "POST_RRB_ALP",
+          "name": "Assistant Loco Pilot (Electrical & Mechanical)",
+          "name_hi": "सहायक लोको पायलट",
+          "pay_scale": "Level 2 (₹19,900 Basic) + Heavy Running Allowance per KM",
+          "medical_standard": "A-1 (Strict 6/6 distance vision without glasses, no Lasik allowed)"
+        }
+      ]
+    },
+    "EXAM_IBPS_PO": {
+      "id": "EXAM_IBPS_PO",
+      "agency_id": "AGENCY_IBPS",
+      "slug": "ibps-po",
+      "title": "IBPS Common Recruitment Process for Probationary Officers (CRP PO/MT)",
+      "title_hi": "आईबीपीएस बैंक पीओ भर्ती (11 राष्ट्रीयकृत बैंक)",
+      "frequency": "Annual (August Notification)",
+      "min_qualification": "Bachelor's Degree in Any Stream",
+      "age_limit": "20 to 30 Years",
+      "aliases": [
+        "ibps po",
+        "bank po",
+        "probationary officer",
+        "pnb po",
+        "bank of baroda po",
+        "canara bank po",
+        "union bank po"
+      ],
+      "mapped_posts": [
+        {
+          "post_id": "POST_IBPS_PO",
+          "name": "Probationary Officer / Management Trainee (Scale I)",
+          "name_hi": "प्रोबेशनरी ऑफिसर (बैंक पीओ)",
+          "pay_scale": "Scale 1 Basic ₹36,000 + DA + HRA (Gross ₹55,000+)"
+        }
+      ]
+    },
+    "EXAM_SBI_PO": {
+      "id": "EXAM_SBI_PO",
+      "agency_id": "AGENCY_SBI",
+      "slug": "sbi-po",
+      "title": "State Bank of India Probationary Officer (SBI PO)",
+      "title_hi": "एसबीआई बैंक पीओ भर्ती",
+      "frequency": "Annual",
+      "min_qualification": "Graduation Degree in Any Stream",
+      "age_limit": "21 to 30 Years",
+      "aliases": ["sbi po", "state bank po", "sbi probationary officer"],
+      "mapped_posts": [
+        {
+          "post_id": "POST_SBI_PO",
+          "name": "SBI Probationary Officer (Junior Management Grade Scale I)",
+          "name_hi": "एसबीआई पीओ",
+          "pay_scale": "Basic ₹41,960 + 4 Advance Increments (Highest in Banking)"
+        }
+      ]
+    }
+  }
+}
