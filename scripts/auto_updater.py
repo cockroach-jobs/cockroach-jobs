@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Cockroach Jobs Portal - Official Government Deep Data Synchronizer
-Fetches latest job/admit card/result updates, extracts authentic direct notification PDFs,
-maps to 100% genuine government application portals (.gov.in / .nic.in), and creates static job pages.
-Zero competitor links.
+Cockroach Jobs Portal - Production Auto-Updater
+Deep-crawls official announcements and authentic articles.
+Extracts exact Important Dates, Application Fees, Age Limits, Vacancy Details & Eligibility,
+and verified Direct Government Apply (.gov.in / .nic.in) + Official Notification PDF links.
 """
 
 import urllib.request
@@ -12,7 +12,10 @@ import re
 import html
 import os
 import sys
+import time
 from datetime import datetime
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
@@ -72,6 +75,14 @@ GOV_AUTHORITIES = {
         "apply_url": "https://uppsc.up.nic.in/CandidatePages/OTR/OTR_Home.aspx",
         "notice_url": "https://uppsc.up.nic.in/CandidatePages/Notifications/Notifications.aspx",
         "official_site": "https://uppsc.up.nic.in"
+    },
+    "UP_UPESSC": {
+        "dept": "Uttar Pradesh Education Service Selection Commission (UPESSC)",
+        "tag": "UP Teacher",
+        "state": "Uttar Pradesh",
+        "apply_url": "https://upessc.up.gov.in",
+        "notice_url": "https://upessc.up.gov.in",
+        "official_site": "https://upessc.up.gov.in"
     },
     "BIHAR_BPSC": {
         "dept": "Bihar Public Service Commission (BPSC)",
@@ -163,26 +174,19 @@ GOV_AUTHORITIES = {
     }
 }
 
-ENDPOINTS = [
-    {"url": "https://www.sarkariresult.com/wp-json/wp/v2/latest-job-updates?per_page=15", "category": "job"},
-    {"url": "https://www.sarkariresult.com/wp-json/wp/v2/admit-card-updates?per_page=15", "category": "admit_card"},
-    {"url": "https://www.sarkariresult.com/wp-json/wp/v2/result-updates?per_page=15", "category": "result"},
-    {"url": "https://www.sarkariresult.com/wp-json/wp/v2/answer-key-updates?per_page=10", "category": "answer_key"},
-    {"url": "https://www.sarkariresult.com/wp-json/wp/v2/syllabus-updates?per_page=5", "category": "syllabus"},
-    {"url": "https://www.sarkariresult.com/wp-json/wp/v2/admission-updates?per_page=5", "category": "admission"}
-]
-
 def resolve_authority(title):
     t = title.upper()
     if "HSSC" in t or "HARYANA" in t or "HPSC" in t:
         return GOV_AUTHORITIES["HARYANA_HPSC"] if "HPSC" in t else GOV_AUTHORITIES["HARYANA_HSSC"]
     if "RPSC" in t or "RSSB" in t or "RSMSSB" in t or "RAJASTHAN" in t:
         return GOV_AUTHORITIES["RAJASTHAN_RPSC"] if "RPSC" in t else GOV_AUTHORITIES["RAJASTHAN_RSSB"]
-    if "UPSSSC" in t:
+    if "UPESSC" in t or "TGT" in t or "PGT" in t or ("TEACHER" in t and "UP" in t) or "HEADMASTER" in t:
+        return GOV_AUTHORITIES["UP_UPESSC"]
+    if "UPSSSC" in t or "LOWER PCS" in t:
         return GOV_AUTHORITIES["UP_UPSSSC"]
     if "UP POLICE" in t or "UPPRPB" in t:
         return GOV_AUTHORITIES["UP_POLICE"]
-    if "UPPSC" in t:
+    if "UPPSC" in t or "RO / ARO" in t or "RO ARO" in t:
         return GOV_AUTHORITIES["UP_UPPSC"]
     if "BPSC" in t or "BIHAR TEACHER" in t or "TRE" in t:
         return GOV_AUTHORITIES["BIHAR_BPSC"]
@@ -194,7 +198,7 @@ def resolve_authority(title):
         return GOV_AUTHORITIES["MP_MPPSC"] if "MPPSC" in t else GOV_AUTHORITIES["MP_MPESB"]
     if "SSC" in t:
         return GOV_AUTHORITIES["CENTRAL_SSC"]
-    if "RRB" in t or "RAILWAY" in t or "NTPC" in t:
+    if "RRB" in t or "RAILWAY" in t or "NTPC" in t or "STATION MASTER" in t:
         return GOV_AUTHORITIES["CENTRAL_RAILWAY"]
     if "UPSC" in t or "NDA" in t or "CDS" in t:
         return GOV_AUTHORITIES["CENTRAL_UPSC"]
@@ -210,200 +214,252 @@ def resolve_authority(title):
         return GOV_AUTHORITIES["BIHAR_BPSC"]
     return GOV_AUTHORITIES["CENTRAL_SSC"]
 
-def fetch_json(url):
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+def parse_full_article(url):
+    req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
     try:
-        with urllib.request.urlopen(req, timeout=15) as res:
-            if res.status == 200:
-                data = res.read().decode("utf-8")
-                return json.loads(data)
+        html_content = urllib.request.urlopen(req, timeout=12).read().decode('utf-8', errors='ignore')
     except Exception as e:
-        print(f"[-] Error fetching {url}: {e}")
-    return []
+        return None
 
-def clean_text(raw):
-    if not raw:
-        return ""
-    text = html.unescape(raw)
-    text = re.sub(r'<[^>]+>', ' ', text)
-    return re.sub(r'\s+', ' ', text).strip()
+    # Title
+    m_title = re.search(r'<title>(.*?)</title>', html_content, re.IGNORECASE)
+    raw_title = m_title.group(1).split('|')[0].strip() if m_title else ""
+    raw_title = html.unescape(re.sub(r'<[^>]+>', '', raw_title)).strip()
 
-def format_date(iso_date):
-    if not iso_date:
-        return datetime.now().strftime("%d/%m/%Y")
-    try:
-        dt = datetime.fromisoformat(iso_date.replace("Z", "+00:00"))
-        return dt.strftime("%d/%m/%Y")
-    except Exception:
-        return datetime.now().strftime("%d/%m/%Y")
+    # Short info
+    short_info = ""
+    m_info = re.search(r'Short Information.*?</t[dh]>\s*<td[^>]*>(.*?)</td>', html_content, re.DOTALL | re.IGNORECASE)
+    if m_info:
+        short_info = html.unescape(re.sub(r'<[^>]+>', ' ', m_info.group(1))).strip()
+        short_info = re.sub(r'\s+', ' ', short_info)
 
-def scrape_deep_details(article_url):
-    """Fetches article page to extract direct PDF links, syllabus, and dates."""
-    if not article_url:
-        return {}
-    details = {}
-    try:
-        req = urllib.request.Request(article_url, headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(req, timeout=12) as res:
-            html_content = res.read().decode("utf-8", errors="ignore")
-            
-            # Find all links in table rows
-            table_matches = re.findall(r'<tr[^>]*>.*?<td[^>]*>(.*?)</td>.*?<td[^>]*>(.*?)</td>.*?</tr>', html_content, re.DOTALL | re.IGNORECASE)
-            for col1_raw, col2_raw in table_matches:
-                col1 = re.sub(r'<[^>]+>', ' ', col1_raw).strip().lower()
-                links = re.findall(r'href=["\']([^"\']+)["\']', col2_raw, re.IGNORECASE)
-                if not links:
+    data = {
+        "title": raw_title,
+        "short_info": short_info,
+        "important_dates": {},
+        "application_fee": {},
+        "age_limit": {},
+        "vacancy_details": [],
+        "links": {}
+    }
+
+    # Important Dates, Fee, Age
+    ul_blocks = re.findall(r'<ul[^>]*>(.*?)</ul>', html_content, re.DOTALL | re.IGNORECASE)
+    for ul in ul_blocks:
+        li_items = re.findall(r'<li[^>]*>(.*?)</li>', ul, re.DOTALL | re.IGNORECASE)
+        for li in li_items:
+            t = html.unescape(re.sub(r'<[^>]+>', ' ', li)).strip()
+            t = re.sub(r'\s+', ' ', t)
+            if not t or len(t) < 3:
+                continue
+
+            # Dates
+            if any(k in t.lower() for k in ["application begin", "last date", "fee last date", "correction date", "exam date", "admit card"]):
+                parts = t.split(":", 1)
+                if len(parts) == 2:
+                    data["important_dates"][parts[0].strip()] = parts[1].strip()
+
+            # Fees
+            elif any(k in t.lower() for k in ["general", "obc", "ews", "sc / st", "sc/st", "ph (", "female", "refund", "pay the exam"]):
+                parts = t.split(":", 1)
+                if len(parts) == 2:
+                    data["application_fee"][parts[0].strip()] = parts[1].strip()
+                elif "pay the exam" in t.lower() or "mode" in t.lower():
+                    data["application_fee"]["Payment Mode"] = t
+
+            # Age
+            elif any(k in t.lower() for k in ["minimum age", "maximum age", "age relaxation"]):
+                parts = t.split(":", 1)
+                if len(parts) == 2:
+                    data["age_limit"][parts[0].strip()] = parts[1].strip()
+                else:
+                    data["age_limit"]["Notes"] = t
+
+    # As on date
+    m_as_on = re.search(r'Age Limit as on\s*([0-9/]+)', html_content, re.IGNORECASE)
+    if m_as_on:
+        data["age_limit"]["Calculation Date"] = f"As on {m_as_on.group(1)}"
+
+    # Vacancy & Eligibility
+    tables = re.findall(r'<table[^>]*>(.*?)</table>', html_content, re.DOTALL | re.IGNORECASE)
+    for tbl in tables:
+        if "eligibility" in tbl.lower() or "post name" in tbl.lower():
+            rows = re.findall(r'<tr[^>]*>(.*?)</tr>', tbl, re.DOTALL | re.IGNORECASE)
+            capture = False
+            for r in rows:
+                cells = [html.unescape(re.sub(r'<[^>]+>', ' ', c)).strip() for c in re.findall(r'<t[dh][^>]*>(.*?)</t[dh]>', r, re.DOTALL | re.IGNORECASE)]
+                cells = [re.sub(r'\s+', ' ', c) for c in cells if c]
+                if not cells:
                     continue
-                first_link = links[0]
-                
-                # Check for notification PDF
-                if any(x in col1 for x in ["notification", "notice", "advertisement", "rulebook"]) or first_link.lower().endswith(".pdf"):
-                    if not any(x in first_link.lower() for x in ["whatsapp", "telegram", "play.google"]):
-                        details["notification_pdf"] = first_link
-                        
-                # Check for syllabus PDF
-                elif "syllabus" in col1:
-                    details["syllabus_url"] = first_link
-                    
-            # Extract important dates if listed
-            m_dates = re.findall(r'<li>\s*([^:<]+):\s*<strong>([^<]+)</strong>', html_content)
-            if m_dates:
-                dates = {}
-                for k, v in m_dates:
-                    clean_k = k.strip().lower().replace(" ", "_")
-                    dates[clean_k] = v.strip()
-                if dates:
-                    details["important_dates"] = dates
-    except Exception as e:
-        print(f"    [-] Could not deep scrape {article_url}: {e}")
-    return details
+                if any("post name" in c.lower() for c in cells) and any("total" in c.lower() for c in cells):
+                    capture = True
+                    continue
+                if any("zone" in c.lower() or "rrb name" in c.lower() or "category wise" in c.lower() for c in cells):
+                    capture = False
+                    continue
+                if capture and len(cells) >= 3:
+                    post_name = cells[0]
+                    total = cells[1]
+                    eligibility = cells[2]
+                    if len(post_name) > 2 and (any(ch.isdigit() for ch in total) or "various" in total.lower()):
+                        data["vacancy_details"].append({
+                            "post_name": post_name,
+                            "total": total if "post" in total.lower() else f"{total} Posts",
+                            "eligibility": eligibility
+                        })
+
+    # Direct PDF and Official Links
+    pattern = re.compile(r'<a\s+[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', re.DOTALL | re.IGNORECASE)
+    for m in pattern.finditer(html_content):
+        href = m.group(1)
+        txt = re.sub(r'<[^>]+>', '', m.group(2)).strip().lower()
+        if any(x in href.lower() for x in ['whatsapp', 'telegram', 'play.google', 'app', 'twitter', 'facebook', 'instagram', 'threads']):
+            continue
+        if href.lower().endswith(".pdf"):
+            if "syllabus" in txt or "syllabus" in href.lower():
+                data["links"]["syllabus_url"] = href
+            elif not data["links"].get("notification_pdf"):
+                data["links"]["notification_pdf"] = href
+        elif any(k in txt for k in ["official website", "official portal"]) or any(k in href for k in [".gov.in", ".nic.in", ".ac.in", ".edu.in"]):
+            if not data["links"].get("official_website"):
+                data["links"]["official_website"] = href
+
+    return data
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     base_dir = os.path.dirname(script_dir)
     json_path = os.path.join(base_dir, "jobs_data.json")
 
+    print("[1/3] Fetching live post URLs from SarkariResult homepage...")
+    req = urllib.request.Request("https://www.sarkariresult.com/", headers={'User-Agent': USER_AGENT})
+    try:
+        html_text = urllib.request.urlopen(req, timeout=12).read().decode('utf-8', errors='ignore')
+    except Exception as e:
+        print(f"Error fetching homepage: {e}")
+        return
+
+    pattern = re.compile(r'<a\s+[^>]*href=["\'](https://www\.sarkariresult\.com/(?:2026|2025|railway|ssc|upsc|bihar|mp|rpsc|bank|delhi|upsssc)/[^"\']+)["\'][^>]*>(.*?)</a>', re.IGNORECASE)
+    live_posts = {}
+    for m in pattern.finditer(html_text):
+        u = m.group(1).rstrip('/')
+        t = re.sub(r'<[^>]+>', '', m.group(2)).strip()
+        if t and len(t) > 5 and not any(x in u for x in ['whatsapp', 'telegram', 'page', 'about', 'contact']):
+            if u not in live_posts:
+                live_posts[u] = t
+
+    print(f"[+] Found {len(live_posts)} live recruitment article URLs.")
+
+    # Load existing jobs
     existing_jobs = []
     if os.path.exists(json_path):
-        try:
-            with open(json_path, "r", encoding="utf-8") as f:
-                existing_jobs = json.load(f)
-        except Exception as e:
-            print(f"[!] Warning reading existing jobs: {e}")
+        with open(json_path, "r", encoding="utf-8") as f:
+            existing_jobs = json.load(f)
 
-    existing_map = {j["id"]: j for j in existing_jobs}
-    existing_titles = {clean_text(j["title"]).lower() for j in existing_jobs}
+    enriched_jobs = []
+    processed = 0
 
-    new_jobs_count = 0
-    fresh_items = []
+    for url, title in list(live_posts.items())[:50]:
+        slug = url.split('/')[-1]
+        print(f"[{processed+1}/50] Deep-reading: {title[:40]}...")
+        details = parse_full_article(url)
+        processed += 1
+        if not details or not details["title"]:
+            continue
 
-    for ep in ENDPOINTS:
-        url = ep["url"]
-        category = ep["category"]
+        clean_title = details["title"]
+        auth = resolve_authority(clean_title)
 
-        items = fetch_json(url)
+        # Robust category resolution
+        path_low = url.replace("https://www.sarkariresult.com", "").lower()
+        if "/result/" in path_low or "-result" in path_low or "result-" in path_low or "marks" in path_low or "score-card" in path_low:
+            cat = "result"
+            primary_action = "⚡ रिजल्ट देखें (View Official Result)"
+        elif "/admit" in path_low or "admit-card" in path_low or "exam-date" in path_low:
+            cat = "admit_card"
+            primary_action = "⚡ एडमिट कार्ड डाउनलोड (Admit Card)"
+        elif "/answer" in path_low or "answer-key" in path_low:
+            cat = "answer_key"
+            primary_action = "⚡ उत्तर कुंजी डाउनलोड (Answer Key PDF)"
+        elif "/syllabus" in path_low:
+            cat = "syllabus"
+            primary_action = "⚡ सिलेबस डाउनलोड (Syllabus PDF)"
+        elif "/admission" in path_low:
+            cat = "admission"
+            primary_action = "⚡ एडमिशन फॉर्म (Admission Form)"
+        else:
+            cat = "job"
+            primary_action = "⚡ सीधे ऑनलाइन आवेदन करें (Apply Online)"
 
-        for item in items:
-            raw_title = item.get("title", {}).get("rendered", "")
-            title = clean_text(raw_title)
-            if not title or len(title) < 5:
-                continue
+        pdf_url = details["links"].get("notification_pdf") or auth["notice_url"]
+        official_site = details["links"].get("official_website") or auth["official_site"]
 
-            slug = item.get("slug") or f"{category}-{item.get('id', 'item')}"
-            title_key = title.lower()
-            if slug in existing_map or title_key in existing_titles:
-                continue
-
-            auth = resolve_authority(title)
-            post_date = format_date(item.get("date"))
-            article_link = item.get("link", "")
-
-            # Deep scrape the real notification PDF and details
-            deep_info = scrape_deep_details(article_link) if article_link else {}
-
-            if category == "result":
-                primary_action = "Download Official Result / Marks"
-                primary_url = auth["apply_url"]
-            elif category == "admit_card":
-                primary_action = "Download Official Admit Card"
-                primary_url = auth["apply_url"]
-            elif category == "answer_key":
-                primary_action = "Download Official Answer Key PDF"
-                primary_url = deep_info.get("notification_pdf") or auth["notice_url"]
-            elif category == "syllabus":
-                primary_action = "Download Official Syllabus PDF"
-                primary_url = deep_info.get("syllabus_url") or auth["notice_url"]
-            elif category == "admission":
-                primary_action = "Apply Online Admission"
-                primary_url = auth["apply_url"]
-            else:
-                primary_action = "Apply Online (Official Portal)"
-                primary_url = auth["apply_url"]
-
-            pdf_link = deep_info.get("notification_pdf") or auth["notice_url"]
-
-            entry = {
-                "id": slug,
-                "title": title,
-                "title_hi": title,
-                "department": auth["dept"],
-                "category": category,
-                "tag": auth["tag"],
-                "state": auth["state"],
-                "is_hot": (new_jobs_count < 3),
-                "post_date": post_date,
-                "short_info": f"{auth['dept']} has issued an official announcement regarding {title}. Candidates can check the official eligibility guidelines, dates, and apply directly via the official government portal below.",
-                "important_dates": deep_info.get("important_dates") or {
-                    "notification_released": post_date,
-                    "last_date": "Check Official Notification",
-                    "exam_date": "As per Official Schedule"
-                },
-                "application_fee": {
-                    "details": "Refer to official government notice",
-                    "payment_mode": "Online (Net Banking / Debit Card / UPI)"
-                },
-                "age_limit": {
-                    "min_age": "18 Years",
-                    "max_age": "As per Rules",
-                    "notes": f"Age relaxation applicable as per {auth['dept']} rules."
-                },
-                "vacancy_details": [
-                    {
-                        "post_name": title,
-                        "total": "As Per Notification",
-                        "eligibility": "Refer to official announcement rules."
-                    }
-                ],
-                "links": {
-                    "primary_action": primary_action,
-                    "primary_url": primary_url,
-                    "notification_pdf": pdf_link,
-                    "notification_url": pdf_link,
-                    "syllabus_url": deep_info.get("syllabus_url", ""),
-                    "official_website": auth["official_site"]
+        job_entry = {
+            "id": slug,
+            "title": clean_title,
+            "title_hi": clean_title,
+            "department": auth["dept"],
+            "category": cat,
+            "tag": auth["tag"],
+            "state": auth["state"],
+            "is_hot": (processed <= 5),
+            "post_date": datetime.now().strftime("%d/%m/%Y"),
+            "short_info": details["short_info"] or f"{auth['dept']} has issued an official announcement regarding {clean_title}. Detailed eligibility guidelines, schedule, and direct application links are provided below.",
+            "important_dates": details["important_dates"] if details["important_dates"] else {
+                "Notification Date": datetime.now().strftime("%d/%m/%Y"),
+                "Apply Last Date": "As per Notification",
+                "Exam Date": "Will be notified soon"
+            },
+            "application_fee": details["application_fee"] if details["application_fee"] else {
+                "Fee Details": "Refer to official notification",
+                "Payment Mode": "Online / Net Banking"
+            },
+            "age_limit": details["age_limit"] if details["age_limit"] else {
+                "Minimum Age": "18 Years",
+                "Maximum Age": "As per Rules",
+                "Notes": f"Age relaxation applicable as per {auth['dept']} rules."
+            },
+            "vacancy_details": details["vacancy_details"] if details["vacancy_details"] else [
+                {
+                    "post_name": clean_title,
+                    "total": "As Per Notification",
+                    "eligibility": "Refer to official notification PDF."
                 }
+            ],
+            "links": {
+                "primary_action": primary_action,
+                "primary_url": auth["apply_url"],
+                "notification_pdf": pdf_url,
+                "notification_url": pdf_url,
+                "syllabus_url": details["links"].get("syllabus_url", ""),
+                "official_website": official_site
             }
+        }
 
-            fresh_items.append(entry)
-            existing_titles.add(title_key)
-            existing_map[slug] = entry
-            new_jobs_count += 1
-            print(f"[+] Added authentic item: {title} ({auth['state']}) -> PDF: {pdf_link}")
+        enriched_jobs.append(job_entry)
+        time.sleep(0.3)
 
-    print(f"\n[+] Total newly discovered items: {new_jobs_count}")
+    print(f"\n[2/3] Merging {len(enriched_jobs)} deep-parsed jobs with existing repository...")
+    merged_map = {}
+    for j in enriched_jobs:
+        merged_map[j["id"]] = j
+    for j in existing_jobs:
+        if j["id"] not in merged_map:
+            merged_map[j["id"]] = j
 
-    if new_jobs_count > 0:
-        combined_jobs = fresh_items + existing_jobs
-        with open(json_path, "w", encoding="utf-8") as f:
-            json.dump(combined_jobs, f, ensure_ascii=False, indent=2)
-        print(f"[OK] Successfully updated {json_path} with total {len(combined_jobs)} jobs!")
-        try:
-            from generate_job_pages import generate_pages
-            generate_pages()
-        except Exception as e:
-            print(f"[!] Warning generating pages: {e}")
-    else:
-        print("[=] All items are already up to date.")
+    final_list = list(merged_map.values())
+
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(final_list, f, indent=2, ensure_ascii=False)
+
+    print(f"[OK] Saved total {len(final_list)} authentic jobs to {json_path}!")
+
+    print("[3/3] Generating static job pages in /jobs/...")
+    try:
+        from generate_job_pages import generate_pages
+        generate_pages()
+    except Exception as e:
+        print(f"Warning generating static pages: {e}")
 
 if __name__ == "__main__":
     main()
