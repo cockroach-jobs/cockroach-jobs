@@ -2365,5 +2365,222 @@
   "startDate": "2026-10-15",
   "state": "सभी राज्य (केंद्रीय)",
   "title": "रेलवे NTPC अंडरग्रेजुएट भर्ती 2026 (CEN 07/2026)"
+ },
+ {
+  "age": "30 – 62 वर्ष",
+  "applyUrl": "https://apply.upessc.org",
+  "breakup": [
+   [
+    "प्रधानाध्यापक (बालक विद्यालय)",
+    "1,037",
+    "Graduate"
+   ],
+   [
+    "प्रधानाध्यापक (बालिका विद्यालय)",
+    "135",
+    "Graduate"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "स्नातकोत्तर डिग्री प्रमाणपत्र",
+   "B.Ed/B.P.Ed प्रमाणपत्र",
+   "अनुभव प्रमाणपत्र",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": "2027-01-07",
+  "feeGen": "₹1,500",
+  "feeText": "सभी श्रेणी ₹1,500 (वापस नहीं होगा)",
+  "id": "upessc-headmaster-2026",
+  "isNew": true,
+  "lastDate": "2026-11-22",
+  "org": "Uttar Pradesh Education Service Selection Commission (UPESSC)",
+  "pdfUrl": null,
+  "posts": "1,172 पद",
+  "qual": "Graduate",
+  "salary": "₹56,100 – ₹1,77,500 / माह",
+  "selection": [
+   "लिखित परीक्षा (360 अंक)",
+   "साक्षात्कार (40 अंक)"
+  ],
+  "siteUrl": "https://upessc.up.gov.in/",
+  "sourceUrl": "https://www.youtube.com/watch?v=A7w66PZFC9c",
+  "startDate": "2026-10-23",
+  "state": "उत्तर प्रदेश",
+  "title": "UP प्रधानाध्यापक (हाई स्कूल) भर्ती 2026 (विज्ञापन सं. 09/2026)"
+ },
+ {
+  "age": "—",
+  "applyUrl": "https://niyukti.assam.gov.in/cmaaa2",
+  "breakup": [
+   [
+    "मुख्यमंत्री फेलो",
+    "256",
+    "Graduate"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "MBA/स्नातकोत्तर डिग्री प्रमाणपत्र",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": null,
+  "feeGen": "निःशुल्क",
+  "feeText": "कोई आवेदन शुल्क नहीं",
+  "id": "assam-cm-fellow-2026",
+  "isNew": true,
+  "lastDate": "2026-11-14",
+  "org": "Chief Minister's Atmanirbhar Asom Abhijan (CMAAA) Society, असम सरकार",
+  "pdfUrl": null,
+  "posts": "256 पद",
+  "qual": "Graduate",
+  "salary": "₹6,00,000 / वर्ष (पहला साल, यात्रा सहित)",
+  "selection": [
+   "आवेदन छँटाई (Shortlisting)",
+   "समूह चर्चा (Group Discussion)",
+   "साक्षात्कार"
+  ],
+  "siteUrl": "https://cmaaa.assam.gov.in",
+  "sourceUrl": "https://www.youtube.com/watch?v=Hu-p7wnyY0c",
+  "startDate": "2026-11-01",
+  "state": "असम",
+  "title": "असम मुख्यमंत्री फेलो भर्ती 2026 — 256 पद (24 महीने की फेलोशिप, स्थायी नौकरी नहीं)"
+ },
+ {
+  "age": "18 – 40 वर्ष (पद अनुसार)",
+  "applyUrl": "https://www.rrbapply.gov.in/",
+  "breakup": [
+   [
+    "जूनियर अनुवादक (हिंदी)",
+    "79",
+    "Graduate"
+   ],
+   [
+    "लैब असिस्टेंट ग्रेड-III",
+    "36",
+    "Graduate"
+   ],
+   [
+    "स्टाफ़ व कल्याण निरीक्षक",
+    "27",
+    "Graduate"
+   ],
+   [
+    "लोक अभियोजक (Public Prosecutor)",
+    "21",
+    "Graduate"
+   ],
+   [
+    "मुख्य विधि सहायक",
+    "17",
+    "Graduate"
+   ],
+   [
+    "वरिष्ठ प्रचार निरीक्षक",
+    "8",
+    "Graduate"
+   ],
+   [
+    "वैज्ञानिक सहायक (प्रशिक्षण)",
+    "3",
+    "Graduate"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "स्नातक/स्नातकोत्तर डिग्री",
+   "10वीं प्रमाणपत्र",
+   "फ़ोटो व हस्ताक्षर",
+   "जाति प्रमाणपत्र (लागू हो तो)"
+  ],
+  "examDate": null,
+  "feeGen": "₹500",
+  "feeText": "Gen/OBC/EWS ₹500 (CBT के बाद ₹400 वापस) · SC/ST/महिला/ESM ₹250 (पूरी वापस)",
+  "id": "rrb-isolated-categories-cen-09-2026",
+  "isNew": true,
+  "lastDate": "2026-12-04",
+  "org": "Railway Recruitment Board (RRB)",
+  "pdfUrl": "https://www.rrbapply.gov.in/assets/forms/CEN_09_2026_IsolatedCategory.pdf",
+  "posts": "191 पद",
+  "qual": "Graduate",
+  "salary": "₹19,900 – ₹44,900 / माह (पद अनुसार)",
+  "selection": [
+   "CBT (कंप्यूटर आधारित परीक्षा)",
+   "अनुवाद परीक्षा (जूनियर अनुवादक के लिए)",
+   "दस्तावेज़ सत्यापन",
+   "मेडिकल परीक्षण"
+  ],
+  "siteUrl": "https://rrb.indianrailways.gov.in",
+  "sourceUrl": "https://www.youtube.com/watch?v=CZz_uVWpIEY",
+  "startDate": "2026-11-05",
+  "state": "सभी राज्य (केंद्रीय)",
+  "title": "रेलवे आइसोलेटेड कैटेगरी भर्ती 2026 (CEN 09/2026) — 7 विशेषज्ञ पद"
+ },
+ {
+  "age": "18 – 44 वर्ष",
+  "applyUrl": "https://www.tgpsc.gov.in",
+  "breakup": [
+   [
+    "चारमीनार ज़ोन",
+    "25",
+    "Graduate"
+   ],
+   [
+    "भद्राद्रि ज़ोन",
+    "17",
+    "Graduate"
+   ],
+   [
+    "राजन्ना ज़ोन",
+    "15",
+    "Graduate"
+   ],
+   [
+    "बसरा ज़ोन",
+    "14",
+    "Graduate"
+   ],
+   [
+    "कालेश्वरम ज़ोन",
+    "12",
+    "Graduate"
+   ],
+   [
+    "जोगुलाम्बा ज़ोन",
+    "12",
+    "Graduate"
+   ],
+   [
+    "यादाद्रि ज़ोन",
+    "7",
+    "Graduate"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "स्नातक डिग्री (सांख्यिकी विषय सहित)",
+   "10वीं प्रमाणपत्र",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": null,
+  "feeGen": "₹1,000",
+  "feeText": "OC/BC ₹1,000 + ₹80 परीक्षा शुल्क · SC/ST/PwD ₹500 + ₹80 (बेरोज़गार को परीक्षा शुल्क से छूट)",
+  "id": "tgpsc-mpso-aso-2026",
+  "isNew": true,
+  "lastDate": "2026-11-27",
+  "org": "Telangana Public Service Commission (TGPSC)",
+  "pdfUrl": null,
+  "posts": "102 पद",
+  "qual": "Graduate",
+  "salary": "₹36,750 – ₹1,06,990 / माह",
+  "selection": [
+   "लिखित परीक्षा — पेपर-I (सामान्य अध्ययन)",
+   "लिखित परीक्षा — पेपर-II (सांख्यिकी)"
+  ],
+  "siteUrl": "https://www.tgpsc.gov.in",
+  "sourceUrl": "https://www.youtube.com/watch?v=47PSpwmTJRo",
+  "startDate": "2026-10-30",
+  "state": "तेलंगाना",
+  "title": "TGPSC मंडल योजना व सांख्यिकी अधिकारी (MPSO/ASO) भर्ती 2026"
  }
 ]
