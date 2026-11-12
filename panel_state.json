@@ -1699,9 +1699,414 @@
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T16:48+05:30",
    "verifyNote": "YouTube वीडियो (TNPSC/TNPDCL जॉब राउंडअप — TNPDCL 500 सीटें, स्टाइपेंड ₹10,900, last date 28.11.2026) + Testbook, FreeJobAlert, CareerAlert24, ExamNeed से cross-check — TNPDCL (पहले TNEB) की 2026-27 Apprenticeship, 500 Diploma (Technician) Apprentice (EEE 455, ECE 35, Computer/IT 10), NATS पोर्टल पर आवेदन 28 Oct – 28 Nov 2026, स्टाइपेंड ₹10,900/माह, 1 साल ट्रेनिंग; चयन diploma अंकों से, कोई परीक्षा नहीं; सिर्फ़ तमिलनाडु के निवासी, 2022–2025 या मई 2026 में diploma पास, B.E./B.Tech वाले पात्र नहीं। यह स्थायी नौकरी नहीं है। कमी: आवेदन शुल्क व आयु सीमा का ज़िक्र नहीं मिला; आधिकारिक notification PDF का सीधा link नहीं मिला (NATS पोर्टल के BOAT-SR सेक्शन में है)।"
+  },
+  {
+   "id": "prep-rrc-nwr-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "उत्तर पश्चिम रेलवे (RRC NWR) एक्ट अप्रेंटिस भर्ती 2026 — 2,008 स्लॉट (संशोधित नोटिस 04/2026)",
+   "fields": {
+    "title": {
+     "value": "उत्तर पश्चिम रेलवे (RRC NWR) एक्ट अप्रेंटिस भर्ती 2026 — 2,008 स्लॉट (संशोधित नोटिस 04/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती प्रकोष्ठ, उत्तर पश्चिम रेलवे (RRC), जयपुर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "2,008 स्लॉट (नोटिस में संख्या 2,008; unit-wise जोड़ 2,234 — नोटिस में ही अंतर, पुष्टि बाकी)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं (50% अंक) + संबंधित ट्रेड में ITI (NCVT/SCVT)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "राजस्थान",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-23",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-22",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹100",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC/EWS ₹100; SC/ST/PwBD/महिला — कोई शुल्क नहीं (non-refundable, सिर्फ़ online)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "15 – 24 वर्ष (22 नवंबर 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.rrcjaipur.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.rrcjaipur.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=Ll0zdIrsT0Q",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (Railway Apprentice Recruitment 2026 | 2008 Posts | NWR Jaipur) + JobCareerUpdates, PW.live, FreeJobAlert, TezTak, CareerAlert24 से cross-check — संशोधित नोटिस 04/2026 (21 Oct 2026) ही मान्य है, पहला नोटिस (30 Sep) रद्द; आवेदन 23 Oct–22 Nov 2026; 10वीं 50% + ITI; आयु 15–24; शुल्क ₹100/छूट; कोई लिखित परीक्षा नहीं, 10वीं+ITI अंकों की मेरिट से चयन। ध्यान दें: यह स्थायी नौकरी नहीं — Apprentices Act के तहत 1 साल की training है। कमी: पदों की संख्या में नोटिस का अपना अंतर (2,008 बनाम unit-wise जोड़ 2,234), स्टाइपेंड की राशि नोटिस में fixed नहीं, और आधिकारिक notification PDF का सीधा link नहीं मिला — rrcjaipur.in से पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T17:48+05:30"
+  },
+  {
+   "id": "prep-exim-bank-mt-manager-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "EXIM Bank मैनेजमेंट ट्रेनी (MT) व मैनेजर भर्ती 2026 — 120 पद (MT 90 + मैनेजर 30)",
+   "fields": {
+    "title": {
+     "value": "EXIM Bank मैनेजमेंट ट्रेनी (MT) व मैनेजर भर्ती 2026 — 120 पद (MT 90 + मैनेजर 30)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय निर्यात-आयात बैंक (EXIM Bank)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "120 पद (मैनेजमेंट ट्रेनी 90 + मैनेजर 30)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate (विस्तृत विज्ञापन का इंतज़ार — पदवार योग्यता अभी जारी नहीं)",
+     "state": "check"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "check"
+    },
+    "lastDate": {
+     "value": "2026-12-11",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "21 – 28 वर्ष (31 दिसंबर 2025 को)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://www.eximbankindia.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.eximbankindia.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/exim-bank-recruitment-mt-manager/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Testbook, Karmasandhan, ixambee, 9curry, Govnokri से cross-check — 11 Nov 2026 को सिर्फ़ short notice जारी हुआ है; 120 पद (MT 90 + Manager 30), अंतिम तिथि 11 Dec 2026 सभी स्रोतों में एक जैसी। विस्तृत विज्ञापन अभी जारी नहीं — योग्यता, शुल्क, वेतन, परीक्षा और चयन-प्रक्रिया की पुष्टि बाकी; आयु 21–28 सिर्फ़ एक स्रोत से मिली, इसलिए 'check'। विस्तृत विज्ञापन आते ही entry update करनी होगी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T17:48+05:30"
+  },
+  {
+   "id": "prep-kea-je-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "कर्नाटक KEA जूनियर इंजीनियर (JE) व समकक्ष ग्रुप-C भर्ती 2026 — 218 पद",
+   "fields": {
+    "title": {
+     "value": "कर्नाटक KEA जूनियर इंजीनियर (JE) व समकक्ष ग्रुप-C भर्ती 2026 — 218 पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "कर्नाटक परीक्षा प्राधिकरण (KEA)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "218 पद (RPC 187 + Kalyana Karnataka 31; JE Civil 97, Assistant Town Planner 119, Draughtsman 2)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "सिविल इंजीनियरिंग में 3 साल का Diploma",
+     "state": "ok"
+    },
+    "state": {
+     "value": "कर्नाटक",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-31",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-26",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2027-01-08",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": "₹750",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "सामान्य वर्ग ₹750; शुल्क भुगतान की अंतिम तिथि 27 नवंबर 2026; अन्य श्रेणियों की फीस नोटिस से देखें",
+     "state": "check"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://cetonline.karnataka.gov.in/kea",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://cetonline.karnataka.gov.in/kea",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://jobcareerupdates.in/blog/kea-junior-engineer-recruitment-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "JobCareerUpdates, GovtServiceInfo, Karmasandhan, PlacementStore, CivilGyanTests से cross-check — दो नोटिस (RPC ED/KEA/41/Ne.Vi/2026, 31 Oct; KK ED/KEA/40/Ne.Vi/2026, 30 Oct), कुल 218 पद; आवेदन 31 Oct–26 Nov 2026, फीस 27 Nov तक; परीक्षा जनवरी 2027 में, Kannada test 8 Jan 2027 (competitive exam की exact dates अभी जारी नहीं, इसलिए examDate 'check')। कमी: आधिकारिक notification PDF का सीधा link, आयु-सीमा और वेतन की पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T17:48+05:30"
+  },
+  {
+   "id": "prep-igims-junior-resident-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "IGIMS पटना जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 109 पद",
+   "fields": {
+    "title": {
+     "value": "IGIMS पटना जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 109 पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "इंदिरा गांधी आयुर्विज्ञान संस्थान (IGIMS), पटना",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "109 पद (Dentistry विभाग को छोड़कर सभी विभाग)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS + इंटर्नशिप; चयन NEET-PG 2026 स्कोर से",
+     "state": "ok"
+    },
+    "state": {
+     "value": "बिहार",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹56,100 / माह (Level-10 entry pay) + NPA व अन्य भत्ते; 1 साल की tenure",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": "https://www.igims.org/resources/uploads/TenderManagement/179421839322.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://www.igims.org",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/igims-patna-junior-resident-recruitment/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Karmasandhan, MySarkariNaukri, RojgarPulse, FreshersLive, JobKaka से cross-check — विज्ञापन सं. 03/Jr. Resident (NA)/IGIMS/Estt./2026 (4 Nov 2026), 109 पद; आवेदन offline — फॉर्म डाक/courier से 30 Nov 2026 शाम 4 बजे तक IGIMS पहुँचना चाहिए; चयन NEET-PG 2026 स्कोर से, 1 साल की tenure। कमी: आवेदन शुल्क और आयु-सीमा की पुष्टि बाकी; PDF link दूसरे स्रोत से लिया है, igims.org से सीधी पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T17:48+05:30"
+  },
+  {
+   "id": "prep-scl-recruitment-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली भर्ती 2026 — 83 पद (Technician 'B', Technical Assistant व अन्य)",
+   "fields": {
+    "title": {
+     "value": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली भर्ती 2026 — 83 पद (Technician 'B', Technical Assistant व अन्य)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली — MeitY",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "83 पद (Technician 'B' 41, Technical Assistant 30, Junior Personal Assistant 7, अधिकारी 5)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ITI / Diploma / Graduate (पद के अनुसार)",
+     "state": "check"
+    },
+    "state": {
+     "value": "पंजाब",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-01",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Technical Assistant Level-7 — ₹83,700/माह; अन्य पदों का वेतन नोटिस से देखें",
+     "state": "check"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.scl.gov.in/career.html",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://www.scl.gov.in/career/Advt_Short22102026.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://www.scl.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://govtjobsalert.in/scl-technician-technical-assistant-recruitment-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "GovtJobsAlert, FreeJobAlert, BongJobs, GovtJobAlerts, SetuVidhya से cross-check — विज्ञापन SCL:DR:01/2026 (24 Oct 2026), 83 regular पद, आवेदन 1–30 Nov 2026 (शाम 5 बजे तक, सिर्फ़ online); CBT की तारीख़ अभी घोषित नहीं। कमी: पदवार योग्यता/आयु/शुल्क की पूरी पुष्टि बाकी (वेतन सिर्फ़ Technical Assistant का एक स्रोत से), short notice PDF link दूसरे स्रोत से लिया है — scl.gov.in से सीधी पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T17:48+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T17:41:12.326081+05:30",
+ "updatedAt": "2026-11-12T17:48+05:30",
  "version": 1
 }
