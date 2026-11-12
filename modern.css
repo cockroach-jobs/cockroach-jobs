@@ -1,0 +1,172 @@
+/* ============================================================
+   COCKROACH JOBS — MODERN V2 LAYER (LOYATI redesign, Nov 2026)
+   Loaded AFTER styles.css. Adds motion, glass, glow and the
+   Interactive Yatra (journey) section styles. No layout of the
+   original engine is removed; everything is additive override.
+   ============================================================ */
+
+:root {
+  --v2-glow: rgba(245, 158, 11, 0.35);
+  --v2-grad: linear-gradient(120deg, #f59e0b, #ef4444, #8b5cf6, #f59e0b);
+}
+
+/* ---------- Motion safety ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* ---------- Sticky glass navbar ---------- */
+.navbar {
+  position: sticky; top: 0; z-index: 900;
+  backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  background: color-mix(in srgb, var(--bg) 82%, transparent);
+  box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+}
+.brand-icon { animation: v2-wiggle 5s ease-in-out infinite; display: inline-block; }
+@keyframes v2-wiggle { 0%, 92%, 100% { transform: rotate(0deg); } 94% { transform: rotate(-10deg); } 96% { transform: rotate(10deg); } 98% { transform: rotate(-6deg); } }
+
+/* ---------- Animated hero ---------- */
+.hero { position: relative; overflow: hidden; isolation: isolate; }
+.hero::before {
+  content: ""; position: absolute; inset: -40%; z-index: -1;
+  background:
+    radial-gradient(600px 300px at 15% 20%, rgba(245,158,11,0.20), transparent 60%),
+    radial-gradient(700px 340px at 85% 15%, rgba(139,92,246,0.18), transparent 60%),
+    radial-gradient(500px 260px at 55% 90%, rgba(239,68,68,0.14), transparent 60%);
+  animation: v2-heroPan 16s ease-in-out infinite alternate;
+}
+@keyframes v2-heroPan { from { transform: translate3d(-2%, -1%, 0) scale(1); } to { transform: translate3d(2%, 2%, 0) scale(1.06); } }
+.gradient-text {
+  background: var(--v2-grad); background-size: 220% 220%;
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+  animation: v2-gradShift 7s ease infinite;
+}
+@keyframes v2-gradShift { 0%,100% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } }
+.hero-tag { animation: v2-floatIn 0.8s ease both; }
+.hero-title { animation: v2-floatIn 0.8s 0.1s ease both; }
+.hero-subtitle { animation: v2-floatIn 0.8s 0.2s ease both; }
+@keyframes v2-floatIn { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+
+/* ---------- Search glow ---------- */
+.search-wrapper { transition: box-shadow 0.3s ease, transform 0.3s ease; border-radius: 16px; }
+.search-wrapper:focus-within { box-shadow: 0 0 0 3px var(--v2-glow), 0 18px 40px rgba(0,0,0,0.25); transform: translateY(-1px); }
+
+/* ---------- Cards: lift + shine ---------- */
+.job-card { position: relative; overflow: hidden; transition: transform 0.35s cubic-bezier(.2,.8,.2,1), box-shadow 0.35s ease, border-color 0.35s ease; }
+.job-card:hover { transform: translateY(-5px); box-shadow: 0 18px 38px rgba(0,0,0,0.28); border-color: var(--accent); }
+.job-card::after {
+  content: ""; position: absolute; top: 0; left: -80%; width: 55%; height: 100%;
+  background: linear-gradient(105deg, transparent, rgba(255,255,255,0.14), transparent);
+  transform: skewX(-18deg); transition: left 0.6s ease; pointer-events: none;
+}
+.job-card:hover::after { left: 130%; }
+
+.sarkari-column, .secondary-column { transition: transform 0.35s ease, box-shadow 0.35s ease; }
+.sarkari-column:hover, .secondary-column:hover { transform: translateY(-4px); box-shadow: 0 16px 34px rgba(0,0,0,0.22); }
+.quick-links-list li a { transition: padding-left 0.25s ease, color 0.25s ease; }
+.quick-links-list li a:hover { padding-left: 6px; color: var(--accent); }
+
+.tab-btn { transition: all 0.25s ease; }
+.tab-btn:hover { transform: translateY(-2px); }
+.tab-btn.active { box-shadow: 0 8px 22px var(--v2-glow); }
+.social-btn { transition: transform 0.25s ease, box-shadow 0.25s ease; }
+.social-btn:hover { transform: translateY(-3px) scale(1.01); box-shadow: 0 14px 28px rgba(0,0,0,0.25); }
+.agency-nav-chip { transition: all 0.25s ease; }
+.agency-nav-chip:hover { transform: translateY(-2px); border-color: var(--accent); color: var(--accent); }
+
+/* ---------- Ticker smoothness ---------- */
+.ticker-track { will-change: transform; }
+.ticker-badge { animation: v2-pulseDot 1.6s ease-in-out infinite; }
+@keyframes v2-pulseDot { 0%,100% { opacity: 1; } 50% { opacity: 0.55; } }
+
+/* ---------- Reveal on scroll ---------- */
+.reveal { opacity: 0; transform: translateY(26px); transition: opacity 0.7s ease, transform 0.7s cubic-bezier(.2,.8,.2,1); }
+.reveal.revealed { opacity: 1; transform: none; }
+
+/* ---------- Modal entrance ---------- */
+.modal-dialog { animation: v2-modalIn 0.38s cubic-bezier(.2,.9,.3,1.1) both; }
+@keyframes v2-modalIn { from { opacity: 0; transform: translateY(34px) scale(0.98); } to { opacity: 1; transform: none; } }
+
+/* ---------- Loading shimmer ---------- */
+.loading-item { position: relative; overflow: hidden; }
+.loading-item::after { content: ""; position: absolute; inset: 0; background: linear-gradient(100deg, transparent 30%, rgba(255,255,255,0.10) 50%, transparent 70%); animation: v2-shimmer 1.4s infinite; }
+@keyframes v2-shimmer { from { transform: translateX(-100%); } to { transform: translateX(100%); } }
+
+/* ---------- Scrollbar ---------- */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: color-mix(in srgb, var(--accent) 65%, #444); border-radius: 8px; }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
+
+/* ============================================================
+   INTERACTIVE YATRA (SarkariYatra-style journey)
+   ============================================================ */
+.yatra-section { margin-top: 8px; }
+.yatra-shell {
+  position: relative; border-radius: 22px; padding: 28px 22px;
+  background: color-mix(in srgb, var(--bg-secondary) 88%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  box-shadow: 0 24px 50px rgba(0,0,0,0.22); overflow: hidden;
+}
+.yatra-shell::before {
+  content: ""; position: absolute; inset: 0 0 auto 0; height: 4px;
+  background: var(--v2-grad); background-size: 220% 220%; animation: v2-gradShift 7s ease infinite;
+}
+.yatra-kicker { display: inline-block; font-size: 0.78rem; letter-spacing: 0.14em; font-weight: 800; color: var(--accent); text-transform: uppercase; }
+.yatra-title { font-size: clamp(1.4rem, 3.4vw, 2rem); margin: 6px 0 4px; line-height: 1.25; }
+.yatra-sub { color: var(--text-secondary, #9aa4b2); margin: 0 0 18px; }
+.yatra-controls { display: flex; flex-wrap: wrap; gap: 14px; align-items: end; }
+.yatra-field { display: flex; flex-direction: column; gap: 8px; }
+.yatra-field > span { font-size: 0.85rem; font-weight: 700; }
+.qual-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.qual-chip {
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, #666); background: transparent; color: inherit;
+  padding: 9px 14px; border-radius: 999px; cursor: pointer; font-weight: 700; font-size: 0.9rem;
+  transition: all 0.25s ease;
+}
+.qual-chip:hover { transform: translateY(-2px); border-color: var(--accent); }
+.qual-chip.selected { background: var(--accent); color: #111; border-color: var(--accent); box-shadow: 0 10px 22px var(--v2-glow); }
+.yatra-select {
+  padding: 10px 12px; border-radius: 12px; border: 1px solid color-mix(in srgb, var(--accent) 35%, #666);
+  background: var(--bg); color: inherit; font-weight: 600; min-width: 210px;
+}
+.yatra-start-btn {
+  border: none; cursor: pointer; border-radius: 14px; padding: 12px 22px; font-weight: 900; font-size: 1rem;
+  color: #111; background: var(--v2-grad); background-size: 220% 220%; animation: v2-gradShift 7s ease infinite;
+  transition: transform 0.25s ease, box-shadow 0.25s ease; box-shadow: 0 12px 26px var(--v2-glow);
+}
+.yatra-start-btn:hover { transform: translateY(-2px) scale(1.02); }
+.yatra-note { font-size: 0.8rem; color: var(--text-secondary, #9aa4b2); margin-top: 12px; }
+
+.yatra-story { margin-top: 26px; display: none; }
+.yatra-story.show { display: block; }
+.chapter { position: relative; padding: 0 0 8px 58px; margin-bottom: 22px; opacity: 0; transform: translateY(22px); }
+.chapter.play { animation: v2-floatIn 0.65s ease forwards; }
+.chapter::before { content: ""; position: absolute; left: 21px; top: 46px; bottom: -14px; width: 2px; background: color-mix(in srgb, var(--accent) 35%, transparent); }
+.chapter:last-child::before { display: none; }
+.chapter-num {
+  position: absolute; left: 0; top: 0; width: 44px; height: 44px; border-radius: 50%;
+  display: grid; place-items: center; font-weight: 900; color: #111;
+  background: var(--v2-grad); background-size: 220% 220%; animation: v2-gradShift 7s ease infinite;
+  box-shadow: 0 10px 22px var(--v2-glow);
+}
+.chapter h3 { margin: 8px 0 10px; font-size: 1.15rem; }
+.chapter p.lead { margin: 0 0 12px; color: var(--text-secondary, #9aa4b2); }
+.yatra-job {
+  display: flex; justify-content: space-between; gap: 12px; align-items: center;
+  padding: 12px 14px; margin-bottom: 10px; border-radius: 14px; cursor: pointer;
+  background: color-mix(in srgb, var(--bg) 75%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 22%, #555);
+  transition: all 0.25s ease;
+}
+.yatra-job:hover { transform: translateX(4px); border-color: var(--accent); }
+.yatra-job .yj-title { font-weight: 700; }
+.yatra-job .yj-meta { font-size: 0.82rem; color: var(--text-secondary, #9aa4b2); }
+.yj-badge { white-space: nowrap; font-size: 0.78rem; font-weight: 800; padding: 6px 10px; border-radius: 999px; background: var(--accent-light); color: var(--accent); }
+.yj-badge.urgent { background: rgba(239,68,68,0.16); color: #ef4444; animation: v2-pulseDot 1.4s infinite; }
+.yatra-steps { margin: 0; padding-left: 18px; line-height: 1.9; }
+.yatra-empty { padding: 14px; border-radius: 12px; background: rgba(239,68,68,0.10); }
+@media (max-width: 640px) {
+  .chapter { padding-left: 50px; }
+  .yatra-select { min-width: 100%; }
+  .yatra-controls { flex-direction: column; align-items: stretch; }
+}

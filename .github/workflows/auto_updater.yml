@@ -2,9 +2,14 @@ name: 🪳 Auto Update Cockroach Jobs
 
 on:
   schedule:
-    # Runs 3 times a day: 9:30 AM, 3:30 PM, 9:30 PM IST
-    - cron: '0 4,10,16 * * *'
+    # Runs EVERY HOUR (on the hour, UTC) — fresh jobs all day
+    - cron: '0 * * * *'
   workflow_dispatch:
+
+# Never let two hourly runs overlap and fight over the same push
+concurrency:
+  group: auto-updater
+  cancel-in-progress: false
 
 permissions:
   contents: write

@@ -36,6 +36,7 @@
   </script>
 
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="modern.css">
 </head>
 <body>
 
@@ -100,6 +101,35 @@
     </div>
   </section>
 
+  <!-- INTERACTIVE YATRA (SarkariYatra-style documentary journey) -->
+  <section class="container yatra-section reveal" id="yatra">
+    <div class="yatra-shell">
+      <span class="yatra-kicker">🧭 इंटरैक्टिव गाइड — सिर्फ़ तुम्हारे लिए</span>
+      <h2 class="yatra-title">मेरी नौकरी यात्रा: योग्यता से नौकरी तक की कहानी</h2>
+      <p class="yatra-sub">सूची में खोने की ज़रूरत नहीं। अपनी योग्यता और राज्य चुनो — तुम्हारे लिए खुली भर्तियाँ, सबसे नज़दीक आख़िरी तारीख और आगे का पूरा रास्ता, 3 अध्यायों में।</p>
+      <div class="yatra-controls">
+        <div class="yatra-field">
+          <span>🎓 मेरी योग्यता</span>
+          <div class="qual-chips">
+            <button type="button" class="qual-chip" data-qual="tenth">10वीं पास</button>
+            <button type="button" class="qual-chip" data-qual="twelfth">12वीं पास</button>
+            <button type="button" class="qual-chip" data-qual="diploma">डिप्लोमा / ITI</button>
+            <button type="button" class="qual-chip selected" data-qual="graduate">ग्रेजुएट</button>
+          </div>
+        </div>
+        <div class="yatra-field">
+          <span>📍 मेरा राज्य</span>
+          <select id="yatraState" class="yatra-select">
+            <option value="all">सभी राज्य (All India समेत)</option>
+          </select>
+        </div>
+        <button type="button" id="yatraStartBtn" class="yatra-start-btn">🚀 मेरी यात्रा शुरू करो</button>
+      </div>
+      <p class="yatra-note">ℹ️ छँटाई भर्ती की पात्रता जानकारी के आधार पर होती है — आवेदन से पहले आधिकारिक नोटिफ़िकेशन ज़रूर जाँचें। डेटाबेस हर घंटे अपडेट होता है।</p>
+      <div id="yatraStory" class="yatra-story"></div>
+    </div>
+  </section>
+
   <!-- Agency Fast-Access Strip (Psychological Authority Nav) -->
   <div class="container agency-strip-section">
     <div class="agency-strip-wrap">
@@ -127,7 +157,7 @@
   </div>
 
   <!-- SARKARIRESULT ICONIC 3-COLUMN QUICK ACCESS GRID -->
-  <section class="container sarkari-boxes-section">
+  <section class="container sarkari-boxes-section reveal">
     <div class="section-title-wrap">
       <h2 class="section-title">⚡ त्वरित लिंक (Quick Access Matrix)</h2>
       <span class="section-subtitle">सीधे अपने आवश्यक सेक्शन पर क्लिक करें</span>
@@ -181,7 +211,7 @@
   </section>
 
   <!-- SECONDARY QUICK ACCESS: Answer Key | Syllabus | Admission -->
-  <section class="container secondary-boxes-section">
+  <section class="container secondary-boxes-section reveal">
     <div class="secondary-columns-grid">
       
       <div class="secondary-column box-keys" id="answer-keys">
@@ -215,7 +245,7 @@
   </section>
 
   <!-- MAIN EXPLORER: Category Tabs + Rich Cards -->
-  <main class="container explorer-section">
+  <main class="container explorer-section reveal">
     <div class="section-title-wrap">
       <h2 class="section-title">📂 विस्तृत भर्ती एवं अपडेट्स सूची</h2>
       <span class="section-subtitle">विवरण, पात्रता एवं सीधे आवेदन के लिए कार्ड पर क्लिक करें</span>
@@ -394,6 +424,7 @@
   </footer>
 
   <script src="app.js"></script>
+  <script src="yatra.js"></script>
   <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9b4c3a4f6e494c95856282664a585b35"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
