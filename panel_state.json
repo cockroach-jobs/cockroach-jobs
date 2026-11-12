@@ -4534,9 +4534,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T23:50+05:30"
+  },
+  {
+   "id": "prep-goa-srlm-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "गोवा राज्य ग्रामीण आजीविका मिशन (SRLM) भर्ती 2026 — 38 पद, वॉक-इन 23–28 नवंबर",
+   "fields": {
+    "title": {
+     "value": "गोवा राज्य ग्रामीण आजीविका मिशन (SRLM) भर्ती 2026 — 38 पद, वॉक-इन 23–28 नवंबर",
+     "state": "ok"
+    },
+    "org": {
+     "value": "गोवा राज्य ग्रामीण आजीविका मिशन (Goa SRLM), ग्रामीण विकास विभाग, गोवा सरकार",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "38 पद (14 पदनाम — District Manager, Block Manager, Mission Executive, Block Project Manager, Personal Secretary, Office Assistant, Cluster Coordinator; संविदा, NRLM)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं (H.S.S.C.) / स्नातक / स्नातकोत्तर, पद अनुसार अनुभव के साथ",
+     "state": "ok"
+    },
+    "state": {
+     "value": "गोवा (गोवा निवासियों को प्राथमिकता)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-28",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं — वॉक-इन में भाग लेना मुफ़्त",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹20,000–₹55,000 प्रति माह (पद अनुसार, समेकित)",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.goa.gov.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/goa-srlm-recruitment-2026-office-assistant-district-manager-3080382",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, PlacementStore, SarkariResult.app, JobsLogin व GovtJobsAI — पाँचों एकमत: File No. DRDA-N/3-294/2026-27/221, 10 Nov 2026; 38 पद, वॉक-इन 23, 24, 25, 26 व 28 Nov, पंजीकरण सुबह 10–12 बजे, इंटरव्यू दोपहर 2:30 बजे से, स्थान Goa SRLM, 7th Floor, Spaces Building, Patto, Panaji। YouTube पर इस भर्ती का भरोसेमंद वीडियो नहीं मिला — वीडियो से cross-check बाकी है। कमी: आयु सीमा नोटिस में नहीं दी; official notification PDF का सीधा link नहीं मिला — goa.gov.in पर जाँच बाकी। Cluster Coordinator पद के लिए वॉक-इन नहीं — आवेदन MCLF को देना है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:19:42.300669Z"
+  },
+  {
+   "id": "prep-cabinet-secretariat-staff-car-driver-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "कैबिनेट सचिवालय स्टाफ़ कार ड्राइवर भर्ती 2026 — 4 पद (ऑफ़लाइन, 10वीं पास)",
+   "fields": {
+    "title": {
+     "value": "कैबिनेट सचिवालय स्टाफ़ कार ड्राइवर भर्ती 2026 — 4 पद (ऑफ़लाइन, 10वीं पास)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "कैबिनेट सचिवालय (Cabinet Secretariat), भारत सरकार",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "4 पद — स्टाफ़ कार ड्राइवर (Ordinary Grade)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं पास",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-09-18",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Level-2 (₹19,900–63,200) — वेतनमान की पुष्टि नोटिस से बाकी",
+     "state": "check"
+    },
+    "age": {
+     "value": "अधिकतम 56 वर्ष",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://cabsec.gov.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/cabinet-secretariat-staff-car-driver-recruitment-2026-apply-offline-3068844",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, MySarkariNaukri व FreeVacancyAlert — तीनों एकमत: Advt. A-12011/01/2024-Ad.I, नोटिस 18 Sep 2026, अंतिम तिथि 20 Nov 2026, ऑफ़लाइन (डाक से) आवेदन, 4 पद, 10वीं पास, अधिकतम आयु 56 वर्ष — यह आयु-सीमा प्रतिनियुक्ति/भूतपूर्व सैनिक श्रेणी की ओर इशारा करती है, इसलिए आवेदन से पहले नोटिस पढ़ना ज़रूरी है। YouTube वीडियो से cross-check नहीं हुआ। कमी: शुल्क, वेतनमान व official PDF link की पुष्टि बाकी — cabsec.gov.in पर जाँचें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:19:42.300669Z"
+  },
+  {
+   "id": "prep-jkssb-faa-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "JKSSB अकाउंट्स असिस्टेंट (FAA) एडमिट कार्ड 2026 — परीक्षा 15 नवंबर",
+   "fields": {
+    "title": {
+     "value": "JKSSB अकाउंट्स असिस्टेंट (FAA) एडमिट कार्ड 2026 — परीक्षा 15 नवंबर",
+     "state": "ok"
+    },
+    "org": {
+     "value": "जम्मू-कश्मीर सेवा चयन बोर्ड (JKSSB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "972 पद (कुछ स्रोतों में 600 — पद-संख्या पर टकराव, पुष्टि बाकी)",
+     "state": "check"
+    },
+    "qual": {
+     "value": "Graduate (किसी भी विषय में)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "जम्मू-कश्मीर",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "₹0",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "एडमिट कार्ड डाउनलोड के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://jkssb.nic.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://jkssb.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/jkssb-accounts-assistant-admit-card/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Karmasandhan, PlacementStore, SarkariResult.app, Testbook, 9Curry व FreshersLive — सभी एकमत: एडमिट कार्ड 11 Nov 2026 को जारी, OMR लिखित परीक्षा 15 Nov 2026 (रविवार), Notification No. 10 of 2025, Item No. 271, डाउनलोड jkssb.nic.in से (Application ID + DOB/OTP)। YouTube वीडियो से cross-check नहीं हुआ। टकराव: कुल पद — SarkariResult.app 972 बताता है, JKSSBAdda व Testbook 600 — इसलिए posts 'check' रखी है; एडमिट कार्ड/परीक्षा की तारीख़ों पर कोई टकराव नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:19:42.300669Z"
+  },
+  {
+   "id": "prep-hcl-trade-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "हिंदुस्तान कॉपर (HCL) ट्रेड अप्रेंटिस भर्ती 2026 — 171 पद, मलांजखंड (मध्य प्रदेश)",
+   "fields": {
+    "title": {
+     "value": "हिंदुस्तान कॉपर (HCL) ट्रेड अप्रेंटिस भर्ती 2026 — 171 पद, मलांजखंड (मध्य प्रदेश)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "हिंदुस्तान कॉपर लिमिटेड (HCL), मलांजखंड कॉपर प्रोजेक्ट, बालाघाट (मध्य प्रदेश)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "171 पद — 19 ट्रेड (Electrician 36 सबसे ज़्यादा; Fitter, Welder, COPA व अन्य)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं + संबंधित ट्रेड में ITI (कुछ ट्रेड में सिर्फ़ 10वीं)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "मध्य प्रदेश (मलांजखंड, बालाघाट)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-05",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-24",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "18–25 वर्ष (01 Nov 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.hindustancopper.com/",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.hindustancopper.com/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.placementstore.com/hcl-trade-apprentice-recruitment-2026-for-171-posts-apply-online-start-from-5-nov/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "PlacementStore, Testbook, Karmasandhan, NaTelangana व SwiftJobSearch — पाँचों एकमत: Notification No. HCL/MCP/HR/Trade App./01/2026, 3 Nov 2026; 171 सीटें, 19 ट्रेड; आवेदन 5–24 Nov 2026; मेरिट (10वीं + ITI अंक) से चयन, कोई लिखित परीक्षा नहीं; मेरिट लिस्ट 8 Dec 2026। दो-चरणीय आवेदन — Apprenticeship India portal पर पंजीकरण + HCL वेबसाइट पर फॉर्म, दोनों ज़रूरी। YouTube वीडियो से cross-check नहीं हुआ। कमी: शुल्क व स्टाइपेंड की राशि स्रोतों में नहीं मिली; official PDF link की पुष्टि बाकी। यह अप्रेंटिसशिप (प्रशिक्षण) है — नियमित नौकरी नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:19:42.300669Z"
+  },
+  {
+   "id": "prep-sci-court-master-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "सुप्रीम कोर्ट कोर्ट मास्टर (शॉर्टहैंड) भर्ती 2026 — 20 पद (Level-11)",
+   "fields": {
+    "title": {
+     "value": "सुप्रीम कोर्ट कोर्ट मास्टर (शॉर्टहैंड) भर्ती 2026 — 20 पद (Level-11)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारत का सर्वोच्च न्यायालय (Supreme Court of India), रजिस्ट्री",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "20 पद (tentative — Court Master, Shorthand, Gazetted)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक + English shorthand 120 w.p.m. + कंप्यूटर टाइपिंग 40 w.p.m. + 5 वर्ष का अनुभव (Private Secretary/Sr PA/PA/Sr Stenographer)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-25",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-07",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": "₹1,500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/UR ₹1,500 · SC/ST/OBC (NCL)/भूतपूर्व सैनिक ₹750 + बैंक शुल्क (ऑनलाइन, UCO Bank gateway)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level-11 (₹67,700–₹2,08,700), शुरुआती मूल वेतन ₹67,700 + भत्ते",
+     "state": "ok"
+    },
+    "age": {
+     "value": "30–45 वर्ष (01 Oct 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.sci.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/10/2026101664.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://www.sci.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/supreme-court-of-india-to-recruit-20-court-master-posts-3074170",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "खुद official PDF (sci.gov.in / S3 WaaS) पढ़कर जाँचा + FreeJobAlert, Career4U, TezTak व AAG Legal से cross-check — सभी एकमत: Advt. F.6/11/CM(S)/2026-SC (RC), 15 Oct 2026; 20 tentative पद; आवेदन 25 Oct–15 Nov 2026 (रात 11:55 बजे तक); Objective Test 7 Dec 2026 (tentative); शुल्क Gen ₹1,500, SC/ST/OBC-NCL/Ex-servicemen ₹750। यह अनुभवी आशुलिपिकों के लिए है — नए स्नातकों के लिए नहीं (5 वर्ष का अनुभव अनिवार्य)। YouTube वीडियो से cross-check नहीं हुआ।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:19:42.300669Z"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T23:50+05:30",
+ "updatedAt": "2026-11-12T19:19:42.300669Z",
  "version": 1
 }
