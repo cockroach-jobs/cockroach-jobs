@@ -1,9 +1,8 @@
 name: 🪳 Auto Update Cockroach Jobs
 
 on:
-  schedule:
-    # Runs EVERY HOUR (on the hour, UTC) — fresh jobs all day
-    - cron: '0 * * * *'
+  # Schedule BAND hai — site ab sirf tab update hogi jab YouTube sources se
+  # nayi jankari milegi. Ye workflow sirf haath se (manual) chalega.
   workflow_dispatch:
 
 # Never let two hourly runs overlap and fight over the same push
@@ -36,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add jobs_data.json sitemap.xml jobs scripts/official_seen.json
+          git add jobs_data.json sitemap.xml scripts/official_seen.json
           if git diff --staged --quiet; then
             echo "No new jobs discovered. Everything is up to date."
           else

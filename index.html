@@ -1,430 +1,944 @@
-<!DOCTYPE html>
-<html lang="hi" data-theme="dark">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cockroach Jobs Portal (कॉकरोच जॉब्स) - Sarkari Result, Latest Govt Jobs, Admit Card 2026</title>
-  <meta name="description" content="कॉकरोच जॉब्स पोर्टल - भारत का सबसे तेज़, अटूट एवं प्रामाणिक सरकारी नौकरी पोर्टल। नवीनतम सरकारी नौकरियां (Latest Jobs), प्रवेश पत्र (Admit Card), एवं परीक्षा परिणाम।">
-  <meta name="keywords" content="cockroach jobs, cockroach jobs portal, sarkari result, sarkari job, ssc gd, rrb ntpc, up police, bpsc tre 4, govt jobs 2026, admit card">
-  <meta name="theme-color" content="#0a0d14">
+<!doctype html>
+<html lang="hi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:," />
+    <title>Cockroach Jobs Portal — सरकारी नौकरी, Admit Card, Result व Answer Key</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <style>
+      :root{
+        --bg:#F6F8FC; --surface:#FFFFFF; --surface2:#EEF3FB;
+        --ink:#16233A; --muted:#54657F; --line:#D9E2F0;
+        --primary:#0B3C8A; --primary-soft:#E3ECFA; --on-primary:#FFFFFF;
+        --accent:#F97316; --accent-soft:#FFF1E6;
+        --green:#15803D; --green-soft:#E4F5EA;
+        --red:#DC2626; --red-soft:#FDECEC;
+        --amber:#B45309; --amber-soft:#FEF3D8;
+        --shadow:0 2px 10px rgba(11,60,138,.08),0 10px 28px rgba(11,60,138,.06);
+        --radius:16px;
+      }
+      @media (prefers-color-scheme: dark){
+        :root{
+          --bg:#0B1322; --surface:#131F36; --surface2:#182842;
+          --ink:#EAF0FA; --muted:#9DB0CE; --line:#26395C;
+          --primary:#3E74D6; --primary-soft:#1B2E52; --on-primary:#FFFFFF;
+          --accent:#FB8C3C; --accent-soft:#3A2716;
+          --green:#4ADE80; --green-soft:#123324;
+          --red:#F87171; --red-soft:#3A1B1B;
+          --amber:#FBBF24; --amber-soft:#3A2E10;
+          --shadow:0 2px 10px rgba(0,0,0,.35),0 10px 28px rgba(0,0,0,.3);
+        }
+      }
+      *{box-sizing:border-box}
+      html{scroll-behavior:smooth}
+      body{margin:0;background:var(--bg);color:var(--ink);
+        font-family:"Noto Sans Devanagari",system-ui,-apple-system,"Segoe UI",sans-serif;
+        font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased}
+      button,[role="button"],select,input,summary,a.btn{min-height:44px}
+      button{font:inherit;cursor:pointer}
+      a{color:var(--primary)}
+      :focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:6px}
+      .wrap{max-width:1060px;margin:0 auto;padding:0 16px}
+      h1,h2,h3{line-height:1.3;margin:0}
+      .muted{color:var(--muted)}
+      .small{font-size:.85rem}
 
-  <!-- Canonical and Google Indexing Directives -->
-  <link rel="canonical" href="https://cockroachjobsportal.pages.dev/">
-  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-  <meta name="google-site-verification" content="MKVo3C4XWxn8Hgiqi52zzmF5Fw_RFe7OxAU438riQg4" />
+      /* ---------- Header ---------- */
+      header.site{position:sticky;top:0;z-index:60;background:var(--primary);color:#fff;
+        box-shadow:0 2px 12px rgba(0,0,0,.18)}
+      .hdr{display:flex;align-items:center;gap:12px;padding:10px 0}
+      .brand{font-weight:800;font-size:1.25rem;letter-spacing:.2px;white-space:nowrap;color:#fff;text-decoration:none;display:flex;align-items:center;gap:9px}
+      .brand .mark{width:36px;height:36px;border-radius:10px;background:var(--accent);display:grid;place-items:center;flex:none}
+      .brand .mark svg{width:21px;height:21px}
+      .searchbar{flex:1;display:flex;background:#fff;border-radius:999px;overflow:hidden;min-height:44px}
+      .searchbar input{flex:1;border:0;padding:0 16px;font:inherit;font-size:.98rem;color:#16233A;min-width:0;background:#fff}
+      .searchbar input:focus{outline:none}
+      .searchbar button{border:0;background:var(--accent);color:#fff;font-weight:700;padding:0 18px}
+      .savedbtn{position:relative;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);
+        color:#fff;border-radius:999px;padding:0 16px;font-weight:700;display:flex;align-items:center;gap:7px}
+      .savedbtn svg{width:18px;height:18px}
+      .savedcount{background:var(--accent);color:#fff;border-radius:999px;min-width:24px;height:24px;
+        display:inline-grid;place-items:center;font-size:.82rem;padding:0 6px}
+      nav.mainnav{background:var(--surface);border-bottom:1px solid var(--line);position:sticky;top:64px;z-index:55}
+      .navrow{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;padding:6px 0}
+      .navrow::-webkit-scrollbar{display:none}
+      .navrow button{border:0;background:transparent;color:var(--muted);font-weight:600;padding:8px 14px;border-radius:999px;white-space:nowrap}
+      .navrow button.on{background:var(--primary);color:#fff}
+      @media (max-width:640px){ .brand span.txt{display:none} }
 
-  <!-- Open Graph / Social Sharing -->
-  <meta property="og:title" content="Cockroach Jobs Portal - Unstoppable Sarkari Result & Govt Jobs 2026">
-  <meta property="og:description" content="भारत का सबसे तेज़ सरकारी नौकरी पोर्टल। 0% डाउनटाइम, 100% सत्यापित लिंक।">
-  <meta property="og:url" content="https://cockroachjobsportal.pages.dev/">
-  <meta property="og:type" content="website">
+      /* ---------- Demo strip ---------- */
+      .demostrip{background:var(--amber-soft);color:var(--amber);border-bottom:1px solid var(--line);
+        font-size:.86rem;font-weight:600;text-align:center;padding:7px 12px}
 
-  <!-- Schema.org Structured Data for Google Search -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Cockroach Jobs Portal",
-    "alternateName": "कॉकरोच जॉब्स पोर्टल",
-    "url": "https://cockroachjobsportal.pages.dev/",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://cockroachjobsportal.pages.dev/?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
-  }
-  </script>
+      /* ---------- Hero / intent ---------- */
+      .hero{padding:26px 0 6px}
+      .hero h1{font-size:clamp(1.55rem,4.5vw,2.3rem);font-weight:800}
+      .hero h1 .hl{color:var(--accent)}
+      .hero p.lead{color:var(--muted);margin:8px 0 0;max-width:640px}
+      .intents{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:18px}
+      @media (max-width:820px){.intents{grid-template-columns:repeat(2,1fr)}}
+      .intent{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+        padding:16px;text-align:left;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:6px;width:100%}
+      .intent:hover{border-color:var(--primary)}
+      .intent .ic{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:var(--primary-soft)}
+      .intent .ic svg{width:23px;height:23px;stroke:var(--primary)}
+      .intent b{font-size:1.02rem}
+      .intent span{color:var(--muted);font-size:.88rem}
+      .intent .go{color:var(--accent);font-weight:700;font-size:.88rem;margin-top:auto}
 
-  <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="modern.css">
-</head>
-<body>
+      /* ---------- Stories ---------- */
+      .stories{display:flex;gap:16px;overflow-x:auto;padding:20px 2px 8px;scrollbar-width:none}
+      .stories::-webkit-scrollbar{display:none}
+      .story{flex:none;width:84px;background:none;border:0;text-align:center;padding:4px 0;color:var(--ink)}
+      .ring{width:68px;height:68px;margin:0 auto;border-radius:50%;padding:3px;
+        background:conic-gradient(var(--accent),#FFC24B,var(--accent))}
+      .ring .inner{width:100%;height:100%;border-radius:50%;background:var(--surface);border:3px solid var(--bg);
+        display:grid;place-items:center}
+      .ring .inner svg{width:28px;height:28px;stroke:var(--primary)}
+      .story span{display:block;margin-top:7px;font-size:.8rem;font-weight:600;line-height:1.3}
+      .story .cnt{color:var(--accent);font-weight:800}
 
-  <!-- Top Announcement Marquee Ticker -->
-  <div class="ticker-bar">
-    <div class="container ticker-flex">
-      <span class="ticker-badge">🪳 LIVE UPDATES</span>
-      <div class="ticker-track">
-        <span class="ticker-item">• SSC GD Constable 2026 Marks & Score Card Released!</span>
-        <span class="ticker-item">• UPSSSC Sports Directorate 108 Post Online Form Active</span>
-        <span class="ticker-item">• Railway RRB NTPC 11,558 Posts Apply Online (CEN 05/2024 & 06/2024)</span>
-        <span class="ticker-item">• BPSC School Teacher TRE 4.0 Online Form Announced</span>
-        <span class="ticker-item">• UP Police Constable Final Result & Cutoff 2026 Out</span>
-      </div>
-    </div>
-  </div>
+      /* ---------- Section heads ---------- */
+      section.block{padding:26px 0 4px}
+      .shead{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+      .shead h2{font-size:1.3rem;font-weight:800}
+      .shead .tag{font-size:.8rem;font-weight:700;background:var(--accent-soft);color:var(--accent);
+        padding:3px 10px;border-radius:999px}
 
-  <!-- Navigation Bar -->
-  <header class="navbar">
-    <div class="container nav-content">
-      <a href="index.html" class="brand">
-        <div class="brand-icon">🪳</div>
-        <div class="brand-name">COCKROACH <span>JOBS</span></div>
-      </a>
-      <div class="nav-links desktop-only">
-        <a href="#latest-jobs" class="nav-item">💼 नौकरियां</a>
-        <a href="#admit-cards" class="nav-item">🎟️ एडमिट कार्ड</a>
-        <a href="#results" class="nav-item">🏆 परिणाम</a>
-        <a href="#answer-keys" class="nav-item">📝 उत्तर कुंजी</a>
-        <a href="#syllabus" class="nav-item">📚 सिलेबस</a>
-      </div>
-      <div class="nav-actions">
-        <button id="themeToggle" class="btn-theme" title="थीम बदलें">☀️ Light</button>
-      </div>
-    </div>
-  </header>
+      /* ---------- Analysis ---------- */
+      .analysis{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+      @media (max-width:860px){.analysis{grid-template-columns:1fr}}
+      .acard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
+      .acard h3{font-size:1.05rem;margin-bottom:10px;display:flex;gap:8px;align-items:center}
+      .acard h3 .n{background:var(--primary);color:#fff;width:26px;height:26px;border-radius:8px;display:grid;place-items:center;font-size:.9rem;flex:none}
+      .acard ul{margin:0;padding:0;list-style:none;display:grid;gap:9px}
+      .acard li{display:flex;gap:9px;font-size:.95rem}
+      .acard li svg{width:18px;height:18px;flex:none;margin-top:3px;stroke:var(--green)}
+      .acard li b{font-weight:700}
+      .acard a{font-weight:600}
+      .where li{justify-content:space-between;border-bottom:1px dashed var(--line);padding-bottom:7px}
+      .where li:last-child{border-bottom:0}
 
-  <!-- Hero Section & Fast Search -->
-  <section class="hero">
-    <div class="container">
-      <div class="hero-tag">⚡ Unstoppable Like A Cockroach • 0% Downtime • 100% Verified Alerts</div>
-      <h1 class="hero-title">सरकारी नौकरी, एडमिट कार्ड एवं परिणाम का <span class="gradient-text">सबसे अटूट पोर्टल</span></h1>
-      <p class="hero-subtitle">धीमी वेबसाइट्स और सर्वर क्रैश को कहें अलविदा। कॉकरोच जॉब्स पोर्टल पर हर सरकारी भर्ती की सटीक जानकारी सीधे आधिकारिक लिंक के साथ पाएँ।</p>
+      /* ---------- Yatra ---------- */
+      .yatra{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
+      .yatra .top{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+      .yatra h3{font-size:1.08rem}
+      .pct{font-weight:800;color:var(--primary);font-size:1.15rem}
+      .bar{height:12px;background:var(--surface2);border-radius:999px;margin:12px 0 16px;overflow:hidden}
+      .bar i{display:block;height:100%;background:linear-gradient(90deg,var(--primary),var(--accent));border-radius:999px;transition:width .5s ease}
+      .steps{display:grid;gap:8px}
+      .step{display:flex;align-items:center;gap:12px;background:var(--surface2);border-radius:12px;padding:10px 12px}
+      .step .dot{width:30px;height:30px;border-radius:50%;flex:none;display:grid;place-items:center;font-weight:800;
+        background:var(--surface);border:2px solid var(--line);color:var(--muted);font-size:.9rem}
+      .step.done .dot{background:var(--green);border-color:var(--green);color:#fff}
+      .step.done .st{text-decoration:line-through;color:var(--muted)}
+      .step .st{flex:1;font-weight:600;font-size:.96rem}
+      .step button{border:1px solid var(--line);background:var(--surface);color:var(--primary);font-weight:700;
+        border-radius:999px;padding:4px 14px;font-size:.85rem}
+      .step.done button{color:var(--muted)}
+      .yatra .done-msg{display:none;margin-top:12px;background:var(--green-soft);color:var(--green);
+        font-weight:700;border-radius:12px;padding:10px 14px}
+      .yatra .done-msg.show{display:block}
 
-      <!-- Instant Real-Time Search Bar -->
-      <div class="search-wrapper">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" class="search-input" placeholder="भर्ती या पद का नाम (उदा. IAS, IPS, Station Master, Income Tax, SSC GD)..." autocomplete="off">
-        <button id="clearSearchBtn" class="clear-search-btn" style="display:none;">✕</button>
-      </div>
-      <div id="smartSearchHint" class="smart-search-hint" style="display:none;"></div>
+      /* ---------- Personal filter ---------- */
+      .perso{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
+      .chips{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+      .chip{border:1.5px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;
+        padding:8px 16px;font-weight:600}
+      .chip.on{background:var(--primary);border-color:var(--primary);color:#fff}
+      .perso select{font:inherit;padding:10px 12px;border:1.5px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink);min-height:44px}
+      .perso .row{display:flex;gap:12px;flex-wrap:wrap;align-items:end}
+      .perso label{font-weight:700;font-size:.9rem;display:grid;gap:6px}
+      .foryou{margin-top:12px;font-weight:700;color:var(--primary)}
+      .foryou b{color:var(--accent)}
 
-      <!-- Social Channels Community Banner (80% Traffic Funnel) -->
-      <div class="social-bar">
-        <a href="https://whatsapp.com" target="_blank" rel="noopener" class="social-btn btn-whatsapp">
-          <span>📲 WhatsApp Channel जॉइन करें (दैनिक फ़्री अलर्ट)</span>
+      /* ---------- Tabs ---------- */
+      .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 16px}
+      .tab{border:1.5px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 18px;font-weight:700;color:var(--muted)}
+      .tab.on{background:var(--primary);color:#fff;border-color:var(--primary)}
+
+      /* ---------- Job cards ---------- */
+      .feed{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+      @media (max-width:760px){.feed{grid-template-columns:1fr}}
+      .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+        box-shadow:var(--shadow);padding:18px;display:flex;flex-direction:column;gap:12px}
+      .card .toprow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+      .badge{font-size:.76rem;font-weight:800;padding:4px 10px;border-radius:999px;letter-spacing:.2px}
+      .badge.job{background:var(--primary-soft);color:var(--primary)}
+      .badge.admit{background:var(--amber-soft);color:var(--amber)}
+      .badge.result{background:var(--green-soft);color:var(--green)}
+      .sampletag{display:inline-flex;align-items:center;gap:4px;font-size:.78rem;font-weight:700;color:var(--amber);background:var(--amber-soft);padding:4px 10px;border-radius:999px}
+      .newtag{font-size:.76rem;font-weight:800;color:#fff;background:var(--accent);padding:4px 9px;border-radius:999px}
+      .days{margin-left:auto;font-size:.8rem;font-weight:800;padding:5px 11px;border-radius:999px;background:var(--surface2);color:var(--muted);white-space:nowrap}
+      .days.urgent{background:var(--red-soft);color:var(--red)}
+      .days.ok{background:var(--green-soft);color:var(--green)}
+      .card h3{font-size:1.14rem;font-weight:800}
+      .card .org{color:var(--muted);font-size:.92rem;margin-top:2px}
+      .facts{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+      .fact{background:var(--surface2);border-radius:12px;padding:9px 12px}
+      .fact .k{font-size:.76rem;color:var(--muted);font-weight:600}
+      .fact .v{font-weight:800;font-size:1rem}
+      .datestrip{display:flex;gap:14px;flex-wrap:wrap;font-size:.86rem;color:var(--muted);border-top:1px dashed var(--line);padding-top:10px}
+      .datestrip b{color:var(--ink)}
+      .datestrip .ld b{color:var(--red)}
+      .blogstrip{display:flex;align-items:center;gap:9px;background:var(--accent-soft);border-radius:12px;padding:10px 12px;width:100%;border:0;text-align:left;color:var(--ink)}
+      .blogstrip svg{width:20px;height:20px;flex:none;stroke:var(--accent)}
+      .blogstrip b{color:var(--accent)}
+      .blogstrip span{font-size:.9rem}
+      .card .actions{display:flex;gap:9px;margin-top:auto}
+      .btn{border:0;border-radius:12px;padding:10px 16px;font-weight:700;display:inline-flex;align-items:center;justify-content:center;gap:7px;text-decoration:none}
+      .btn.primary{background:var(--primary);color:#fff;flex:1}
+      .btn.ghost{background:var(--surface);border:1.5px solid var(--line);color:var(--ink)}
+      .btn.ghost svg{width:18px;height:18px}
+      .btn.ghost.saved{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+      .empty{display:none;background:var(--surface);border:1.5px dashed var(--line);border-radius:var(--radius);
+        padding:28px;text-align:center;color:var(--muted);font-weight:600}
+      .empty.show{display:block}
+
+      /* ---------- Views ---------- */
+      .view{display:none}
+      .view.on{display:block}
+      .backbtn{background:none;border:0;color:var(--primary);font-weight:700;padding:10px 4px;display:inline-flex;gap:6px;align-items:center}
+      .detail-head{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:20px}
+      .detail-head h1{font-size:clamp(1.3rem,4vw,1.8rem);font-weight:800;margin-top:10px}
+      .dgrid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px}
+      @media (max-width:760px){.dgrid{grid-template-columns:1fr}}
+      .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:18px}
+      .panel h3{font-size:1.05rem;margin-bottom:12px}
+      table.info{width:100%;border-collapse:collapse;font-size:.95rem}
+      table.info th,table.info td{padding:9px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+      table.info th{color:var(--muted);font-weight:600;width:42%}
+      table.info tr:last-child th,table.info tr:last-child td{border-bottom:0}
+      .postrow{display:flex;justify-content:space-between;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
+      .postrow:last-child{border-bottom:0}
+      .postrow .pc{font-weight:800;color:var(--primary);white-space:nowrap}
+      ol.flow,ul.checks{margin:0;padding:0;list-style:none;display:grid;gap:10px;counter-reset:fl}
+      ol.flow li{display:flex;gap:11px;align-items:flex-start}
+      ol.flow li::before{counter-increment:fl;content:counter(fl);flex:none;width:27px;height:27px;border-radius:50%;
+        background:var(--primary);color:#fff;display:grid;place-items:center;font-weight:800;font-size:.85rem;margin-top:1px}
+      ul.checks li{display:flex;gap:9px}
+      ul.checks svg{width:19px;height:19px;flex:none;stroke:var(--green);margin-top:2px}
+      .links{display:grid;gap:9px}
+      .links a{display:flex;justify-content:space-between;align-items:center;background:var(--surface2);
+        border-radius:12px;padding:12px 14px;font-weight:700;color:var(--ink);text-decoration:none;min-height:48px}
+      .links a:hover{color:var(--primary)}
+      .links a .ext{color:var(--accent);font-size:.85rem}
+      .stickybar{position:sticky;bottom:0;z-index:40;background:var(--surface);border-top:1px solid var(--line);
+        padding:10px 0 calc(10px + env(safe-area-inset-bottom));margin-top:18px}
+      .stickybar .row{display:flex;gap:9px}
+      .related{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+      @media (max-width:760px){.related{grid-template-columns:1fr}}
+      .rel{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px;text-align:left;box-shadow:var(--shadow);width:100%}
+      .rel b{display:block;margin:6px 0 4px}
+      .rel span{color:var(--muted);font-size:.86rem}
+
+      /* ---------- Blog ---------- */
+      .blogstep{display:flex;gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+        padding:16px;box-shadow:var(--shadow);margin-bottom:12px}
+      .blogstep .num{flex:none;width:38px;height:38px;border-radius:12px;background:var(--primary);color:#fff;
+        display:grid;place-items:center;font-weight:800;font-size:1.05rem}
+      .blogstep h3{font-size:1.02rem;margin-bottom:4px}
+      .blogstep p{margin:0;color:var(--muted);font-size:.94rem}
+      .warnbox{background:var(--amber-soft);border-radius:var(--radius);padding:16px 18px;color:var(--ink)}
+      .warnbox b{color:var(--amber)}
+
+      /* ---------- FAQ ---------- */
+      details.faq{background:var(--surface);border:1px solid var(--line);border-radius:14px;margin-bottom:10px;box-shadow:var(--shadow)}
+      details.faq summary{font-weight:700;padding:14px 16px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:10px;align-items:center}
+      details.faq summary::-webkit-details-marker{display:none}
+      details.faq summary::after{content:"+";font-size:1.3rem;color:var(--accent);font-weight:800}
+      details.faq[open ] summary::after{content:"–"}
+      details.faq p{margin:0;padding:0 16px 16px;color:var(--muted)}
+
+      footer.site{margin-top:44px;background:var(--surface);border-top:1px solid var(--line);padding:26px 0 90px}
+      .fgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+      @media (max-width:760px){.fgrid{grid-template-columns:1fr}}
+      footer.site h4{margin:0 0 10px;font-size:1rem}
+      footer.site ul{margin:0;padding:0;list-style:none;display:grid;gap:7px}
+      footer.site button{background:none;border:0;color:var(--muted);text-align:left;padding:4px 0;font-weight:600}
+      footer.site button:hover{color:var(--primary)}
+
+      /* ---------- Bottom nav (mobile) ---------- */
+      .bottomnav{display:none;position:fixed;left:0;right:0;bottom:0;z-index:70;background:var(--surface);
+        border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom)}
+      .bottomnav .row{display:grid;grid-template-columns:repeat(4,1fr)}
+      .bottomnav button{background:none;border:0;padding:8px 2px 6px;color:var(--muted);font-size:.74rem;font-weight:700;
+        display:flex;flex-direction:column;align-items:center;gap:3px;min-height:56px}
+      .bottomnav button svg{width:22px;height:22px}
+      .bottomnav button.on{color:var(--primary)}
+      @media (max-width:760px){.bottomnav{display:block} body{padding-bottom:64px} .stickybar{bottom:64px}}
+
+      /* ---------- Story modal ---------- */
+      .modal{position:fixed;inset:0;z-index:100;background:rgba(5,12,26,.92);display:none;align-items:center;justify-content:center;padding:14px}
+      .modal.open{display:flex}
+      .storybox{width:min(420px,100%);background:var(--surface);border-radius:20px;overflow:hidden;max-height:92vh;display:flex;flex-direction:column}
+      .storybox .bars{display:flex;gap:5px;padding:12px 14px 0}
+      .storybox .bars i{flex:1;height:4px;border-radius:99px;background:var(--line);overflow:hidden;position:relative}
+      .storybox .bars i b{position:absolute;inset:0;background:var(--accent);width:0%}
+      .storybox .bars i.done b{width:100%}
+      .storyhead{display:flex;align-items:center;gap:10px;padding:12px 14px}
+      .storyhead b{flex:1}
+      .storyhead button{background:var(--surface2);border:0;border-radius:50%;width:40px;height:40px;font-size:1.1rem;color:var(--ink)}
+      .slide{padding:6px 18px 20px;overflow-y:auto}
+      .slide h3{font-size:1.25rem;margin-bottom:6px}
+      .slide .meta{display:grid;gap:7px;margin:14px 0}
+      .slide .meta div{background:var(--surface2);border-radius:10px;padding:9px 12px;font-size:.93rem}
+      .tapzones{display:flex;gap:8px;padding:0 14px 14px}
+      .tapzones button{flex:1;border:1.5px solid var(--line);background:var(--surface);border-radius:12px;font-weight:700;color:var(--primary);padding:10px}
+      @media (prefers-reduced-motion: reduce){
+        html{scroll-behavior:auto}
+        .bar i{transition:none}
+      }
+    </style>
+  </head>
+  <body>
+
+    <!-- ================= HEADER ================= -->
+    <header class="site">
+      <div class="wrap hdr">
+        <a class="brand" href="#" data-nav="home">
+          <span class="mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></span>
+          <span class="txt">Cockroach Jobs</span>
         </a>
-        <a href="https://t.me" target="_blank" rel="noopener" class="social-btn btn-telegram">
-          <span>✈️ Telegram ग्रुप से जुड़ें (PDF & नोट्स)</span>
-        </a>
+        <form class="searchbar" id="searchForm" role="search">
+          <input id="searchInput" type="search" placeholder="भर्ती खोजो…" aria-label="भर्ती खोजें" />
+          <button type="submit">खोजो</button>
+        </form>
+        <button class="savedbtn" data-nav="saved" aria-label="सेव की हुई भर्तियाँ">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+          <span>सेव</span><span class="savedcount" id="savedCount">0</span>
+        </button>
       </div>
-    </div>
-  </section>
-
-  <!-- INTERACTIVE YATRA (SarkariYatra-style documentary journey) -->
-  <section class="container yatra-section reveal" id="yatra">
-    <div class="yatra-shell">
-      <span class="yatra-kicker">🧭 इंटरैक्टिव गाइड — सिर्फ़ तुम्हारे लिए</span>
-      <h2 class="yatra-title">मेरी नौकरी यात्रा: योग्यता से नौकरी तक की कहानी</h2>
-      <p class="yatra-sub">सूची में खोने की ज़रूरत नहीं। अपनी योग्यता और राज्य चुनो — तुम्हारे लिए खुली भर्तियाँ, सबसे नज़दीक आख़िरी तारीख और आगे का पूरा रास्ता, 3 अध्यायों में।</p>
-      <div class="yatra-controls">
-        <div class="yatra-field">
-          <span>🎓 मेरी योग्यता</span>
-          <div class="qual-chips">
-            <button type="button" class="qual-chip" data-qual="tenth">10वीं पास</button>
-            <button type="button" class="qual-chip" data-qual="twelfth">12वीं पास</button>
-            <button type="button" class="qual-chip" data-qual="diploma">डिप्लोमा / ITI</button>
-            <button type="button" class="qual-chip selected" data-qual="graduate">ग्रेजुएट</button>
-          </div>
-        </div>
-        <div class="yatra-field">
-          <span>📍 मेरा राज्य</span>
-          <select id="yatraState" class="yatra-select">
-            <option value="all">सभी राज्य (All India समेत)</option>
-          </select>
-        </div>
-        <button type="button" id="yatraStartBtn" class="yatra-start-btn">🚀 मेरी यात्रा शुरू करो</button>
+    </header>
+    <nav class="mainnav" aria-label="मुख्य खंड">
+      <div class="wrap navrow" id="topNav">
+        <button data-nav="home" class="on">होम</button>
+        <button data-nav="jobs">नई भर्तियाँ</button>
+        <button data-nav="admit">Admit Card</button>
+        <button data-nav="result">Result</button>
+        <button data-nav="blog">Form कैसे भरें</button>
+        <button data-nav="saved">मेरी सेव लिस्ट</button>
       </div>
-      <p class="yatra-note">ℹ️ छँटाई भर्ती की पात्रता जानकारी के आधार पर होती है — आवेदन से पहले आधिकारिक नोटिफ़िकेशन ज़रूर जाँचें। डेटाबेस हर घंटे अपडेट होता है।</p>
-      <div id="yatraStory" class="yatra-story"></div>
-    </div>
-  </section>
+    </nav>
+    <div class="demostrip">यहाँ हर जानकारी भरोसेमंद YouTube स्रोतों से लेकर internet पर cross-check करके डाली जाती है — तारीख़, fees और आधिकारिक link के साथ।</div>
 
-  <!-- Agency Fast-Access Strip (Psychological Authority Nav) -->
-  <div class="container agency-strip-section">
-    <div class="agency-strip-wrap">
-      <span class="agency-strip-label">🏛️ प्रमुख भर्ती बोर्ड:</span>
-      <a href="agency.html?id=upsc" class="agency-nav-chip">🦅 UPSC (IAS/IPS)</a>
-      <a href="agency.html?id=ssc" class="agency-nav-chip">💼 SSC (CGL/GD)</a>
-      <a href="agency.html?id=rrb" class="agency-nav-chip">🚆 Railway RRB</a>
-      <a href="agency.html?id=ibps" class="agency-nav-chip">🏦 Banking (IBPS/SBI)</a>
-      <a href="agency.html?id=nta" class="agency-nav-chip">🎓 NTA</a>
-      <a href="agency.html?id=defence-tri" class="agency-nav-chip">⚔️ Defence (Army/Navy)</a>
-      <a href="agency.html?id=paramilitary-mha" class="agency-nav-chip">🛡️ CAPF (BSF/CISF/CRPF)</a>
-    </div>
-  </div>
+    <!-- ================= VIEW: HOME ================= -->
+    <main class="view on" id="view-home">
+      <div class="wrap">
 
-  <!-- Header Ad Slot Placeholder (Ready for Adsterra 728x90 or Native Banner) -->
-  <div class="container ad-wrapper">
-    <div class="ad-slot ad-header">
-      <!-- ADSTERRA / MONETAG CODE CONTAINER (Can paste script here) -->
-      <span class="ad-label">Advertisement</span>
-      <div class="ad-placeholder">
-        <p>📢 <strong>प्रायोजित विज्ञापन (Sponsorship Slot)</strong></p>
-        <small>Adsterra / Affiliate Banner Code can be placed here</small>
-      </div>
-    </div>
-  </div>
-
-  <!-- SARKARIRESULT ICONIC 3-COLUMN QUICK ACCESS GRID -->
-  <section class="container sarkari-boxes-section reveal">
-    <div class="section-title-wrap">
-      <h2 class="section-title">⚡ त्वरित लिंक (Quick Access Matrix)</h2>
-      <span class="section-subtitle">सीधे अपने आवश्यक सेक्शन पर क्लिक करें</span>
-    </div>
-
-    <div class="sarkari-columns-grid">
-      
-      <!-- COLUMN 1: RESULTS (Red Theme) -->
-      <div class="sarkari-column box-results" id="results">
-        <div class="column-header">
-          <span class="col-icon">🏆</span>
-          <h3>परिणाम (Result)</h3>
-        </div>
-        <ul class="quick-links-list" id="quickListResults">
-          <li class="loading-item">लोड हो रहा है...</li>
-        </ul>
-        <div class="column-footer">
-          <button class="view-more-btn" data-filter="result">सभी परिणाम देखें →</button>
-        </div>
-      </div>
-
-      <!-- COLUMN 2: ADMIT CARDS (Blue Theme) -->
-      <div class="sarkari-column box-admit" id="admit-cards">
-        <div class="column-header">
-          <span class="col-icon">🎟️</span>
-          <h3>प्रवेश पत्र (Admit Card)</h3>
-        </div>
-        <ul class="quick-links-list" id="quickListAdmit">
-          <li class="loading-item">लोड हो रहा है...</li>
-        </ul>
-        <div class="column-footer">
-          <button class="view-more-btn" data-filter="admit_card">सभी एडमिट कार्ड देखें →</button>
-        </div>
-      </div>
-
-      <!-- COLUMN 3: LATEST JOBS (Green Theme) -->
-      <div class="sarkari-column box-jobs" id="latest-jobs">
-        <div class="column-header">
-          <span class="col-icon">💼</span>
-          <h3>नवीनतम नौकरियां (Latest Jobs)</h3>
-        </div>
-        <ul class="quick-links-list" id="quickListJobs">
-          <li class="loading-item">लोड हो रहा है...</li>
-        </ul>
-        <div class="column-footer">
-          <button class="view-more-btn" data-filter="job">सभी नौकरियां देखें →</button>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- SECONDARY QUICK ACCESS: Answer Key | Syllabus | Admission -->
-  <section class="container secondary-boxes-section reveal">
-    <div class="secondary-columns-grid">
-      
-      <div class="secondary-column box-keys" id="answer-keys">
-        <div class="column-header sm">
-          <span>📝 उत्तर कुंजी (Answer Key)</span>
-        </div>
-        <ul class="quick-links-list sm" id="quickListKeys">
-          <li class="loading-item">लोड हो रहा है...</li>
-        </ul>
-      </div>
-
-      <div class="secondary-column box-syllabus" id="syllabus">
-        <div class="column-header sm">
-          <span>📚 पाठ्यक्रम (Syllabus)</span>
-        </div>
-        <ul class="quick-links-list sm" id="quickListSyllabus">
-          <li class="loading-item">लोड हो रहा है...</li>
-        </ul>
-      </div>
-
-      <div class="secondary-column box-admission" id="admissions">
-        <div class="column-header sm">
-          <span>🎓 प्रवेश (Admission)</span>
-        </div>
-        <ul class="quick-links-list sm" id="quickListAdmission">
-          <li class="loading-item">लोड हो रहा है...</li>
-        </ul>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- MAIN EXPLORER: Category Tabs + Rich Cards -->
-  <main class="container explorer-section reveal">
-    <div class="section-title-wrap">
-      <h2 class="section-title">📂 विस्तृत भर्ती एवं अपडेट्स सूची</h2>
-      <span class="section-subtitle">विवरण, पात्रता एवं सीधे आवेदन के लिए कार्ड पर क्लिक करें</span>
-    </div>
-
-    <!-- Category Filter Tabs -->
-    <div class="category-tabs" id="categoryTabs">
-      <button class="tab-btn active" data-cat="all">⚡ सभी (All)</button>
-      <button class="tab-btn" data-cat="job">💼 नौकरियां (Jobs)</button>
-      <button class="tab-btn" data-cat="admit_card">🎟️ एडमिट कार्ड</button>
-      <button class="tab-btn" data-cat="result">🏆 परिणाम (Result)</button>
-      <button class="tab-btn" data-cat="answer_key">📝 उत्तर कुंजी</button>
-      <button class="tab-btn" data-cat="syllabus">📚 सिलेबस</button>
-      <button class="tab-btn" data-cat="admission">🎓 प्रवेश (Admission)</button>
-    </div>
-
-    <!-- Search / Filter Status Counter -->
-    <div class="results-header-flex">
-      <span id="resultsCount" class="results-count-badge">अपडेट्स लोड हो रहे हैं...</span>
-      <div class="state-filter-wrap">
-        <label for="stateQuickFilter">राज्य फ़िल्टर:</label>
-        <select id="stateQuickFilter" class="select-inline">
-          <option value="all">सभी राज्य (All India)</option>
-          <option value="Uttar Pradesh">उत्तर प्रदेश (UP)</option>
-          <option value="Bihar">बिहार (Bihar)</option>
-          <option value="Rajasthan">राजस्थान (Rajasthan)</option>
-          <option value="Delhi">दिल्ली (Delhi)</option>
-        </select>
-      </div>
-    </div>
-
-    <!-- Job Cards Grid -->
-    <div class="jobs-grid" id="jobsContainer">
-      <!-- Injected by app.js -->
-    </div>
-  </main>
-
-  <!-- In-Feed Native Ad Slot Placeholder -->
-  <div class="container ad-wrapper">
-    <div class="ad-slot ad-infeed">
-      <span class="ad-label">Sponsored</span>
-      <div class="ad-placeholder">
-        <p>🎯 <strong>सर्वश्रेष्ठ मॉक टेस्ट एवं परीक्षा सामग्री (Recommended Test Series)</strong></p>
-        <small>Adsterra Native Ad / Testbook Affiliate link can be integrated here</small>
-      </div>
-    </div>
-  </div>
-
-  <!-- SARKARIRESULT STYLE DETAIL MODAL (FULL PAGE SLIDE-OVER) -->
-  <div id="jobModal" class="modal-backdrop" style="display: none;">
-    <div class="modal-dialog">
-      <div class="modal-header">
-        <div class="modal-header-info">
-          <span id="modalCategoryBadge" class="badge">Job</span>
-          <h2 id="modalTitle" class="modal-title">भर्ती का नाम</h2>
-          <span id="modalDepartment" class="modal-dept">विभाग का नाम</span>
-        </div>
-        <button id="modalCloseBtn" class="modal-close-btn" title="बंद करें">&times;</button>
-      </div>
-
-      <div class="modal-body">
-        
-        <!-- Short Info Notice -->
-        <div class="modal-section-box info-box">
-          <h4>📌 संक्षिप्त विवरण (Short Information):</h4>
-          <p id="modalShortInfo">...</p>
-        </div>
-
-        <!-- 2-Column Key Details (Dates & Fees) -->
-        <div class="modal-grid-2">
-          
-          <!-- Important Dates Table -->
-          <div class="modal-table-box">
-            <h4 class="table-heading dates-head">📅 महत्वपूर्ण तिथियां (Important Dates)</h4>
-            <table class="sarkari-table" id="modalDatesTable">
-              <!-- Injected by app.js -->
-            </table>
-          </div>
-
-          <!-- Application Fee Table -->
-          <div class="modal-table-box">
-            <h4 class="table-heading fee-head">💳 आवेदन शुल्क (Application Fee)</h4>
-            <table class="sarkari-table" id="modalFeeTable">
-              <!-- Injected by app.js -->
-            </table>
-          </div>
-
-        </div>
-
-        <!-- Age Limit & Relaxation -->
-        <div class="modal-section-box">
-          <h4 class="table-heading age-head">⏳ आयु सीमा (Age Limit)</h4>
-          <div id="modalAgeContent" class="age-content-flex">
-            <!-- Injected by app.js -->
-          </div>
-        </div>
-
-        <!-- Vacancy Details & Eligibility Table -->
-        <div class="modal-section-box">
-          <h4 class="table-heading vacancy-head">📋 रिक्ति विवरण एवं पात्रता (Vacancy & Eligibility)</h4>
-          <table class="sarkari-table vacancy-table" id="modalVacancyTable">
-            <!-- Injected by app.js -->
-          </table>
-        </div>
-
-        <!-- Direct Action Links Matrix -->
-        <div class="modal-links-box">
-          <h4 class="links-heading">🔗 महत्वपूर्ण आधिकारिक लिंक (Direct Links)</h4>
-          <div class="action-buttons-grid">
-            <a id="modalFullPageBtn" href="#" target="_blank" class="btn-primary-action" style="grid-column: 1 / -1; background: var(--accent); color: #000; font-weight: 800; font-size: 1rem;">
-              📖 नए पेज पर विस्तृत जानकारी देखें (Open in Dedicated Page) →
-            </a>
-            <a id="modalPrimaryBtn" href="#" target="_blank" rel="noopener" class="btn-primary-action">
-              ⚡ सीधे आवेदन / परिणाम देखें
-            </a>
-            <a id="modalNotificationBtn" href="#" target="_blank" rel="noopener" class="btn-secondary-action">
-              📄 आधिकारिक अधिसूचना (PDF)
-            </a>
-            <a id="modalOfficialSiteBtn" href="#" target="_blank" rel="noopener" class="btn-outline-action">
-              🌐 आधिकारिक वेबसाइट
-            </a>
-            <button id="modalShareWhatsappBtn" class="btn-share-whatsapp">
-              📲 दोस्तों के साथ शेयर करें
+        <div class="hero">
+          <h1>तुम जिस काम से आए हो, <span class="hl">वो यहीं से शुरू होता है</span></h1>
+          <p class="lead">लंबी list में ढूँढना बंद। नीचे अपना काम चुनो — उसी पल तुम्हारी चीज़ सामने आ जाएगी।</p>
+          <div class="intents">
+            <button class="intent" data-intent="job">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg></span>
+              <b>मुझे नई भर्ती चाहिए</b>
+              <span>मेरी योग्यता की ताज़ा भर्तियाँ, last date के हिसाब से छँटी हुई</span>
+              <span class="go">भर्तियाँ देखो →</span>
+            </button>
+            <button class="intent" data-intent="urgent">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></span>
+              <b>Last date निकलने वाली है</b>
+              <span>जिन भर्तियों के सिर्फ़ 1–3 दिन बचे हैं, सबसे पहले वही</span>
+              <span class="go">तुरंत देखो →</span>
+            </button>
+            <button class="intent" data-intent="admit">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M5.5 17c.6-1.8 1.9-2.7 3.5-2.7s2.9.9 3.5 2.7M14 9h4M14 13h4"/></svg></span>
+              <b>Admit Card चाहिए</b>
+              <span>परीक्षा नज़दीक है? अपना hall ticket यहीं से निकालो</span>
+              <span class="go">Admit Card देखो →</span>
+            </button>
+            <button class="intent" data-intent="result">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 6H4a1 1 0 0 0-1 1c0 2 1.5 3.5 4 3.5M17 6h3a1 1 0 0 1 1 1c0 2-1.5 3.5-4 3.5"/></svg></span>
+              <b>मेरा Result आया?</b>
+              <span>घोषित हुए result और merit list, roll number से जाँच</span>
+              <span class="go">Result देखो →</span>
             </button>
           </div>
+
+          <div class="stories" id="stories" role="list" aria-label="आज की झलकियाँ"></div>
         </div>
 
-      </div>
+        <!-- Analysis -->
+        <section class="block" id="analysis">
+          <div class="shead"><h2>तुम यहाँ क्यों आए हो — और क्या मिलेगा</h2><span class="tag">हर चीज़ 2 tap में</span></div>
+          <div class="analysis">
+            <div class="acard">
+              <h3><span class="n">1</span>वो क्यों आया है?</h3>
+              <ul>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>नई भर्ती खोजने</b> — "मेरी योग्यता की कोई vacancy निकली क्या?"</span></li>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>Last date बचाने</b> — "कहीं form भरने की तारीख़ निकल तो नहीं गई?"</span></li>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>Admit Card / Result</b> — परीक्षा या नतीजे का दिन आ गया है</span></li>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>Form भरना सीखने</b> — "गलती न हो जाए, कोई step-by-step बता दे"</span></li>
+              </ul>
+            </div>
+            <div class="acard">
+              <h3><span class="n">2</span>पहली नज़र में उसे क्या चाहिए?</h3>
+              <ul>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>कितने पद हैं</b> और <b>last date कब है</b> — यही दो बातें सबसे पहले</span></li>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>"मैं eligible हूँ या नहीं?"</b> — योग्यता और उम्र एक line में साफ़</span></li>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>Fees कितनी लगेगी</b> — अपनी श्रेणी की fees अलग से</span></li>
+                <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><b>एक ही बड़ा बटन</b> — Apply कहाँ से होगा, ढूँढना न पड़े</span></li>
+              </ul>
+            </div>
+            <div class="acard">
+              <h3><span class="n">3</span>कहाँ क्या मिलेगा?</h3>
+              <ul class="where">
+                <li><span>आज की झलक (stories)</span><a href="#stories" data-jump="stories">ऊपर ↑</a></li>
+                <li><span>मेरी नौकरी यात्रा (तैयारी की progress)</span><a href="#yatraSec" data-jump="yatraSec">नीचे ↓</a></li>
+                <li><span>मेरे लिए छँटी भर्तियाँ</span><a href="#feedSec" data-jump="feedSec">Feed ↓</a></li>
+                <li><span>किसी भर्ती की पूरी जानकारी</span><span class="muted small">Card → "पूरी जानकारी"</span></li>
+                <li><span>Form भरने की step-by-step गाइड</span><button class="linklike" data-nav="blog" style="background:none;border:0;color:var(--primary);font-weight:600;padding:0;min-height:0">Blog →</button></li>
+                <li><span>सेव की हुई भर्तियाँ</span><button class="linklike" data-nav="saved" style="background:none;border:0;color:var(--primary);font-weight:600;padding:0;min-height:0">सेव लिस्ट →</button></li>
+              </ul>
+            </div>
+          </div>
+        </section>
 
-      <div class="modal-footer">
-        <button id="modalFooterClose" class="btn-footer-close">बंद करें (Close)</button>
-      </div>
-    </div>
-  </div>
+        <!-- Yatra -->
+        <section class="block" id="yatraSec">
+          <div class="yatra">
+            <div class="top">
+              <h3>मेरी नौकरी यात्रा — इस भर्ती तक का रास्ता</h3>
+              <span class="pct" id="yatraPct">40%</span>
+            </div>
+            <div class="bar" role="progressbar" aria-label="यात्रा की progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="40" id="yatraBar"><i style="width:40%"></i></div>
+            <div class="steps" id="yatraSteps"></div>
+            <div class="done-msg" id="yatraDone">बधाई हो! यात्रा पूरी — अब बस form जमा करना बाकी है। हर कदम का सबूत (दस्तावेज़) तैयार रखो।</div>
+          </div>
+        </section>
 
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="container footer-content">
-      <div class="footer-brand-col">
-        <div class="brand">
-          <div class="brand-icon">🪳</div>
-          <div class="brand-name">COCKROACH <span>JOBS</span></div>
+        <!-- Personal filter -->
+        <section class="block">
+          <div class="perso">
+            <h3 style="font-size:1.08rem">2 tap में तुम्हारी भर्ती — योग्यता और राज्य चुनो</h3>
+            <div class="row" style="margin-top:12px">
+              <div>
+                <div class="small muted" style="font-weight:700;margin-bottom:2px">मेरी योग्यता</div>
+                <div class="chips" id="qualChips" style="margin:4px 0 0">
+                  <button class="chip on" data-qual="all">सभी</button>
+                  <button class="chip" data-qual="10वीं">10वीं</button>
+                  <button class="chip" data-qual="12वीं">12वीं</button>
+                  <button class="chip" data-qual="ITI">ITI</button>
+                  <button class="chip" data-qual="Diploma">Diploma</button>
+                  <button class="chip" data-qual="Graduate">Graduate</button>
+                </div>
+              </div>
+              <label>मेरा राज्य
+                <select id="stateSel">
+                  <option value="all">सभी राज्य</option>
+                  <option value="राजस्थान" selected>राजस्थान</option>
+                  <option value="उत्तर प्रदेश">उत्तर प्रदेश</option>
+                  <option value="मध्य प्रदेश">मध्य प्रदेश</option>
+                  <option value="बिहार">बिहार</option>
+                  <option value="सभी राज्य (केंद्रीय)">सभी राज्य (केंद्रीय भर्ती)</option>
+                </select>
+              </label>
+            </div>
+            <p class="foryou" id="forYouText"></p>
+          </div>
+        </section>
+
+        <!-- Feed -->
+        <section class="block" id="feedSec">
+          <div class="shead"><h2 id="feedTitle">तुम्हारे लिए भर्तियाँ</h2><span class="tag" id="feedCount"></span></div>
+          <div class="tabs" id="catTabs" role="tablist" aria-label="श्रेणी चुनें">
+            <button class="tab on" data-cat="all">सभी</button>
+            <button class="tab" data-cat="job">नई भर्तियाँ</button>
+            <button class="tab" data-cat="admit">Admit Card</button>
+            <button class="tab" data-cat="result">Result</button>
+            <button class="tab" data-cat="urgent">सिर्फ़ आख़िरी दिन वाले</button>
+          </div>
+          <div class="feed" id="feed"></div>
+          <div class="empty" id="feedEmpty">अभी इस खंड में कुछ नहीं है — नई जानकारी आते ही यहाँ सबसे पहले दिखेगी। योग्यता "सभी" करके भी देख लो।</div>
+        </section>
+
+        <!-- FAQ -->
+        <section class="block">
+          <div class="shead"><h2>student के आम सवाल</h2></div>
+          <details class="faq"><summary>मैं कैसे पता करूँ कि मैं किसी भर्ती के लिए eligible हूँ?</summary>
+            <p>हर card पर योग्यता और उम्र सीमा साफ़ लिखी है। "पूरी जानकारी" खोलने पर post के हिसाब से अलग-अलग योग्यता भी दिखती है — पहले वही पढ़ो, फिर Apply करो।</p></details>
+          <details class="faq"><summary>Fees हर श्रेणी की अलग क्यों दिखती है?</summary>
+            <p>क्योंकि असल में अलग होती ही है — General/OBC की fees और SC/ST व महिलाओं की fees अक्सर अलग रहती है। Card पर सामान्य fees दिखती है, पूरी जानकारी में श्रेणी अनुसार पूरी सूची मिलेगी।</p></details>
+          <details class="faq"><summary>Form भरते समय सबसे आम गलती क्या होती है?</summary>
+            <p>फ़ोटो और signature का size गलत होना, और last date के आख़िरी दिन server धीमा होने पर form अटकना। इसीलिए हर भर्ती के साथ "Form कैसे भरें" वाली step-by-step गाइड दी गई है।</p></details>
+          <details class="faq"><summary>सेव की हुई भर्ती बाद में कहाँ मिलेगी?</summary>
+            <p>ऊपर "सेव" बटन या नीचे की navigation से "मेरी सेव लिस्ट" खोलो — वहाँ तुम्हारी सारी सेव भर्तियाँ last date के हिसाब से लगी मिलेंगी।</p></details>
+        </section>
+      </div>
+    </main>
+
+    <!-- ================= VIEW: DETAIL ================= -->
+    <main class="view" id="view-detail">
+      <div class="wrap">
+        <button class="backbtn" data-nav="home">← वापस feed पर</button>
+        <div id="detailBody"></div>
+        <section class="block">
+          <div class="shead"><h2>तुम्हारी योग्यता की और भर्तियाँ</h2><span class="tag">यहाँ अंत नहीं — आगे भी है</span></div>
+          <div class="related" id="relatedRow"></div>
+        </section>
+      </div>
+    </main>
+
+    <!-- ================= VIEW: BLOG ================= -->
+    <main class="view" id="view-blog">
+      <div class="wrap">
+        <button class="backbtn" data-nav="home">← वापस</button>
+        <div class="detail-head">
+          <span class="badge job">Form Guide</span>
+          <h1 id="blogTitle">Form कैसे भरें — step by step</h1>
+          <p class="org muted" id="blogSub" style="margin-top:6px">फ़ोटो के size से लेकर final submit तक — हर कदम आसान भाषा में, ताकि एक भी गलती न हो।</p>
         </div>
-        <p class="footer-desc">
-          कॉकरोच जॉब्स पोर्टल - भारत का सबसे आधुनिक, अटूट एवं सुपरफास्ट सरकारी नौकरी सूचना मंच। कभी क्रैश न होने वाली टेक्नोलॉजी के साथ सभी सरकारी परीक्षाओं के परिणाम, प्रवेश पत्र एवं अधिसूचनाएं।
-        </p>
+        <section class="block" id="blogSteps"></section>
+        <div class="warnbox"><b>सबसे बड़ी सावधानी:</b> Last date वाले दिन server धीमा हो जाता है और हज़ारों form अटकते हैं। जिस दिन form खुला, उसी हफ़्ते भर दो — आख़िरी दिन का इंतज़ार इस site पर कोई नहीं करता।</div>
+        <section class="block">
+          <div class="shead"><h2>अब ये भर्तियाँ देखो</h2></div>
+          <div class="related" id="blogRelated"></div>
+        </section>
       </div>
+    </main>
 
-      <div class="footer-links-col">
-        <h4>महत्वपूर्ण श्रेणियां</h4>
-        <ul>
-          <li><a href="#latest-jobs">नवीनतम नौकरियां (Jobs)</a></li>
-          <li><a href="#results">परीक्षा परिणाम (Results)</a></li>
-          <li><a href="#admit-cards">प्रवेश पत्र (Admit Card)</a></li>
-          <li><a href="#answer-keys">उत्तर कुंजी (Answer Key)</a></li>
-          <li><a href="#syllabus">परीक्षा पाठ्यक्रम (Syllabus)</a></li>
-        </ul>
+    <!-- ================= VIEW: SAVED ================= -->
+    <main class="view" id="view-saved">
+      <div class="wrap">
+        <button class="backbtn" data-nav="home">← वापस</button>
+        <div class="shead" style="margin-top:6px"><h2>मेरी सेव लिस्ट</h2><span class="tag" id="savedTag">0 भर्ती</span></div>
+        <p class="muted" style="margin-top:0">जो भर्ती सेव की, वो यहाँ last date के हिसाब से लग जाती है — सबसे urgent सबसे ऊपर। ये तुम्हारी अपनी डायरी है।</p>
+        <div class="feed" id="savedFeed" style="margin-top:14px"></div>
+        <div class="empty" id="savedEmpty">अभी कुछ सेव नहीं है। Feed में जाकर किसी card पर "सेव करो" दबाओ — वो भर्ती यहाँ आ जाएगी और last date से पहले तुम्हें यहीं सबसे ऊपर दिखेगी।</div>
       </div>
+    </main>
 
-      <div class="footer-links-col">
-        <h4>नीति एवं नियम (Legal)</h4>
-        <ul>
-          <li><a href="privacy-policy.html">गोपनीयता नीति (Privacy Policy)</a></li>
-          <li><a href="disclaimer.html">अस्वीकरण (Disclaimer)</a></li>
-          <li><a href="contact.html">संपर्क करें (Contact Us)</a></li>
-        </ul>
+    <!-- ================= FOOTER ================= -->
+    <footer class="site">
+      <div class="wrap">
+        <div class="fgrid">
+          <div>
+            <h4>कहाँ क्या मिलेगा</h4>
+            <ul>
+              <li><button data-nav="jobs">नई भर्तियाँ — योग्यता अनुसार छँटी feed</button></li>
+              <li><button data-nav="admit">Admit Card — परीक्षा से पहले hall ticket</button></li>
+              <li><button data-nav="result">Result — घोषित नतीजे और merit list</button></li>
+              <li><button data-nav="blog">Form कैसे भरें — step-by-step गाइड</button></li>
+            </ul>
+          </div>
+          <div>
+            <h4>student की मदद</h4>
+            <ul>
+              <li><button data-nav="saved">मेरी सेव लिस्ट</button></li>
+              <li><button data-jump="yatraSec" data-nav="home">मेरी नौकरी यात्रा</button></li>
+              <li><button data-jump="analysis" data-nav="home">साइट कैसे काम करती है</button></li>
+            </ul>
+          </div>
+          <div>
+            <h4>भरोसे की बात</h4>
+            <p class="muted small" style="margin:0">हर card की जानकारी भरोसेमंद YouTube स्रोतों से लेकर internet पर cross-check करके डाली जाती है। तारीख़ें cross-check की गई जानकारी की होती हैं और countdown उन्हीं से गिना जाता है — कोई झूठा timer नहीं। Apply के link आधिकारिक website पर ही खुलते हैं।</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Mobile bottom nav -->
+    <nav class="bottomnav" aria-label="मोबाइल navigation">
+      <div class="row" id="bottomNav">
+        <button data-nav="home" class="on"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5L12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg>होम</button>
+        <button data-nav="jobs"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>भर्तियाँ</button>
+        <button data-nav="result"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/></svg>Result</button>
+        <button data-nav="saved"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>सेव लिस्ट</button>
+      </div>
+    </nav>
+
+    <!-- Story modal -->
+    <div class="modal" id="storyModal" role="dialog" aria-modal="true" aria-label="Story">
+      <div class="storybox">
+        <div class="bars" id="storyBars"></div>
+        <div class="storyhead"><b id="storyGroupTitle"></b><button id="storyClose" aria-label="बंद करो">✕</button></div>
+        <div class="slide" id="storySlide"></div>
+        <div class="tapzones">
+          <button id="storyPrev">← पिछला</button>
+          <button id="storyNext">अगला →</button>
+        </div>
       </div>
     </div>
 
-    <div class="container copyright-bar">
-      <p>© 2026 Cockroach Jobs Portal (कॉकरोच जॉब्स) • सभी अधिकार सुरक्षित</p>
-      <p class="disclaimer-note">
-        अस्वीकरण: यह वेबसाइट किसी भी सरकारी संस्था की आधिकारिक वेबसाइट नहीं है। सभी जानकारी केवल सामान्य सूचनात्मक मार्गदर्शन हेतु है।
-      </p>
-    </div>
-  </footer>
+    <script>
+    (function(){
+      "use strict";
+      var DAY = 86400000;
+      function d(off){ var t=new Date(); t.setHours(0,0,0,0); return new Date(t.getTime()+off*DAY); }
+      function fmt(dt){ return dt.toLocaleDateString("hi-IN",{day:"numeric",month:"short",year:"numeric"}); }
+      function daysLeft(dt){ var t=new Date(); t.setHours(0,0,0,0); return Math.round((dt - t)/DAY); }
 
-  <script src="app.js"></script>
-  <script src="yatra.js"></script>
-  <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "9b4c3a4f6e494c95856282664a585b35"}'></script><!-- End Cloudflare Web Analytics -->
-</body>
+      /* ============ ASLI DATA — jobs_data.json se ============ */
+      var JOBS = [];
+      function parseD(s){
+        if(!s) return null;
+        var p = String(s).split("-");
+        if(p.length !== 3) return null;
+        return new Date(+p[0], (+p[1]) - 1, +p[2]);
+      }
+      function linkRow(url, label, tag){
+        if(!url) return '<a href="#" onclick="return false" style="opacity:.55">' + label + ' <span class="ext">जल्द आएगा</span></a>';
+        return '<a href="' + url + '" target="_blank" rel="noopener">' + label + ' <span class="ext">' + tag + '</span></a>';
+      }
+      function normalizeJob(j){
+        if(j.cat === "admit_card") j.cat = "admit";
+        j.startDate = parseD(j.startDate);
+        j.lastDate = parseD(j.lastDate) || j.startDate;
+        j.examDate = parseD(j.examDate);
+        if(!j.startDate) j.startDate = j.lastDate;
+        if(!j.examDate && j.cat === "admit") j.examDate = j.lastDate;
+        j.breakup = j.breakup || [];
+        j.selection = j.selection || [];
+        j.docs = j.docs || [];
+        return j;
+      }
+      function loadJobs(){
+        fetch("jobs_data.json", { cache: "no-store" })
+          .then(function(r){ return r.json(); })
+          .then(function(list){
+            JOBS = (list || []).map(normalizeJob);
+            renderStories(); renderFeed(); renderSaved();
+          })
+          .catch(function(){ /* data na mile to khali sthiti hi dikhegi */ });
+      }
+
+      var CATNAME = { job:"नई भर्ती", admit:"Admit Card", result:"Result", answer_key:"Answer Key" };
+
+      /* ============ STATE (सिर्फ़ इसी session के लिए) ============ */
+      var state = { cat:"all", qual:"all", stateF:"राजस्थान", query:"", saved:{}, sortUrgent:false };
+      try{ state.saved = JSON.parse(localStorage.getItem("cj_saved") || "{}"); }catch(e){ state.saved = {}; }
+      var savedCountEl = document.getElementById("savedCount");
+
+      /* ============ HELPERS ============ */
+      function $(id){ return document.getElementById(id); }
+      function iconCheck(){ return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>'; }
+      function sampleTag(){ return ''; }
+      function daysPill(j){
+        var dl = daysLeft(j.lastDate);
+        if(j.cat==="result") return '<span class="days ok">Result आ गया</span>';
+        if(j.cat==="answer_key") return '<span class="days ok">Answer Key आ गई</span>';
+        if(j.cat==="admit") return '<span class="days '+(dl<=12?'urgent':'')+'">परीक्षा: '+fmt(j.lastDate)+'</span>';
+        if(dl<0) return '<span class="days">तारीख़ निकल गई</span>';
+        if(dl===0) return '<span class="days urgent">आज आख़िरी दिन!</span>';
+        if(dl<=3) return '<span class="days urgent">सिर्फ़ '+dl+' दिन बचे</span>';
+        return '<span class="days">'+dl+' दिन बचे</span>';
+      }
+      function stateMatch(j){ return state.stateF==="all" || j.state===state.stateF || j.state==="सभी राज्य (केंद्रीय)"; }
+      function matches(j){
+        if(state.cat==="urgent"){ if(j.cat!=="job" || daysLeft(j.lastDate)>3 || daysLeft(j.lastDate)<0) return false; }
+        else if(state.cat!=="all" && j.cat!==state.cat) return false;
+        if(state.qual!=="all" && j.qual!==state.qual){
+          var inBreakup = j.breakup.some(function(b){ return b[2].indexOf(state.qual)===0; });
+          if(!inBreakup) return false;
+        }
+        if(!stateMatch(j) && state.stateF!=="all") return false;
+        if(state.query){
+          var q = state.query.toLowerCase();
+          if((j.title+" "+j.org).toLowerCase().indexOf(q)===-1) return false;
+        }
+        return true;
+      }
+      function sortedJobs(list){
+        var arr = list.slice();
+        arr.sort(function(a,b){ return daysLeft(a.lastDate)-daysLeft(b.lastDate); });
+        return arr;
+      }
+
+      function cardHTML(j){
+        var isSaved = !!state.saved[j.id];
+        var mainBtn = j.cat==="result" ? "Result देखो" : (j.cat==="admit" ? "Admit Card निकालो" : "Apply करो");
+        return '<article class="card">'
+          + '<div class="toprow"><span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
+          + sampleTag()
+          + (j.isNew?'<span class="newtag">नया</span>':'')
+          + daysPill(j)+'</div>'
+          + '<div><h3>'+j.title+'</h3><div class="org">'+j.org+'</div></div>'
+          + '<div class="facts">'
+          +   '<div class="fact"><div class="k">कुल पद</div><div class="v">'+j.posts+'</div></div>'
+          +   '<div class="fact"><div class="k">योग्यता</div><div class="v">'+j.qual+'</div></div>'
+          +   '<div class="fact"><div class="k">Fees (सामान्य)</div><div class="v">'+j.feeGen+'</div></div>'
+          +   '<div class="fact"><div class="k">वेतन</div><div class="v" style="font-size:.92rem">'+j.salary+'</div></div>'
+          + '</div>'
+          + '<div class="datestrip"><span>शुरू: <b>'+fmt(j.startDate)+'</b></span>'
+          +   '<span class="ld">'+(j.cat==="job"?"Last Date: ":"")+'<b>'+(j.cat==="job"?fmt(j.lastDate):"")+'</b></span>'
+          +   (j.examDate?'<span>परीक्षा: <b>'+fmt(j.examDate)+'</b></span>':'')
+          + '</div>'
+          + (j.cat==="job" ? '<button class="blogstrip" data-blog="'+j.id+'"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg><span><b>Form कैसे भरें?</b> — इसी भर्ती की step-by-step गाइड, गलती से बचने के लिए</span></button>' : '')
+          + '<div class="actions">'
+          +   '<button class="btn primary" data-detail="'+j.id+'">पूरी जानकारी देखो</button>'
+          +   '<button class="btn ghost'+(isSaved?' saved':'')+'" data-save="'+j.id+'" aria-pressed="'+isSaved+'"><svg viewBox="0 0 24 24" fill="'+(isSaved?'currentColor':'none')+'" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>'+(isSaved?'सेव है':'सेव करो')+'</button>'
+          + '</div>'
+          + '<button class="btn primary" data-apply="'+j.id+'" style="display:none"></button>'
+          + '</article>';
+      }
+
+      /* ============ FEED RENDER ============ */
+      function renderFeed(){
+        var list = sortedJobs(JOBS.filter(matches));
+        $("feed").innerHTML = list.map(cardHTML).join("");
+        $("feedEmpty").classList.toggle("show", list.length===0);
+        $("feedCount").textContent = list.length + " चीज़ें मिलीं";
+        var q = state.qual==="all" ? "सभी योग्यता" : state.qual;
+        var s = state.stateF==="all" ? "सभी राज्य" : state.stateF;
+        $("forYouText").innerHTML = "तुम्हारी छाँट: <b>"+q+"</b> + <b>"+s+"</b> — इस समय <b>"+list.length+" चीज़ें</b> तुम्हारे काम की हैं। सबसे ऊपर वही है जिसकी last date सबसे पास है।";
+        renderStories();
+      }
+      function renderSaved(){
+        var list = sortedJobs(JOBS.filter(function(j){ return state.saved[j.id]; }));
+        $("savedFeed").innerHTML = list.map(cardHTML).join("");
+        $("savedEmpty").classList.toggle("show", list.length===0);
+        $("savedTag").textContent = list.length + " भर्ती";
+        savedCountEl.textContent = list.length;
+      }
+
+      /* ============ STORIES ============ */
+      var STORYGROUPS = [
+        { key:"admit", title:"आज के Admit Card", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M5.5 17c.6-1.8 1.9-2.7 3.5-2.7s2.9.9 3.5 2.7M14 9h4M14 13h4"/></svg>',
+          items:function(){ return JOBS.filter(function(j){return j.cat==="admit" && stateMatch(j);}); } },
+        { key:"urgent", title:"आख़िरी दिन वाले", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>',
+          items:function(){ return sortedJobs(JOBS.filter(function(j){return j.cat==="job" && daysLeft(j.lastDate)<=3 && daysLeft(j.lastDate)>=0 && stateMatch(j);})); } },
+        { key:"result", title:"नए Result", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 6H4a1 1 0 0 0-1 1c0 2 1.5 3.5 4 3.5M17 6h3a1 1 0 0 1 1 1c0 2-1.5 3.5-4 3.5"/></svg>',
+          items:function(){ return JOBS.filter(function(j){return j.cat==="result" && stateMatch(j);}); } },
+        { key:"job", title:"नई भर्तियाँ", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>',
+          items:function(){ return sortedJobs(JOBS.filter(function(j){return j.cat==="job" && j.isNew && stateMatch(j);})); } },
+        { key:"blog", title:"Form कैसे भरें", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg>',
+          items:function(){ return JOBS.filter(function(j){return j.cat==="job" && stateMatch(j);}).slice(0,3); }, blog:true }
+      ];
+      function renderStories(){
+        $("stories").innerHTML = STORYGROUPS.map(function(g,i){
+          var n = g.items().length;
+          return '<button class="story" data-story="'+i+'" role="listitem"><span class="ring"><span class="inner">'+g.icon+'</span></span><span>'+g.title+'<br><span class="cnt">'+n+' नई</span></span></button>';
+        }).join("");
+      }
+      var storyState = { group:null, idx:0, timer:null };
+      var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      function openStory(gi){
+        storyState.group = STORYGROUPS[gi]; storyState.idx = 0;
+        $("storyGroupTitle").textContent = storyState.group.title;
+        $("storyModal").classList.add("open");
+        showSlide();
+      }
+      function closeStory(){ $("storyModal").classList.remove("open"); stopTimer(); }
+      function stopTimer(){ if(storyState.timer){ clearInterval(storyState.timer); storyState.timer=null; } }
+      function showSlide(){
+        stopTimer();
+        var items = storyState.group.items();
+        if(!items.length){ $("storySlide").innerHTML = "<p class='muted'>अभी इस खंड में कुछ नया नहीं है।</p>"; $("storyBars").innerHTML=""; return; }
+        if(storyState.idx>=items.length) storyState.idx = items.length-1;
+        if(storyState.idx<0) storyState.idx = 0;
+        var j = items[storyState.idx];
+        $("storyBars").innerHTML = items.map(function(_,i){
+          return '<i class="'+(i<storyState.idx?'done':'')+'"><b '+(i===storyState.idx?'id="barFill"':'')+'></b></i>';
+        }).join("");
+        var dl = daysLeft(j.lastDate);
+        $("storySlide").innerHTML =
+          '<span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
+          + '<h3 style="margin-top:10px">'+j.title+'</h3>'
+          + '<div class="org muted">'+j.org+'</div>'
+          + '<div class="meta">'
+          + '<div>कुल पद: <b>'+j.posts+'</b> · योग्यता: <b>'+j.qual+'</b></div>'
+          + '<div>'+(j.cat==="job" ? ('Last Date: <b>'+fmt(j.lastDate)+'</b> — '+(dl===0?'<b style="color:var(--red)">आज आख़िरी दिन!</b>':'<b>'+dl+' दिन बचे</b>')) : (j.cat==="admit" ? 'परीक्षा: <b>'+fmt(j.examDate)+'</b>' : 'नतीजा घोषित हो चुका है — roll number से जाँचो'))+'</div>'
+          + '<div>Fees: <b>'+j.feeText+'</b></div>'
+          + '</div>'
+          + '<button class="btn primary" style="width:100%" data-'+(storyState.group.blog?'blog':'detail')+'="'+j.id+'">'+(storyState.group.blog?'पूरी गाइड पढ़ो':'पूरी जानकारी देखो')+'</button>';
+        if(!reduced){
+          var fill = $("barFill"), start = Date.now();
+          storyState.timer = setInterval(function(){
+            var p = Math.min(100, (Date.now()-start)/4000*100);
+            if(fill) fill.style.width = p + "%";
+            if(p>=100){ if(storyState.idx < items.length-1){ storyState.idx++; showSlide(); } else closeStory(); }
+          }, 50);
+        }
+      }
+
+      /* ============ DETAIL VIEW ============ */
+      var currentJob = null;
+      function openDetail(id){
+        var j = JOBS.filter(function(x){return x.id===id;})[0];
+        if(!j) return;
+        currentJob = j;
+        var dl = daysLeft(j.lastDate);
+        var rows = j.breakup.map(function(b){
+          return '<div class="postrow"><span><b>'+b[0]+'</b><br><span class="muted small">योग्यता: '+b[2]+'</span></span><span class="pc">'+b[1]+(typeof b[1]==="number"?' पद':'')+'</span></div>';
+        }).join("");
+        var sel = j.selection.map(function(s){ return "<li>"+s+"</li>"; }).join("");
+        var docs = j.docs.map(function(s){ return "<li>"+iconCheck()+s+"</li>"; }).join("");
+        $("detailBody").innerHTML =
+          '<div class="detail-head">'
+          + '<div class="toprow" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
+          + sampleTag()+(j.isNew?'<span class="newtag">नया</span>':'')+daysPill(j)+'</div>'
+          + '<h1>'+j.title+'</h1><div class="org muted">'+j.org+' · '+j.state+'</div>'
+          + '<div class="facts" style="margin-top:14px">'
+          +   '<div class="fact"><div class="k">कुल पद</div><div class="v">'+j.posts+'</div></div>'
+          +   '<div class="fact"><div class="k">योग्यता</div><div class="v">'+j.qual+'</div></div>'
+          +   '<div class="fact"><div class="k">उम्र सीमा</div><div class="v" style="font-size:.92rem">'+j.age+'</div></div>'
+          +   '<div class="fact"><div class="k">वेतन</div><div class="v" style="font-size:.86rem">'+j.salary+'</div></div>'
+          + '</div></div>'
+          + '<div class="dgrid">'
+          +   '<div class="panel"><h3>Post का बँटवारा</h3>'+rows+'</div>'
+          +   '<div class="panel"><h3>तारीख़ें और Fees</h3><table class="info">'
+          +     '<tr><th>Form शुरू</th><td>'+fmt(j.startDate)+'</td></tr>'
+          +     '<tr><th>'+(j.cat==="job"?"Last Date":"तारीख़")+'</th><td><b>'+fmt(j.lastDate)+'</b>'+(j.cat==="job"?' ('+(dl<0?"निकल गई":dl===0?"आज आख़िरी दिन":dl+" दिन बचे")+')':'')+'</td></tr>'
+          +     (j.examDate?'<tr><th>परीक्षा तिथि</th><td>'+fmt(j.examDate)+'</td></tr>':'')
+          +     '<tr><th>Fees</th><td>'+j.feeText+'</td></tr>'
+          +     '<tr><th>उम्र सीमा</th><td>'+j.age+'</td></tr>'
+          +   '</table></div>'
+          +   '<div class="panel"><h3>'+(j.cat==="job"?"चयन कैसे होगा":"आगे क्या करना है")+'</h3><ol class="flow">'+sel+'</ol></div>'
+          +   '<div class="panel"><h3>ज़रूरी दस्तावेज़</h3><ul class="checks">'+docs+'</ul>'
+          +     '<h3 style="margin-top:18px">आधिकारिक Links</h3><div class="links">'
+          +     linkRow(j.pdfUrl, "Notification PDF", "PDF ↓")
+          +     linkRow(j.applyUrl, (j.cat==="job"?"Apply Online":j.cat==="admit"?"Admit Card Download":j.cat==="answer_key"?"Answer Key Download":"Result / Merit List"), "खोलो →")
+          +     linkRow(j.siteUrl, "आधिकारिक Website", "खोलो →") + linkRow(j.sourceUrl, "जानकारी का स्रोत (YouTube)", "देखो →")
+          +   '</div><p class="small muted" style="margin:10px 0 0">सभी link आधिकारिक website के हैं — form भरने से पहले notification ध्यान से पढ़ लें।</p></div>'
+          + '</div>'
+          + (j.cat==="job" ? '<button class="blogstrip" style="margin-top:16px" data-blog="'+j.id+'"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg><span><b>इस form को भरना है?</b> — पहले ये step-by-step गाइड पढ़ लो, फिर Apply करो</span></button>' : '')
+          + '<div class="stickybar"><div class="row">'
+          +   '<button class="btn primary" data-applybtn>'+(j.cat==="result"?"Result देखो":j.cat==="admit"?"Admit Card निकालो":"अभी Apply करो")+(j.cat==="job"&&dl>=0?' — '+dl+' दिन बचे':'')+'</button>'
+          +   '<button class="btn ghost'+(state.saved[j.id]?' saved':'')+'" data-save="'+j.id+'"><svg viewBox="0 0 24 24" fill="'+(state.saved[j.id]?'currentColor':'none')+'" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>'+(state.saved[j.id]?'सेव है':'सेव करो')+'</button>'
+          + '</div><p class="small muted" id="applyMsg" style="margin:8px 0 0;display:none"></p></div>';
+        var rel = sortedJobs(JOBS.filter(function(x){ return x.id!==j.id && (x.qual===j.qual || x.cat===j.cat); })).slice(0,3);
+        $("relatedRow").innerHTML = rel.map(function(r){
+          return '<button class="rel" data-detail="'+r.id+'"><span class="badge '+r.cat+'">'+CATNAME[r.cat]+'</span><b>'+r.title+'</b><span>'+r.posts+' · Last: '+fmt(r.lastDate)+'</span></button>';
+        }).join("");
+        showView("detail");
+      }
+
+      /* ============ BLOG VIEW ============ */
+      var BLOGSTEPS = [
+        ["सबसे पहले notification ध्यान से पढ़ो","योग्यता, उम्र और fees अपनी श्रेणी के हिसाब से जाँच लो। एक भी शर्त अधूरी हो तो form भरने का कोई फ़ायदा नहीं — fees वापस नहीं मिलती।"],
+        ["दस्तावेज़ पहले से तैयार रखो","फ़ोटो (हाल की, सफ़ेद background), signature, marksheet और Aadhaar — सबकी साफ़ scan copy मोबाइल में अलग folder में रखो।"],
+        ["आधिकारिक website पर registration करो","सिर्फ़ वही link इस्तेमाल करो जो इस page पर दिया है। नाम और जन्म तिथि बिल्कुल वैसे ही लिखो जैसे 10वीं की marksheet में है — एक अक्षर की गलती आगे चलकर भारी पड़ती है।"],
+        ["Form को हिस्सों में भरो","व्यक्तिगत जानकारी → योग्यता → दस्तावेज़ upload → fees। हर हिस्से के बाद 'Save' करके आगे बढ़ो, ताकि net कटे तो काम न डूबे।"],
+        ["फ़ोटो और signature का size जाँचो","सबसे ज़्यादा form यहीं अटकते हैं। Upload से पहले देख लो कि फ़ाइल तय KB सीमा के अंदर है और चेहरा साफ़ दिख रहा है।"],
+        ["Fees जमा करके receipt संभालो","Payment के बाद application number और receipt का screenshot + print दोनों रखो। यही दोनों चीज़ें admit card के समय काम आएँगी।"],
+        ["Final submit से पहले preview देखो","आख़िरी submit से पहले पूरा form एक बार पढ़ो — ख़ासकर नाम की spelling, श्रेणी और परीक्षा केंद्र का शहर। Submit के बाद सुधार का मौका हर भर्ती में नहीं मिलता।"]
+      ];
+      function openBlog(id){
+        var j = JOBS.filter(function(x){return x.id===id;})[0];
+        if(j){ $("blogTitle").textContent = j.title + " — Form कैसे भरें";
+          $("blogSub").textContent = j.org + " · Last Date: " + fmt(j.lastDate) + " · Fees: " + j.feeText + " — नीचे हर कदम आसान भाषा में दिया है।"; }
+        $("blogSteps").innerHTML = ((j && j.blogSteps && j.blogSteps.length) ? j.blogSteps : BLOGSTEPS).map(function(s,i){
+          return '<div class="blogstep"><span class="num">'+(i+1)+'</span><div><h3>'+s[0]+'</h3><p>'+s[1]+'</p></div></div>';
+        }).join("");
+        var rel = sortedJobs(JOBS.filter(function(x){ return x.cat==="job" && (!j || x.id!==j.id); })).slice(0,3);
+        $("blogRelated").innerHTML = rel.map(function(r){
+          return '<button class="rel" data-detail="'+r.id+'"><span class="badge '+r.cat+'">'+CATNAME[r.cat]+'</span><b>'+r.title+'</b><span>'+r.posts+' · Last: '+fmt(r.lastDate)+'</span></button>';
+        }).join("");
+        showView("blog");
+      }
+
+      /* ============ YATRA ============ */
+      var YATRA = [
+        { t:"योग्यता और राज्य चुन लिया", done:true },
+        { t:"मेरे लिए छँटी हुई feed तैयार है", done:true },
+        { t:"पूरी जानकारी और post का बँटवारा पढ़ा", done:false },
+        { t:"दस्तावेज़ों की checklist तैयार की", done:false },
+        { t:"'Form कैसे भरें' गाइड पढ़कर form जमा किया", done:false }
+      ];
+      function renderYatra(){
+        $("yatraSteps").innerHTML = YATRA.map(function(s,i){
+          return '<div class="step'+(s.done?' done':'')+'"><span class="dot">'+(s.done?'✓':(i+1))+'</span><span class="st">'+s.t+'</span><button data-yatra="'+i+'">'+(s.done?'हो गया':'कर लिया')+'</button></div>';
+        }).join("");
+        var done = YATRA.filter(function(s){return s.done;}).length;
+        var pct = Math.round(done/YATRA.length*100);
+        $("yatraPct").textContent = pct + "%";
+        var bar = $("yatraBar"); bar.setAttribute("aria-valuenow", pct); bar.querySelector("i").style.width = pct + "%";
+        $("yatraDone").classList.toggle("show", pct===100);
+      }
+
+      /* ============ NAVIGATION ============ */
+      function showView(name){
+        ["home","detail","blog","saved"].forEach(function(v){
+          $("view-"+v).classList.toggle("on", v===name);
+        });
+        document.querySelectorAll("#topNav button, #bottomNav button").forEach(function(b){
+          var n = b.getAttribute("data-nav");
+          b.classList.toggle("on", n===name || (name==="detail" && n==="home") || ((n==="jobs"||n==="admit"||n==="result") && name==="home" && state.cat===n.replace("jobs","job")));
+        });
+        window.scrollTo({top:0, behavior: reduced ? "auto" : "smooth"});
+      }
+      function goNav(nav){
+        if(nav==="home"){ state.cat="all"; syncTabs(); renderFeed(); showView("home"); }
+        else if(nav==="jobs"){ state.cat="job"; syncTabs(); renderFeed(); showView("home"); scrollToFeed(); }
+        else if(nav==="admit"){ state.cat="admit"; syncTabs(); renderFeed(); showView("home"); scrollToFeed(); }
+        else if(nav==="result"){ state.cat="result"; syncTabs(); renderFeed(); showView("home"); scrollToFeed(); }
+        else if(nav==="blog"){ openBlog(null); }
+        else if(nav==="saved"){ renderSaved(); showView("saved"); }
+      }
+      function scrollToFeed(){ setTimeout(function(){ var el=$("feedSec"); if(el) el.scrollIntoView({behavior: reduced?"auto":"smooth", block:"start"}); }, 60); }
+      function syncTabs(){
+        document.querySelectorAll("#catTabs .tab").forEach(function(t){
+          t.classList.toggle("on", t.getAttribute("data-cat")===state.cat);
+        });
+        $("feedTitle").textContent = state.cat==="all" ? "तुम्हारे लिए भर्तियाँ" :
+          state.cat==="job" ? "नई भर्तियाँ" : state.cat==="admit" ? "Admit Card" :
+          state.cat==="result" ? "Result" : "आख़िरी दिन वाली भर्तियाँ";
+      }
+
+      /* ============ EVENTS ============ */
+      document.addEventListener("click", function(e){
+        var nav = e.target.closest("[data-nav]");
+        if(nav){ e.preventDefault(); goNav(nav.getAttribute("data-nav"));
+          var jump = nav.getAttribute("data-jump");
+          if(jump){ setTimeout(function(){ var el=$(jump); if(el) el.scrollIntoView({behavior: reduced?"auto":"smooth"}); }, 80); }
+          return; }
+        var jumpOnly = e.target.closest("[data-jump]");
+        if(jumpOnly && !nav){ var el2 = $(jumpOnly.getAttribute("data-jump")); if(el2) el2.scrollIntoView({behavior: reduced?"auto":"smooth"}); return; }
+        var det = e.target.closest("[data-detail]");
+        if(det){ closeStory(); openDetail(det.getAttribute("data-detail")); return; }
+        var bl = e.target.closest("[data-blog]");
+        if(bl){ closeStory(); openBlog(bl.getAttribute("data-blog")); return; }
+        var sv = e.target.closest("[data-save]");
+        if(sv){ var id = sv.getAttribute("data-save");
+          state.saved[id] = !state.saved[id];
+          if(!state.saved[id]) delete state.saved[id];
+          try{ localStorage.setItem("cj_saved", JSON.stringify(state.saved)); }catch(e){}
+          renderFeed(); renderSaved();
+          if(currentJob && $("view-detail").classList.contains("on")) openDetail(currentJob.id);
+          return; }
+        var st = e.target.closest("[data-story]");
+        if(st){ openStory(parseInt(st.getAttribute("data-story"),10)); return; }
+        var yt = e.target.closest("[data-yatra]");
+        if(yt){ var i = parseInt(yt.getAttribute("data-yatra"),10); YATRA[i].done = !YATRA[i].done; renderYatra(); return; }
+        var ap = e.target.closest("[data-applybtn]");
+        if(ap){ if(currentJob && currentJob.applyUrl){ window.open(currentJob.applyUrl, "_blank", "noopener"); } else if(currentJob && currentJob.pdfUrl){ window.open(currentJob.pdfUrl, "_blank", "noopener"); } else { var m = $("applyMsg"); if(m){ m.style.display="block"; m.textContent = "इसका आधिकारिक link ऊपर 'आधिकारिक Links' में मिलेगा।"; } } return; }
+        var ex = e.target.closest("[data-extlink]");
+        if(ex){ e.preventDefault(); ex.querySelector(".ext").textContent = "Link"; return; }
+        var intent = e.target.closest("[data-intent]");
+        if(intent){ var k = intent.getAttribute("data-intent");
+          if(k==="urgent"){ state.cat="urgent"; } else { state.cat=k; }
+          syncTabs(); renderFeed(); scrollToFeed(); return; }
+      });
+      document.querySelectorAll("#catTabs .tab").forEach(function(t){
+        t.addEventListener("click", function(){ state.cat = t.getAttribute("data-cat"); syncTabs(); renderFeed(); });
+      });
+      document.querySelectorAll("#qualChips .chip").forEach(function(c){
+        c.addEventListener("click", function(){
+          document.querySelectorAll("#qualChips .chip").forEach(function(x){ x.classList.remove("on"); });
+          c.classList.add("on"); state.qual = c.getAttribute("data-qual"); renderFeed();
+        });
+      });
+      $("stateSel").addEventListener("change", function(){ state.stateF = this.value; renderFeed(); });
+      $("searchForm").addEventListener("submit", function(e){
+        e.preventDefault(); state.query = $("searchInput").value.trim();
+        if(!$("view-home").classList.contains("on")) showView("home");
+        renderFeed(); scrollToFeed();
+      });
+      $("searchInput").addEventListener("input", function(){ state.query = this.value.trim(); renderFeed(); });
+      $("storyClose").addEventListener("click", closeStory);
+      $("storyNext").addEventListener("click", function(){ storyState.idx++; showSlide(); });
+      $("storyPrev").addEventListener("click", function(){ storyState.idx--; showSlide(); });
+      $("storyModal").addEventListener("click", function(e){ if(e.target===this) closeStory(); });
+      document.addEventListener("keydown", function(e){ if(e.key==="Escape") closeStory(); });
+
+      /* ============ INIT ============ */
+      renderStories(); renderYatra(); renderFeed(); renderSaved(); loadJobs();
+    })();
+    </script>
+  </body>
 </html>
