@@ -2582,5 +2582,215 @@
   "startDate": "2026-10-30",
   "state": "तेलंगाना",
   "title": "TGPSC मंडल योजना व सांख्यिकी अधिकारी (MPSO/ASO) भर्ती 2026"
+ },
+ {
+  "age": null,
+  "applyUrl": "https://cetonline.karnataka.gov.in/kea/",
+  "breakup": [
+   [
+    "प्रथम श्रेणी सहायक (FDA)",
+    "2,726",
+    "Graduate"
+   ],
+   [
+    "द्वितीय श्रेणी सहायक (SDA)",
+    "2,705",
+    "12वीं"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "शैक्षणिक प्रमाणपत्र (स्नातक / 12वीं)",
+   "जन्मतिथि प्रमाण",
+   "जाति / आरक्षण प्रमाणपत्र (यदि लागू)",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": "2027-01-08",
+  "feeGen": "₹750",
+  "feeText": "सामान्य वर्ग ₹750; आरक्षित वर्गों की छूट नोटिफ़िकेशन में देखें",
+  "id": "kea-fda-sda-2026",
+  "isNew": true,
+  "lastDate": "2026-11-25",
+  "org": "Karnataka Examinations Authority (KEA)",
+  "pdfUrl": null,
+  "posts": "5,431 पद",
+  "qual": "12वीं",
+  "salary": null,
+  "selection": [
+   "लिखित परीक्षा (8, 9, 10, 16 व 17 जनवरी 2027)"
+  ],
+  "siteUrl": "https://cetonline.karnataka.gov.in/kea/",
+  "sourceUrl": "https://www.youtube.com/watch?v=MVVod0gBmqs",
+  "startDate": "2026-10-30",
+  "state": "कर्नाटक",
+  "title": "कर्नाटक KEA FDA व SDA भर्ती 2026 — 5,431 पद (ग्रुप-C)"
+ },
+ {
+  "age": "15 – 24 वर्ष",
+  "applyUrl": "https://www.rrccr.com/",
+  "breakup": [
+   [
+    "एक्ट अप्रेंटिस (मूल नोटिफ़िकेशन)",
+    "2,861",
+    "ITI"
+   ],
+   [
+    "इंजीनियरिंग (P-Way) अतिरिक्त स्लॉट (Addendum 10 नवंबर)",
+    "948",
+    "ITI"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "10वीं मार्कशीट (कम से कम 50% अंक)",
+   "ITI प्रमाणपत्र (संबंधित ट्रेड)",
+   "जन्मतिथि प्रमाण",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": null,
+  "feeGen": null,
+  "feeText": null,
+  "id": "rrc-cr-apprentice-2026",
+  "isNew": true,
+  "lastDate": "2026-12-02",
+  "org": "Railway Recruitment Cell, Central Railway (RRC CR)",
+  "pdfUrl": "https://rrccr.com/rrwc/Files/89178478-8bc4-43c2-b1a2-384d4c8fda73.pdf",
+  "posts": "3,809 स्लॉट",
+  "qual": "ITI",
+  "salary": "₹9,600 / माह (स्टाइपेंड)",
+  "selection": [
+   "मेरिट सूची (10वीं + ITI अंक)",
+   "दस्तावेज़ सत्यापन"
+  ],
+  "siteUrl": "https://www.rrccr.com/",
+  "sourceUrl": "https://www.youtube.com/shorts/aENbPxGCXYM",
+  "startDate": "2026-11-03",
+  "state": "महाराष्ट्र",
+  "title": "मध्य रेलवे (RRC CR) एक्ट अप्रेंटिस भर्ती 2026 — 3,809 स्लॉट"
+ },
+ {
+  "age": "21 – 30 वर्ष",
+  "applyUrl": "https://asrb.gov.in/",
+  "breakup": [
+   [
+    "टेक्निकल असिस्टेंट (T-3)",
+    "1,254",
+    "Graduate"
+   ],
+   [
+    "सीनियर टेक्निकल असिस्टेंट (T-4)",
+    "139",
+    "Graduate"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "स्नातक डिग्री प्रमाणपत्र (संबंधित विषय)",
+   "जन्मतिथि प्रमाण",
+   "जाति प्रमाणपत्र (यदि लागू)",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": null,
+  "feeGen": null,
+  "feeText": null,
+  "id": "asrb-icar-technical-assistant-2026",
+  "isNew": true,
+  "lastDate": "2026-12-17",
+  "org": "Agricultural Scientists Recruitment Board (ASRB)",
+  "pdfUrl": null,
+  "posts": "1,393 पद",
+  "qual": "Graduate",
+  "salary": null,
+  "selection": [
+   "प्रारंभिक परीक्षा (CBT, फ़रवरी 2027)",
+   "मुख्य परीक्षा"
+  ],
+  "siteUrl": "https://asrb.gov.in/",
+  "sourceUrl": "https://www.jagranjosh.com/lite/articles/asrb-icar-technical-assistant-recruitment-2026-notification-out-for-t3-and-t4-posts-check-eligibility-and-other-details-1800018988-1",
+  "startDate": "2026-11-18",
+  "state": "सभी राज्य (केंद्रीय)",
+  "title": "ASRB ICAR टेक्निकल असिस्टेंट भर्ती 2026 — 1,393 पद (T-3 व T-4)"
+ },
+ {
+  "age": "18 – 44 वर्ष",
+  "applyUrl": "https://psc.ap.gov.in/",
+  "breakup": [
+   [
+    "कार्यकारी पद (Executive)",
+    "471",
+    "Graduate"
+   ],
+   [
+    "गैर-कार्यकारी पद (Non-Executive)",
+    "249",
+    "Graduate"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "स्नातक डिग्री प्रमाणपत्र",
+   "OTPR पंजीकरण",
+   "जाति / आरक्षण प्रमाणपत्र (यदि लागू)",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": "2027-02-21",
+  "feeGen": "₹330",
+  "feeText": "कुल ₹330 (प्रोसेसिंग ₹250 + परीक्षा ₹80); पात्र वर्गों के लिए ₹250",
+  "id": "appsc-group2-2026",
+  "isNew": true,
+  "lastDate": "2026-12-11",
+  "org": "Andhra Pradesh Public Service Commission (APPSC)",
+  "pdfUrl": null,
+  "posts": "720 पद",
+  "qual": "Graduate",
+  "salary": "₹25,220 – ₹1,30,580 / माह",
+  "selection": [
+   "स्क्रीनिंग टेस्ट (21 फ़रवरी 2027)",
+   "मुख्य परीक्षा (CBRT)",
+   "कंप्यूटर प्रवीणता परीक्षा",
+   "प्रमाणपत्र सत्यापन"
+  ],
+  "siteUrl": "https://psc.ap.gov.in/",
+  "sourceUrl": "https://www.freejobalert.com/articles/appsc-group-ii-recruitment-2026-3073316",
+  "startDate": "2026-11-10",
+  "state": "आंध्र प्रदेश",
+  "title": "APPSC ग्रुप-2 सेवा भर्ती 2026 — 720 पद (विज्ञापन सं. 37/2026)"
+ },
+ {
+  "age": "18 – 40 वर्ष",
+  "applyUrl": "https://cetonline.karnataka.gov.in/kea/",
+  "breakup": [
+   [
+    "महिला सुपरवाइज़र (RPC)",
+    "141",
+    "Graduate"
+   ]
+  ],
+  "cat": "job",
+  "docs": [
+   "स्नातक डिग्री प्रमाणपत्र (होम साइंस / सोशल वर्क / समाजशास्त्र)",
+   "जन्मतिथि प्रमाण",
+   "फ़ोटो व हस्ताक्षर"
+  ],
+  "examDate": "2027-01-08",
+  "feeGen": null,
+  "feeText": null,
+  "id": "kea-female-supervisor-2026",
+  "isNew": true,
+  "lastDate": "2026-11-28",
+  "org": "Karnataka Examinations Authority (KEA)",
+  "pdfUrl": null,
+  "posts": "141 पद",
+  "qual": "Graduate",
+  "salary": "₹44,425 – ₹83,700 / माह",
+  "selection": [
+   "लिखित परीक्षा",
+   "कन्नड़ भाषा परीक्षा (8 जनवरी 2027)"
+  ],
+  "siteUrl": "https://cetonline.karnataka.gov.in/kea/",
+  "sourceUrl": "https://www.jagranjosh.com/lite/articles/kea-women-supervisor-recruitment-2026-apply-online-for-various-posts-check-eligibility-and-other-details-1800018704-1",
+  "startDate": "2026-11-03",
+  "state": "कर्नाटक",
+  "title": "कर्नाटक KEA महिला सुपरवाइज़र भर्ती 2026 — 141 पद (केवल महिला)"
  }
 ]
