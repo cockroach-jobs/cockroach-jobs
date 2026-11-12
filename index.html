@@ -95,10 +95,10 @@
       .stories::-webkit-scrollbar{display:none}
       .story{flex:none;width:84px;background:none;border:0;text-align:center;padding:4px 0;color:var(--ink)}
       .ring{width:68px;height:68px;margin:0 auto;border-radius:50%;padding:3px;
-        background:conic-gradient(var(--accent),#FFC24B,var(--accent))}
+        background:conic-gradient(from 210deg,var(--g1,#F97316),var(--g2,#FFC24B),var(--g1,#F97316))}
       .ring .inner{width:100%;height:100%;border-radius:50%;background:var(--surface);border:3px solid var(--bg);
         display:grid;place-items:center}
-      .ring .inner svg{width:28px;height:28px;stroke:var(--primary)}
+      .ring .inner svg{width:30px;height:30px;stroke:var(--ic,var(--primary))}
       .story span{display:block;margin-top:7px;font-size:.8rem;font-weight:600;line-height:1.3}
       .story .cnt{color:var(--accent);font-weight:800}
 
@@ -145,7 +145,7 @@
       .yatra .done-msg.show{display:block}
 
       /* ---------- Personal filter ---------- */
-      .perso{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
+      .perso{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow);max-height:860px;overflow:hidden;transition:max-height .5s ease,opacity .4s ease,padding .4s ease}
       .chips{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
       .chip{border:1.5px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;
         padding:8px 16px;font-weight:600}
@@ -294,9 +294,54 @@
         .bar i{transition:none}
       }
           /* ---------- Sangstha logo ---------- */
-      .orglogo{position:relative;width:36px;height:36px;border-radius:10px;overflow:hidden;flex:none;border:1px solid #dbe4f0;background:#fff;display:inline-block;vertical-align:middle}
-      .orglogo .oglb{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:.56rem;letter-spacing:.02em;text-align:center;padding:2px;line-height:1.15}
+      .orglogo{position:relative;width:52px;height:52px;border-radius:14px;overflow:hidden;flex:none;border:1px solid #dbe4f0;background:#fff;display:inline-block;vertical-align:middle}
+      .orglogo .oglb{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:.72rem;letter-spacing:.02em;text-align:center;padding:2px;line-height:1.15}
       .orglogo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:3px;background:#fff}
+      .orglogo.big{width:66px;height:66px;border-radius:16px}
+      .orglogo.big .oglb{font-size:.88rem}
+
+      /* ---------- Customize band hone par patli patti ---------- */
+      .perso.closed{max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-color:transparent;box-shadow:none}
+      .persobar{display:none;align-items:center;gap:10px;background:var(--primary);color:#fff;border-radius:var(--radius);padding:12px 16px;box-shadow:var(--shadow);flex-wrap:wrap;font-weight:600}
+      .persobar.show{display:flex;animation:fadeUp .35s ease both}
+      .persobar b{color:#FFD9A8}
+      .persobar button{margin-left:auto;background:#fff;color:var(--primary);border:0;border-radius:999px;padding:8px 18px;font-weight:800;cursor:pointer}
+
+      /* ---------- Aaj aakhiri din alert + asli ginti (psychology) ---------- */
+      .todayalert{display:none;background:linear-gradient(90deg,#DC2626,#F97316);color:#fff;font-weight:600;border-radius:14px;padding:12px 16px;margin-top:16px;align-items:center;gap:10px;flex-wrap:wrap;box-shadow:var(--shadow)}
+      .todayalert.show{display:flex;animation:fadeUp .4s ease both}
+      .todayalert button{background:#fff;color:#DC2626;border:0;border-radius:999px;padding:7px 16px;font-weight:800;margin-left:auto;cursor:pointer}
+      .statstrip{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+      .statstrip .st{flex:1;min-width:140px;background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--primary);border-radius:12px;padding:10px 14px;box-shadow:var(--shadow)}
+      .statstrip .st b{display:block;font-size:1.18rem;color:var(--primary)}
+      .statstrip .st span{font-size:.82rem;color:var(--muted);font-weight:600}
+      .statstrip .st.acc{border-left-color:var(--accent)}
+      .statstrip .st.acc b{color:var(--accent)}
+      .statstrip .st.grn{border-left-color:var(--green)}
+      .statstrip .st.grn b{color:var(--green)}
+
+      /* ---------- Animations ---------- */
+      @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+      @keyframes pulseNew{0%,100%{transform:scale(1)}50%{transform:scale(1.13)}}
+      @keyframes blinkUrgent{0%,100%{box-shadow:0 0 0 0 rgba(220,38,38,.45)}50%{box-shadow:0 0 0 7px rgba(220,38,38,0)}}
+      @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+      @keyframes shimmerMove{from{transform:translateX(-100%)}to{transform:translateX(220%)}}
+      .card{animation:fadeUp .45s ease both;transition:transform .18s ease,box-shadow .18s ease}
+      .card:hover{transform:translateY(-3px)}
+      .btn{transition:transform .12s ease,filter .12s ease}
+      .btn:active{transform:scale(.97)}
+      .newtag{animation:pulseNew 1.6s ease-in-out infinite}
+      .days.urgent{animation:blinkUrgent 1.4s ease-in-out infinite}
+      .intent{transition:transform .15s ease,box-shadow .15s ease}
+      .intent:hover{transform:translateY(-3px)}
+      .intent:active{transform:scale(.98)}
+      .story .ring{animation:floaty 3.4s ease-in-out infinite}
+      .story{animation:fadeUp .4s ease both}
+      .view.on{animation:fadeUp .3s ease both}
+      .chip,.tab{transition:all .15s ease}
+      .bar i{position:relative}
+      .bar i::after{content:"";position:absolute;top:0;bottom:0;width:45%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.5),transparent);animation:shimmerMove 1.9s linear infinite}
+      @media (prefers-reduced-motion: reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
   </head>
   <body>
@@ -309,23 +354,23 @@
           <span class="txt">Cockroach Jobs</span>
         </a>
         <form class="searchbar" id="searchForm" role="search">
-          <input id="searchInput" type="search" placeholder="भर्ती खोजो…" aria-label="भर्ती खोजें" />
+          <input id="searchInput" type="search" placeholder="भर्ती खोजो… (Search)" aria-label="भर्ती खोजें" />
           <button type="submit">खोजो</button>
         </form>
         <button class="savedbtn" data-nav="saved" aria-label="सेव की हुई भर्तियाँ">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
-          <span>सेव</span><span class="savedcount" id="savedCount">0</span>
+          <span>सेव (Saved)</span><span class="savedcount" id="savedCount">0</span>
         </button>
       </div>
     </header>
     <nav class="mainnav" aria-label="मुख्य खंड">
       <div class="wrap navrow" id="topNav">
-        <button data-nav="home" class="on">होम</button>
-        <button data-nav="jobs">नई भर्तियाँ</button>
-        <button data-nav="admit">Admit Card</button>
-        <button data-nav="result">Result</button>
-        <button data-nav="blog">Form कैसे भरें</button>
-        <button data-nav="saved">मेरी सेव लिस्ट</button>
+        <button data-nav="home" class="on">होम (Home)</button>
+        <button data-nav="jobs">नई भर्तियाँ (Jobs)</button>
+        <button data-nav="admit">Admit Card (प्रवेश पत्र)</button>
+        <button data-nav="result">Result (परिणाम)</button>
+        <button data-nav="blog">Form गाइड (Form Guide)</button>
+        <button data-nav="saved">सेव लिस्ट (Saved)</button>
       </div>
     </nav>
     <div class="demostrip">यहाँ हर जानकारी भरोसेमंद YouTube स्रोतों से लेकर internet पर cross-check करके डाली जाती है — तारीख़, fees और आधिकारिक link के साथ।</div>
@@ -363,6 +408,9 @@
               <span class="go">Result देखो →</span>
             </button>
           </div>
+
+          <div class="todayalert" id="todayAlert" role="alert"></div>
+          <div class="statstrip" id="statStrip" aria-label="साइट की ताज़ा गिनती"></div>
 
           <div class="stories" id="stories" role="list" aria-label="आज की झलकियाँ"></div>
         </div>
@@ -418,11 +466,11 @@
 
         <!-- Personal filter -->
         <section class="block">
-          <div class="perso">
-            <h3 style="font-size:1.08rem">2 tap में तुम्हारी भर्ती — योग्यता और राज्य चुनो</h3>
+          <div class="perso" id="persoPanel">
+            <h3 style="font-size:1.08rem">2 tap में तुम्हारी भर्ती — योग्यता (Qualification) और राज्य (State) चुनो</h3>
             <div class="row" style="margin-top:12px">
               <div>
-                <div class="small muted" style="font-weight:700;margin-bottom:2px">मेरी योग्यता</div>
+                <div class="small muted" style="font-weight:700;margin-bottom:2px">मेरी योग्यता (My Qualification)</div>
                 <div class="chips" id="qualChips" style="margin:4px 0 0">
                   <button class="chip on" data-qual="all">सभी</button>
                   <button class="chip" data-qual="10वीं">10वीं</button>
@@ -432,7 +480,7 @@
                   <button class="chip" data-qual="Graduate">Graduate</button>
                 </div>
               </div>
-              <label>मेरा राज्य
+              <label>मेरा राज्य (My State)
                 <select id="stateSel">
                   <option value="all">सभी राज्य</option>
                   <option value="राजस्थान" selected>राजस्थान</option>
@@ -443,19 +491,21 @@
                 </select>
               </label>
             </div>
+            <p class="small muted" style="margin-top:10px">चुनते ही यह खंड अपने आप हट जाएगा — तुम्हारी पसंद याद रहेगी, हर बार यही नहीं दिखेगा। बदलना हो तो नीचे की पतली पट्टी से बदल लेना।</p>
             <p class="foryou" id="forYouText"></p>
           </div>
+          <div class="persobar" id="persoBar"></div>
         </section>
 
         <!-- Feed -->
         <section class="block" id="feedSec">
-          <div class="shead"><h2 id="feedTitle">तुम्हारे लिए भर्तियाँ</h2><span class="tag" id="feedCount"></span></div>
+          <div class="shead"><h2 id="feedTitle">तुम्हारे लिए भर्तियाँ (Jobs For You)</h2><span class="tag" id="feedCount"></span></div>
           <div class="tabs" id="catTabs" role="tablist" aria-label="श्रेणी चुनें">
-            <button class="tab on" data-cat="all">सभी</button>
-            <button class="tab" data-cat="job">नई भर्तियाँ</button>
-            <button class="tab" data-cat="admit">Admit Card</button>
-            <button class="tab" data-cat="result">Result</button>
-            <button class="tab" data-cat="urgent">सिर्फ़ आख़िरी दिन वाले</button>
+            <button class="tab on" data-cat="all">सभी (All)</button>
+            <button class="tab" data-cat="job">नई भर्तियाँ (New Jobs)</button>
+            <button class="tab" data-cat="admit">Admit Card (प्रवेश पत्र)</button>
+            <button class="tab" data-cat="result">Result (परिणाम)</button>
+            <button class="tab" data-cat="urgent">आख़िरी दिन वाले (Closing Soon)</button>
           </div>
           <div class="feed" id="feed"></div>
           <div class="empty" id="feedEmpty">अभी इस खंड में कुछ नहीं है — नई जानकारी आते ही यहाँ सबसे पहले दिखेगी। योग्यता "सभी" करके भी देख लो।</div>
@@ -618,7 +668,7 @@
         }
         return null;
       }
-      function logoHTML(j){
+      function logoHTML(j, big){
         var L = logoFor(j);
         var code = "सरकारी";
         var m = /\(([A-Za-z][A-Za-z ]{1,9})\)/.exec(j.org || "");
@@ -626,7 +676,7 @@
         else if(L) code = L.code;
         var color = L ? L.color : "#0B3C8A";
         var img = (L && L.url) ? '<img src="' + L.url + '" alt="" loading="lazy" onerror="this.remove()">' : '';
-        return '<span class="orglogo" title="' + j.org + '"><span class="oglb" style="background:' + color + '">' + code + '</span>' + img + '</span>';
+        return '<span class="orglogo' + (big ? " big" : "") + '" title="' + j.org + '"><span class="oglb" style="background:' + color + '">' + code + '</span>' + img + '</span>';
       }
 
       function normalizeJob(j){
@@ -693,29 +743,29 @@
         return arr;
       }
 
-      function cardHTML(j){
+      function cardHTML(j, idx){
         var isSaved = !!state.saved[j.id];
         var mainBtn = j.cat==="result" ? "Result देखो" : (j.cat==="admit" ? "Admit Card निकालो" : "Apply करो");
-        return '<article class="card">'
+        return '<article class="card" style="animation-delay:' + (Math.min(idx || 0, 10) * 55) + 'ms">'
           + '<div class="toprow">' + logoHTML(j) + '<span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
           + sampleTag()
           + (j.isNew?'<span class="newtag">नया</span>':'')
           + daysPill(j)+'</div>'
           + '<div><h3>'+j.title+'</h3><div class="org">'+j.org+'</div></div>'
           + '<div class="facts">'
-          +   '<div class="fact"><div class="k">कुल पद</div><div class="v">'+j.posts+'</div></div>'
-          +   '<div class="fact"><div class="k">योग्यता</div><div class="v">'+j.qual+'</div></div>'
-          +   '<div class="fact"><div class="k">Fees (सामान्य)</div><div class="v">'+j.feeGen+'</div></div>'
-          +   '<div class="fact"><div class="k">वेतन</div><div class="v" style="font-size:.92rem">'+j.salary+'</div></div>'
+          +   '<div class="fact"><div class="k">कुल पद (Total Posts)</div><div class="v">'+j.posts+'</div></div>'
+          +   '<div class="fact"><div class="k">योग्यता (Qualification)</div><div class="v">'+j.qual+'</div></div>'
+          +   '<div class="fact"><div class="k">फीस (Fees)</div><div class="v">'+j.feeGen+'</div></div>'
+          +   '<div class="fact"><div class="k">वेतन (Salary)</div><div class="v" style="font-size:.92rem">'+j.salary+'</div></div>'
           + '</div>'
-          + '<div class="datestrip"><span>शुरू: <b>'+fmt(j.startDate)+'</b></span>'
-          +   '<span class="ld">'+(j.cat==="job"?"Last Date: ":"")+'<b>'+(j.cat==="job"?fmt(j.lastDate):"")+'</b></span>'
-          +   (j.examDate?'<span>परीक्षा: <b>'+fmt(j.examDate)+'</b></span>':'')
+          + '<div class="datestrip"><span>शुरू (Start): <b>'+fmt(j.startDate)+'</b></span>'
+          +   '<span class="ld">'+(j.cat==="job"?"अंतिम तिथि (Last Date): ":"")+'<b>'+(j.cat==="job"?fmt(j.lastDate):"")+'</b></span>'
+          +   (j.examDate?'<span>परीक्षा (Exam): <b>'+fmt(j.examDate)+'</b></span>':'')
           + '</div>'
           + (j.cat==="job" ? '<button class="blogstrip" data-blog="'+j.id+'"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg><span><b>Form कैसे भरें?</b> — इसी भर्ती की step-by-step गाइड, गलती से बचने के लिए</span></button>' : '')
           + '<div class="actions">'
-          +   '<button class="btn primary" data-detail="'+j.id+'">पूरी जानकारी देखो</button>'
-          +   '<button class="btn ghost'+(isSaved?' saved':'')+'" data-save="'+j.id+'" aria-pressed="'+isSaved+'"><svg viewBox="0 0 24 24" fill="'+(isSaved?'currentColor':'none')+'" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>'+(isSaved?'सेव है':'सेव करो')+'</button>'
+          +   '<button class="btn primary" data-detail="'+j.id+'">पूरी जानकारी (Full Details)</button>'
+          +   '<button class="btn ghost'+(isSaved?' saved':'')+'" data-save="'+j.id+'" aria-pressed="'+isSaved+'"><svg viewBox="0 0 24 24" fill="'+(isSaved?'currentColor':'none')+'" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>'+(isSaved?'सेव है (Saved)':'सेव करो (Save)')+'</button>'
           + '</div>'
           + '<button class="btn primary" data-apply="'+j.id+'" style="display:none"></button>'
           + '</article>';
@@ -730,7 +780,7 @@
         var q = state.qual==="all" ? "सभी योग्यता" : state.qual;
         var s = state.stateF==="all" ? "सभी राज्य" : state.stateF;
         $("forYouText").innerHTML = "तुम्हारी छाँट: <b>"+q+"</b> + <b>"+s+"</b> — इस समय <b>"+list.length+" चीज़ें</b> तुम्हारे काम की हैं। सबसे ऊपर वही है जिसकी last date सबसे पास है।";
-        renderStories();
+        renderStories(); renderStats();
       }
       function renderSaved(){
         var list = sortedJobs(JOBS.filter(function(j){ return state.saved[j.id]; }));
@@ -742,21 +792,21 @@
 
       /* ============ STORIES ============ */
       var STORYGROUPS = [
-        { key:"admit", title:"आज के Admit Card", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M5.5 17c.6-1.8 1.9-2.7 3.5-2.7s2.9.9 3.5 2.7M14 9h4M14 13h4"/></svg>',
+        { key:"admit", g1:"#7C3AED", g2:"#C084FC", ic:"#7C3AED", title:"आज के Admit Card", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2"/><path d="M5.5 17c.6-1.8 1.9-2.7 3.5-2.7s2.9.9 3.5 2.7M14 9h4M14 13h4"/></svg>',
           items:function(){ return JOBS.filter(function(j){return j.cat==="admit" && stateMatch(j);}); } },
-        { key:"urgent", title:"आख़िरी दिन वाले", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>',
+        { key:"urgent", g1:"#DC2626", g2:"#FB923C", ic:"#DC2626", title:"आख़िरी दिन वाले (Last Date)", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>',
           items:function(){ return sortedJobs(JOBS.filter(function(j){return j.cat==="job" && daysLeft(j.lastDate)<=3 && daysLeft(j.lastDate)>=0 && stateMatch(j);})); } },
-        { key:"result", title:"नए Result", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 6H4a1 1 0 0 0-1 1c0 2 1.5 3.5 4 3.5M17 6h3a1 1 0 0 1 1 1c0 2-1.5 3.5-4 3.5"/></svg>',
+        { key:"result", g1:"#15803D", g2:"#4ADE80", ic:"#15803D", title:"नए Result", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 6H4a1 1 0 0 0-1 1c0 2 1.5 3.5 4 3.5M17 6h3a1 1 0 0 1 1 1c0 2-1.5 3.5-4 3.5"/></svg>',
           items:function(){ return JOBS.filter(function(j){return j.cat==="result" && stateMatch(j);}); } },
-        { key:"job", title:"नई भर्तियाँ", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>',
+        { key:"job", g1:"#0B3C8A", g2:"#38BDF8", ic:"#0B3C8A", title:"नई भर्तियाँ (New Jobs)", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>',
           items:function(){ return sortedJobs(JOBS.filter(function(j){return j.cat==="job" && j.isNew && stateMatch(j);})); } },
-        { key:"blog", title:"Form कैसे भरें", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg>',
+        { key:"blog", g1:"#EA580C", g2:"#FACC15", ic:"#EA580C", title:"Form गाइड (Guide)", icon:'<svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg>',
           items:function(){ return JOBS.filter(function(j){return j.cat==="job" && stateMatch(j);}).slice(0,3); }, blog:true }
       ];
       function renderStories(){
         $("stories").innerHTML = STORYGROUPS.map(function(g,i){
           var n = g.items().length;
-          return '<button class="story" data-story="'+i+'" role="listitem"><span class="ring"><span class="inner">'+g.icon+'</span></span><span>'+g.title+'<br><span class="cnt">'+n+' नई</span></span></button>';
+          return '<button class="story" data-story="'+i+'" role="listitem"><span class="ring" style="--g1:'+g.g1+';--g2:'+g.g2+';--ic:'+g.ic+';animation-delay:'+(i*0.4)+'s"><span class="inner">'+g.icon+'</span></span><span>'+g.title+'<br><span class="cnt">'+n+' नई</span></span></button>';
         }).join("");
       }
       var storyState = { group:null, idx:0, timer:null };
@@ -808,33 +858,33 @@
         currentJob = j;
         var dl = daysLeft(j.lastDate);
         var rows = j.breakup.map(function(b){
-          return '<div class="postrow"><span><b>'+b[0]+'</b><br><span class="muted small">योग्यता: '+b[2]+'</span></span><span class="pc">'+b[1]+(typeof b[1]==="number"?' पद':'')+'</span></div>';
+          return '<div class="postrow"><span><b>'+b[0]+'</b><br><span class="muted small">योग्यता (Qualification): '+b[2]+'</span></span><span class="pc">'+b[1]+(typeof b[1]==="number"?' पद':'')+'</span></div>';
         }).join("");
         var sel = j.selection.map(function(s){ return "<li>"+s+"</li>"; }).join("");
         var docs = j.docs.map(function(s){ return "<li>"+iconCheck()+s+"</li>"; }).join("");
         $("detailBody").innerHTML =
           '<div class="detail-head">'
-          + '<div class="toprow" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">' + logoHTML(j) + '<span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
+          + '<div class="toprow" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">' + logoHTML(j, true) + '<span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
           + sampleTag()+(j.isNew?'<span class="newtag">नया</span>':'')+daysPill(j)+'</div>'
           + '<h1>'+j.title+'</h1><div class="org muted">'+j.org+' · '+j.state+'</div>'
           + '<div class="facts" style="margin-top:14px">'
-          +   '<div class="fact"><div class="k">कुल पद</div><div class="v">'+j.posts+'</div></div>'
-          +   '<div class="fact"><div class="k">योग्यता</div><div class="v">'+j.qual+'</div></div>'
-          +   '<div class="fact"><div class="k">उम्र सीमा</div><div class="v" style="font-size:.92rem">'+j.age+'</div></div>'
-          +   '<div class="fact"><div class="k">वेतन</div><div class="v" style="font-size:.86rem">'+j.salary+'</div></div>'
+          +   '<div class="fact"><div class="k">कुल पद (Total Posts)</div><div class="v">'+j.posts+'</div></div>'
+          +   '<div class="fact"><div class="k">योग्यता (Qualification)</div><div class="v">'+j.qual+'</div></div>'
+          +   '<div class="fact"><div class="k">उम्र सीमा (Age Limit)</div><div class="v" style="font-size:.92rem">'+j.age+'</div></div>'
+          +   '<div class="fact"><div class="k">वेतन (Salary)</div><div class="v" style="font-size:.86rem">'+j.salary+'</div></div>'
           + '</div></div>'
           + '<div class="dgrid">'
-          +   '<div class="panel"><h3>Post का बँटवारा</h3>'+rows+'</div>'
-          +   '<div class="panel"><h3>तारीख़ें और Fees</h3><table class="info">'
-          +     '<tr><th>Form शुरू</th><td>'+fmt(j.startDate)+'</td></tr>'
-          +     '<tr><th>'+(j.cat==="job"?"Last Date":"तारीख़")+'</th><td><b>'+fmt(j.lastDate)+'</b>'+(j.cat==="job"?' ('+(dl<0?"निकल गई":dl===0?"आज आख़िरी दिन":dl+" दिन बचे")+')':'')+'</td></tr>'
-          +     (j.examDate?'<tr><th>परीक्षा तिथि</th><td>'+fmt(j.examDate)+'</td></tr>':'')
-          +     '<tr><th>Fees</th><td>'+j.feeText+'</td></tr>'
-          +     '<tr><th>उम्र सीमा</th><td>'+j.age+'</td></tr>'
+          +   '<div class="panel"><h3>पदों का बँटवारा (Post Details)</h3>'+rows+'</div>'
+          +   '<div class="panel"><h3>तारीख़ें और फीस (Dates & Fees)</h3><table class="info">'
+          +     '<tr><th>फॉर्म शुरू (Start Date)</th><td>'+fmt(j.startDate)+'</td></tr>'
+          +     '<tr><th>'+(j.cat==="job"?"अंतिम तिथि (Last Date)":"तारीख़ (Date)")+'</th><td><b>'+fmt(j.lastDate)+'</b>'+(j.cat==="job"?' ('+(dl<0?"निकल गई":dl===0?"आज आख़िरी दिन":dl+" दिन बचे")+')':'')+'</td></tr>'
+          +     (j.examDate?'<tr><th>परीक्षा तिथि (Exam Date)</th><td>'+fmt(j.examDate)+'</td></tr>':'')
+          +     '<tr><th>फीस (Fees)</th><td>'+j.feeText+'</td></tr>'
+          +     '<tr><th>उम्र सीमा (Age Limit)</th><td>'+j.age+'</td></tr>'
           +   '</table></div>'
-          +   '<div class="panel"><h3>'+(j.cat==="job"?"चयन कैसे होगा":"आगे क्या करना है")+'</h3><ol class="flow">'+sel+'</ol></div>'
-          +   '<div class="panel"><h3>ज़रूरी दस्तावेज़</h3><ul class="checks">'+docs+'</ul>'
-          +     '<h3 style="margin-top:18px">आधिकारिक Links</h3><div class="links">'
+          +   '<div class="panel"><h3>'+(j.cat==="job"?"चयन प्रक्रिया (Selection Process)":"आगे क्या करना है (Next Steps)")+'</h3><ol class="flow">'+sel+'</ol></div>'
+          +   '<div class="panel"><h3>ज़रूरी दस्तावेज़ (Documents)</h3><ul class="checks">'+docs+'</ul>'
+          +     '<h3 style="margin-top:18px">आधिकारिक लिंक (Official Links)</h3><div class="links">'
           +     linkRow(j.pdfUrl, "Notification PDF", "PDF ↓")
           +     linkRow(j.applyUrl, (j.cat==="job"?"Apply Online":j.cat==="admit"?"Admit Card Download":j.cat==="answer_key"?"Answer Key Download":"Result / Merit List"), "खोलो →")
           +     linkRow(j.siteUrl, "आधिकारिक Website", "खोलो →") + linkRow(j.sourceUrl, "जानकारी का स्रोत (YouTube)", "देखो →")
@@ -842,12 +892,12 @@
           + '</div>'
           + (j.cat==="job" ? '<button class="blogstrip" style="margin-top:16px" data-blog="'+j.id+'"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg><span><b>इस form को भरना है?</b> — पहले ये step-by-step गाइड पढ़ लो, फिर Apply करो</span></button>' : '')
           + '<div class="stickybar"><div class="row">'
-          +   '<button class="btn primary" data-applybtn>'+(j.cat==="result"?"Result देखो":j.cat==="admit"?"Admit Card निकालो":"अभी Apply करो")+(j.cat==="job"&&dl>=0?' — '+dl+' दिन बचे':'')+'</button>'
-          +   '<button class="btn ghost'+(state.saved[j.id]?' saved':'')+'" data-save="'+j.id+'"><svg viewBox="0 0 24 24" fill="'+(state.saved[j.id]?'currentColor':'none')+'" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>'+(state.saved[j.id]?'सेव है':'सेव करो')+'</button>'
+          +   '<button class="btn primary" data-applybtn>'+(j.cat==="result"?"Result देखो":j.cat==="admit"?"Admit Card निकालो":"अभी आवेदन करो (Apply Now)")+(j.cat==="job"&&dl>=0?' — '+dl+' दिन बचे':'')+'</button>'
+          +   '<button class="btn ghost'+(state.saved[j.id]?' saved':'')+'" data-save="'+j.id+'"><svg viewBox="0 0 24 24" fill="'+(state.saved[j.id]?'currentColor':'none')+'" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>'+(state.saved[j.id]?'सेव है (Saved)':'सेव करो (Save)')+'</button>'
           + '</div><p class="small muted" id="applyMsg" style="margin:8px 0 0;display:none"></p></div>';
         var rel = sortedJobs(JOBS.filter(function(x){ return x.id!==j.id && (x.qual===j.qual || x.cat===j.cat); })).slice(0,3);
         $("relatedRow").innerHTML = rel.map(function(r){
-          return '<button class="rel" data-detail="'+r.id+'"><span class="badge '+r.cat+'">'+CATNAME[r.cat]+'</span><b>'+r.title+'</b><span>'+r.posts+' · Last: '+fmt(r.lastDate)+'</span></button>';
+          return '<button class="rel" data-detail="'+r.id+'"><span class="badge '+r.cat+'">'+CATNAME[r.cat]+'</span><b>'+r.title+'</b><span>'+r.posts+' · Last Date: '+fmt(r.lastDate)+'</span></button>';
         }).join("");
         showView("detail");
       }
@@ -871,7 +921,7 @@
         }).join("");
         var rel = sortedJobs(JOBS.filter(function(x){ return x.cat==="job" && (!j || x.id!==j.id); })).slice(0,3);
         $("blogRelated").innerHTML = rel.map(function(r){
-          return '<button class="rel" data-detail="'+r.id+'"><span class="badge '+r.cat+'">'+CATNAME[r.cat]+'</span><b>'+r.title+'</b><span>'+r.posts+' · Last: '+fmt(r.lastDate)+'</span></button>';
+          return '<button class="rel" data-detail="'+r.id+'"><span class="badge '+r.cat+'">'+CATNAME[r.cat]+'</span><b>'+r.title+'</b><span>'+r.posts+' · Last Date: '+fmt(r.lastDate)+'</span></button>';
         }).join("");
         showView("blog");
       }
@@ -964,10 +1014,10 @@
       document.querySelectorAll("#qualChips .chip").forEach(function(c){
         c.addEventListener("click", function(){
           document.querySelectorAll("#qualChips .chip").forEach(function(x){ x.classList.remove("on"); });
-          c.classList.add("on"); state.qual = c.getAttribute("data-qual"); renderFeed();
+          c.classList.add("on"); state.qual = c.getAttribute("data-qual"); renderFeed(); closePerso();
         });
       });
-      $("stateSel").addEventListener("change", function(){ state.stateF = this.value; renderFeed(); });
+      $("stateSel").addEventListener("change", function(){ state.stateF = this.value; renderFeed(); closePerso(); });
       $("searchForm").addEventListener("submit", function(e){
         e.preventDefault(); state.query = $("searchInput").value.trim();
         if(!$("view-home").classList.contains("on")) showView("home");
@@ -980,8 +1030,66 @@
       $("storyModal").addEventListener("click", function(e){ if(e.target===this) closeStory(); });
       document.addEventListener("keydown", function(e){ if(e.key==="Escape") closeStory(); });
 
+      /* ============ STATS + AAJ-ALERT (asli ginti, psychology) ============ */
+      function renderStats(){
+        var el = $("statStrip"); if(!el) return;
+        var jobs = JOBS.filter(function(j){ return j.cat==="job"; });
+        var totalPosts = 0;
+        jobs.forEach(function(j){ var n = parseInt(String(j.posts).replace(/[^0-9]/g,""), 10); if(!isNaN(n)) totalPosts += n; });
+        var urgent = JOBS.filter(function(j){ return j.cat==="job" && daysLeft(j.lastDate)>=0 && daysLeft(j.lastDate)<=3; });
+        var today = JOBS.filter(function(j){ return j.cat==="job" && daysLeft(j.lastDate)===0; });
+        el.innerHTML =
+          '<div class="st"><b>'+JOBS.length+'</b><span>सक्रिय सूचनाएँ (Live Updates)</span></div>'
+          + '<div class="st acc"><b>'+totalPosts.toLocaleString("en-IN")+'+</b><span>कुल खुले पद (Total Open Posts)</span></div>'
+          + '<div class="st grn"><b>'+urgent.length+'</b><span>भर्तियाँ 3 दिन में बंद (Closing in 3 Days)</span></div>';
+        var al = $("todayAlert");
+        if(today.length){
+          al.innerHTML = "⚠ <span><b>आज आख़िरी दिन!</b> "+today.length+" भर्ती की अंतिम तिथि आज ही है — "+today.slice(0,2).map(function(j){ return j.title.split("—")[0].trim(); }).join(", ")+"</span><button type='button' id='todayGo'>तुरंत देखो (View Now)</button>";
+          al.classList.add("show");
+          var g = $("todayGo");
+          if(g) g.addEventListener("click", function(){ state.cat="urgent"; syncTabs(); renderFeed(); scrollToFeed(); });
+        } else { al.classList.remove("show"); al.innerHTML = ""; }
+      }
+
+      /* ============ CUSTOMIZE: pasand yaad, panel click par band ============ */
+      var PERSO_KEY = "cj_perso";
+      function persoSummary(){
+        var q = state.qual==="all" ? "सभी योग्यता" : state.qual;
+        var s = state.stateF==="all" ? "सभी राज्य" : state.stateF;
+        return "योग्यता (Qualification): <b>"+q+"</b> · राज्य (State): <b>"+s+"</b>";
+      }
+      function fillPersoBar(){
+        $("persoBar").innerHTML = "<span>✓ तुम्हारी पसंद सेट है — "+persoSummary()+"</span><button id='persoEdit' type='button'>बदलें (Change)</button>";
+        var b = $("persoEdit");
+        if(b) b.addEventListener("click", openPerso);
+      }
+      function closePerso(){
+        try{ localStorage.setItem(PERSO_KEY, JSON.stringify({ q:state.qual, s:state.stateF, done:1 })); }catch(e){}
+        fillPersoBar();
+        $("persoBar").classList.add("show");
+        $("persoPanel").classList.add("closed");
+      }
+      function openPerso(){
+        $("persoPanel").classList.remove("closed");
+        $("persoBar").classList.remove("show");
+      }
+      function restorePerso(){
+        try{
+          var p = JSON.parse(localStorage.getItem(PERSO_KEY) || "null");
+          if(p && p.done){
+            state.qual = p.q || "all";
+            state.stateF = p.s || state.stateF;
+            document.querySelectorAll("#qualChips .chip").forEach(function(x){ x.classList.toggle("on", x.getAttribute("data-qual")===state.qual); });
+            var sel = $("stateSel"); if(sel) sel.value = state.stateF;
+            fillPersoBar();
+            $("persoBar").classList.add("show");
+            $("persoPanel").classList.add("closed");
+          }
+        }catch(e){}
+      }
+
       /* ============ INIT ============ */
-      renderStories(); renderYatra(); renderFeed(); renderSaved(); loadJobs();
+      restorePerso(); renderStories(); renderYatra(); renderFeed(); renderSaved(); loadJobs();
     })();
     </script>
   </body>
