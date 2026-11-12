@@ -4129,9 +4129,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T22:52+05:30"
+  },
+  {
+   "id": "prep-cabinet-secretariat-dfo-technical-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "कैबिनेट सचिवालय डिप्टी फ़ील्ड ऑफ़िसर (टेक्निकल) भर्ती 2026 — 250 पद (विज्ञापन 02/2026, GATE से)",
+   "fields": {
+    "title": {
+     "value": "कैबिनेट सचिवालय डिप्टी फ़ील्ड ऑफ़िसर (टेक्निकल) भर्ती 2026 — 250 पद (विज्ञापन 02/2026, GATE से)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "कैबिनेट सचिवालय, भारत सरकार (Cabinet Secretariat)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "250 पद (अस्थायी — 9 विषयों में; CS/IT 112 सबसे ज़्यादा)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech या M.Sc. (संबंधित विषय) + वैध GATE 2024/2025/2026 स्कोर",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-17",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "निःशुल्क",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "सभी वर्गों के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "लेवल-7 (₹44,900 – ₹1,42,400) + भत्ते; शुरुआती कुल लगभग ₹1,00,000 / माह",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 30 वर्ष (15/11/2026 को; नियमानुसार छूट)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://cabsec.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=ApVHkc_TmPI",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (ApVHkc_TmPI) + govtjobsalert, madeeasy, infusionnotes, sarkarinetwork से cross-check — सब में 250 पद, Advt 02/2026, 17 Oct–15 Nov 2026, GATE 2024/2025/2026, Level-7, ऑफ़लाइन डाक से ही है। एक Shorts वीडियो में Advt 03/2026 लिखा था — बहुमत व madeeasy के अनुसार 02/2026 सही है। कमी: official notification PDF का सीधा link नहीं मिला (Employment News 17–23 Oct 2026 में छपा है); आवेदन सिर्फ़ डाक से — Post Bag No. 001, Lodhi Road HPO, New Delhi-110003 पर 15 Nov तक पहुँचना चाहिए।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T23:50+05:30"
+  },
+  {
+   "id": "prep-rites-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "RITES अप्रेंटिस भर्ती 2026-27 — 281 पद (ग्रेजुएट, डिप्लोमा व ITI)",
+   "fields": {
+    "title": {
+     "value": "RITES अप्रेंटिस भर्ती 2026-27 — 281 पद (ग्रेजुएट, डिप्लोमा व ITI)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेल इंडिया टेक्निकल एंड इकोनॉमिक सर्विसेज़ (RITES Limited)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "281 पद (ग्रेजुएट इंजीनियरिंग 125 + ग्रेजुएट नॉन-इंजीनियरिंग 43 + डिप्लोमा 62 + ITI ट्रेड 51)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक (इंजीनियरिंग/नॉन-इंजीनियरिंग) / डिप्लोमा / ITI",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-05",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "स्टाइपेंड ₹10,560 – ₹15,650 / माह (श्रेणी अनुसार)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "कम से कम 18 वर्ष (05/11/2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://apprentice.rites.com/ApprenticeForm/",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://rites.com/Upload/Career/Advertisment_for_Engagement_of_Apprentices_for_FY_2026_27_(2)_pdf-2026-Nov-04-16-7-17.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://www.rites.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://examneed.com/rites-apprentice-recruitment-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Official RITES PDF (rites.com, Advt Pers./26-10/Apprentice/2026-27/01, 04.11.2026) + examneed, jobcareerupdates, indiangovtjobs से cross-check — सब में 281 पद, 5–25 Nov 2026, स्टाइपेंड ₹10,560–₹15,650 ही है। ध्यान दें: आवेदन दो चरणों में है — पहले NATS (डिग्री/डिप्लोमा) या NAPS (ITI) portal पर, फिर RITES form पर दस्तावेज़ upload; दोनों 25 Nov तक ज़रूरी हैं। कोई लिखित परीक्षा/इंटरव्यू नहीं — मेरिट से चयन। श्रेणी-वार आँकड़ों का जोड़ नोटिस में 277 दिखता है, जबकि कुल 281 लिखा है — कुल 281 ही लिया गया है। कमी: शुल्क की जानकारी नोटिस में नहीं मिली।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T23:50+05:30"
+  },
+  {
+   "id": "prep-sbi-so-security-officer-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "SBI स्पेशलिस्ट कैडर ऑफ़िसर (सुरक्षा अधिकारी) भर्ती 2026 — 60 पद (विज्ञापन CRPD/SCO/2026-27/28)",
+   "fields": {
+    "title": {
+     "value": "SBI स्पेशलिस्ट कैडर ऑफ़िसर (सुरक्षा अधिकारी) भर्ती 2026 — 60 पद (विज्ञापन CRPD/SCO/2026-27/28)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय स्टेट बैंक (State Bank of India — SBI)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "60 पद (मैनेजर (सुरक्षा) MMGS-III + डिप्टी मैनेजर (सुरक्षा) MMGS-II; अलग-अलग संख्या नोटिस में नहीं)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "किसी भी विषय में स्नातक + सेना/नौसेना/वायुसेना में कमीशंड अधिकारी का अनुभव (मैनेजर: मेजर या समकक्ष, 10 वर्ष; डिप्टी मैनेजर: कैप्टन या समकक्ष, 5 वर्ष) या अर्धसैनिक बल में समकक्ष पद",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "check"
+    },
+    "feeGen": {
+     "value": "₹750",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/EWS/OBC ₹750 · SC/ST/PwBD निःशुल्क",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹64,820 – ₹1,05,820 / माह (MMGS-II ₹64,820–₹93,960; MMGS-III ₹85,920–₹1,05,820)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "25 – 40 वर्ष (31/10/2026 को; नियमानुसार छूट)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://sbi.bank.in/web/careers/current-openings",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://sbi.bank.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=GS3xRrcwvQk",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (GS3xRrcwvQk) + sarkarijob, freejobalert, testbook, sarkarinetwork से cross-check — सब में 60 पद, Advt CRPD/SCO/2026-27/28, 4–25 Nov 2026, उम्र 25–40 (31/10/2026), शुल्क ₹750 ही है। ध्यान दें: यह भर्ती सिर्फ़ भूतपूर्व सैन्य/अर्धसैनिक अधिकारियों के लिए है — आम स्नातक आवेदन नहीं कर सकते। ऑनलाइन परीक्षा दिसंबर 2026/जनवरी 2027 (tentative), इंटरव्यू जनवरी/फ़रवरी 2027। अलग से Assistant Manager (Engineer–Fire) 17 पद का नोटिस भी है (Advt /29) — वह इसमें शामिल नहीं है। कमी: official notification PDF का सीधा link नहीं मिला; दोनों पदों की अलग-अलग संख्या नोटिस में नहीं दी गई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T23:50+05:30"
+  },
+  {
+   "id": "prep-ncl-student-trainee-mmsky-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "NCL स्टूडेंट-ट्रेनी (MMSKY) भर्ती 2026 — 100 पद (ITI, BA, B.Com; सिर्फ़ मध्य प्रदेश)",
+   "fields": {
+    "title": {
+     "value": "NCL स्टूडेंट-ट्रेनी (MMSKY) भर्ती 2026 — 100 पद (ITI, BA, B.Com; सिर्फ़ मध्य प्रदेश)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "नॉर्दर्न कोलफ़ील्ड्स लिमिटेड (NCL — कोल इंडिया की सहायक कंपनी)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "100 प्रशिक्षण स्थान (ITI Electrician 20 + ITI Fitter 20 + ITI Welder 20 + BA 20 + B.Com 20)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ITI (इलेक्ट्रीशियन/फ़िटर/वेल्डर) या स्नातक (BA/B.Com)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "मध्य प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "18 – 29 वर्ष (दस्तावेज़ सत्यापन/जॉइनिंग के दिन)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://mmsky.mp.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.nclcil.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/ncl-recruitment-2026-iti-electrician-iti-fitter-3080705",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "freejobalert + sahisarkarijobs से cross-check — दोनों में 100 स्थान, नोटिस 11.11.2026, Advt एनसीएल/अप्रेंटिस-एमएमएसकेवाई/सीईटीआई/एचआरडी/2026-27/864, 15–30 Nov 2026, सिर्फ़ MP निवासी ही हैं। ध्यान दें: यह नियमित नौकरी नहीं है — मुख्यमंत्री सीखो-कमाओ योजना (MMSKY) के तहत On-the-Job Training है; आवेदन सिर्फ़ MMSKY portal पर। कमी: स्टाइपेंड की राशि व शुल्क की जानकारी नोटिस से पुष्ट नहीं हुई; official notice PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T23:50+05:30"
+  },
+  {
+   "id": "prep-nhpc-industrial-trainee-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "NHPC इंडस्ट्रियल ट्रेनी भर्ती 2026 — 23 पद (CA/CMA 20 + CS 3; ईमेल से आवेदन)",
+   "fields": {
+    "title": {
+     "value": "NHPC इंडस्ट्रियल ट्रेनी भर्ती 2026 — 23 पद (CA/CMA 20 + CS 3; ईमेल से आवेदन)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "नेशनल हाइड्रोइलेक्ट्रिक पावर कॉर्पोरेशन (NHPC Limited)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "23 पद (इंडस्ट्रियल ट्रेनी CA/CMA 20 + इंडस्ट्रियल ट्रेनी CS 3)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ICAI/ICMAI इंटरमीडिएट (दोनों ग्रुप) पास या ICSI CS एग्ज़ीक्यूटिव (दोनों ग्रुप) पास; कम से कम 13 महीने की ट्रेनिंग बाकी हो",
+     "state": "ok"
+    },
+    "state": {
+     "value": "हरियाणा (फ़रीदाबाद)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-10",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "स्टाइपेंड ₹20,000 / माह",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.nhpcindia.com",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": "https://www.nhpcindia.com/assests/pzi_public/job/details_1794372385_5815.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://www.nhpcindia.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.app/nhpc-industrial-trainee-recruitment-2026-out-apply-online-23-posts/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Official NHPC PDF (nhpcindia.com, Advt 646 व 648, 10.11.2026) + sarkariresult.app, certifica, govtjobsai से cross-check — सब में 23 पद, 10–20 Nov 2026, स्टाइपेंड ₹20,000, इंटरव्यू से चयन ही है। ध्यान दें: आवेदन सिर्फ़ ईमेल से है — recttcell2010@nhpc.nic.in पर 20 Nov तक; कोई ऑनलाइन form नहीं है। कमी: उम्र-सीमा व शुल्क की जानकारी नोटिस में नहीं मिली।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T23:50+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T22:52+05:30",
+ "updatedAt": "2026-11-12T23:50+05:30",
  "version": 1
 }
