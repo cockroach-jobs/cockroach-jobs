@@ -2104,9 +2104,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T17:48+05:30"
+  },
+  {
+   "createdAt": "2026-11-12T18:55+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "check",
+     "value": "https://sts.karnataka.gov.in/GPSTRNHK/final.aspx"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-16"
+    },
+    "org": {
+     "state": "ok",
+     "value": "कर्नाटक स्कूल शिक्षा विभाग (Department of School Education), कर्नाटक सरकार"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "15,000 पद"
+    },
+    "qual": {
+     "state": "check",
+     "value": "Graduate + B.Ed (पद अनुसार अलग-अलग)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://schooleducation.karnataka.gov.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.youtube.com/watch?v=TFMlAkNuBQQ"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-08-18"
+    },
+    "state": {
+     "state": "ok",
+     "value": "कर्नाटक"
+    },
+    "title": {
+     "state": "ok",
+     "value": "कर्नाटक GPSTR शिक्षक भर्ती 2026 — 15,000 पद (ग्रेजुएट प्राइमरी टीचर, असिस्टेंट मास्टर व अन्य)"
+    }
+   },
+   "id": "prep-karnataka-gpstr-teacher-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "कर्नाटक GPSTR शिक्षक भर्ती 2026 — 15,000 पद (ग्रेजुएट प्राइमरी टीचर, असिस्टेंट मास्टर व अन्य)",
+   "verifyNote": "YouTube वीडियो (Karnataka Teacher 15,000 Teacher Vacancies | GPSTR, HSTR) + FreeJobAlert, Testbook, CareerAlert24, NewGovtJobAlert, Udyoga Mithra से cross-check — 15,000 पद (GPT, असिस्टेंट मास्टर, PST, PET, CST), आवेदन 18 Aug 2026 से; अंतिम तिथि Karnataka Gazette (26 Oct 2026, No. 1248) से बढ़कर 16 Nov 2026 हुई, correction 18 Nov 2026 तक। ध्यान दें: कुछ स्रोतों के अनुसार बढ़ी हुई तारीख़ Hassan District के नोटिस से जुड़ी है — ज़िलेवार तारीख़ आधिकारिक साइट से जाँच लें। कमी: आवेदन शुल्क, वेतन, आयु-सीमा और परीक्षा तारीख़ पक्की नहीं मिली; पदवार योग्यता (B.Ed/TET) की पुष्टि बाकी।"
+  },
+  {
+   "createdAt": "2026-11-12T18:55+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://www.rmc.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-17"
+    },
+    "org": {
+     "state": "ok",
+     "value": "राजकोट नगर निगम (Rajkot Municipal Corporation — RMC), गुजरात"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "825 पद"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "ITI (संबंधित ट्रेड में)"
+    },
+    "salary": {
+     "state": "check",
+     "value": "सरकारी दरों पर स्टाइपेंड"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.rmc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/rmc-apprentice-recruitment-2026-3077412"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-02"
+    },
+    "state": {
+     "state": "ok",
+     "value": "गुजरात"
+    },
+    "title": {
+     "state": "ok",
+     "value": "राजकोट नगर निगम (RMC) अप्रेंटिस भर्ती 2026 — 825 पद (ITI ट्रेड)"
+    }
+   },
+   "id": "prep-rmc-apprentice-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "राजकोट नगर निगम (RMC) अप्रेंटिस भर्ती 2026 — 825 पद (ITI ट्रेड)",
+   "verifyNote": "FreeJobAlert, Testbook, Karmasandhan, PW.live, MaruGujarat, CareerInformationPortal से cross-check — 825 ITI ट्रेड अप्रेंटिस पद, ऑनलाइन आवेदन 2–17 Nov 2026; सिर्फ़ ऑनलाइन फॉर्म काफ़ी नहीं — प्रिंट + स्व-प्रमाणित दस्तावेज़ RMC दफ़्तर में 23 Nov 2026 तक जमा करना ज़रूरी है। मेरिट से चयन, कोई परीक्षा नहीं; यह स्थायी नौकरी नहीं, 1 साल की training है। कमी: ट्रेड-wise पद-वितरण, आयु-सीमा, स्टाइपेंड की राशि और शुल्क विज्ञापन में नहीं दिए गए — rmc.gov.in से पुष्टि बाकी।"
+  },
+  {
+   "createdAt": "2026-11-12T18:55+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://web.umang.gov.in/landing/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-26"
+    },
+    "org": {
+     "state": "ok",
+     "value": "सतीश धवन अंतरिक्ष केंद्र (SDSC SHAR), भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)"
+    },
+    "pdfUrl": {
+     "state": "ok",
+     "value": "https://apps.shar.gov.in/sdscshar/apprentice/Apprenticeship2026.pdf"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "400 पद"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "Graduate / Diploma / ITI (श्रेणी अनुसार)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹9,600 – ₹12,300/माह (स्टाइपेंड)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.shar.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.youtube.com/shorts/DV4Ktjd7VnM"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-06"
+    },
+    "state": {
+     "state": "ok",
+     "value": "आंध्र प्रदेश"
+    },
+    "title": {
+     "state": "ok",
+     "value": "ISRO SDSC SHAR अप्रेंटिस भर्ती 2026 — 400 पद (ग्रेजुएट, डिप्लोमा व ITI)"
+    }
+   },
+   "id": "prep-isro-sdsc-shar-apprentice-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "ISRO SDSC SHAR अप्रेंटिस भर्ती 2026 — 400 पद (ग्रेजुएट, डिप्लोमा व ITI)",
+   "verifyNote": "YouTube वीडियो (ISRO Recruitment 2026 OUT! 400 Apprentice Vacancies) + आधिकारिक नोटिस (No. SDSC SHAR/SCF/P&GA-II/Apprentice/2026, 6 Nov 2026) व JobCareerUpdates, Sahisarkarijobs, GovtJobsAlert, Dainik Life से cross-check — 400 पद, आवेदन 6–26 Nov 2026; पहले NATS/NAPS पर register करें, फिर UMANG पोर्टल पर आवेदन। कोई परीक्षा/इंटरव्यू नहीं, शैक्षणिक अंकों की मेरिट + दस्तावेज़ सत्यापन से चयन; 12 महीने की training, स्टाइपेंड ₹9,600–₹12,300/माह। कमी: आयु-सीमा और शुल्क नोटिस में नहीं दिए गए।"
+  },
+  {
+   "createdAt": "2026-11-12T18:55+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://ssc.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-26"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "एडमिट कार्ड डाउनलोड करने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-26"
+    },
+    "org": {
+     "state": "ok",
+     "value": "कर्मचारी चयन आयोग (SSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "GD कांस्टेबल PET/PST — 1,97,408 अभ्यर्थी शॉर्टलिस्ट"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "10वीं"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://ssc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.youtube.com/shorts/31KKuHjB-GQ"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "SSC GD कांस्टेबल PET/PST एडमिट कार्ड 2026 — शारीरिक परीक्षा 26 नवंबर से"
+    }
+   },
+   "id": "prep-ssc-gd-pet-pst-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "SSC GD कांस्टेबल PET/PST एडमिट कार्ड 2026 — शारीरिक परीक्षा 26 नवंबर से",
+   "verifyNote": "YouTube वीडियो (SSC GD PET/PST ADMIT CARD OUT) + JagranJosh, FreeJobAlert, Testbook, CareerIndia, GovtJobGuru से cross-check — एडमिट कार्ड 12 Nov 2026 को जारी; PET/PST 26 Nov–11 Dec 2026 (CRPF कराएगा), ssc.gov.in / rect.crpf.gov.in से डाउनलोड करें (रजिस्ट्रेशन नंबर + जन्मतिथि/पासवर्ड से लॉगिन)। लिखित परीक्षा का रिज़ल्ट 12 Oct 2026 को आया था, 1,97,408 अभ्यर्थी शॉर्टलिस्ट। कमी: एडमिट कार्ड लॉगिन से डाउनलोड होता है, इसलिए सीधा PDF link नहीं है।"
+  },
+  {
+   "createdAt": "2026-11-12T18:55+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "20 – 30 वर्ष (01 Jan 2026 को)"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://ibpsreg.ibps.in/jkbvpocto26/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "₹1,200"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "Gen/Others ₹1,200 · SC/ST/SEBC/PwBD ₹1,000 (GST अलग)"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-26"
+    },
+    "org": {
+     "state": "ok",
+     "value": "जम्मू और कश्मीर बैंक (J&K Bank)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "323 पद"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "Graduate (किसी भी विषय में) + J&K UT डोमिसाइल"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹48,480/माह (मूल वेतन)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://jkb.bank.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.youtube.com/watch?v=kpHg7CGrMy8"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-07"
+    },
+    "state": {
+     "state": "ok",
+     "value": "जम्मू और कश्मीर"
+    },
+    "title": {
+     "state": "ok",
+     "value": "J&K Bank प्रोबेशनरी ऑफिसर (PO) भर्ती 2026 — 323 पद (सिर्फ़ J&K डोमिसाइल)"
+    }
+   },
+   "id": "prep-jk-bank-po-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "J&K Bank प्रोबेशनरी ऑफिसर (PO) भर्ती 2026 — 323 पद (सिर्फ़ J&K डोमिसाइल)",
+   "verifyNote": "YouTube वीडियो (J&K Bank Recruitment 2026 | 1356 Vacancies | PO & Banking Associate) + FreeJobAlert, Examera, GovtJobDeck, RojgarLive, Kashmir Outlook से cross-check — नोटिस No. JKB/HR/Rectt/2026-492, 7 Nov 2026; 323 PO पद, आवेदन 7–26 Nov 2026; सिर्फ़ J&K UT डोमिसाइल वाले ही आवेदन कर सकते हैं (लद्दाख के लिए अलग 20 पदों का नोटिस है)। चयन: Prelims + Mains + Interview, परीक्षा IBPS लेगा; परीक्षा तारीख़ अभी घोषित नहीं। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला — jkb.bank.in से पुष्टि बाकी।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T17:48+05:30",
+ "updatedAt": "2026-11-12T18:53:23+05:30",
  "version": 1
 }
