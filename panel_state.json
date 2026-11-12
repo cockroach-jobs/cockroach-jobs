@@ -5344,9 +5344,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T20:21:43.200619Z"
+  },
+  {
+   "id": "prep-aiims-bathinda-faculty-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "AIIMS बठिंडा फैकल्टी (ग्रुप-A) भर्ती 2026 — 55 पद (विज्ञापन AIIMS/BTI/RC/Faculty/2026/2490)",
+   "fields": {
+    "title": {
+     "value": "AIIMS बठिंडा फैकल्टी (ग्रुप-A) भर्ती 2026 — 55 पद (विज्ञापन AIIMS/BTI/RC/Faculty/2026/2490)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), बठिंडा",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "55 पद (Professor 17, Additional Professor 4, Associate Professor 16, Assistant Professor 18)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "PG / PhD (पद के अनुसार — विस्तृत योग्यता नोटिस के Annexure-A में)",
+     "state": "check"
+    },
+    "state": {
+     "value": "पंजाब",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-09",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Level-12 से Level-14-A (7th CPC)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "Professor/Addl. Professor अधिकतम 58 वर्ष; Associate/Assistant Professor अधिकतम 50 वर्ष (30/11/2026 तक)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://forms.gle/gpUWffmmgxHiuJgY9",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109052537.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://www.aiimsbathinda.edu.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/aiims-bathinda-recruitment-2026-professor-assistant-professor-3079829",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "AIIMS बठिंडा की official notification PDF (AIIMS/BTI/RC/Faculty/2026/2490, 09 Nov 2026) + FreeJobAlert, 9curry, SarkariResult से cross-check — 55 पद, ऑनलाइन फॉर्म 30 Nov 2026 शाम 5 बजे तक, hard copy 03 Dec तक, सब जगह एक जैसे। आवेदन शुल्क और पद-वार विस्तृत योग्यता नोटिस के Annexure-A में है — queue करने से पहले aiimsbathinda.edu.in पर जाँच लें; इंटरव्यू की तारीख़ अभी घोषित नहीं हुई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T21:29:49.412Z"
+  },
+  {
+   "id": "prep-bsf-si-medic-deputation-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "BSF सब-इंस्पेक्टर (Medic, Lab Technician, Physiotherapist) भर्ती 2026 — 34 पद (प्रतिनियुक्ति — सिर्फ़ सेवारत कर्मचारी)",
+   "fields": {
+    "title": {
+     "value": "BSF सब-इंस्पेक्टर (Medic, Lab Technician, Physiotherapist) भर्ती 2026 — 34 पद (प्रतिनियुक्ति — सिर्फ़ सेवारत कर्मचारी)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "सीमा सुरक्षा बल (BSF), गृह मंत्रालय",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "34 पद (SI Medic 14, SI Lab Technician 12, SI Physiotherapist 8)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "संबंधित मेडिकल/पैरामेडिकल योग्यता (पद के अनुसार)",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-10",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-09",
+     "state": "check"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Level-6: ₹35,400–₹1,12,400 / माह",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.bsf.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=jNb_4rwEHSk",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो + NursingWork, 9curry, YuvaResult, JobFastUpdate से cross-check — 34 पद, Employment News 10–16 Oct 2026 (विज्ञापन 11/63/2026/Med Dte/BSF/7298-7658), सब जगह एक जैसे। यह खुली भर्ती नहीं है — सिर्फ़ सेवारत CAPF/सरकारी कर्मचारी प्रतिनियुक्ति (deputation) पर, proper channel से नामांकन; सीधे आवेदन नहीं होगा। अंतिम तारीख़ में 08 Dec व 09 Dec दोनों दिखीं — बहुमत 09 Dec, पर queue करने से पहले bsf.nic.in पर पुष्टि कर लें; official PDF link अभी नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T21:29:49.412Z"
+  },
+  {
+   "id": "prep-nit-warangal-faculty-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "NIT वारंगल फैकल्टी भर्ती 2026 — 34 पद (विज्ञापन NITW/FR-2/2026)",
+   "fields": {
+    "title": {
+     "value": "NIT वारंगल फैकल्टी भर्ती 2026 — 34 पद (विज्ञापन NITW/FR-2/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "राष्ट्रीय प्रौद्योगिकी संस्थान (NIT), वारंगल",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "34 पद (Professor 1, Associate Professor 3, Assistant Professor Grade-I 6, Grade-II 24)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "PhD (संबंधित विषय में), पहले की डिग्रियों में First Class",
+     "state": "ok"
+    },
+    "state": {
+     "value": "तेलंगाना",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-15",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Pay Level-10 से Level-14A",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://recruit.nitw.ac.in/",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://nitw.ac.in/api/static/files/faculty_rec_2026_2026-10-14-12-10-11.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://www.nitw.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.app/nit-warangal-faculty-recruitment-2026-out-apply-online-34-professor-asst-professor-and-more-posts/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "NIT वारंगल की official notification PDF (NITW/FR-2/2026, 15 Oct 2026) + FacultyPlus, SarkariResult, ResearchersJob से cross-check — 34 पद, 15 Oct–30 Nov 2026, सब जगह एक जैसे। आवेदन शुल्क और आयु-सीमा विज्ञापन से पुष्ट नहीं हुई — queue करने से पहले recruit.nitw.ac.in पर जाँच लें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T21:29:49.412Z"
+  },
+  {
+   "id": "prep-odisha-police-spo-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ओडिशा पुलिस स्पेशल पुलिस ऑफिसर (SPO) भर्ती 2026 — 126 पद (सिर्फ़ सेवानिवृत्त ASI/SI/Inspector, 1 साल का कॉन्ट्रैक्ट)",
+   "fields": {
+    "title": {
+     "value": "ओडिशा पुलिस स्पेशल पुलिस ऑफिसर (SPO) भर्ती 2026 — 126 पद (सिर्फ़ सेवानिवृत्त ASI/SI/Inspector, 1 साल का कॉन्ट्रैक्ट)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "ओडिशा पुलिस — महानिरीक्षक, सेंट्रल रेंज, कटक",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "126 पद (Khordha 14, Puri 36, Kataka 17, Kendrapada 9, Nayagarh 15, Jajpur 23, Jagatsinghpur 12)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ओडिशा पुलिस में ASI/SI/Inspector पद से सेवानिवृत्त (बेदाग़ सेवा रिकॉर्ड)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "ओडिशा",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-09",
+     "state": "check"
+    },
+    "lastDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "अधिकतम 65 वर्ष",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://odishapolice.gov.in",
+     "state": "check"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.app/odisha-police-spo-recruitment-2026-out-offline-form-126-special-police-officer-posts/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariResult + FreshersLive, 9curry, RojgarPulse, NRAI से cross-check — 126 पद, आवेदन 16 Nov 2026 शाम 6:30 तक, चयन परीक्षा 30 Nov 2026 सुबह 6:30, सब जगह एक जैसे (एक सूची में दिखी 30 Nov तारीख़ परीक्षा की है, अंतिम तिथि नहीं)। यह खुली भर्ती नहीं है — सिर्फ़ ओडिशा पुलिस से सेवानिवृत्त ASI/SI/Inspector (1 साल का कॉन्ट्रैक्ट); आवेदन ऑफ़लाइन, डाक/स्वयं IG सेंट्रल रेंज, कटक कार्यालय में। वेतन और official PDF link अभी नहीं मिले।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T21:29:49.412Z"
+  },
+  {
+   "id": "prep-cpcl-executive-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "CPCL एग्ज़ीक्यूटिव भर्ती 2026 — 41 पद (विज्ञापन 02/2026)",
+   "fields": {
+    "title": {
+     "value": "CPCL एग्ज़ीक्यूटिव भर्ती 2026 — 41 पद (विज्ञापन 02/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "चेन्नई पेट्रोलियम कॉर्पोरेशन लिमिटेड (CPCL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "41 पद (Engineer Chemical 22, Mechanical 7, Electrical 5, Civil 2, Instrumentation 1, Officer IS 2, Jr Officer OL 1, Manager/Sr Manager Secretarial 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech (पद के अनुसार) + 2–15 साल संबंधित अनुभव",
+     "state": "check"
+    },
+    "state": {
+     "value": "तमिलनाडु",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-03",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹30,000–₹90,000 / माह (basic pay, ग्रेड के अनुसार)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "28 वर्ष तक (CPCL01–07; अन्य पदों की सीमा अलग)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://www.cpcl.co.in/",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.cpcl.co.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://rojgarresult.com/cpcl-executive-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "CPCL नोटिफ़िकेशन (Advt. 02/2026 – CPCL/HRD:03:056, 04 Nov 2026) + RojgarResult, 9curry, MaruGujarat, TamilanWork से cross-check — 41 पद, 04 Nov–03 Dec 2026, CBT Dec 2026/Jan 2027 (संभावित), सब जगह एक जैसे। आवेदन शुल्क की रकम और official notification PDF का सीधा link अभी नहीं मिला — queue करने से पहले cpcl.co.in पर जाँच लें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T21:29:49.412Z"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T20:21:43.200619Z",
+ "updatedAt": "2026-11-12T21:29:49.412Z",
  "version": 1
 }
