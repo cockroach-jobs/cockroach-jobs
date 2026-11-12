@@ -1,2922 +1,3327 @@
 {
- "prepared": [
-  {
-   "createdAt": "2026-11-12T12:20+05:30",
-   "createdBy": "LOYATI (Muse agent)",
-   "fields": {
-    "age": {
-     "state": "ok",
-     "value": "18 – 23 / 25 वर्ष (ट्रेड अनुसार; गिनती 01.07.2026 को)"
+  "prepared": [
+    {
+      "createdAt": "2026-11-12T12:20+05:30",
+      "createdBy": "LOYATI (Muse agent)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "18 – 23 / 25 वर्ष (ट्रेड अनुसार; गिनती 01.07.2026 को)"
+        },
+        "applyUrl": {
+          "state": "check",
+          "value": "https://www.assamrifles.gov.in/onlineapp/Default.aspx"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "check",
+          "value": "2027-01-18"
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "₹100"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "Gen/OBC/EWS ₹100 · SC/ST/भूतपूर्व सैनिक — शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-14"
+        },
+        "org": {
+          "state": "ok",
+          "value": "महानिदेशालय असम राइफ़ल्स, शिलांग (Assam Rifles)"
+        },
+        "pdfUrl": {
+          "state": "check",
+          "value": "https://www.assamrifles.gov.in/ar-recruitment-pdf-viewer/8215"
+        },
+        "posts": {
+          "state": "ok",
+          "value": "354 पद"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "10वीं"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.assamrifles.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-15"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "असम राइफ़ल्स टेक्निकल व ट्रेड्समैन भर्ती रैली 2026 (Group C)"
+        }
+      },
+      "id": "prep-assam-rifles-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "live",
+      "verifyNote": "FreeJobAlert link से जानकारी निकाली, 3 और स्रोतों (Karmasandhan, HimExam, SarkariGuideJob) से cross-check — नया नोटिफ़िकेशन Memo No. I.12016/A Branch (Rect Cell)/2026/1892, 3 नवंबर 2026; 354 पद, 17 ट्रेड, सिर्फ़ पुरुष, domicile/PRC ज़रूरी; आवेदन 15 Nov – 14 Dec 2026; फ़ीस ₹100 (SC/ST/Ex-SM मुक्त); चयन PST/PET + CBT + ट्रेड टेस्ट + DV + मेडिकल। सितंबर वाला पुराना नोटिफ़िकेशन 30 Oct को रद्द — उसकी तारीख़ें नहीं लीं। आधिकारिक PDF link assamrifles.gov.in का viewer page है (पुष्टि बाकी)। कमी: वेतन का आँकड़ा नोटिफ़िकेशन में नहीं दिया। रैली 18 Jan 2027 tentative। नोट: यही entry Muse के Jobs Update Panel में भी तैयार है — जो agent पहले upload करे, दूसरा dedupe नियम से सिर्फ़ live चिह्नित करे।"
     },
-    "applyUrl": {
-     "state": "check",
-     "value": "https://www.assamrifles.gov.in/onlineapp/Default.aspx"
+    {
+      "id": "prep-mpsc-group-c-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "महाराष्ट्र ग्रुप-C सेवा संयुक्त प्रारंभिक परीक्षा 2026 (विज्ञापन सं. 017/2026)",
+      "fields": {
+        "title": {
+          "value": "महाराष्ट्र ग्रुप-C सेवा संयुक्त प्रारंभिक परीक्षा 2026 (विज्ञापन सं. 017/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "महाराष्ट्र लोक सेवा आयोग (MPSC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "16,717 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "12वीं / स्नातक (पद अनुसार)",
+          "state": "check"
+        },
+        "state": {
+          "value": "महाराष्ट्र",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-27",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2027-01-24",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": "₹394",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen ₹394 · SC/ST ₹294 (ऑनलाइन; फ़ीस भुगतान की आख़िरी तारीख़ 30 Nov 2026)",
+          "state": "ok"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "18 – 43 वर्ष (एक साल की छूट सहित)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://mpsconline.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://mpsc.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/mpsc-group-c-recruitment-2026-3080387",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "6 Nov 2026 के MPSC शुद्धिपत्र से पद 5,707 से बढ़कर 16,717 हुए; परीक्षा 3 Jan 2027 से 24 Jan 2027 हुई; आवेदन 13–27 Nov 2026 (दोपहर 2 बजे से)। YouTube वीडियो (Puneri Pages, MPSC मेगाभरती) + Testbook, FreeJobAlert, AglaSem, Jagran, JagranJosh से cross-check — सब में 16,717 ही है (एक जगह '16,797' छपा था, वह ग़लत है)। कमी: पद-वार योग्यता व वेतन, और official PDF का सीधा link नहीं मिला (शुद्धिपत्र mpsc.gov.in पर है)।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
     },
-    "cat": {
-     "state": "ok",
-     "value": "job"
+    {
+      "id": "prep-indian-bank-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "इंडियन बैंक अप्रेंटिस भर्ती 2026-27 — 1,500 सीटें",
+      "fields": {
+        "title": {
+          "value": "इंडियन बैंक अप्रेंटिस भर्ती 2026-27 — 1,500 सीटें",
+          "state": "ok"
+        },
+        "org": {
+          "value": "इंडियन बैंक (Indian Bank)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "1,500 सीटें",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (01 Apr 2022 के बाद पास)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-05",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-25",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹800 + GST",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/OBC/EWS ₹800 + GST · SC/ST/PwBD ₹175 + GST",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹12,300 – 15,000/माह (स्टाइपेंड)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "20 – 28 वर्ष (01 Nov 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://www.nats.education.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
+          "state": "ok"
+        },
+        "siteUrl": {
+          "value": "https://indianbank.bank.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://testbook.com/news/indian-bank-apprentice-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "इंडियन बैंक की official PDF (04 Nov 2026) से सीधे जाँचा + Testbook, BoldVoices, SahiSarkariJobs से cross-check। 12 महीने की अप्रेंटिसशिप है, स्थायी नौकरी नहीं; पहले NATS 2.0 पर profile पूरा करना ज़रूरी। कमी: परीक्षा की तारीख़ विज्ञापन में नहीं दी गई।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
     },
-    "examDate": {
-     "state": "check",
-     "value": "2027-01-18"
+    {
+      "id": "prep-bhel-artisan-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "BHEL आर्टिज़न ग्रेड-IV भर्ती 2026 (विज्ञापन सं. 01/2026)",
+      "fields": {
+        "title": {
+          "value": "BHEL आर्टिज़न ग्रेड-IV भर्ती 2026 (विज्ञापन सं. 01/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "भारत हेवी इलेक्ट्रिकल्स लिमिटेड (BHEL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "660 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "10वीं + ITI (NTC) व NAC (60% अंक)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-21",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-18",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-12-11",
+          "state": "check"
+        },
+        "feeGen": {
+          "value": "₹1,072",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "UR/EWS/OBC ₹1,072 · SC/ST/PwBD/Ex-SM ₹472",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹24,000/माह (पहला साल), फिर ₹29,500 – 65,000",
+          "state": "ok"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://careers.bhel.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": "https://careers.bhel.in/ar_2027/Artisan_Detailed%20AD.pdf",
+          "state": "check"
+        },
+        "siteUrl": {
+          "value": "https://careers.bhel.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.sarkariresult.app/bhel-artisan-recruitment-2026-out-apply-online-660-posts/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "BoldVoices, TezTak, SarkariResult.app, JobReadyPortal से cross-check — 660 पद, 7 ट्रेड, 9 यूनिट; CBE 11 Dec 2026 (tentative)। कमी: आयु-सीमा इस जाँच में नहीं मिली; PDF link careers.bhel.in का है, सीधे खोलकर जाँच नहीं हुई।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
     },
-    "feeGen": {
-     "state": "ok",
-     "value": "₹100"
+    {
+      "id": "prep-iocl-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "IOCL पाइपलाइंस अप्रेंटिस भर्ती 2026 — 500 पद",
+      "fields": {
+        "title": {
+          "value": "IOCL पाइपलाइंस अप्रेंटिस भर्ती 2026 — 500 पद",
+          "state": "ok"
+        },
+        "org": {
+          "value": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) — पाइपलाइंस डिवीज़न",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "500 पद (लगभग)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "12वीं / ITI / डिप्लोमा / स्नातक (ट्रेड अनुसार)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-06",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-05",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "18 – 24 वर्ष (30 Nov 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://plapps.indianoilpipelines.in/",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.iocl.com",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/iocl-apprentice-recruitment-2026-3079245",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert, Examera, GovtJobsAlert, BoldVoices, SarkariResult.app से cross-check — Advt. PL/HR/ESTB/APPR (2026), 06 Nov 2026; 5 पाइपलाइन क्षेत्रों में ~500 सीटें; कोई लिखित परीक्षा नहीं, मेरिट से चयन। कमी: विज्ञापन में फ़ीस और स्टाइपेंड का उल्लेख नहीं; official PDF का सीधा link नहीं मिला।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
     },
-    "feeText": {
-     "state": "ok",
-     "value": "Gen/OBC/EWS ₹100 · SC/ST/भूतपूर्व सैनिक — शुल्क नहीं"
+    {
+      "id": "prep-nicl-ao-admit-card-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "NICL AO (प्रशासनिक अधिकारी) प्रीलिम्स एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
+      "fields": {
+        "title": {
+          "value": "NICL AO (प्रशासनिक अधिकारी) प्रीलिम्स एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
+          "state": "ok"
+        },
+        "org": {
+          "value": "नेशनल इंश्योरेंस कंपनी लिमिटेड (NICL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "admit",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "321 पद (AO Scale-I)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक",
+          "state": "check"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-10",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-17",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-11-17",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://nationalinsurance.nic.co.in",
+          "state": "check"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://nationalinsurance.nic.co.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/nicl-ao-admit-card-2026-3077457",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "एडमिट कार्ड 10 Nov 2026 को जारी, Phase-I परीक्षा 17 Nov 2026 (ऑनलाइन); 321 AO (Scale-I) पद — 200 Generalist + 121 Specialist। JagranJosh, Testbook, FreeJobAlert, PuneriPages, Miscw से cross-check। कमी: योग्यता/आयु/वेतन/फ़ीस — ये आवेदन-समय की जानकारी है, admit card वाली खबरों में नहीं दी; download link IBPS portal पर है, NICL site के Recruitment section से मिलेगा।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
     },
-    "lastDate": {
-     "state": "ok",
-     "value": "2026-12-14"
+    {
+      "id": "prep-csptcl-recruitment-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "छत्तीसगढ़ राज्य विद्युत कंपनियाँ भर्ती 2026 — AE, JE, DEO व अन्य 1,501 पद (विज्ञापन 1/2026 व 2/2026)",
+      "fields": {
+        "title": {
+          "value": "छत्तीसगढ़ राज्य विद्युत कंपनियाँ भर्ती 2026 — AE, JE, DEO व अन्य 1,501 पद (विज्ञापन 1/2026 व 2/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "छत्तीसगढ़ राज्य विद्युत कंपनियाँ — CSPDCL, CSPTCL, CSPGCL",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "1,501 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "B.E./B.Tech / डिप्लोमा / 12वीं (पद अनुसार)",
+          "state": "check"
+        },
+        "state": {
+          "value": "छत्तीसगढ़",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-06",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-26",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹200 – ₹800",
+          "state": "check"
+        },
+        "feeText": {
+          "value": "पद व श्रेणी अनुसार ₹200 से ₹800; AE/JE व अधिकारी पद — UR ₹800, OBC ₹700, SC/ST ₹600",
+          "state": "check"
+        },
+        "salary": {
+          "value": "AE ₹56,100 – ₹1,44,300 · JE ₹35,400 – ₹1,12,400 (पद अनुसार)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "18 – 40 वर्ष (आरक्षित वर्ग को 45 तक)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://cspc.co.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://cspc.co.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://jobcareerupdates.in/blog/cspdcl-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "विज्ञापन सं. 01-01/HR/Recruitment/739106, 5 Nov 2026; 1,501 पद (195 Class-II + 1,306 Class-III/IV) — JobCareerUpdates, GovtJobsAlert, MySarkariNaukri, SarkariJob, BoldVoices से cross-check, सब में 1,501 पद व 6–26 Nov 2026 एक जैसे। Class-III/IV पद सिर्फ़ छत्तीसगढ़ domicile के लिए। कमी: official PDF का सीधा link नहीं मिला (cspc.co.in पर है); DEO/Attendant की सटीक योग्यता व पूरी फ़ीस-सूची की पुष्टि बाकी।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T14:48+05:30"
     },
-    "org": {
-     "state": "ok",
-     "value": "महानिदेशालय असम राइफ़ल्स, शिलांग (Assam Rifles)"
+    {
+      "id": "prep-wbpsc-ido-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "WBPSC इंडस्ट्रियल डेवलपमेंट ऑफिसर (IDO) भर्ती 2026 — 247 पद (विज्ञापन सं. 15/2024)",
+      "fields": {
+        "title": {
+          "value": "WBPSC इंडस्ट्रियल डेवलपमेंट ऑफिसर (IDO) भर्ती 2026 — 247 पद (विज्ञापन सं. 15/2024)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "पश्चिम बंगाल लोक सेवा आयोग (WBPSC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "247 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक या इंजीनियरिंग/टेक्नोलॉजी डिप्लोमा + बंगाली भाषा का ज्ञान",
+          "state": "ok"
+        },
+        "state": {
+          "value": "पश्चिम बंगाल",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-06",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-26",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹160",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen ₹160 + सर्विस चार्ज · WB के SC/ST व PwBD निःशुल्क",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "Level 10 — ₹32,100 – ₹82,900",
+          "state": "ok"
+        },
+        "age": {
+          "value": "18 – 44 वर्ष (01.01.2024 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://psc.wb.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://psc.wb.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/wbpsc-ido-recruitment-2026-3078772",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "YouTube वीडियो + FreeJobAlert, JobCareerUpdates, Testbook, GovtJobsAlert से cross-check — 247 पद, 6–26 Nov 2026 (दोपहर 3 बजे तक), फ़ीस ₹160 सब में एक जैसे। विज्ञापन 15/2024 का विस्तृत नोटिफ़िकेशन 6 Nov 2026 को आया (संकेतक विज्ञापन 24 Dec 2024 का था)। कमी: official PDF का सीधा link नहीं मिला (psc.wb.gov.in पर है); edit window 27 Nov–2 Dec 2026।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T14:48+05:30"
     },
-    "pdfUrl": {
-     "state": "check",
-     "value": "https://www.assamrifles.gov.in/ar-recruitment-pdf-viewer/8215"
+    {
+      "id": "prep-ukpsc-lower-pcs-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "UKPSC लोअर PCS (संयुक्त राज्य सिविल अधीनस्थ सेवा) परीक्षा 2026 — 54 पद (विज्ञापन A-1/E-2/DR/LSS/2026-27)",
+      "fields": {
+        "title": {
+          "value": "UKPSC लोअर PCS (संयुक्त राज्य सिविल अधीनस्थ सेवा) परीक्षा 2026 — 54 पद (विज्ञापन A-1/E-2/DR/LSS/2026-27)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "उत्तराखंड लोक सेवा आयोग (UKPSC), हरिद्वार",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "54 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (Graduate)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "उत्तराखंड",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-06",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-26",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹166.36",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/OBC/EWS ₹166.36 · SC/ST/PwD ₹76.36 (ऑनलाइन; वापस नहीं होगी)",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "Level 5–7 — ₹29,200 – ₹1,42,400 (पद अनुसार)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "21 – 42 वर्ष",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://pscuk.net.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://psc.uk.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/ukpsc-lower-pcs-recruitment-2026-3079327",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "GovtJobsAlert, Testbook, FreeJobAlert, Karmasandhan, Certifica से cross-check — 54 पद, 6–26 Nov 2026, फ़ीस व वेतन सब में एक जैसे। पद: नायब तहसीलदार, आबकारी निरीक्षक, आपूर्ति निरीक्षक, विपणन निरीक्षक, श्रम प्रवर्तन अधिकारी, कर अधिकारी, गन्ना विकास निरीक्षक। कमी: official PDF का सीधा link नहीं मिला; प्रारंभिक परीक्षा की तारीख़ विज्ञापन में नहीं है (27 Dec 2026 वाली तारीख़ सिर्फ़ अनुमान है, पक्की नहीं)।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T14:48+05:30"
     },
-    "posts": {
-     "state": "ok",
-     "value": "354 पद"
+    {
+      "id": "prep-dvc-executive-trainee-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "DVC एक्ज़ीक्यूटिव ट्रेनी भर्ती 2026 — GATE 2025 से 108 पद (विज्ञापन PLR/ET/04/2026/05)",
+      "fields": {
+        "title": {
+          "value": "DVC एक्ज़ीक्यूटिव ट्रेनी भर्ती 2026 — GATE 2025 से 108 पद (विज्ञापन PLR/ET/04/2026/05)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "दामोदर घाटी निगम (Damodar Valley Corporation — DVC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "108 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "B.E./B.Tech (65% अंक) + GATE 2025 स्कोर",
+          "state": "ok"
+        },
+        "state": {
+          "value": "झारखंड / पश्चिम बंगाल",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-06",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-06",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "₹1,77,500/माह तक",
+          "state": "check"
+        },
+        "age": {
+          "value": "अधिकतम 29 वर्ष (06.12.2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://www.dvc.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.dvc.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.karmasandhan.com/dvc-executive-trainee-recruitment/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "SahiSarkariJobs, Karmasandhan, Certifica, Prepm, SwiftJobSearch से cross-check — 108 पद, 6 Nov–6 Dec 2026, सिर्फ़ GATE 2025 (100 में से अंक) मान्य, चयन GATE अंक → दस्तावेज़ जाँच → मेडिकल। विशेष अभियान (बैकलॉग सहित)। कमी: आवेदन फ़ीस व official PDF का सीधा link नहीं मिला; वेतन ₹1,77,500/माह सिर्फ़ एक स्रोत में है, पुष्टि बाकी।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T14:48+05:30"
     },
-    "qual": {
-     "state": "ok",
-     "value": "10वीं"
+    {
+      "id": "prep-mppsc-scientific-officer-admit-card-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "MPPSC वैज्ञानिक अधिकारी (Scientific Officer) एडमिट कार्ड 2026 — परीक्षा 22 नवंबर (विज्ञापन 05/2026, 06/2026, 07/2026)",
+      "fields": {
+        "title": {
+          "value": "MPPSC वैज्ञानिक अधिकारी (Scientific Officer) एडमिट कार्ड 2026 — परीक्षा 22 नवंबर (विज्ञापन 05/2026, 06/2026, 07/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "मध्य प्रदेश लोक सेवा आयोग (MPPSC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "admit",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "परीक्षा प्रवेश पत्र — 81 वैज्ञानिक अधिकारी पदों (जीव विज्ञान 25, भौतिकी, रसायन विज्ञान) की परीक्षा के लिए",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "M.Sc. (संबंधित विषय, द्वितीय श्रेणी)",
+          "state": "check"
+        },
+        "state": {
+          "value": "मध्य प्रदेश",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "lastDate": {
+          "value": "2026-11-22",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-11-22",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://mppsc.mp.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://mppsc.mp.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.adda247.com/engineering-jobs/mppsc-scientific-officer-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "एडमिट कार्ड 12 Nov 2026 को जारी, परीक्षा 22 Nov 2026 — Adda247, FreeJobAlert, SarkariExam, JobJhalak व GovernmentNinja से cross-check, सब में तारीख़ें एक जैसी। विज्ञापन 05/2026, 06/2026, 07/2026 (भौतिकी, रसायन, जीव विज्ञान — कुल 81 पद)। कमी: एडमिट कार्ड डाउनलोड का सीधा link व official PDF link नहीं मिला (mppsc.mp.gov.in पर है); योग्यता का विवरण सिर्फ़ जीव विज्ञान वाले विज्ञापन से, बाकी की पुष्टि बाकी।",
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T14:48+05:30"
     },
-    "salary": {
-     "state": "missing",
-     "value": null
+    {
+      "id": "prep-osssc-ophthalmic-officer-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "OSSSC Ophthalmic Officer भर्ती 2026 — 238 पद (विज्ञापन सं. IIE-103/2026-3282/OSSSC)",
+      "fields": {
+        "title": {
+          "value": "OSSSC Ophthalmic Officer भर्ती 2026 — 238 पद (विज्ञापन सं. IIE-103/2026-3282/OSSSC)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "ओडिशा अधीनस्थ कर्मचारी चयन आयोग (OSSSC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "238 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "2-वर्षीय Ophthalmic Assistant / Surgical Assistant प्रशिक्षण + Ophthalmic Officers' Council, Odisha में पंजीकरण (केवल +2 Science पर्याप्त नहीं)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "ओडिशा",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-05",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-05",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹500",
+          "state": "check"
+        },
+        "feeText": {
+          "value": "Gen/OBC ₹500 · SC/ST/PwD — शुल्क नहीं",
+          "state": "check"
+        },
+        "salary": {
+          "value": "₹25,500–81,100 (Level-7)",
+          "state": "check"
+        },
+        "age": {
+          "value": "21 – 42 वर्ष (गिनती 05.11.2026 को)",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://www.osssc.gov.in",
+          "state": "check"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.osssc.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/osssc-ophthalmic-officer-recruitment-2026-3077557",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T15:50+05:30",
+      "verifyNote": "विज्ञापन सं. IIE-103/2026-3282/OSSSC, 5 Nov 2026 — 238 District Cadre Group-C पद, 29 ज़िलों में। FreeJobAlert, Karmasandhan, TheJobsMe, Smart Optometry Academy व YouTube वीडियो से cross-check — सब में 238 पद, 5 Nov–5 Dec ही है। ध्यान दें: पंजीकरण/पुनः-पंजीकरण की आख़िरी तारीख़ 29 Nov 2026 है, अंतिम आवेदन 5 Dec 2026 — card में 5 Dec ही last date ली है। कमी: आधिकारिक PDF का सीधा link नहीं मिला; फ़ीस, वेतन व उम्र एक-एक स्रोत से हैं, पुष्टि बाकी। परीक्षा की तारीख़ अभी घोषित नहीं।"
     },
-    "siteUrl": {
-     "state": "ok",
-     "value": "https://www.assamrifles.gov.in"
+    {
+      "id": "prep-gsssb-cce-2-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "GSSSB CCE 2.0 भर्ती 2026 — 1,237 Class-3 पद (विज्ञापन सं. 468/2026-27)",
+      "fields": {
+        "title": {
+          "value": "GSSSB CCE 2.0 भर्ती 2026 — 1,237 Class-3 पद (विज्ञापन सं. 468/2026-27)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "गुजरात अधीनस्थ सेवा चयन बोर्ड (GSSSB)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "1,237 पद (Group-A 243 + Group-B 994 Junior Clerk)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "किसी भी विषय में स्नातक (Bachelor's Degree) + कंप्यूटर का बुनियादी ज्ञान",
+          "state": "ok"
+        },
+        "state": {
+          "value": "गुजरात",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-05",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-30",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹400–₹500",
+          "state": "check"
+        },
+        "feeText": {
+          "value": "₹400–₹500 (श्रेणी अनुसार; फ़ीस भुगतान की आख़िरी तारीख़ 2 Dec 2026)",
+          "state": "check"
+        },
+        "salary": {
+          "value": "Group-A ₹49,600 · Group-B ₹26,000 (कुछ पदों की शुरुआती fixed pay, पद अनुसार अलग)",
+          "state": "check"
+        },
+        "age": {
+          "value": "20 – 35 वर्ष (गिनती 30.11.2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://ojas.gujarat.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://gsssb.gujarat.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.karmasandhan.com/gsssb-cce-2-0-recruitment/",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T15:50+05:30",
+      "verifyNote": "विज्ञापन सं. 468/2026-27, 3 Nov 2026 — Karmasandhan, MaruGujarat, JagranJosh, Careers360, Testbook व SarkariNetwork से cross-check — सब में 1,237 पद, 5–30 Nov 2026 ही है। ध्यान दें: 28–29 Nov 2026 की Group-A मुख्य परीक्षा पुराने विज्ञापन 378/2025-26 की है, इस भर्ती की नहीं — इसलिए examDate खाली रखा है। कमी: आधिकारिक PDF का सीधा link नहीं मिला; फ़ीस व वेतन की पुष्टि बाकी।"
     },
-    "sourceUrl": {
-     "state": "ok",
-     "value": "https://www.freejobalert.com/articles/assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+    {
+      "id": "prep-jkssb-mts-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "JKSSB Class-IV (MTS) व Sanitation Worker भर्ती 2026 — 2,863 पद (विज्ञापन सं. 09/2026)",
+      "fields": {
+        "title": {
+          "value": "JKSSB Class-IV (MTS) व Sanitation Worker भर्ती 2026 — 2,863 पद (विज्ञापन सं. 09/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "जम्मू-कश्मीर सेवा चयन बोर्ड (JKSSB)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "2,863 पद (MTS 2,697 + Sanitation Worker 166)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "MTS: कम से कम 10वीं · Sanitation Worker: कम से कम 8वीं · अधिकतम 10+2 (इससे ज़्यादा योग्यता वाले पात्र नहीं)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "जम्मू-कश्मीर (केवल J&K domicile)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-14",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-27",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://jkssb.nic.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://jkssb.nic.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/jkssb-class-iv-recruitment-2026-apply-online-for-2863-mts-sanitation-worker-posts-3065802",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T15:50+05:30",
+      "verifyNote": "विज्ञापन सं. 09/2026, 1 Sep 2026 — FreeJobAlert, GovtJobsAlert व SarkariNetwork से cross-check। तारीख़ बढ़ी है: पहले आख़िरी तारीख़ 12 Nov 2026 थी, 11 Nov 2026 के notice से बढ़कर 27 Nov 2026 हुई — card में बढ़ी हुई नई तारीख़ ही ली है। कमी: फ़ीस, वेतन, उम्र व आधिकारिक PDF का सीधा link नहीं मिला; परीक्षा की तारीख़ अभी घोषित नहीं।"
     },
-    "startDate": {
-     "state": "ok",
-     "value": "2026-11-15"
+    {
+      "id": "prep-gspcb-goa-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) भर्ती 2026 — 8 पद (विज्ञापन सं. 01/2026)",
+      "fields": {
+        "title": {
+          "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) भर्ती 2026 — 8 पद (विज्ञापन सं. 01/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB), सालिगाओ",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "8 पद (Scientific Assistant Microbiology, Scientific Assistant, Laboratory Attendant, MTS)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "पद अनुसार अलग — विस्तृत योग्यता आधिकारिक नोटिफ़िकेशन में देखें",
+          "state": "check"
+        },
+        "state": {
+          "value": "गोवा (केवल गोवा निवास — 15 वर्ष का residence certificate)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-11",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-30",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://cbes.goa.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.goaspcb.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/gspcb-recruitment-2026-mts-scientific-assistant-laboratory-attendant-3079514",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T15:50+05:30",
+      "verifyNote": "विज्ञापन सं. 01/2026, 6 Nov 2026 — FreeJobAlert, Karmasandhan, BoldVoices व GovNokri से cross-check — सब में 8 पद, 11–30 Nov 2026 ही है। ध्यान दें: Laboratory Attendant पद का portal तकनीकी दिक्कत से 11 Nov को live नहीं हुआ (FreeJobAlert update, 11 Nov) — उस पद की तारीख़ बाद में बताई जाएगी। कमी: पद-वार योग्यता, फ़ीस, वेतन, उम्र व आधिकारिक PDF का सीधा link नहीं मिला।"
     },
-    "state": {
-     "state": "ok",
-     "value": "सभी राज्य (केंद्रीय)"
+    {
+      "id": "prep-pnb-lbo-result-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "PNB Local Bank Officer (LBO) रिजल्ट 2026 घोषित — 594 अभ्यर्थी लिखित परीक्षा में पास",
+      "fields": {
+        "title": {
+          "value": "PNB Local Bank Officer (LBO) रिजल्ट 2026 घोषित — 594 अभ्यर्थी लिखित परीक्षा में पास",
+          "state": "ok"
+        },
+        "org": {
+          "value": "पंजाब नेशनल बैंक (PNB)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "result",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "545 पद (LBO, JMGS Scale-I) — लिखित परीक्षा में 594 अभ्यर्थी पास",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (Graduate)",
+          "state": "check"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-11",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-11",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-09-06",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://pnb.bank.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.karmasandhan.com/pnb-lbo-result/",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T15:50+05:30",
+      "verifyNote": "PNB ने 11 Nov 2026 को LBO लिखित परीक्षा (6 Sep 2026) का रिजल्ट जारी किया — 545 पदों के लिए 594 अभ्यर्थी state-wise सूची में पास, अब LLPT (जहाँ लागू हो) व इंटरव्यू होगा, जिनकी तारीख़ें अभी घोषित नहीं। Karmasandhan, FreeJobAlert व SarkariResult.app से cross-check — सब में 11 Nov 2026, 594 पास ही है। कमी: रिजल्ट PDF का सीधा link नहीं मिला (pnb.bank.in के Recruitments पेज पर है)।"
     },
-    "title": {
-     "state": "ok",
-     "value": "असम राइफ़ल्स टेक्निकल व ट्रेड्समैन भर्ती रैली 2026 (Group C)"
+    {
+      "id": "prep-hprca-teacher-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "HPRCA PGT शिक्षक भर्ती 2026 (विज्ञापन 14/2026) — 2,423 पद, CBSE स्कूल",
+      "fields": {
+        "title": {
+          "value": "HPRCA PGT शिक्षक भर्ती 2026 (विज्ञापन 14/2026) — 2,423 पद, CBSE स्कूल",
+          "state": "ok"
+        },
+        "org": {
+          "value": "हिमाचल प्रदेश राज्य चयन आयोग (HPRCA), हमीरपुर",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "2,423 पद (15 विषय; पद tentative — नोटिस में कुल संख्या नहीं छपी, विषयवार जोड़ है)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातकोत्तर (Master's) + B.Ed + TET",
+          "state": "ok"
+        },
+        "state": {
+          "value": "हिमाचल प्रदेश",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-10",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-05",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹— (पुष्टि बाकी)",
+          "state": "check"
+        },
+        "feeText": {
+          "value": "एक स्रोत में कोई शुल्क नहीं, दूसरे में परीक्षा/प्रोसेसिंग शुल्क का ज़िक्र — आधिकारिक नोटिस देखकर भरें",
+          "state": "check"
+        },
+        "salary": {
+          "value": "₹30,000 / माह (fixed honorarium, साल में 10 महीने; 5 साल की scheme-based अस्थायी नियुक्ति, नियमित पद नहीं)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "18 – 45 वर्ष (1 जनवरी 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://hprca.hp.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://hprca.hp.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.youtube.com/watch?v=ynlD83i5oIE",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T16:48+05:30",
+      "verifyNote": "YouTube वीडियो (Rohit Mahajan Sir — HPRCA CBSE Teacher Vacancy 2026, 2423 पद, last date 5 Dec 2026) + Testbook, FreeJobAlert, 9curry, GovtJobsAlert से cross-check — Advt 14/2026 (2 Nov 2026), 2,423 पद (15 विषय, पदों का जोड़; नोटिस में कुल संख्या नहीं छपी, पद tentative), आवेदन 10 Nov – 5 Dec 2026 (रात 11:59), आयु 18–45 (1 Jan 2026 को), योग्यता Master's + B.Ed + TET, मानदेय ₹30,000/माह (साल में 10 महीने)। ध्यान दें: यह नियमित सरकारी नौकरी नहीं — 5 साल की scheme-based अस्थायी नियुक्ति है, regularisation का अधिकार नहीं। कमी: शुल्क पर स्रोतों में मतभेद (एक में कोई शुल्क नहीं, दूसरे में परीक्षा शुल्क का ज़िक्र) और आधिकारिक notification PDF का सीधा link नहीं मिला — hprca.hp.gov.in से पुष्टि बाकी।"
+    },
+    {
+      "id": "prep-jshps-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "JSHPS भर्ती 2026 — 637 पद (ब्लॉक प्रोग्राम मैनेजर, DEO व अन्य)",
+      "fields": {
+        "title": {
+          "value": "JSHPS भर्ती 2026 — 637 पद (ब्लॉक प्रोग्राम मैनेजर, DEO व अन्य)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "झारखंड राज्य बागवानी संवर्धन सोसाइटी (JSHPS), कृषि निदेशालय, झारखंड सरकार",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "637 पद (264 Block Program Manager, 290 Assistant-cum-DEO, 24 District Program Manager व अन्य)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (Graduate) — पद के अनुसार (DEO: Graduation + ADCA/BCA/B.Sc IT + 2 साल अनुभव)",
+          "state": "check"
+        },
+        "state": {
+          "value": "झारखंड",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-04",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-04",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹500",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/BC/EWS ₹500 · झारखंड SC/ST ₹300 · पात्र PH — शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹20,000 – ₹1,00,000 / माह (पद के अनुसार; DEO ₹20,000–₹25,000)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "21 – 50 वर्ष (पद के अनुसार; गिनती 4 दिसंबर 2026 को)",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://recruitment.jharkhand.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://recruitment.jharkhand.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/jshps-recruitment-2026-apply-online-for-637-assistant-deo-and-more-posts-3077868",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T16:48+05:30",
+      "verifyNote": "FreeJobAlert, Karmasandhan, GovtJobsAlert, Careers360 व GovtJobsAI से cross-check — Advt 01/2026, 637 संविदा पद (264 Block Program Manager, 290 Assistant-cum-DEO, 24 District Program Manager व अन्य), ऑनलाइन आवेदन 4 Nov – 4 Dec 2026 (दोपहर 3 बजे), hard copy 14 Dec 2026 शाम 5 बजे तक राँची पहुँचनी है — सिर्फ़ ऑनलाइन भरना काफी नहीं। फ़ीस ₹500/₹300, वेतन ₹20,000–₹1,00,000/माह। यह 1 साल की संविदा नियुक्ति है (सालाना नवीकरण)। YouTube वीडियो इस भर्ती का नहीं मिला — स्रोत लेख से cross-check हुआ। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला; परीक्षा तारीख़ अभी घोषित नहीं (जनवरी 2027 में होने की बात)।"
+    },
+    {
+      "id": "prep-mmrcl-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "मुंबई मेट्रो रेल (MMRCL) भर्ती 2026 (विज्ञापन 04/2026) — 35 पद (GM से JE तक)",
+      "fields": {
+        "title": {
+          "value": "मुंबई मेट्रो रेल (MMRCL) भर्ती 2026 (विज्ञापन 04/2026) — 35 पद (GM से JE तक)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "मुंबई मेट्रो रेल कॉर्पोरेशन लिमिटेड (MMRCL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "35 पद (22 भूमिकाएँ — GM, DGM, AGM, Deputy Engineer, AE, JM, JE आदि)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "पद के अनुसार — BE/BTech, Diploma, MBA आदि + अनुभव ज़रूरी",
+          "state": "check"
+        },
+        "state": {
+          "value": "महाराष्ट्र",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-31",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-30",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹0 (कोई शुल्क नहीं)",
+          "state": "check"
+        },
+        "feeText": {
+          "value": "एक स्रोत के अनुसार कोई शुल्क नहीं — आधिकारिक विज्ञापन से पुष्टि बाकी",
+          "state": "check"
+        },
+        "salary": {
+          "value": "₹35,280 – ₹2,80,000 / माह (पद के अनुसार, IDA pay scale)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "पद के अनुसार (गिनती 1 अक्टूबर 2026 को)",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://recruitment.mmrcl.com",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://recruitment.mmrcl.com",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://testbook.com/news/mmrcl-recruitment-2026-notification-out/",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T16:48+05:30",
+      "verifyNote": "Testbook, FreeJobAlert, Karmasandhan, GovtJobsAlert, PW.live से cross-check — Advt 04/2026 (31 Oct 2026), 35 पद, आवेदन 31 Oct – 30 Nov 2026 (रात 11:59), portal recruitment.mmrcl.com; नियमित/5-साल संविदा/प्रतिनियुक्ति — पद के अनुसार; चयन इंटरव्यू से, लिखित परीक्षा का ज़िक्र नहीं। नोट: post-wise आँकड़े 36 जोड़ते हैं जबकि विज्ञापन में कुल 35 लिखा है — आधिकारिक तालिका ही मान्य। YouTube वीडियो नहीं मिला। कमी: शुल्क (₹0 बताया गया, पुष्टि बाकी), पद-wise योग्यता/आयु व notification PDF का सीधा link।"
+    },
+    {
+      "id": "prep-nia-deputation-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "NIA ASI, हेड कांस्टेबल व DEO भर्ती 2026 — 111 पद (प्रतिनियुक्ति, सिर्फ़ सेवारत कर्मचारी)",
+      "fields": {
+        "title": {
+          "value": "NIA ASI, हेड कांस्टेबल व DEO भर्ती 2026 — 111 पद (प्रतिनियुक्ति, सिर्फ़ सेवारत कर्मचारी)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "राष्ट्रीय अन्वेषण अभिकरण (NIA), गृह मंत्रालय",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "111 पद (ASI 23, हेड कांस्टेबल 53, DEO 35)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "पद के अनुसार — Graduation (ASI) / 12वीं (HC) / IT 'O'/'A' level (DEO) + सेवारत सरकारी कर्मचारी होना ज़रूरी (प्रतिनियुक्ति)",
+          "state": "check"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-21",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-20",
+          "state": "check"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "ASI/DEO Level-5 ₹29,200–₹92,300 · HC Level-4 ₹25,500–₹81,700 (+ 20% SSA)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "अधिकतम 56 वर्ष (अंतिम तारीख़ को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://nia.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/nia-recruitment-2026-apply-offline-for-111-deo-asi-head-constable-posts-3075579",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T16:48+05:30",
+      "verifyNote": "FreeJobAlert, CareerAlert24, RojgarPulse, Karmasandhan, GovtJobe से cross-check — Notice E-96/001/Depu-ASI&HC/NIA/2026/12943 (21 Oct 2026), 111 पद प्रतिनियुक्ति पर; सिर्फ़ सेवारत सरकारी कर्मचारी (analogous पद) आवेदन कर सकते हैं — freshers/12वीं पास सीधे नहीं। आवेदन ऑफ़लाइन, डाक से proper channel द्वारा DIG (Adm), NIA HQ, नई दिल्ली — 20 Dec 2026 तक पहुँचना है। आख़िरी तारीख़ Employment News प्रकाशन से 60 दिन पर आधारित है (सभी स्रोतों में 20 Dec 2026) — इसलिए 'check' रखा है, nia.gov.in/recruitment-notice.htm से पुष्टि करें। YouTube वीडियो नहीं मिला। कमी: notification PDF का सीधा link नहीं मिला; आवेदन शुल्क का ज़िक्र नहीं।"
+    },
+    {
+      "id": "prep-tnpdcl-diploma-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "TNPDCL डिप्लोमा (टेक्नीशियन) अप्रेंटिस भर्ती 2026-27 — 500 सीटें",
+      "fields": {
+        "title": {
+          "value": "TNPDCL डिप्लोमा (टेक्नीशियन) अप्रेंटिस भर्ती 2026-27 — 500 सीटें",
+          "state": "ok"
+        },
+        "org": {
+          "value": "तमिलनाडु पावर डिस्ट्रीब्यूशन कॉर्पोरेशन लिमिटेड (TNPDCL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "500 सीटें (EEE 455, ECE 35, Computer/IT 10)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "Diploma (Engineering/Technology, full-time; 2022–2025 या मई 2026 में पास, सिर्फ़ तमिलनाडु के निवासी)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "तमिलनाडु",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-28",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-28",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "₹10,900 / माह (स्टाइपेंड, 1 साल की ट्रेनिंग)",
+          "state": "ok"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://nats.education.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://nats.education.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.youtube.com/watch?v=vIcGKRLgu4A",
+          "state": "ok"
+        }
+      },
+      "status": "live",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T16:48+05:30",
+      "verifyNote": "YouTube वीडियो (TNPSC/TNPDCL जॉब राउंडअप — TNPDCL 500 सीटें, स्टाइपेंड ₹10,900, last date 28.11.2026) + Testbook, FreeJobAlert, CareerAlert24, ExamNeed से cross-check — TNPDCL (पहले TNEB) की 2026-27 Apprenticeship, 500 Diploma (Technician) Apprentice (EEE 455, ECE 35, Computer/IT 10), NATS पोर्टल पर आवेदन 28 Oct – 28 Nov 2026, स्टाइपेंड ₹10,900/माह, 1 साल ट्रेनिंग; चयन diploma अंकों से, कोई परीक्षा नहीं; सिर्फ़ तमिलनाडु के निवासी, 2022–2025 या मई 2026 में diploma पास, B.E./B.Tech वाले पात्र नहीं। यह स्थायी नौकरी नहीं है। कमी: आवेदन शुल्क व आयु सीमा का ज़िक्र नहीं मिला; आधिकारिक notification PDF का सीधा link नहीं मिला (NATS पोर्टल के BOAT-SR सेक्शन में है)।"
+    },
+    {
+      "id": "prep-rrc-nwr-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "उत्तर पश्चिम रेलवे (RRC NWR) एक्ट अप्रेंटिस भर्ती 2026 — 2,008 स्लॉट (संशोधित नोटिस 04/2026)",
+      "fields": {
+        "title": {
+          "value": "उत्तर पश्चिम रेलवे (RRC NWR) एक्ट अप्रेंटिस भर्ती 2026 — 2,008 स्लॉट (संशोधित नोटिस 04/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "रेलवे भर्ती प्रकोष्ठ, उत्तर पश्चिम रेलवे (RRC), जयपुर",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "2,008 स्लॉट (नोटिस में संख्या 2,008; unit-wise जोड़ 2,234 — नोटिस में ही अंतर, पुष्टि बाकी)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "10वीं (50% अंक) + संबंधित ट्रेड में ITI (NCVT/SCVT)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "राजस्थान",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-23",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-22",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹100",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/OBC/EWS ₹100; SC/ST/PwBD/महिला — कोई शुल्क नहीं (non-refundable, सिर्फ़ online)",
+          "state": "ok"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "15 – 24 वर्ष (22 नवंबर 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://www.rrcjaipur.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.rrcjaipur.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.youtube.com/watch?v=Ll0zdIrsT0Q",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "YouTube वीडियो (Railway Apprentice Recruitment 2026 | 2008 Posts | NWR Jaipur) + JobCareerUpdates, PW.live, FreeJobAlert, TezTak, CareerAlert24 से cross-check — संशोधित नोटिस 04/2026 (21 Oct 2026) ही मान्य है, पहला नोटिस (30 Sep) रद्द; आवेदन 23 Oct–22 Nov 2026; 10वीं 50% + ITI; आयु 15–24; शुल्क ₹100/छूट; कोई लिखित परीक्षा नहीं, 10वीं+ITI अंकों की मेरिट से चयन। ध्यान दें: यह स्थायी नौकरी नहीं — Apprentices Act के तहत 1 साल की training है। कमी: पदों की संख्या में नोटिस का अपना अंतर (2,008 बनाम unit-wise जोड़ 2,234), स्टाइपेंड की राशि नोटिस में fixed नहीं, और आधिकारिक notification PDF का सीधा link नहीं मिला — rrcjaipur.in से पुष्टि बाकी।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T17:48+05:30"
+    },
+    {
+      "id": "prep-exim-bank-mt-manager-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "EXIM Bank मैनेजमेंट ट्रेनी (MT) व मैनेजर भर्ती 2026 — 120 पद (MT 90 + मैनेजर 30)",
+      "fields": {
+        "title": {
+          "value": "EXIM Bank मैनेजमेंट ट्रेनी (MT) व मैनेजर भर्ती 2026 — 120 पद (MT 90 + मैनेजर 30)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "भारतीय निर्यात-आयात बैंक (EXIM Bank)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "120 पद (मैनेजमेंट ट्रेनी 90 + मैनेजर 30)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "Graduate (विस्तृत विज्ञापन का इंतज़ार — पदवार योग्यता अभी जारी नहीं)",
+          "state": "check"
+        },
+        "state": {
+          "value": "अखिल भारतीय",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-11",
+          "state": "check"
+        },
+        "lastDate": {
+          "value": "2026-12-11",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "21 – 28 वर्ष (31 दिसंबर 2025 को)",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://www.eximbankindia.in",
+          "state": "check"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.eximbankindia.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.karmasandhan.com/exim-bank-recruitment-mt-manager/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "Testbook, Karmasandhan, ixambee, 9curry, Govnokri से cross-check — 11 Nov 2026 को सिर्फ़ short notice जारी हुआ है; 120 पद (MT 90 + Manager 30), अंतिम तिथि 11 Dec 2026 सभी स्रोतों में एक जैसी। विस्तृत विज्ञापन अभी जारी नहीं — योग्यता, शुल्क, वेतन, परीक्षा और चयन-प्रक्रिया की पुष्टि बाकी; आयु 21–28 सिर्फ़ एक स्रोत से मिली, इसलिए 'check'। विस्तृत विज्ञापन आते ही entry update करनी होगी।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T17:48+05:30"
+    },
+    {
+      "id": "prep-kea-je-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "कर्नाटक KEA जूनियर इंजीनियर (JE) व समकक्ष ग्रुप-C भर्ती 2026 — 218 पद",
+      "fields": {
+        "title": {
+          "value": "कर्नाटक KEA जूनियर इंजीनियर (JE) व समकक्ष ग्रुप-C भर्ती 2026 — 218 पद",
+          "state": "ok"
+        },
+        "org": {
+          "value": "कर्नाटक परीक्षा प्राधिकरण (KEA)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "218 पद (RPC 187 + Kalyana Karnataka 31; JE Civil 97, Assistant Town Planner 119, Draughtsman 2)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "सिविल इंजीनियरिंग में 3 साल का Diploma",
+          "state": "ok"
+        },
+        "state": {
+          "value": "कर्नाटक",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-31",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-26",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2027-01-08",
+          "state": "check"
+        },
+        "feeGen": {
+          "value": "₹750",
+          "state": "check"
+        },
+        "feeText": {
+          "value": "सामान्य वर्ग ₹750; शुल्क भुगतान की अंतिम तिथि 27 नवंबर 2026; अन्य श्रेणियों की फीस नोटिस से देखें",
+          "state": "check"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://cetonline.karnataka.gov.in/kea",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://cetonline.karnataka.gov.in/kea",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://jobcareerupdates.in/blog/kea-junior-engineer-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "JobCareerUpdates, GovtServiceInfo, Karmasandhan, PlacementStore, CivilGyanTests से cross-check — दो नोटिस (RPC ED/KEA/41/Ne.Vi/2026, 31 Oct; KK ED/KEA/40/Ne.Vi/2026, 30 Oct), कुल 218 पद; आवेदन 31 Oct–26 Nov 2026, फीस 27 Nov तक; परीक्षा जनवरी 2027 में, Kannada test 8 Jan 2027 (competitive exam की exact dates अभी जारी नहीं, इसलिए examDate 'check')। कमी: आधिकारिक notification PDF का सीधा link, आयु-सीमा और वेतन की पुष्टि बाकी।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T17:48+05:30"
+    },
+    {
+      "id": "prep-igims-junior-resident-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "IGIMS पटना जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 109 पद",
+      "fields": {
+        "title": {
+          "value": "IGIMS पटना जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 109 पद",
+          "state": "ok"
+        },
+        "org": {
+          "value": "इंदिरा गांधी आयुर्विज्ञान संस्थान (IGIMS), पटना",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "109 पद (Dentistry विभाग को छोड़कर सभी विभाग)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "MBBS + इंटर्नशिप; चयन NEET-PG 2026 स्कोर से",
+          "state": "ok"
+        },
+        "state": {
+          "value": "बिहार",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-04",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-30",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "₹56,100 / माह (Level-10 entry pay) + NPA व अन्य भत्ते; 1 साल की tenure",
+          "state": "ok"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "pdfUrl": {
+          "value": "https://www.igims.org/resources/uploads/TenderManagement/179421839322.pdf",
+          "state": "check"
+        },
+        "siteUrl": {
+          "value": "https://www.igims.org",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.karmasandhan.com/igims-patna-junior-resident-recruitment/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "Karmasandhan, MySarkariNaukri, RojgarPulse, FreshersLive, JobKaka से cross-check — विज्ञापन सं. 03/Jr. Resident (NA)/IGIMS/Estt./2026 (4 Nov 2026), 109 पद; आवेदन offline — फॉर्म डाक/courier से 30 Nov 2026 शाम 4 बजे तक IGIMS पहुँचना चाहिए; चयन NEET-PG 2026 स्कोर से, 1 साल की tenure। कमी: आवेदन शुल्क और आयु-सीमा की पुष्टि बाकी; PDF link दूसरे स्रोत से लिया है, igims.org से सीधी पुष्टि बाकी।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T17:48+05:30"
+    },
+    {
+      "id": "prep-scl-recruitment-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली भर्ती 2026 — 83 पद (Technician 'B', Technical Assistant व अन्य)",
+      "fields": {
+        "title": {
+          "value": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली भर्ती 2026 — 83 पद (Technician 'B', Technical Assistant व अन्य)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली — MeitY",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "83 पद (Technician 'B' 41, Technical Assistant 30, Junior Personal Assistant 7, अधिकारी 5)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "ITI / Diploma / Graduate (पद के अनुसार)",
+          "state": "check"
+        },
+        "state": {
+          "value": "पंजाब",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-01",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-30",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "Technical Assistant Level-7 — ₹83,700/माह; अन्य पदों का वेतन नोटिस से देखें",
+          "state": "check"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://www.scl.gov.in/career.html",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": "https://www.scl.gov.in/career/Advt_Short22102026.pdf",
+          "state": "check"
+        },
+        "siteUrl": {
+          "value": "https://www.scl.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://govtjobsalert.in/scl-technician-technical-assistant-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "GovtJobsAlert, FreeJobAlert, BongJobs, GovtJobAlerts, SetuVidhya से cross-check — विज्ञापन SCL:DR:01/2026 (24 Oct 2026), 83 regular पद, आवेदन 1–30 Nov 2026 (शाम 5 बजे तक, सिर्फ़ online); CBT की तारीख़ अभी घोषित नहीं। कमी: पदवार योग्यता/आयु/शुल्क की पूरी पुष्टि बाकी (वेतन सिर्फ़ Technical Assistant का एक स्रोत से), short notice PDF link दूसरे स्रोत से लिया है — scl.gov.in से सीधी पुष्टि बाकी।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T17:48+05:30"
+    },
+    {
+      "createdAt": "2026-11-12T18:55+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "check",
+          "value": "https://sts.karnataka.gov.in/GPSTRNHK/final.aspx"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-16"
+        },
+        "org": {
+          "state": "ok",
+          "value": "कर्नाटक स्कूल शिक्षा विभाग (Department of School Education), कर्नाटक सरकार"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "15,000 पद"
+        },
+        "qual": {
+          "state": "check",
+          "value": "Graduate + B.Ed (पद अनुसार अलग-अलग)"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://schooleducation.karnataka.gov.in/"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.youtube.com/watch?v=TFMlAkNuBQQ"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-08-18"
+        },
+        "state": {
+          "state": "ok",
+          "value": "कर्नाटक"
+        },
+        "title": {
+          "state": "ok",
+          "value": "कर्नाटक GPSTR शिक्षक भर्ती 2026 — 15,000 पद (ग्रेजुएट प्राइमरी टीचर, असिस्टेंट मास्टर व अन्य)"
+        }
+      },
+      "id": "prep-karnataka-gpstr-teacher-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "कर्नाटक GPSTR शिक्षक भर्ती 2026 — 15,000 पद (ग्रेजुएट प्राइमरी टीचर, असिस्टेंट मास्टर व अन्य)",
+      "verifyNote": "YouTube वीडियो (Karnataka Teacher 15,000 Teacher Vacancies | GPSTR, HSTR) + FreeJobAlert, Testbook, CareerAlert24, NewGovtJobAlert, Udyoga Mithra से cross-check — 15,000 पद (GPT, असिस्टेंट मास्टर, PST, PET, CST), आवेदन 18 Aug 2026 से; अंतिम तिथि Karnataka Gazette (26 Oct 2026, No. 1248) से बढ़कर 16 Nov 2026 हुई, correction 18 Nov 2026 तक। ध्यान दें: कुछ स्रोतों के अनुसार बढ़ी हुई तारीख़ Hassan District के नोटिस से जुड़ी है — ज़िलेवार तारीख़ आधिकारिक साइट से जाँच लें। कमी: आवेदन शुल्क, वेतन, आयु-सीमा और परीक्षा तारीख़ पक्की नहीं मिली; पदवार योग्यता (B.Ed/TET) की पुष्टि बाकी।"
+    },
+    {
+      "createdAt": "2026-11-12T18:55+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.rmc.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-17"
+        },
+        "org": {
+          "state": "ok",
+          "value": "राजकोट नगर निगम (Rajkot Municipal Corporation — RMC), गुजरात"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "825 पद"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "ITI (संबंधित ट्रेड में)"
+        },
+        "salary": {
+          "state": "check",
+          "value": "सरकारी दरों पर स्टाइपेंड"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.rmc.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/rmc-apprentice-recruitment-2026-3077412"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-02"
+        },
+        "state": {
+          "state": "ok",
+          "value": "गुजरात"
+        },
+        "title": {
+          "state": "ok",
+          "value": "राजकोट नगर निगम (RMC) अप्रेंटिस भर्ती 2026 — 825 पद (ITI ट्रेड)"
+        }
+      },
+      "id": "prep-rmc-apprentice-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "राजकोट नगर निगम (RMC) अप्रेंटिस भर्ती 2026 — 825 पद (ITI ट्रेड)",
+      "verifyNote": "FreeJobAlert, Testbook, Karmasandhan, PW.live, MaruGujarat, CareerInformationPortal से cross-check — 825 ITI ट्रेड अप्रेंटिस पद, ऑनलाइन आवेदन 2–17 Nov 2026; सिर्फ़ ऑनलाइन फॉर्म काफ़ी नहीं — प्रिंट + स्व-प्रमाणित दस्तावेज़ RMC दफ़्तर में 23 Nov 2026 तक जमा करना ज़रूरी है। मेरिट से चयन, कोई परीक्षा नहीं; यह स्थायी नौकरी नहीं, 1 साल की training है। कमी: ट्रेड-wise पद-वितरण, आयु-सीमा, स्टाइपेंड की राशि और शुल्क विज्ञापन में नहीं दिए गए — rmc.gov.in से पुष्टि बाकी।"
+    },
+    {
+      "createdAt": "2026-11-12T18:55+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://web.umang.gov.in/landing/"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-26"
+        },
+        "org": {
+          "state": "ok",
+          "value": "सतीश धवन अंतरिक्ष केंद्र (SDSC SHAR), भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)"
+        },
+        "pdfUrl": {
+          "state": "ok",
+          "value": "https://apps.shar.gov.in/sdscshar/apprentice/Apprenticeship2026.pdf"
+        },
+        "posts": {
+          "state": "ok",
+          "value": "400 पद"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "Graduate / Diploma / ITI (श्रेणी अनुसार)"
+        },
+        "salary": {
+          "state": "ok",
+          "value": "₹9,600 – ₹12,300/माह (स्टाइपेंड)"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.shar.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.youtube.com/shorts/DV4Ktjd7VnM"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-06"
+        },
+        "state": {
+          "state": "ok",
+          "value": "आंध्र प्रदेश"
+        },
+        "title": {
+          "state": "ok",
+          "value": "ISRO SDSC SHAR अप्रेंटिस भर्ती 2026 — 400 पद (ग्रेजुएट, डिप्लोमा व ITI)"
+        }
+      },
+      "id": "prep-isro-sdsc-shar-apprentice-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "ISRO SDSC SHAR अप्रेंटिस भर्ती 2026 — 400 पद (ग्रेजुएट, डिप्लोमा व ITI)",
+      "verifyNote": "YouTube वीडियो (ISRO Recruitment 2026 OUT! 400 Apprentice Vacancies) + आधिकारिक नोटिस (No. SDSC SHAR/SCF/P&GA-II/Apprentice/2026, 6 Nov 2026) व JobCareerUpdates, Sahisarkarijobs, GovtJobsAlert, Dainik Life से cross-check — 400 पद, आवेदन 6–26 Nov 2026; पहले NATS/NAPS पर register करें, फिर UMANG पोर्टल पर आवेदन। कोई परीक्षा/इंटरव्यू नहीं, शैक्षणिक अंकों की मेरिट + दस्तावेज़ सत्यापन से चयन; 12 महीने की training, स्टाइपेंड ₹9,600–₹12,300/माह। कमी: आयु-सीमा और शुल्क नोटिस में नहीं दिए गए।"
+    },
+    {
+      "createdAt": "2026-11-12T18:55+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://ssc.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "admit"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-11-26"
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "—"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "एडमिट कार्ड डाउनलोड करने के लिए कोई शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-26"
+        },
+        "org": {
+          "state": "ok",
+          "value": "कर्मचारी चयन आयोग (SSC)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "GD कांस्टेबल PET/PST — 1,97,408 अभ्यर्थी शॉर्टलिस्ट"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "10वीं"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://ssc.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.youtube.com/shorts/31KKuHjB-GQ"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-12"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "SSC GD कांस्टेबल PET/PST एडमिट कार्ड 2026 — शारीरिक परीक्षा 26 नवंबर से"
+        }
+      },
+      "id": "prep-ssc-gd-pet-pst-admit-card-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "SSC GD कांस्टेबल PET/PST एडमिट कार्ड 2026 — शारीरिक परीक्षा 26 नवंबर से",
+      "verifyNote": "YouTube वीडियो (SSC GD PET/PST ADMIT CARD OUT) + JagranJosh, FreeJobAlert, Testbook, CareerIndia, GovtJobGuru से cross-check — एडमिट कार्ड 12 Nov 2026 को जारी; PET/PST 26 Nov–11 Dec 2026 (CRPF कराएगा), ssc.gov.in / rect.crpf.gov.in से डाउनलोड करें (रजिस्ट्रेशन नंबर + जन्मतिथि/पासवर्ड से लॉगिन)। लिखित परीक्षा का रिज़ल्ट 12 Oct 2026 को आया था, 1,97,408 अभ्यर्थी शॉर्टलिस्ट। कमी: एडमिट कार्ड लॉगिन से डाउनलोड होता है, इसलिए सीधा PDF link नहीं है।"
+    },
+    {
+      "createdAt": "2026-11-12T18:55+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "20 – 30 वर्ष (01 Jan 2026 को)"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://ibpsreg.ibps.in/jkbvpocto26/"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "₹1,200"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "Gen/Others ₹1,200 · SC/ST/SEBC/PwBD ₹1,000 (GST अलग)"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-26"
+        },
+        "org": {
+          "state": "ok",
+          "value": "जम्मू और कश्मीर बैंक (J&K Bank)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "323 पद"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "Graduate (किसी भी विषय में) + J&K UT डोमिसाइल"
+        },
+        "salary": {
+          "state": "ok",
+          "value": "₹48,480/माह (मूल वेतन)"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://jkb.bank.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.youtube.com/watch?v=kpHg7CGrMy8"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-07"
+        },
+        "state": {
+          "state": "ok",
+          "value": "जम्मू और कश्मीर"
+        },
+        "title": {
+          "state": "ok",
+          "value": "J&K Bank प्रोबेशनरी ऑफिसर (PO) भर्ती 2026 — 323 पद (सिर्फ़ J&K डोमिसाइल)"
+        }
+      },
+      "id": "prep-jk-bank-po-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "J&K Bank प्रोबेशनरी ऑफिसर (PO) भर्ती 2026 — 323 पद (सिर्फ़ J&K डोमिसाइल)",
+      "verifyNote": "YouTube वीडियो (J&K Bank Recruitment 2026 | 1356 Vacancies | PO & Banking Associate) + FreeJobAlert, Examera, GovtJobDeck, RojgarLive, Kashmir Outlook से cross-check — नोटिस No. JKB/HR/Rectt/2026-492, 7 Nov 2026; 323 PO पद, आवेदन 7–26 Nov 2026; सिर्फ़ J&K UT डोमिसाइल वाले ही आवेदन कर सकते हैं (लद्दाख के लिए अलग 20 पदों का नोटिस है)। चयन: Prelims + Mains + Interview, परीक्षा IBPS लेगा; परीक्षा तारीख़ अभी घोषित नहीं। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला — jkb.bank.in से पुष्टि बाकी।"
+    },
+    {
+      "id": "prep-nlc-india-get-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "NLC India ग्रेजुएट एग्ज़ीक्यूटिव ट्रेनी (GET) भर्ती 2026 — 143 पद (GATE 2025 से)",
+      "fields": {
+        "title": {
+          "value": "NLC India ग्रेजुएट एग्ज़ीक्यूटिव ट्रेनी (GET) भर्ती 2026 — 143 पद (GATE 2025 से)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "एनएलसी इंडिया लिमिटेड (NLC India Limited)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "143 पद (मैकेनिकल, इलेक्ट्रिकल, सिविल, माइनिंग)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "Graduate",
+          "state": "ok"
+        },
+        "state": {
+          "value": "अखिल भारतीय",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-14",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": 854,
+          "state": "check"
+        },
+        "feeText": {
+          "value": "₹854 (SC/ST ₹354 — एक स्रोत से, पुष्टि बाकी)",
+          "state": "check"
+        },
+        "salary": {
+          "value": "ट्रेनिंग में ₹50,000 बेसिक (बाद में E-3 ग्रेड)",
+          "state": "ok"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://www.nlcindia.in",
+          "state": "check"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.nlcindia.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.sarkariresult.app/nlc-india-get-recruitment-2026-out-apply-online-143-graduate-executive-trainee-posts/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "Testbook, sarkariresult.app, govtjobsalert, sahisarkarijobs और YouTube वीडियो ('Top 15 Latest Government Jobs 2026', IMS GATE Academy) से cross-check — Advt 10/2026, 143 पद, 13 Nov–14 Dec 2026, GATE 2025 + इंटरव्यू, सभी स्रोतों में एक जैसी। शुल्क ₹854/₹354 सिर्फ़ एक स्रोत से — पुष्टि बाकी। आयु-सीमा और official PDF link नहीं मिले — missing।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T19:53+05:30"
+    },
+    {
+      "id": "prep-bank-of-baroda-so-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "Bank of Baroda स्पेशलिस्ट ऑफिसर (SO) भर्ती 2026 — 837 पद (वेल्थ मैनेजमेंट सर्विसेज़, कॉन्ट्रैक्ट)",
+      "fields": {
+        "title": {
+          "value": "Bank of Baroda स्पेशलिस्ट ऑफिसर (SO) भर्ती 2026 — 837 पद (वेल्थ मैनेजमेंट सर्विसेज़, कॉन्ट्रैक्ट)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "बैंक ऑफ बड़ौदा (Bank of Baroda)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "837 पद (ग्रुप हेड, हेड इन्वेस्टमेंट, टेरिटरी हेड, इन्वेस्टमेंट प्रोडक्ट मैनेजर, सीनियर रिलेशनशिप मैनेजर)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "Graduate",
+          "state": "ok"
+        },
+        "state": {
+          "value": "अखिल भारतीय",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-04",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-24",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "₹48,480 (एक YouTube वीडियो से)",
+          "state": "check"
+        },
+        "age": {
+          "value": "24 – 50 वर्ष",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://bankofbaroda.bank.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.bankofbaroda.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://testbook.com/news/bank-of-baroda-so-notification-2026-out/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "Testbook, 9curry, mahanmk और YouTube वीडियो से cross-check — Advt BOB/HRM/REC/ADVT/2026/20, 837 पद, 4–24 Nov 2026, सभी स्रोतों में एक जैसी। वेतन ₹48,480 और आयु 24–50 सिर्फ़ एक-एक स्रोत से — पुष्टि बाकी। शुल्क, परीक्षा तिथि और official PDF link नहीं मिले — missing। यह भर्ती कॉन्ट्रैक्ट आधार पर है, स्थायी नौकरी नहीं।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T19:53+05:30"
+    },
+    {
+      "id": "prep-cwc-am-je-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC) असिस्टेंट मैनेजर व जूनियर एग्ज़ीक्यूटिव भर्ती 2026 — 327 पद",
+      "fields": {
+        "title": {
+          "value": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC) असिस्टेंट मैनेजर व जूनियर एग्ज़ीक्यूटिव भर्ती 2026 — 327 पद",
+          "state": "ok"
+        },
+        "org": {
+          "value": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "327 पद (असिस्टेंट मैनेजर 171 + जूनियर एग्ज़ीक्यूटिव 156)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "Graduate",
+          "state": "ok"
+        },
+        "state": {
+          "value": "अखिल भारतीय",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-17",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-15",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "असिस्टेंट मैनेजर ₹40,000–₹1,40,000; जूनियर एग्ज़ीक्यूटिव ₹29,000–₹93,000",
+          "state": "ok"
+        },
+        "age": {
+          "value": "18 – 28 वर्ष (15 नवंबर 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://www.cewacor.nic.in",
+          "state": "check"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.cewacor.nic.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/cwc-recruitment-2026-apply-online-for-327-assistant-manager-junior-executive-posts-3074247",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert, govtjobsalert, jobshouter, jobslokam और YouTube वीडियो से cross-check — Advt CWC/I-Manpower/DR/Rectt/2026/01, 327 पद, 17 Oct–15 Nov 2026, सभी स्रोतों में एक जैसी। AM (Finance) के लिए 27 Oct के अपडेट से अनुभव-शर्त में छूट — विस्तृत नोटिस से पुष्टि बाकी। शुल्क और official PDF link नहीं मिले — missing। अंतिम तिथि 15 Nov — सिर्फ़ 3 दिन बाकी।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T19:53+05:30"
+    },
+    {
+      "id": "prep-bel-probationary-engineer-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) प्रोबेशनरी इंजीनियर भर्ती 2026 — 350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+      "fields": {
+        "title": {
+          "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) प्रोबेशनरी इंजीनियर भर्ती 2026 — 350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "Graduate",
+          "state": "ok"
+        },
+        "state": {
+          "value": "अखिल भारतीय",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-28",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-18",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-12-22",
+          "state": "check"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "₹40,000–₹1,40,000 (लगभग ₹13 लाख CTC सालाना)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "अधिकतम 25 वर्ष (UR/EWS, 1 अक्टूबर 2026 को)",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://www.bel-india.in",
+          "state": "check"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.bel-india.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.karmasandhan.com/bel-probationary-engineer-recruitment/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "Karmasandhan, examneed, govtjobalerts और YouTube वीडियो से cross-check — Advt 17556/HR/All-India/2026, 350 पद, 28 Oct–18 Nov 2026, CBT 22 Dec 2026 (tentative), सभी स्रोतों में एक जैसी। आयु-सीमा 25 वर्ष एक YouTube वीडियो से — पुष्टि बाकी। शुल्क और official PDF link नहीं मिले — missing।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T19:53+05:30"
+    },
+    {
+      "id": "prep-nicl-graduate-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "NICL ग्रेजुएट अप्रेंटिस भर्ती 2026-27 — 200 सीटें (NATS, 14 राज्य)",
+      "fields": {
+        "title": {
+          "value": "NICL ग्रेजुएट अप्रेंटिस भर्ती 2026-27 — 200 सीटें (NATS, 14 राज्य)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "नेशनल इंश्योरेंस कंपनी लिमिटेड (NICL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "200 सीटें (14 राज्यों में, अस्थायी)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "Graduate",
+          "state": "ok"
+        },
+        "state": {
+          "value": "अखिल भारतीय (14 राज्य)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-04",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-18",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": "स्टाइपेंड ₹15,000 प्रति माह (12 महीने)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "21 – 30 वर्ष (1 अप्रैल 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://nats.education.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://nationalinsurance.nic.co.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/nicl-graduate-apprentices-recruitment-2026-3078567",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert, Karmasandhan, govtjobsalert, jobshouter और YouTube वीडियो ('NICL Recruitment 2026 | 200 Apprentice Posts') से cross-check — 4 Nov 2026 नोटिस, 200 सीटें, 4–18 Nov 2026, स्टाइपेंड ₹15,000, सभी स्रोतों में एक जैसी। यह अप्रेंटिसशिप है, स्थायी नौकरी नहीं — कोई परीक्षा नहीं, स्नातक अंकों की मेरिट से चयन। शुल्क का उल्लेख नहीं मिला — missing। एक राज्य के लिए ही आवेदन।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T19:53+05:30"
+    },
+    {
+      "id": "prep-isro-sac-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "ISRO SAC अप्रेंटिस भर्ती 2026 — 26 पद-कोड (ग्रेजुएट, टेक्नीशियन व ट्रेड अप्रेंटिस, विज्ञापन SAC:03:2026)",
+      "fields": {
+        "title": {
+          "value": "ISRO SAC अप्रेंटिस भर्ती 2026 — 26 पद-कोड (ग्रेजुएट, टेक्नीशियन व ट्रेड अप्रेंटिस, विज्ञापन SAC:03:2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "अंतरिक्ष अनुप्रयोग केंद्र (SAC), अहमदाबाद — भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "26 पद-कोड (ग्रेजुएट 9 + टेक्नीशियन 5 + ट्रेड 12; कुल सीटें नोटिस में नहीं दीं)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "B.E./B.Tech (ग्रेजुएट), डिप्लोमा (टेक्नीशियन), ITI/10वीं (ट्रेड) — डिग्री/डिप्लोमा/ITI दिसंबर 2023 या बाद में पास",
+          "state": "ok"
+        },
+        "state": {
+          "value": "गुजरात",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-11",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-02",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "सभी श्रेणियों के लिए कोई आवेदन शुल्क नहीं (नोटिस में शुल्क का उल्लेख नहीं)",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "स्टाइपेंड ₹10,560 – ₹12,300 प्रति माह (पद के अनुसार)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "18 – 28 वर्ष (पद-कोड 01–09); 18 – 35 वर्ष (पद-कोड 10–26) — 2 दिसंबर 2026 को",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://careers.sac.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.sac.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://govtjobsalert.in/isro-sac-apprentice-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert, GovtJobsAlert, 9curry, RojgarLive, JobCareerUpdates से cross-check — विज्ञापन SAC:03:2026 (11 Nov 2026), आवेदन 11 Nov–2 Dec 2026 (शाम 5 बजे तक), सिर्फ़ online (sac.gov.in / careers.sac.gov.in); कोई शुल्क नहीं, कोई लिखित परीक्षा/इंटरव्यू नहीं — योग्यता परीक्षा के अंकों की मेरिट + दस्तावेज़ जाँच से चयन; 1 साल की training (Apprentices Act 1961), स्थायी नौकरी नहीं। कमी: नोटिस में कुल सीटों की संख्या नहीं दी — 26 सिर्फ़ पद-कोडों की गिनती है; आधिकारिक notification PDF का सीधा link नहीं मिला — sac.gov.in से पुष्टि बाकी; इस भर्ती का अलग YouTube वीडियो नहीं मिला, SDSC SHAR (400 पद) वाले वीडियो से भ्रम न हो।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T20:50+05:30"
+    },
+    {
+      "id": "prep-apssb-csle-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "APSSB CSLE 2026 — MTS व संबंधित ग्रुप-C पद, 93 रिक्तियाँ (विज्ञापन 07/26)",
+      "fields": {
+        "title": {
+          "value": "APSSB CSLE 2026 — MTS व संबंधित ग्रुप-C पद, 93 रिक्तियाँ (विज्ञापन 07/26)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "अरुणाचल प्रदेश कर्मचारी चयन बोर्ड (APSSB), ईटानगर",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "93 पद (MTS 69, MTS-Peon 8, MTS-Cook 6, MTS-Sweeper 4, Chowkidar 2, Dak Runner 1, Daftary 1, Helper 1, Mali 1)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "10वीं पास या ITI (समकक्ष)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "अरुणाचल प्रदेश",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-09",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-23",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-12-20",
+          "state": "check"
+        },
+        "feeGen": {
+          "value": "₹150",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "₹150 (PwBD छूट); सिर्फ़ online भुगतान",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "Level-1: ₹18,000 – ₹56,900 प्रति माह",
+          "state": "ok"
+        },
+        "age": {
+          "value": "18 – 35 वर्ष (23 नवंबर 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://www.apssb.nic.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.apssb.nic.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.youtube.com/watch?v=IZzuEIalU6Y",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "YouTube वीडियो (APSSB MTS Recruitment 2026: 93 Vacancies) + FreeJobAlert, GovtJobsAlert, Karmasandhan, JobKaka से cross-check — विज्ञापन 07/26 (14 Oct 2026), आवेदन 9 Nov (दोपहर 3 बजे) – 23 Nov 2026 (दोपहर 3 बजे); लिखित परीक्षा 20 Dec 2026 (tentative) — 100 प्रश्न, 200 अंक, 2 घंटे; सिर्फ़ अरुणाचल प्रदेश PRC + APST प्रमाणपत्र वाले पात्र। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला — apssb.nic.in से पुष्टि बाकी; पद-वार संख्या एक स्रोत में कुल 98 जोड़ती है, आधिकारिक कुल 93 ही मान्य।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T20:50+05:30"
+    },
+    {
+      "id": "prep-goa-shipyard-non-executive-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "गोवा शिपयार्ड (GSL) नॉन-एग्ज़ीक्यूटिव भर्ती 2026 — 91 पद (विज्ञापन 09/2026)",
+      "fields": {
+        "title": {
+          "value": "गोवा शिपयार्ड (GSL) नॉन-एग्ज़ीक्यूटिव भर्ती 2026 — 91 पद (विज्ञापन 09/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "गोवा शिपयार्ड लिमिटेड (GSL), रक्षा मंत्रालय",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "91 पद (पद-वार जोड़; कुछ स्रोतों में 92 लिखा है)",
+          "state": "check"
+        },
+        "qual": {
+          "value": "10वीं / ITI / डिप्लोमा / डिग्री / नर्सिंग — पद के अनुसार (संबंधित अनुभव सहित)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "गोवा",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-28",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-27",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹200",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/OBC/EWS ₹200; SC/ST/PwBD/भूतपूर्व सैनिक/आंतरिक उम्मीदवार — कोई शुल्क नहीं (SBI e-Pay से online)",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹27,200 – ₹45,700 प्रति माह (पद के अनुसार, fixed-term)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "पद के अनुसार — 30 सितंबर 2026 को",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://goashipyard.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://goashipyard.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/goa-shipyard-limited-non-executive-recruitment-2026-3075885",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert, GovtJobsAlert, 9curry, NaukriNama, Himexam से cross-check — विज्ञापन 09/2026, आवेदन 28 Oct–27 Nov 2026 (शाम 5 बजे तक); 3 साल का fixed-term contract (2 साल तक बढ़ सकता है); शुल्क ₹200/छूट; वेतन ₹27,200–₹45,700। ध्यान दें: यह स्थायी नौकरी नहीं — fixed-term contract है; कुछ स्रोतों में कुल पद 92 लिखे हैं, पर पद-वार जोड़ 91 है — आधिकारिक नोटिस से पुष्टि बाकी। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला, पद-वार आयु सीमा व परीक्षा तिथि नोटिस से पुष्टि बाकी; इस विज्ञापन का अलग YouTube वीडियो नहीं मिला।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T20:50+05:30"
+    },
+    {
+      "id": "prep-kerala-hc-system-assistant-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "केरल हाई कोर्ट सिस्टम असिस्टेंट भर्ती 2026 — 90 पद (भर्ती सं. 24/2026)",
+      "fields": {
+        "title": {
+          "value": "केरल हाई कोर्ट सिस्टम असिस्टेंट भर्ती 2026 — 90 पद (भर्ती सं. 24/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "केरल उच्च न्यायालय (High Court of Kerala), एर्नाकुलम",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "90 पद (14 न्यायिक जिलों में — जिला न्यायपालिका)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "3 साल का डिप्लोमा (कंप्यूटर/इलेक्ट्रॉनिक्स) या B.Sc. (कंप्यूटर साइंस) / BCA या उच्च IT योग्यता + हार्डवेयर troubleshooting व networking में कम से कम 2 साल का अनुभव",
+          "state": "ok"
+        },
+        "state": {
+          "value": "केरल",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-20",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-14",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "सभी श्रेणियों के लिए कोई आवेदन शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹24,590 प्रति माह (consolidated)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "2 जनवरी 1985 या बाद में जन्म (लगभग 41 वर्ष तक)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://hckrecruitment.keralacourts.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://hckrecruitment.keralacourts.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://jobcareerupdates.in/blog/kerala-high-court-system-assistant-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "JobCareerUpdates, PlacementStore, SarkariResult.app, 9curry, GovtJobsAI से cross-check — भर्ती सं. 24/2026 (नोटिस HCKL/7863/2026-REC3-HC KERALA, 10 Nov 2026), आवेदन 20 Nov–14 Dec 2026, सिर्फ़ online (hckrecruitment.keralacourts.in); कोई शुल्क नहीं; 2 साल का contract (बढ़ सकता है) — स्थायी नौकरी नहीं। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला — portal से पुष्टि बाकी; इस भर्ती का अलग YouTube वीडियो नहीं मिला ('Assistant' पद के पुराने वीडियो से भ्रम न हो)।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T20:50+05:30"
+    },
+    {
+      "id": "prep-bel-kotdwar-trainee-engineer-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "BEL कोटद्वार ट्रेनी इंजीनियर-I भर्ती 2026 — 23 पद (विज्ञापन 21001/HR/KOT/REC/02)",
+      "fields": {
+        "title": {
+          "value": "BEL कोटद्वार ट्रेनी इंजीनियर-I भर्ती 2026 — 23 पद (विज्ञापन 21001/HR/KOT/REC/02)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL), कोटद्वार यूनिट, उत्तराखंड",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "23 पद (Electronics 16 + Mechanical 5 + Computer Science 2)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "B.E./B.Tech / B.Sc. Engineering (4 साल) — Pass Class, कोई अनुभव ज़रूरी नहीं (freshers)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "उत्तराखंड",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-12",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-26",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-12-13",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": "₹177",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/EWS/OBC (NCL) ₹177 (₹150 + 18% GST, SBI Collect से); SC/ST/PwBD — कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹40,000 प्रति माह (पहला साल); ₹45,000 (दूसरा साल); ₹50,000 (तीसरा साल, बढ़ने पर) + ₹12,000/साल भत्ता",
+          "state": "ok"
+        },
+        "age": {
+          "value": "अधिकतम 28 वर्ष",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://jobapply.in/bel2026kotdwarte",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://bel-india.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.youtube.com/watch?v=Jm99eXwt6mM",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "YouTube वीडियो (BEL Recruitment 2026 | Trainee Engineer-I, Advt. 21001/HR/KOT/REC/02) + JobCareerUpdates, PlacementStore, FreeJobAlert, GovtJobsAlert, Testbook से cross-check — विज्ञापन 12 Nov 2026 को जारी; online pre-registration 12–26 Nov 2026 (रात 11:59 तक) अनिवार्य, बिना pre-registration walk-in में नहीं बैठ सकते; walk-in लिखित परीक्षा 13 Dec 2026 (रविवार, सुबह 8 बजे रिपोर्टिंग) BEL कोटद्वार में, कोई call letter नहीं भेजा जाएगा; अस्थायी नियुक्ति (शुरुआत में 2 साल, अधिकतम 3 साल)। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला — bel-india.in से पुष्टि बाकी; जनवरी 2026 वाले पुराने BEL कोटद्वार विज्ञापन (51 पद) से भ्रम न हो।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T20:50+05:30"
     }
-   },
-   "id": "prep-assam-rifles-2026",
-   "jobId": null,
-   "kind": "new_job",
-   "sourceSubmissionId": null,
-   "status": "live",
-   "verifyNote": "FreeJobAlert link से जानकारी निकाली, 3 और स्रोतों (Karmasandhan, HimExam, SarkariGuideJob) से cross-check — नया नोटिफ़िकेशन Memo No. I.12016/A Branch (Rect Cell)/2026/1892, 3 नवंबर 2026; 354 पद, 17 ट्रेड, सिर्फ़ पुरुष, domicile/PRC ज़रूरी; आवेदन 15 Nov – 14 Dec 2026; फ़ीस ₹100 (SC/ST/Ex-SM मुक्त); चयन PST/PET + CBT + ट्रेड टेस्ट + DV + मेडिकल। सितंबर वाला पुराना नोटिफ़िकेशन 30 Oct को रद्द — उसकी तारीख़ें नहीं लीं। आधिकारिक PDF link assamrifles.gov.in का viewer page है (पुष्टि बाकी)। कमी: वेतन का आँकड़ा नोटिफ़िकेशन में नहीं दिया। रैली 18 Jan 2027 tentative। नोट: यही entry Muse के Jobs Update Panel में भी तैयार है — जो agent पहले upload करे, दूसरा dedupe नियम से सिर्फ़ live चिह्नित करे।"
-  },
-  {
-   "id": "prep-mpsc-group-c-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "महाराष्ट्र ग्रुप-C सेवा संयुक्त प्रारंभिक परीक्षा 2026 (विज्ञापन सं. 017/2026)",
-   "fields": {
-    "title": {
-     "value": "महाराष्ट्र ग्रुप-C सेवा संयुक्त प्रारंभिक परीक्षा 2026 (विज्ञापन सं. 017/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "महाराष्ट्र लोक सेवा आयोग (MPSC)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "16,717 पद",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "12वीं / स्नातक (पद अनुसार)",
-     "state": "check"
-    },
-    "state": {
-     "value": "महाराष्ट्र",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-13",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-27",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": "2027-01-24",
-     "state": "ok"
-    },
-    "feeGen": {
-     "value": "₹394",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "Gen ₹394 · SC/ST ₹294 (ऑनलाइन; फ़ीस भुगतान की आख़िरी तारीख़ 30 Nov 2026)",
-     "state": "ok"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": "18 – 43 वर्ष (एक साल की छूट सहित)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://mpsconline.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://mpsc.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/mpsc-group-c-recruitment-2026-3080387",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "6 Nov 2026 के MPSC शुद्धिपत्र से पद 5,707 से बढ़कर 16,717 हुए; परीक्षा 3 Jan 2027 से 24 Jan 2027 हुई; आवेदन 13–27 Nov 2026 (दोपहर 2 बजे से)। YouTube वीडियो (Puneri Pages, MPSC मेगाभरती) + Testbook, FreeJobAlert, AglaSem, Jagran, JagranJosh से cross-check — सब में 16,717 ही है (एक जगह '16,797' छपा था, वह ग़लत है)। कमी: पद-वार योग्यता व वेतन, और official PDF का सीधा link नहीं मिला (शुद्धिपत्र mpsc.gov.in पर है)।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T13:50+05:30"
-  },
-  {
-   "id": "prep-indian-bank-apprentice-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "इंडियन बैंक अप्रेंटिस भर्ती 2026-27 — 1,500 सीटें",
-   "fields": {
-    "title": {
-     "value": "इंडियन बैंक अप्रेंटिस भर्ती 2026-27 — 1,500 सीटें",
-     "state": "ok"
-    },
-    "org": {
-     "value": "इंडियन बैंक (Indian Bank)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "1,500 सीटें",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "स्नातक (01 Apr 2022 के बाद पास)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "सभी राज्य (केंद्रीय)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-05",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-25",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹800 + GST",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "Gen/OBC/EWS ₹800 + GST · SC/ST/PwBD ₹175 + GST",
-     "state": "ok"
-    },
-    "salary": {
-     "value": "₹12,300 – 15,000/माह (स्टाइपेंड)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "20 – 28 वर्ष (01 Nov 2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://www.nats.education.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
-     "state": "ok"
-    },
-    "siteUrl": {
-     "value": "https://indianbank.bank.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://testbook.com/news/indian-bank-apprentice-recruitment-2026/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "इंडियन बैंक की official PDF (04 Nov 2026) से सीधे जाँचा + Testbook, BoldVoices, SahiSarkariJobs से cross-check। 12 महीने की अप्रेंटिसशिप है, स्थायी नौकरी नहीं; पहले NATS 2.0 पर profile पूरा करना ज़रूरी। कमी: परीक्षा की तारीख़ विज्ञापन में नहीं दी गई।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T13:50+05:30"
-  },
-  {
-   "id": "prep-bhel-artisan-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "BHEL आर्टिज़न ग्रेड-IV भर्ती 2026 (विज्ञापन सं. 01/2026)",
-   "fields": {
-    "title": {
-     "value": "BHEL आर्टिज़न ग्रेड-IV भर्ती 2026 (विज्ञापन सं. 01/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "भारत हेवी इलेक्ट्रिकल्स लिमिटेड (BHEL)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "660 पद",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "10वीं + ITI (NTC) व NAC (60% अंक)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "सभी राज्य (केंद्रीय)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-21",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-18",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": "2026-12-11",
-     "state": "check"
-    },
-    "feeGen": {
-     "value": "₹1,072",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "UR/EWS/OBC ₹1,072 · SC/ST/PwBD/Ex-SM ₹472",
-     "state": "ok"
-    },
-    "salary": {
-     "value": "₹24,000/माह (पहला साल), फिर ₹29,500 – 65,000",
-     "state": "ok"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://careers.bhel.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": "https://careers.bhel.in/ar_2027/Artisan_Detailed%20AD.pdf",
-     "state": "check"
-    },
-    "siteUrl": {
-     "value": "https://careers.bhel.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.sarkariresult.app/bhel-artisan-recruitment-2026-out-apply-online-660-posts/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "BoldVoices, TezTak, SarkariResult.app, JobReadyPortal से cross-check — 660 पद, 7 ट्रेड, 9 यूनिट; CBE 11 Dec 2026 (tentative)। कमी: आयु-सीमा इस जाँच में नहीं मिली; PDF link careers.bhel.in का है, सीधे खोलकर जाँच नहीं हुई।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T13:50+05:30"
-  },
-  {
-   "id": "prep-iocl-apprentice-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "IOCL पाइपलाइंस अप्रेंटिस भर्ती 2026 — 500 पद",
-   "fields": {
-    "title": {
-     "value": "IOCL पाइपलाइंस अप्रेंटिस भर्ती 2026 — 500 पद",
-     "state": "ok"
-    },
-    "org": {
-     "value": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) — पाइपलाइंस डिवीज़न",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "500 पद (लगभग)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "12वीं / ITI / डिप्लोमा / स्नातक (ट्रेड अनुसार)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "सभी राज्य (केंद्रीय)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-06",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-05",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": "18 – 24 वर्ष (30 Nov 2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://plapps.indianoilpipelines.in/",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.iocl.com",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/iocl-apprentice-recruitment-2026-3079245",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "FreeJobAlert, Examera, GovtJobsAlert, BoldVoices, SarkariResult.app से cross-check — Advt. PL/HR/ESTB/APPR (2026), 06 Nov 2026; 5 पाइपलाइन क्षेत्रों में ~500 सीटें; कोई लिखित परीक्षा नहीं, मेरिट से चयन। कमी: विज्ञापन में फ़ीस और स्टाइपेंड का उल्लेख नहीं; official PDF का सीधा link नहीं मिला।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T13:50+05:30"
-  },
-  {
-   "id": "prep-nicl-ao-admit-card-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "NICL AO (प्रशासनिक अधिकारी) प्रीलिम्स एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
-   "fields": {
-    "title": {
-     "value": "NICL AO (प्रशासनिक अधिकारी) प्रीलिम्स एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
-     "state": "ok"
-    },
-    "org": {
-     "value": "नेशनल इंश्योरेंस कंपनी लिमिटेड (NICL)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "admit",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "321 पद (AO Scale-I)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "स्नातक",
-     "state": "check"
-    },
-    "state": {
-     "value": "सभी राज्य (केंद्रीय)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-10",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-17",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": "2026-11-17",
-     "state": "ok"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://nationalinsurance.nic.co.in",
-     "state": "check"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://nationalinsurance.nic.co.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/nicl-ao-admit-card-2026-3077457",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "एडमिट कार्ड 10 Nov 2026 को जारी, Phase-I परीक्षा 17 Nov 2026 (ऑनलाइन); 321 AO (Scale-I) पद — 200 Generalist + 121 Specialist। JagranJosh, Testbook, FreeJobAlert, PuneriPages, Miscw से cross-check। कमी: योग्यता/आयु/वेतन/फ़ीस — ये आवेदन-समय की जानकारी है, admit card वाली खबरों में नहीं दी; download link IBPS portal पर है, NICL site के Recruitment section से मिलेगा।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T13:50+05:30"
-  },
-  {
-   "id": "prep-csptcl-recruitment-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "छत्तीसगढ़ राज्य विद्युत कंपनियाँ भर्ती 2026 — AE, JE, DEO व अन्य 1,501 पद (विज्ञापन 1/2026 व 2/2026)",
-   "fields": {
-    "title": {
-     "value": "छत्तीसगढ़ राज्य विद्युत कंपनियाँ भर्ती 2026 — AE, JE, DEO व अन्य 1,501 पद (विज्ञापन 1/2026 व 2/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "छत्तीसगढ़ राज्य विद्युत कंपनियाँ — CSPDCL, CSPTCL, CSPGCL",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "1,501 पद",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "B.E./B.Tech / डिप्लोमा / 12वीं (पद अनुसार)",
-     "state": "check"
-    },
-    "state": {
-     "value": "छत्तीसगढ़",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-06",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-26",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹200 – ₹800",
-     "state": "check"
-    },
-    "feeText": {
-     "value": "पद व श्रेणी अनुसार ₹200 से ₹800; AE/JE व अधिकारी पद — UR ₹800, OBC ₹700, SC/ST ₹600",
-     "state": "check"
-    },
-    "salary": {
-     "value": "AE ₹56,100 – ₹1,44,300 · JE ₹35,400 – ₹1,12,400 (पद अनुसार)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "18 – 40 वर्ष (आरक्षित वर्ग को 45 तक)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://cspc.co.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://cspc.co.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://jobcareerupdates.in/blog/cspdcl-recruitment-2026/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "विज्ञापन सं. 01-01/HR/Recruitment/739106, 5 Nov 2026; 1,501 पद (195 Class-II + 1,306 Class-III/IV) — JobCareerUpdates, GovtJobsAlert, MySarkariNaukri, SarkariJob, BoldVoices से cross-check, सब में 1,501 पद व 6–26 Nov 2026 एक जैसे। Class-III/IV पद सिर्फ़ छत्तीसगढ़ domicile के लिए। कमी: official PDF का सीधा link नहीं मिला (cspc.co.in पर है); DEO/Attendant की सटीक योग्यता व पूरी फ़ीस-सूची की पुष्टि बाकी।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T14:48+05:30"
-  },
-  {
-   "id": "prep-wbpsc-ido-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "WBPSC इंडस्ट्रियल डेवलपमेंट ऑफिसर (IDO) भर्ती 2026 — 247 पद (विज्ञापन सं. 15/2024)",
-   "fields": {
-    "title": {
-     "value": "WBPSC इंडस्ट्रियल डेवलपमेंट ऑफिसर (IDO) भर्ती 2026 — 247 पद (विज्ञापन सं. 15/2024)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "पश्चिम बंगाल लोक सेवा आयोग (WBPSC)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "247 पद",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "स्नातक या इंजीनियरिंग/टेक्नोलॉजी डिप्लोमा + बंगाली भाषा का ज्ञान",
-     "state": "ok"
-    },
-    "state": {
-     "value": "पश्चिम बंगाल",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-06",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-26",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹160",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "Gen ₹160 + सर्विस चार्ज · WB के SC/ST व PwBD निःशुल्क",
-     "state": "ok"
-    },
-    "salary": {
-     "value": "Level 10 — ₹32,100 – ₹82,900",
-     "state": "ok"
-    },
-    "age": {
-     "value": "18 – 44 वर्ष (01.01.2024 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://psc.wb.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://psc.wb.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/wbpsc-ido-recruitment-2026-3078772",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "YouTube वीडियो + FreeJobAlert, JobCareerUpdates, Testbook, GovtJobsAlert से cross-check — 247 पद, 6–26 Nov 2026 (दोपहर 3 बजे तक), फ़ीस ₹160 सब में एक जैसे। विज्ञापन 15/2024 का विस्तृत नोटिफ़िकेशन 6 Nov 2026 को आया (संकेतक विज्ञापन 24 Dec 2024 का था)। कमी: official PDF का सीधा link नहीं मिला (psc.wb.gov.in पर है); edit window 27 Nov–2 Dec 2026।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T14:48+05:30"
-  },
-  {
-   "id": "prep-ukpsc-lower-pcs-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "UKPSC लोअर PCS (संयुक्त राज्य सिविल अधीनस्थ सेवा) परीक्षा 2026 — 54 पद (विज्ञापन A-1/E-2/DR/LSS/2026-27)",
-   "fields": {
-    "title": {
-     "value": "UKPSC लोअर PCS (संयुक्त राज्य सिविल अधीनस्थ सेवा) परीक्षा 2026 — 54 पद (विज्ञापन A-1/E-2/DR/LSS/2026-27)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "उत्तराखंड लोक सेवा आयोग (UKPSC), हरिद्वार",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "54 पद",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "स्नातक (Graduate)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "उत्तराखंड",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-06",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-26",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹166.36",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "Gen/OBC/EWS ₹166.36 · SC/ST/PwD ₹76.36 (ऑनलाइन; वापस नहीं होगी)",
-     "state": "ok"
-    },
-    "salary": {
-     "value": "Level 5–7 — ₹29,200 – ₹1,42,400 (पद अनुसार)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "21 – 42 वर्ष",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://pscuk.net.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://psc.uk.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/ukpsc-lower-pcs-recruitment-2026-3079327",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "GovtJobsAlert, Testbook, FreeJobAlert, Karmasandhan, Certifica से cross-check — 54 पद, 6–26 Nov 2026, फ़ीस व वेतन सब में एक जैसे। पद: नायब तहसीलदार, आबकारी निरीक्षक, आपूर्ति निरीक्षक, विपणन निरीक्षक, श्रम प्रवर्तन अधिकारी, कर अधिकारी, गन्ना विकास निरीक्षक। कमी: official PDF का सीधा link नहीं मिला; प्रारंभिक परीक्षा की तारीख़ विज्ञापन में नहीं है (27 Dec 2026 वाली तारीख़ सिर्फ़ अनुमान है, पक्की नहीं)।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T14:48+05:30"
-  },
-  {
-   "id": "prep-dvc-executive-trainee-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "DVC एक्ज़ीक्यूटिव ट्रेनी भर्ती 2026 — GATE 2025 से 108 पद (विज्ञापन PLR/ET/04/2026/05)",
-   "fields": {
-    "title": {
-     "value": "DVC एक्ज़ीक्यूटिव ट्रेनी भर्ती 2026 — GATE 2025 से 108 पद (विज्ञापन PLR/ET/04/2026/05)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "दामोदर घाटी निगम (Damodar Valley Corporation — DVC)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "108 पद",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "B.E./B.Tech (65% अंक) + GATE 2025 स्कोर",
-     "state": "ok"
-    },
-    "state": {
-     "value": "झारखंड / पश्चिम बंगाल",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-06",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-06",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "₹1,77,500/माह तक",
-     "state": "check"
-    },
-    "age": {
-     "value": "अधिकतम 29 वर्ष (06.12.2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://www.dvc.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.dvc.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.karmasandhan.com/dvc-executive-trainee-recruitment/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "SahiSarkariJobs, Karmasandhan, Certifica, Prepm, SwiftJobSearch से cross-check — 108 पद, 6 Nov–6 Dec 2026, सिर्फ़ GATE 2025 (100 में से अंक) मान्य, चयन GATE अंक → दस्तावेज़ जाँच → मेडिकल। विशेष अभियान (बैकलॉग सहित)। कमी: आवेदन फ़ीस व official PDF का सीधा link नहीं मिला; वेतन ₹1,77,500/माह सिर्फ़ एक स्रोत में है, पुष्टि बाकी।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T14:48+05:30"
-  },
-  {
-   "id": "prep-mppsc-scientific-officer-admit-card-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "MPPSC वैज्ञानिक अधिकारी (Scientific Officer) एडमिट कार्ड 2026 — परीक्षा 22 नवंबर (विज्ञापन 05/2026, 06/2026, 07/2026)",
-   "fields": {
-    "title": {
-     "value": "MPPSC वैज्ञानिक अधिकारी (Scientific Officer) एडमिट कार्ड 2026 — परीक्षा 22 नवंबर (विज्ञापन 05/2026, 06/2026, 07/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "मध्य प्रदेश लोक सेवा आयोग (MPPSC)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "admit",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "परीक्षा प्रवेश पत्र — 81 वैज्ञानिक अधिकारी पदों (जीव विज्ञान 25, भौतिकी, रसायन विज्ञान) की परीक्षा के लिए",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "M.Sc. (संबंधित विषय, द्वितीय श्रेणी)",
-     "state": "check"
-    },
-    "state": {
-     "value": "मध्य प्रदेश",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "lastDate": {
-     "value": "2026-11-22",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": "2026-11-22",
-     "state": "ok"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://mppsc.mp.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://mppsc.mp.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.adda247.com/engineering-jobs/mppsc-scientific-officer-recruitment-2026/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "एडमिट कार्ड 12 Nov 2026 को जारी, परीक्षा 22 Nov 2026 — Adda247, FreeJobAlert, SarkariExam, JobJhalak व GovernmentNinja से cross-check, सब में तारीख़ें एक जैसी। विज्ञापन 05/2026, 06/2026, 07/2026 (भौतिकी, रसायन, जीव विज्ञान — कुल 81 पद)। कमी: एडमिट कार्ड डाउनलोड का सीधा link व official PDF link नहीं मिला (mppsc.mp.gov.in पर है); योग्यता का विवरण सिर्फ़ जीव विज्ञान वाले विज्ञापन से, बाकी की पुष्टि बाकी।",
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T14:48+05:30"
-  },
-  {
-   "id": "prep-osssc-ophthalmic-officer-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "OSSSC Ophthalmic Officer भर्ती 2026 — 238 पद (विज्ञापन सं. IIE-103/2026-3282/OSSSC)",
-   "fields": {
-    "title": {
-     "value": "OSSSC Ophthalmic Officer भर्ती 2026 — 238 पद (विज्ञापन सं. IIE-103/2026-3282/OSSSC)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "ओडिशा अधीनस्थ कर्मचारी चयन आयोग (OSSSC)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "238 पद",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "2-वर्षीय Ophthalmic Assistant / Surgical Assistant प्रशिक्षण + Ophthalmic Officers' Council, Odisha में पंजीकरण (केवल +2 Science पर्याप्त नहीं)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "ओडिशा",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-05",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-05",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹500",
-     "state": "check"
-    },
-    "feeText": {
-     "value": "Gen/OBC ₹500 · SC/ST/PwD — शुल्क नहीं",
-     "state": "check"
-    },
-    "salary": {
-     "value": "₹25,500–81,100 (Level-7)",
-     "state": "check"
-    },
-    "age": {
-     "value": "21 – 42 वर्ष (गिनती 05.11.2026 को)",
-     "state": "check"
-    },
-    "applyUrl": {
-     "value": "https://www.osssc.gov.in",
-     "state": "check"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.osssc.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/osssc-ophthalmic-officer-recruitment-2026-3077557",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T15:50+05:30",
-   "verifyNote": "विज्ञापन सं. IIE-103/2026-3282/OSSSC, 5 Nov 2026 — 238 District Cadre Group-C पद, 29 ज़िलों में। FreeJobAlert, Karmasandhan, TheJobsMe, Smart Optometry Academy व YouTube वीडियो से cross-check — सब में 238 पद, 5 Nov–5 Dec ही है। ध्यान दें: पंजीकरण/पुनः-पंजीकरण की आख़िरी तारीख़ 29 Nov 2026 है, अंतिम आवेदन 5 Dec 2026 — card में 5 Dec ही last date ली है। कमी: आधिकारिक PDF का सीधा link नहीं मिला; फ़ीस, वेतन व उम्र एक-एक स्रोत से हैं, पुष्टि बाकी। परीक्षा की तारीख़ अभी घोषित नहीं।"
-  },
-  {
-   "id": "prep-gsssb-cce-2-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "GSSSB CCE 2.0 भर्ती 2026 — 1,237 Class-3 पद (विज्ञापन सं. 468/2026-27)",
-   "fields": {
-    "title": {
-     "value": "GSSSB CCE 2.0 भर्ती 2026 — 1,237 Class-3 पद (विज्ञापन सं. 468/2026-27)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "गुजरात अधीनस्थ सेवा चयन बोर्ड (GSSSB)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "1,237 पद (Group-A 243 + Group-B 994 Junior Clerk)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "किसी भी विषय में स्नातक (Bachelor's Degree) + कंप्यूटर का बुनियादी ज्ञान",
-     "state": "ok"
-    },
-    "state": {
-     "value": "गुजरात",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-05",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-30",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹400–₹500",
-     "state": "check"
-    },
-    "feeText": {
-     "value": "₹400–₹500 (श्रेणी अनुसार; फ़ीस भुगतान की आख़िरी तारीख़ 2 Dec 2026)",
-     "state": "check"
-    },
-    "salary": {
-     "value": "Group-A ₹49,600 · Group-B ₹26,000 (कुछ पदों की शुरुआती fixed pay, पद अनुसार अलग)",
-     "state": "check"
-    },
-    "age": {
-     "value": "20 – 35 वर्ष (गिनती 30.11.2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://ojas.gujarat.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://gsssb.gujarat.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.karmasandhan.com/gsssb-cce-2-0-recruitment/",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T15:50+05:30",
-   "verifyNote": "विज्ञापन सं. 468/2026-27, 3 Nov 2026 — Karmasandhan, MaruGujarat, JagranJosh, Careers360, Testbook व SarkariNetwork से cross-check — सब में 1,237 पद, 5–30 Nov 2026 ही है। ध्यान दें: 28–29 Nov 2026 की Group-A मुख्य परीक्षा पुराने विज्ञापन 378/2025-26 की है, इस भर्ती की नहीं — इसलिए examDate खाली रखा है। कमी: आधिकारिक PDF का सीधा link नहीं मिला; फ़ीस व वेतन की पुष्टि बाकी।"
-  },
-  {
-   "id": "prep-jkssb-mts-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "JKSSB Class-IV (MTS) व Sanitation Worker भर्ती 2026 — 2,863 पद (विज्ञापन सं. 09/2026)",
-   "fields": {
-    "title": {
-     "value": "JKSSB Class-IV (MTS) व Sanitation Worker भर्ती 2026 — 2,863 पद (विज्ञापन सं. 09/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "जम्मू-कश्मीर सेवा चयन बोर्ड (JKSSB)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "2,863 पद (MTS 2,697 + Sanitation Worker 166)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "MTS: कम से कम 10वीं · Sanitation Worker: कम से कम 8वीं · अधिकतम 10+2 (इससे ज़्यादा योग्यता वाले पात्र नहीं)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "जम्मू-कश्मीर (केवल J&K domicile)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-14",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-27",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://jkssb.nic.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://jkssb.nic.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/jkssb-class-iv-recruitment-2026-apply-online-for-2863-mts-sanitation-worker-posts-3065802",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T15:50+05:30",
-   "verifyNote": "विज्ञापन सं. 09/2026, 1 Sep 2026 — FreeJobAlert, GovtJobsAlert व SarkariNetwork से cross-check। तारीख़ बढ़ी है: पहले आख़िरी तारीख़ 12 Nov 2026 थी, 11 Nov 2026 के notice से बढ़कर 27 Nov 2026 हुई — card में बढ़ी हुई नई तारीख़ ही ली है। कमी: फ़ीस, वेतन, उम्र व आधिकारिक PDF का सीधा link नहीं मिला; परीक्षा की तारीख़ अभी घोषित नहीं।"
-  },
-  {
-   "id": "prep-gspcb-goa-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) भर्ती 2026 — 8 पद (विज्ञापन सं. 01/2026)",
-   "fields": {
-    "title": {
-     "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) भर्ती 2026 — 8 पद (विज्ञापन सं. 01/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB), सालिगाओ",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "8 पद (Scientific Assistant Microbiology, Scientific Assistant, Laboratory Attendant, MTS)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "पद अनुसार अलग — विस्तृत योग्यता आधिकारिक नोटिफ़िकेशन में देखें",
-     "state": "check"
-    },
-    "state": {
-     "value": "गोवा (केवल गोवा निवास — 15 वर्ष का residence certificate)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-11",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-30",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://cbes.goa.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.goaspcb.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/gspcb-recruitment-2026-mts-scientific-assistant-laboratory-attendant-3079514",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T15:50+05:30",
-   "verifyNote": "विज्ञापन सं. 01/2026, 6 Nov 2026 — FreeJobAlert, Karmasandhan, BoldVoices व GovNokri से cross-check — सब में 8 पद, 11–30 Nov 2026 ही है। ध्यान दें: Laboratory Attendant पद का portal तकनीकी दिक्कत से 11 Nov को live नहीं हुआ (FreeJobAlert update, 11 Nov) — उस पद की तारीख़ बाद में बताई जाएगी। कमी: पद-वार योग्यता, फ़ीस, वेतन, उम्र व आधिकारिक PDF का सीधा link नहीं मिला।"
-  },
-  {
-   "id": "prep-pnb-lbo-result-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "PNB Local Bank Officer (LBO) रिजल्ट 2026 घोषित — 594 अभ्यर्थी लिखित परीक्षा में पास",
-   "fields": {
-    "title": {
-     "value": "PNB Local Bank Officer (LBO) रिजल्ट 2026 घोषित — 594 अभ्यर्थी लिखित परीक्षा में पास",
-     "state": "ok"
-    },
-    "org": {
-     "value": "पंजाब नेशनल बैंक (PNB)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "result",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "545 पद (LBO, JMGS Scale-I) — लिखित परीक्षा में 594 अभ्यर्थी पास",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "स्नातक (Graduate)",
-     "state": "check"
-    },
-    "state": {
-     "value": "सभी राज्य (केंद्रीय)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-11",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-11",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": "2026-09-06",
-     "state": "ok"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
-     "state": "ok"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://pnb.bank.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.karmasandhan.com/pnb-lbo-result/",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T15:50+05:30",
-   "verifyNote": "PNB ने 11 Nov 2026 को LBO लिखित परीक्षा (6 Sep 2026) का रिजल्ट जारी किया — 545 पदों के लिए 594 अभ्यर्थी state-wise सूची में पास, अब LLPT (जहाँ लागू हो) व इंटरव्यू होगा, जिनकी तारीख़ें अभी घोषित नहीं। Karmasandhan, FreeJobAlert व SarkariResult.app से cross-check — सब में 11 Nov 2026, 594 पास ही है। कमी: रिजल्ट PDF का सीधा link नहीं मिला (pnb.bank.in के Recruitments पेज पर है)।"
-  },
-  {
-   "id": "prep-hprca-teacher-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "HPRCA PGT शिक्षक भर्ती 2026 (विज्ञापन 14/2026) — 2,423 पद, CBSE स्कूल",
-   "fields": {
-    "title": {
-     "value": "HPRCA PGT शिक्षक भर्ती 2026 (विज्ञापन 14/2026) — 2,423 पद, CBSE स्कूल",
-     "state": "ok"
-    },
-    "org": {
-     "value": "हिमाचल प्रदेश राज्य चयन आयोग (HPRCA), हमीरपुर",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "2,423 पद (15 विषय; पद tentative — नोटिस में कुल संख्या नहीं छपी, विषयवार जोड़ है)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "स्नातकोत्तर (Master's) + B.Ed + TET",
-     "state": "ok"
-    },
-    "state": {
-     "value": "हिमाचल प्रदेश",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-10",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-05",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹— (पुष्टि बाकी)",
-     "state": "check"
-    },
-    "feeText": {
-     "value": "एक स्रोत में कोई शुल्क नहीं, दूसरे में परीक्षा/प्रोसेसिंग शुल्क का ज़िक्र — आधिकारिक नोटिस देखकर भरें",
-     "state": "check"
-    },
-    "salary": {
-     "value": "₹30,000 / माह (fixed honorarium, साल में 10 महीने; 5 साल की scheme-based अस्थायी नियुक्ति, नियमित पद नहीं)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "18 – 45 वर्ष (1 जनवरी 2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://hprca.hp.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://hprca.hp.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.youtube.com/watch?v=ynlD83i5oIE",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T16:48+05:30",
-   "verifyNote": "YouTube वीडियो (Rohit Mahajan Sir — HPRCA CBSE Teacher Vacancy 2026, 2423 पद, last date 5 Dec 2026) + Testbook, FreeJobAlert, 9curry, GovtJobsAlert से cross-check — Advt 14/2026 (2 Nov 2026), 2,423 पद (15 विषय, पदों का जोड़; नोटिस में कुल संख्या नहीं छपी, पद tentative), आवेदन 10 Nov – 5 Dec 2026 (रात 11:59), आयु 18–45 (1 Jan 2026 को), योग्यता Master's + B.Ed + TET, मानदेय ₹30,000/माह (साल में 10 महीने)। ध्यान दें: यह नियमित सरकारी नौकरी नहीं — 5 साल की scheme-based अस्थायी नियुक्ति है, regularisation का अधिकार नहीं। कमी: शुल्क पर स्रोतों में मतभेद (एक में कोई शुल्क नहीं, दूसरे में परीक्षा शुल्क का ज़िक्र) और आधिकारिक notification PDF का सीधा link नहीं मिला — hprca.hp.gov.in से पुष्टि बाकी।"
-  },
-  {
-   "id": "prep-jshps-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "JSHPS भर्ती 2026 — 637 पद (ब्लॉक प्रोग्राम मैनेजर, DEO व अन्य)",
-   "fields": {
-    "title": {
-     "value": "JSHPS भर्ती 2026 — 637 पद (ब्लॉक प्रोग्राम मैनेजर, DEO व अन्य)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "झारखंड राज्य बागवानी संवर्धन सोसाइटी (JSHPS), कृषि निदेशालय, झारखंड सरकार",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "637 पद (264 Block Program Manager, 290 Assistant-cum-DEO, 24 District Program Manager व अन्य)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "स्नातक (Graduate) — पद के अनुसार (DEO: Graduation + ADCA/BCA/B.Sc IT + 2 साल अनुभव)",
-     "state": "check"
-    },
-    "state": {
-     "value": "झारखंड",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-04",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-04",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹500",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "Gen/BC/EWS ₹500 · झारखंड SC/ST ₹300 · पात्र PH — शुल्क नहीं",
-     "state": "ok"
-    },
-    "salary": {
-     "value": "₹20,000 – ₹1,00,000 / माह (पद के अनुसार; DEO ₹20,000–₹25,000)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "21 – 50 वर्ष (पद के अनुसार; गिनती 4 दिसंबर 2026 को)",
-     "state": "check"
-    },
-    "applyUrl": {
-     "value": "https://recruitment.jharkhand.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://recruitment.jharkhand.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/jshps-recruitment-2026-apply-online-for-637-assistant-deo-and-more-posts-3077868",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T16:48+05:30",
-   "verifyNote": "FreeJobAlert, Karmasandhan, GovtJobsAlert, Careers360 व GovtJobsAI से cross-check — Advt 01/2026, 637 संविदा पद (264 Block Program Manager, 290 Assistant-cum-DEO, 24 District Program Manager व अन्य), ऑनलाइन आवेदन 4 Nov – 4 Dec 2026 (दोपहर 3 बजे), hard copy 14 Dec 2026 शाम 5 बजे तक राँची पहुँचनी है — सिर्फ़ ऑनलाइन भरना काफी नहीं। फ़ीस ₹500/₹300, वेतन ₹20,000–₹1,00,000/माह। यह 1 साल की संविदा नियुक्ति है (सालाना नवीकरण)। YouTube वीडियो इस भर्ती का नहीं मिला — स्रोत लेख से cross-check हुआ। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला; परीक्षा तारीख़ अभी घोषित नहीं (जनवरी 2027 में होने की बात)।"
-  },
-  {
-   "id": "prep-mmrcl-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "मुंबई मेट्रो रेल (MMRCL) भर्ती 2026 (विज्ञापन 04/2026) — 35 पद (GM से JE तक)",
-   "fields": {
-    "title": {
-     "value": "मुंबई मेट्रो रेल (MMRCL) भर्ती 2026 (विज्ञापन 04/2026) — 35 पद (GM से JE तक)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "मुंबई मेट्रो रेल कॉर्पोरेशन लिमिटेड (MMRCL)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "35 पद (22 भूमिकाएँ — GM, DGM, AGM, Deputy Engineer, AE, JM, JE आदि)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "पद के अनुसार — BE/BTech, Diploma, MBA आदि + अनुभव ज़रूरी",
-     "state": "check"
-    },
-    "state": {
-     "value": "महाराष्ट्र",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-31",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-30",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹0 (कोई शुल्क नहीं)",
-     "state": "check"
-    },
-    "feeText": {
-     "value": "एक स्रोत के अनुसार कोई शुल्क नहीं — आधिकारिक विज्ञापन से पुष्टि बाकी",
-     "state": "check"
-    },
-    "salary": {
-     "value": "₹35,280 – ₹2,80,000 / माह (पद के अनुसार, IDA pay scale)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "पद के अनुसार (गिनती 1 अक्टूबर 2026 को)",
-     "state": "check"
-    },
-    "applyUrl": {
-     "value": "https://recruitment.mmrcl.com",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://recruitment.mmrcl.com",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://testbook.com/news/mmrcl-recruitment-2026-notification-out/",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T16:48+05:30",
-   "verifyNote": "Testbook, FreeJobAlert, Karmasandhan, GovtJobsAlert, PW.live से cross-check — Advt 04/2026 (31 Oct 2026), 35 पद, आवेदन 31 Oct – 30 Nov 2026 (रात 11:59), portal recruitment.mmrcl.com; नियमित/5-साल संविदा/प्रतिनियुक्ति — पद के अनुसार; चयन इंटरव्यू से, लिखित परीक्षा का ज़िक्र नहीं। नोट: post-wise आँकड़े 36 जोड़ते हैं जबकि विज्ञापन में कुल 35 लिखा है — आधिकारिक तालिका ही मान्य। YouTube वीडियो नहीं मिला। कमी: शुल्क (₹0 बताया गया, पुष्टि बाकी), पद-wise योग्यता/आयु व notification PDF का सीधा link।"
-  },
-  {
-   "id": "prep-nia-deputation-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "NIA ASI, हेड कांस्टेबल व DEO भर्ती 2026 — 111 पद (प्रतिनियुक्ति, सिर्फ़ सेवारत कर्मचारी)",
-   "fields": {
-    "title": {
-     "value": "NIA ASI, हेड कांस्टेबल व DEO भर्ती 2026 — 111 पद (प्रतिनियुक्ति, सिर्फ़ सेवारत कर्मचारी)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "राष्ट्रीय अन्वेषण अभिकरण (NIA), गृह मंत्रालय",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "111 पद (ASI 23, हेड कांस्टेबल 53, DEO 35)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "पद के अनुसार — Graduation (ASI) / 12वीं (HC) / IT 'O'/'A' level (DEO) + सेवारत सरकारी कर्मचारी होना ज़रूरी (प्रतिनियुक्ति)",
-     "state": "check"
-    },
-    "state": {
-     "value": "सभी राज्य (केंद्रीय)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-21",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-20",
-     "state": "check"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "ASI/DEO Level-5 ₹29,200–₹92,300 · HC Level-4 ₹25,500–₹81,700 (+ 20% SSA)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "अधिकतम 56 वर्ष (अंतिम तारीख़ को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://nia.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/nia-recruitment-2026-apply-offline-for-111-deo-asi-head-constable-posts-3075579",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T16:48+05:30",
-   "verifyNote": "FreeJobAlert, CareerAlert24, RojgarPulse, Karmasandhan, GovtJobe से cross-check — Notice E-96/001/Depu-ASI&HC/NIA/2026/12943 (21 Oct 2026), 111 पद प्रतिनियुक्ति पर; सिर्फ़ सेवारत सरकारी कर्मचारी (analogous पद) आवेदन कर सकते हैं — freshers/12वीं पास सीधे नहीं। आवेदन ऑफ़लाइन, डाक से proper channel द्वारा DIG (Adm), NIA HQ, नई दिल्ली — 20 Dec 2026 तक पहुँचना है। आख़िरी तारीख़ Employment News प्रकाशन से 60 दिन पर आधारित है (सभी स्रोतों में 20 Dec 2026) — इसलिए 'check' रखा है, nia.gov.in/recruitment-notice.htm से पुष्टि करें। YouTube वीडियो नहीं मिला। कमी: notification PDF का सीधा link नहीं मिला; आवेदन शुल्क का ज़िक्र नहीं।"
-  },
-  {
-   "id": "prep-tnpdcl-diploma-apprentice-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "TNPDCL डिप्लोमा (टेक्नीशियन) अप्रेंटिस भर्ती 2026-27 — 500 सीटें",
-   "fields": {
-    "title": {
-     "value": "TNPDCL डिप्लोमा (टेक्नीशियन) अप्रेंटिस भर्ती 2026-27 — 500 सीटें",
-     "state": "ok"
-    },
-    "org": {
-     "value": "तमिलनाडु पावर डिस्ट्रीब्यूशन कॉर्पोरेशन लिमिटेड (TNPDCL)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "500 सीटें (EEE 455, ECE 35, Computer/IT 10)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "Diploma (Engineering/Technology, full-time; 2022–2025 या मई 2026 में पास, सिर्फ़ तमिलनाडु के निवासी)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "तमिलनाडु",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-28",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-28",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "₹10,900 / माह (स्टाइपेंड, 1 साल की ट्रेनिंग)",
-     "state": "ok"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://nats.education.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://nats.education.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.youtube.com/watch?v=vIcGKRLgu4A",
-     "state": "ok"
-    }
-   },
-   "status": "live",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T16:48+05:30",
-   "verifyNote": "YouTube वीडियो (TNPSC/TNPDCL जॉब राउंडअप — TNPDCL 500 सीटें, स्टाइपेंड ₹10,900, last date 28.11.2026) + Testbook, FreeJobAlert, CareerAlert24, ExamNeed से cross-check — TNPDCL (पहले TNEB) की 2026-27 Apprenticeship, 500 Diploma (Technician) Apprentice (EEE 455, ECE 35, Computer/IT 10), NATS पोर्टल पर आवेदन 28 Oct – 28 Nov 2026, स्टाइपेंड ₹10,900/माह, 1 साल ट्रेनिंग; चयन diploma अंकों से, कोई परीक्षा नहीं; सिर्फ़ तमिलनाडु के निवासी, 2022–2025 या मई 2026 में diploma पास, B.E./B.Tech वाले पात्र नहीं। यह स्थायी नौकरी नहीं है। कमी: आवेदन शुल्क व आयु सीमा का ज़िक्र नहीं मिला; आधिकारिक notification PDF का सीधा link नहीं मिला (NATS पोर्टल के BOAT-SR सेक्शन में है)।"
-  },
-  {
-   "id": "prep-rrc-nwr-apprentice-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "उत्तर पश्चिम रेलवे (RRC NWR) एक्ट अप्रेंटिस भर्ती 2026 — 2,008 स्लॉट (संशोधित नोटिस 04/2026)",
-   "fields": {
-    "title": {
-     "value": "उत्तर पश्चिम रेलवे (RRC NWR) एक्ट अप्रेंटिस भर्ती 2026 — 2,008 स्लॉट (संशोधित नोटिस 04/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "रेलवे भर्ती प्रकोष्ठ, उत्तर पश्चिम रेलवे (RRC), जयपुर",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "2,008 स्लॉट (नोटिस में संख्या 2,008; unit-wise जोड़ 2,234 — नोटिस में ही अंतर, पुष्टि बाकी)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "10वीं (50% अंक) + संबंधित ट्रेड में ITI (NCVT/SCVT)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "राजस्थान",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-23",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-22",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹100",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "Gen/OBC/EWS ₹100; SC/ST/PwBD/महिला — कोई शुल्क नहीं (non-refundable, सिर्फ़ online)",
-     "state": "ok"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": "15 – 24 वर्ष (22 नवंबर 2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://www.rrcjaipur.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.rrcjaipur.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.youtube.com/watch?v=Ll0zdIrsT0Q",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "YouTube वीडियो (Railway Apprentice Recruitment 2026 | 2008 Posts | NWR Jaipur) + JobCareerUpdates, PW.live, FreeJobAlert, TezTak, CareerAlert24 से cross-check — संशोधित नोटिस 04/2026 (21 Oct 2026) ही मान्य है, पहला नोटिस (30 Sep) रद्द; आवेदन 23 Oct–22 Nov 2026; 10वीं 50% + ITI; आयु 15–24; शुल्क ₹100/छूट; कोई लिखित परीक्षा नहीं, 10वीं+ITI अंकों की मेरिट से चयन। ध्यान दें: यह स्थायी नौकरी नहीं — Apprentices Act के तहत 1 साल की training है। कमी: पदों की संख्या में नोटिस का अपना अंतर (2,008 बनाम unit-wise जोड़ 2,234), स्टाइपेंड की राशि नोटिस में fixed नहीं, और आधिकारिक notification PDF का सीधा link नहीं मिला — rrcjaipur.in से पुष्टि बाकी।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T17:48+05:30"
-  },
-  {
-   "id": "prep-exim-bank-mt-manager-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "EXIM Bank मैनेजमेंट ट्रेनी (MT) व मैनेजर भर्ती 2026 — 120 पद (MT 90 + मैनेजर 30)",
-   "fields": {
-    "title": {
-     "value": "EXIM Bank मैनेजमेंट ट्रेनी (MT) व मैनेजर भर्ती 2026 — 120 पद (MT 90 + मैनेजर 30)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "भारतीय निर्यात-आयात बैंक (EXIM Bank)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "120 पद (मैनेजमेंट ट्रेनी 90 + मैनेजर 30)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "Graduate (विस्तृत विज्ञापन का इंतज़ार — पदवार योग्यता अभी जारी नहीं)",
-     "state": "check"
-    },
-    "state": {
-     "value": "अखिल भारतीय",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-11",
-     "state": "check"
-    },
-    "lastDate": {
-     "value": "2026-12-11",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": "21 – 28 वर्ष (31 दिसंबर 2025 को)",
-     "state": "check"
-    },
-    "applyUrl": {
-     "value": "https://www.eximbankindia.in",
-     "state": "check"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.eximbankindia.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.karmasandhan.com/exim-bank-recruitment-mt-manager/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "Testbook, Karmasandhan, ixambee, 9curry, Govnokri से cross-check — 11 Nov 2026 को सिर्फ़ short notice जारी हुआ है; 120 पद (MT 90 + Manager 30), अंतिम तिथि 11 Dec 2026 सभी स्रोतों में एक जैसी। विस्तृत विज्ञापन अभी जारी नहीं — योग्यता, शुल्क, वेतन, परीक्षा और चयन-प्रक्रिया की पुष्टि बाकी; आयु 21–28 सिर्फ़ एक स्रोत से मिली, इसलिए 'check'। विस्तृत विज्ञापन आते ही entry update करनी होगी।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T17:48+05:30"
-  },
-  {
-   "id": "prep-kea-je-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "कर्नाटक KEA जूनियर इंजीनियर (JE) व समकक्ष ग्रुप-C भर्ती 2026 — 218 पद",
-   "fields": {
-    "title": {
-     "value": "कर्नाटक KEA जूनियर इंजीनियर (JE) व समकक्ष ग्रुप-C भर्ती 2026 — 218 पद",
-     "state": "ok"
-    },
-    "org": {
-     "value": "कर्नाटक परीक्षा प्राधिकरण (KEA)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "218 पद (RPC 187 + Kalyana Karnataka 31; JE Civil 97, Assistant Town Planner 119, Draughtsman 2)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "सिविल इंजीनियरिंग में 3 साल का Diploma",
-     "state": "ok"
-    },
-    "state": {
-     "value": "कर्नाटक",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-31",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-26",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": "2027-01-08",
-     "state": "check"
-    },
-    "feeGen": {
-     "value": "₹750",
-     "state": "check"
-    },
-    "feeText": {
-     "value": "सामान्य वर्ग ₹750; शुल्क भुगतान की अंतिम तिथि 27 नवंबर 2026; अन्य श्रेणियों की फीस नोटिस से देखें",
-     "state": "check"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://cetonline.karnataka.gov.in/kea",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://cetonline.karnataka.gov.in/kea",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://jobcareerupdates.in/blog/kea-junior-engineer-recruitment-2026/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "JobCareerUpdates, GovtServiceInfo, Karmasandhan, PlacementStore, CivilGyanTests से cross-check — दो नोटिस (RPC ED/KEA/41/Ne.Vi/2026, 31 Oct; KK ED/KEA/40/Ne.Vi/2026, 30 Oct), कुल 218 पद; आवेदन 31 Oct–26 Nov 2026, फीस 27 Nov तक; परीक्षा जनवरी 2027 में, Kannada test 8 Jan 2027 (competitive exam की exact dates अभी जारी नहीं, इसलिए examDate 'check')। कमी: आधिकारिक notification PDF का सीधा link, आयु-सीमा और वेतन की पुष्टि बाकी।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T17:48+05:30"
-  },
-  {
-   "id": "prep-igims-junior-resident-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "IGIMS पटना जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 109 पद",
-   "fields": {
-    "title": {
-     "value": "IGIMS पटना जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 109 पद",
-     "state": "ok"
-    },
-    "org": {
-     "value": "इंदिरा गांधी आयुर्विज्ञान संस्थान (IGIMS), पटना",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "109 पद (Dentistry विभाग को छोड़कर सभी विभाग)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "MBBS + इंटर्नशिप; चयन NEET-PG 2026 स्कोर से",
-     "state": "ok"
-    },
-    "state": {
-     "value": "बिहार",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-04",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-30",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "₹56,100 / माह (Level-10 entry pay) + NPA व अन्य भत्ते; 1 साल की tenure",
-     "state": "ok"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "pdfUrl": {
-     "value": "https://www.igims.org/resources/uploads/TenderManagement/179421839322.pdf",
-     "state": "check"
-    },
-    "siteUrl": {
-     "value": "https://www.igims.org",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.karmasandhan.com/igims-patna-junior-resident-recruitment/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "Karmasandhan, MySarkariNaukri, RojgarPulse, FreshersLive, JobKaka से cross-check — विज्ञापन सं. 03/Jr. Resident (NA)/IGIMS/Estt./2026 (4 Nov 2026), 109 पद; आवेदन offline — फॉर्म डाक/courier से 30 Nov 2026 शाम 4 बजे तक IGIMS पहुँचना चाहिए; चयन NEET-PG 2026 स्कोर से, 1 साल की tenure। कमी: आवेदन शुल्क और आयु-सीमा की पुष्टि बाकी; PDF link दूसरे स्रोत से लिया है, igims.org से सीधी पुष्टि बाकी।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T17:48+05:30"
-  },
-  {
-   "id": "prep-scl-recruitment-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली भर्ती 2026 — 83 पद (Technician 'B', Technical Assistant व अन्य)",
-   "fields": {
-    "title": {
-     "value": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली भर्ती 2026 — 83 पद (Technician 'B', Technical Assistant व अन्य)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "सेमी-कंडक्टर लैबोरेटरी (SCL), मोहाली — MeitY",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "83 पद (Technician 'B' 41, Technical Assistant 30, Junior Personal Assistant 7, अधिकारी 5)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "ITI / Diploma / Graduate (पद के अनुसार)",
-     "state": "check"
-    },
-    "state": {
-     "value": "पंजाब",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-01",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-30",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "Technical Assistant Level-7 — ₹83,700/माह; अन्य पदों का वेतन नोटिस से देखें",
-     "state": "check"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://www.scl.gov.in/career.html",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": "https://www.scl.gov.in/career/Advt_Short22102026.pdf",
-     "state": "check"
-    },
-    "siteUrl": {
-     "value": "https://www.scl.gov.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://govtjobsalert.in/scl-technician-technical-assistant-recruitment-2026/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "GovtJobsAlert, FreeJobAlert, BongJobs, GovtJobAlerts, SetuVidhya से cross-check — विज्ञापन SCL:DR:01/2026 (24 Oct 2026), 83 regular पद, आवेदन 1–30 Nov 2026 (शाम 5 बजे तक, सिर्फ़ online); CBT की तारीख़ अभी घोषित नहीं। कमी: पदवार योग्यता/आयु/शुल्क की पूरी पुष्टि बाकी (वेतन सिर्फ़ Technical Assistant का एक स्रोत से), short notice PDF link दूसरे स्रोत से लिया है — scl.gov.in से सीधी पुष्टि बाकी।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T17:48+05:30"
-  },
-  {
-   "createdAt": "2026-11-12T18:55+05:30",
-   "createdBy": "LOYATI (hourly check)",
-   "fields": {
-    "age": {
-     "state": "missing",
-     "value": null
-    },
-    "applyUrl": {
-     "state": "check",
-     "value": "https://sts.karnataka.gov.in/GPSTRNHK/final.aspx"
-    },
-    "cat": {
-     "state": "ok",
-     "value": "job"
-    },
-    "examDate": {
-     "state": "missing",
-     "value": null
-    },
-    "feeGen": {
-     "state": "missing",
-     "value": null
-    },
-    "feeText": {
-     "state": "missing",
-     "value": null
-    },
-    "lastDate": {
-     "state": "ok",
-     "value": "2026-11-16"
-    },
-    "org": {
-     "state": "ok",
-     "value": "कर्नाटक स्कूल शिक्षा विभाग (Department of School Education), कर्नाटक सरकार"
-    },
-    "pdfUrl": {
-     "state": "missing",
-     "value": null
-    },
-    "posts": {
-     "state": "ok",
-     "value": "15,000 पद"
-    },
-    "qual": {
-     "state": "check",
-     "value": "Graduate + B.Ed (पद अनुसार अलग-अलग)"
-    },
-    "salary": {
-     "state": "missing",
-     "value": null
-    },
-    "siteUrl": {
-     "state": "ok",
-     "value": "https://schooleducation.karnataka.gov.in/"
-    },
-    "sourceUrl": {
-     "state": "ok",
-     "value": "https://www.youtube.com/watch?v=TFMlAkNuBQQ"
-    },
-    "startDate": {
-     "state": "ok",
-     "value": "2026-08-18"
-    },
-    "state": {
-     "state": "ok",
-     "value": "कर्नाटक"
-    },
-    "title": {
-     "state": "ok",
-     "value": "कर्नाटक GPSTR शिक्षक भर्ती 2026 — 15,000 पद (ग्रेजुएट प्राइमरी टीचर, असिस्टेंट मास्टर व अन्य)"
-    }
-   },
-   "id": "prep-karnataka-gpstr-teacher-2026",
-   "jobId": null,
-   "kind": "new_job",
-   "sourceSubmissionId": null,
-   "status": "ready",
-   "title": "कर्नाटक GPSTR शिक्षक भर्ती 2026 — 15,000 पद (ग्रेजुएट प्राइमरी टीचर, असिस्टेंट मास्टर व अन्य)",
-   "verifyNote": "YouTube वीडियो (Karnataka Teacher 15,000 Teacher Vacancies | GPSTR, HSTR) + FreeJobAlert, Testbook, CareerAlert24, NewGovtJobAlert, Udyoga Mithra से cross-check — 15,000 पद (GPT, असिस्टेंट मास्टर, PST, PET, CST), आवेदन 18 Aug 2026 से; अंतिम तिथि Karnataka Gazette (26 Oct 2026, No. 1248) से बढ़कर 16 Nov 2026 हुई, correction 18 Nov 2026 तक। ध्यान दें: कुछ स्रोतों के अनुसार बढ़ी हुई तारीख़ Hassan District के नोटिस से जुड़ी है — ज़िलेवार तारीख़ आधिकारिक साइट से जाँच लें। कमी: आवेदन शुल्क, वेतन, आयु-सीमा और परीक्षा तारीख़ पक्की नहीं मिली; पदवार योग्यता (B.Ed/TET) की पुष्टि बाकी।"
-  },
-  {
-   "createdAt": "2026-11-12T18:55+05:30",
-   "createdBy": "LOYATI (hourly check)",
-   "fields": {
-    "age": {
-     "state": "missing",
-     "value": null
-    },
-    "applyUrl": {
-     "state": "ok",
-     "value": "https://www.rmc.gov.in"
-    },
-    "cat": {
-     "state": "ok",
-     "value": "job"
-    },
-    "examDate": {
-     "state": "missing",
-     "value": null
-    },
-    "feeGen": {
-     "state": "missing",
-     "value": null
-    },
-    "feeText": {
-     "state": "missing",
-     "value": null
-    },
-    "lastDate": {
-     "state": "ok",
-     "value": "2026-11-17"
-    },
-    "org": {
-     "state": "ok",
-     "value": "राजकोट नगर निगम (Rajkot Municipal Corporation — RMC), गुजरात"
-    },
-    "pdfUrl": {
-     "state": "missing",
-     "value": null
-    },
-    "posts": {
-     "state": "ok",
-     "value": "825 पद"
-    },
-    "qual": {
-     "state": "ok",
-     "value": "ITI (संबंधित ट्रेड में)"
-    },
-    "salary": {
-     "state": "check",
-     "value": "सरकारी दरों पर स्टाइपेंड"
-    },
-    "siteUrl": {
-     "state": "ok",
-     "value": "https://www.rmc.gov.in"
-    },
-    "sourceUrl": {
-     "state": "ok",
-     "value": "https://www.freejobalert.com/articles/rmc-apprentice-recruitment-2026-3077412"
-    },
-    "startDate": {
-     "state": "ok",
-     "value": "2026-11-02"
-    },
-    "state": {
-     "state": "ok",
-     "value": "गुजरात"
-    },
-    "title": {
-     "state": "ok",
-     "value": "राजकोट नगर निगम (RMC) अप्रेंटिस भर्ती 2026 — 825 पद (ITI ट्रेड)"
-    }
-   },
-   "id": "prep-rmc-apprentice-2026",
-   "jobId": null,
-   "kind": "new_job",
-   "sourceSubmissionId": null,
-   "status": "ready",
-   "title": "राजकोट नगर निगम (RMC) अप्रेंटिस भर्ती 2026 — 825 पद (ITI ट्रेड)",
-   "verifyNote": "FreeJobAlert, Testbook, Karmasandhan, PW.live, MaruGujarat, CareerInformationPortal से cross-check — 825 ITI ट्रेड अप्रेंटिस पद, ऑनलाइन आवेदन 2–17 Nov 2026; सिर्फ़ ऑनलाइन फॉर्म काफ़ी नहीं — प्रिंट + स्व-प्रमाणित दस्तावेज़ RMC दफ़्तर में 23 Nov 2026 तक जमा करना ज़रूरी है। मेरिट से चयन, कोई परीक्षा नहीं; यह स्थायी नौकरी नहीं, 1 साल की training है। कमी: ट्रेड-wise पद-वितरण, आयु-सीमा, स्टाइपेंड की राशि और शुल्क विज्ञापन में नहीं दिए गए — rmc.gov.in से पुष्टि बाकी।"
-  },
-  {
-   "createdAt": "2026-11-12T18:55+05:30",
-   "createdBy": "LOYATI (hourly check)",
-   "fields": {
-    "age": {
-     "state": "missing",
-     "value": null
-    },
-    "applyUrl": {
-     "state": "ok",
-     "value": "https://web.umang.gov.in/landing/"
-    },
-    "cat": {
-     "state": "ok",
-     "value": "job"
-    },
-    "examDate": {
-     "state": "missing",
-     "value": null
-    },
-    "feeGen": {
-     "state": "missing",
-     "value": null
-    },
-    "feeText": {
-     "state": "missing",
-     "value": null
-    },
-    "lastDate": {
-     "state": "ok",
-     "value": "2026-11-26"
-    },
-    "org": {
-     "state": "ok",
-     "value": "सतीश धवन अंतरिक्ष केंद्र (SDSC SHAR), भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)"
-    },
-    "pdfUrl": {
-     "state": "ok",
-     "value": "https://apps.shar.gov.in/sdscshar/apprentice/Apprenticeship2026.pdf"
-    },
-    "posts": {
-     "state": "ok",
-     "value": "400 पद"
-    },
-    "qual": {
-     "state": "ok",
-     "value": "Graduate / Diploma / ITI (श्रेणी अनुसार)"
-    },
-    "salary": {
-     "state": "ok",
-     "value": "₹9,600 – ₹12,300/माह (स्टाइपेंड)"
-    },
-    "siteUrl": {
-     "state": "ok",
-     "value": "https://www.shar.gov.in"
-    },
-    "sourceUrl": {
-     "state": "ok",
-     "value": "https://www.youtube.com/shorts/DV4Ktjd7VnM"
-    },
-    "startDate": {
-     "state": "ok",
-     "value": "2026-11-06"
-    },
-    "state": {
-     "state": "ok",
-     "value": "आंध्र प्रदेश"
-    },
-    "title": {
-     "state": "ok",
-     "value": "ISRO SDSC SHAR अप्रेंटिस भर्ती 2026 — 400 पद (ग्रेजुएट, डिप्लोमा व ITI)"
-    }
-   },
-   "id": "prep-isro-sdsc-shar-apprentice-2026",
-   "jobId": null,
-   "kind": "new_job",
-   "sourceSubmissionId": null,
-   "status": "ready",
-   "title": "ISRO SDSC SHAR अप्रेंटिस भर्ती 2026 — 400 पद (ग्रेजुएट, डिप्लोमा व ITI)",
-   "verifyNote": "YouTube वीडियो (ISRO Recruitment 2026 OUT! 400 Apprentice Vacancies) + आधिकारिक नोटिस (No. SDSC SHAR/SCF/P&GA-II/Apprentice/2026, 6 Nov 2026) व JobCareerUpdates, Sahisarkarijobs, GovtJobsAlert, Dainik Life से cross-check — 400 पद, आवेदन 6–26 Nov 2026; पहले NATS/NAPS पर register करें, फिर UMANG पोर्टल पर आवेदन। कोई परीक्षा/इंटरव्यू नहीं, शैक्षणिक अंकों की मेरिट + दस्तावेज़ सत्यापन से चयन; 12 महीने की training, स्टाइपेंड ₹9,600–₹12,300/माह। कमी: आयु-सीमा और शुल्क नोटिस में नहीं दिए गए।"
-  },
-  {
-   "createdAt": "2026-11-12T18:55+05:30",
-   "createdBy": "LOYATI (hourly check)",
-   "fields": {
-    "age": {
-     "state": "missing",
-     "value": null
-    },
-    "applyUrl": {
-     "state": "ok",
-     "value": "https://ssc.gov.in"
-    },
-    "cat": {
-     "state": "ok",
-     "value": "admit"
-    },
-    "examDate": {
-     "state": "ok",
-     "value": "2026-11-26"
-    },
-    "feeGen": {
-     "state": "ok",
-     "value": "—"
-    },
-    "feeText": {
-     "state": "ok",
-     "value": "एडमिट कार्ड डाउनलोड करने के लिए कोई शुल्क नहीं"
-    },
-    "lastDate": {
-     "state": "ok",
-     "value": "2026-11-26"
-    },
-    "org": {
-     "state": "ok",
-     "value": "कर्मचारी चयन आयोग (SSC)"
-    },
-    "pdfUrl": {
-     "state": "missing",
-     "value": null
-    },
-    "posts": {
-     "state": "ok",
-     "value": "GD कांस्टेबल PET/PST — 1,97,408 अभ्यर्थी शॉर्टलिस्ट"
-    },
-    "qual": {
-     "state": "ok",
-     "value": "10वीं"
-    },
-    "salary": {
-     "state": "missing",
-     "value": null
-    },
-    "siteUrl": {
-     "state": "ok",
-     "value": "https://ssc.gov.in"
-    },
-    "sourceUrl": {
-     "state": "ok",
-     "value": "https://www.youtube.com/shorts/31KKuHjB-GQ"
-    },
-    "startDate": {
-     "state": "ok",
-     "value": "2026-11-12"
-    },
-    "state": {
-     "state": "ok",
-     "value": "सभी राज्य (केंद्रीय)"
-    },
-    "title": {
-     "state": "ok",
-     "value": "SSC GD कांस्टेबल PET/PST एडमिट कार्ड 2026 — शारीरिक परीक्षा 26 नवंबर से"
-    }
-   },
-   "id": "prep-ssc-gd-pet-pst-admit-card-2026",
-   "jobId": null,
-   "kind": "new_job",
-   "sourceSubmissionId": null,
-   "status": "ready",
-   "title": "SSC GD कांस्टेबल PET/PST एडमिट कार्ड 2026 — शारीरिक परीक्षा 26 नवंबर से",
-   "verifyNote": "YouTube वीडियो (SSC GD PET/PST ADMIT CARD OUT) + JagranJosh, FreeJobAlert, Testbook, CareerIndia, GovtJobGuru से cross-check — एडमिट कार्ड 12 Nov 2026 को जारी; PET/PST 26 Nov–11 Dec 2026 (CRPF कराएगा), ssc.gov.in / rect.crpf.gov.in से डाउनलोड करें (रजिस्ट्रेशन नंबर + जन्मतिथि/पासवर्ड से लॉगिन)। लिखित परीक्षा का रिज़ल्ट 12 Oct 2026 को आया था, 1,97,408 अभ्यर्थी शॉर्टलिस्ट। कमी: एडमिट कार्ड लॉगिन से डाउनलोड होता है, इसलिए सीधा PDF link नहीं है।"
-  },
-  {
-   "createdAt": "2026-11-12T18:55+05:30",
-   "createdBy": "LOYATI (hourly check)",
-   "fields": {
-    "age": {
-     "state": "ok",
-     "value": "20 – 30 वर्ष (01 Jan 2026 को)"
-    },
-    "applyUrl": {
-     "state": "ok",
-     "value": "https://ibpsreg.ibps.in/jkbvpocto26/"
-    },
-    "cat": {
-     "state": "ok",
-     "value": "job"
-    },
-    "examDate": {
-     "state": "missing",
-     "value": null
-    },
-    "feeGen": {
-     "state": "ok",
-     "value": "₹1,200"
-    },
-    "feeText": {
-     "state": "ok",
-     "value": "Gen/Others ₹1,200 · SC/ST/SEBC/PwBD ₹1,000 (GST अलग)"
-    },
-    "lastDate": {
-     "state": "ok",
-     "value": "2026-11-26"
-    },
-    "org": {
-     "state": "ok",
-     "value": "जम्मू और कश्मीर बैंक (J&K Bank)"
-    },
-    "pdfUrl": {
-     "state": "missing",
-     "value": null
-    },
-    "posts": {
-     "state": "ok",
-     "value": "323 पद"
-    },
-    "qual": {
-     "state": "ok",
-     "value": "Graduate (किसी भी विषय में) + J&K UT डोमिसाइल"
-    },
-    "salary": {
-     "state": "ok",
-     "value": "₹48,480/माह (मूल वेतन)"
-    },
-    "siteUrl": {
-     "state": "ok",
-     "value": "https://jkb.bank.in"
-    },
-    "sourceUrl": {
-     "state": "ok",
-     "value": "https://www.youtube.com/watch?v=kpHg7CGrMy8"
-    },
-    "startDate": {
-     "state": "ok",
-     "value": "2026-11-07"
-    },
-    "state": {
-     "state": "ok",
-     "value": "जम्मू और कश्मीर"
-    },
-    "title": {
-     "state": "ok",
-     "value": "J&K Bank प्रोबेशनरी ऑफिसर (PO) भर्ती 2026 — 323 पद (सिर्फ़ J&K डोमिसाइल)"
-    }
-   },
-   "id": "prep-jk-bank-po-2026",
-   "jobId": null,
-   "kind": "new_job",
-   "sourceSubmissionId": null,
-   "status": "ready",
-   "title": "J&K Bank प्रोबेशनरी ऑफिसर (PO) भर्ती 2026 — 323 पद (सिर्फ़ J&K डोमिसाइल)",
-   "verifyNote": "YouTube वीडियो (J&K Bank Recruitment 2026 | 1356 Vacancies | PO & Banking Associate) + FreeJobAlert, Examera, GovtJobDeck, RojgarLive, Kashmir Outlook से cross-check — नोटिस No. JKB/HR/Rectt/2026-492, 7 Nov 2026; 323 PO पद, आवेदन 7–26 Nov 2026; सिर्फ़ J&K UT डोमिसाइल वाले ही आवेदन कर सकते हैं (लद्दाख के लिए अलग 20 पदों का नोटिस है)। चयन: Prelims + Mains + Interview, परीक्षा IBPS लेगा; परीक्षा तारीख़ अभी घोषित नहीं। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला — jkb.bank.in से पुष्टि बाकी।"
-  },
-  {
-   "id": "prep-nlc-india-get-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "NLC India ग्रेजुएट एग्ज़ीक्यूटिव ट्रेनी (GET) भर्ती 2026 — 143 पद (GATE 2025 से)",
-   "fields": {
-    "title": {
-     "value": "NLC India ग्रेजुएट एग्ज़ीक्यूटिव ट्रेनी (GET) भर्ती 2026 — 143 पद (GATE 2025 से)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "एनएलसी इंडिया लिमिटेड (NLC India Limited)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "143 पद (मैकेनिकल, इलेक्ट्रिकल, सिविल, माइनिंग)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "Graduate",
-     "state": "ok"
-    },
-    "state": {
-     "value": "अखिल भारतीय",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-13",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-14",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": 854,
-     "state": "check"
-    },
-    "feeText": {
-     "value": "₹854 (SC/ST ₹354 — एक स्रोत से, पुष्टि बाकी)",
-     "state": "check"
-    },
-    "salary": {
-     "value": "ट्रेनिंग में ₹50,000 बेसिक (बाद में E-3 ग्रेड)",
-     "state": "ok"
-    },
-    "age": {
-     "value": null,
-     "state": "missing"
-    },
-    "applyUrl": {
-     "value": "https://www.nlcindia.in",
-     "state": "check"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.nlcindia.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.sarkariresult.app/nlc-india-get-recruitment-2026-out-apply-online-143-graduate-executive-trainee-posts/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "Testbook, sarkariresult.app, govtjobsalert, sahisarkarijobs और YouTube वीडियो ('Top 15 Latest Government Jobs 2026', IMS GATE Academy) से cross-check — Advt 10/2026, 143 पद, 13 Nov–14 Dec 2026, GATE 2025 + इंटरव्यू, सभी स्रोतों में एक जैसी। शुल्क ₹854/₹354 सिर्फ़ एक स्रोत से — पुष्टि बाकी। आयु-सीमा और official PDF link नहीं मिले — missing।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T19:53+05:30"
-  },
-  {
-   "id": "prep-bank-of-baroda-so-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "Bank of Baroda स्पेशलिस्ट ऑफिसर (SO) भर्ती 2026 — 837 पद (वेल्थ मैनेजमेंट सर्विसेज़, कॉन्ट्रैक्ट)",
-   "fields": {
-    "title": {
-     "value": "Bank of Baroda स्पेशलिस्ट ऑफिसर (SO) भर्ती 2026 — 837 पद (वेल्थ मैनेजमेंट सर्विसेज़, कॉन्ट्रैक्ट)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "बैंक ऑफ बड़ौदा (Bank of Baroda)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "837 पद (ग्रुप हेड, हेड इन्वेस्टमेंट, टेरिटरी हेड, इन्वेस्टमेंट प्रोडक्ट मैनेजर, सीनियर रिलेशनशिप मैनेजर)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "Graduate",
-     "state": "ok"
-    },
-    "state": {
-     "value": "अखिल भारतीय",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-04",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-24",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "₹48,480 (एक YouTube वीडियो से)",
-     "state": "check"
-    },
-    "age": {
-     "value": "24 – 50 वर्ष",
-     "state": "check"
-    },
-    "applyUrl": {
-     "value": "https://bankofbaroda.bank.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.bankofbaroda.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://testbook.com/news/bank-of-baroda-so-notification-2026-out/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "Testbook, 9curry, mahanmk और YouTube वीडियो से cross-check — Advt BOB/HRM/REC/ADVT/2026/20, 837 पद, 4–24 Nov 2026, सभी स्रोतों में एक जैसी। वेतन ₹48,480 और आयु 24–50 सिर्फ़ एक-एक स्रोत से — पुष्टि बाकी। शुल्क, परीक्षा तिथि और official PDF link नहीं मिले — missing। यह भर्ती कॉन्ट्रैक्ट आधार पर है, स्थायी नौकरी नहीं।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T19:53+05:30"
-  },
-  {
-   "id": "prep-cwc-am-je-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC) असिस्टेंट मैनेजर व जूनियर एग्ज़ीक्यूटिव भर्ती 2026 — 327 पद",
-   "fields": {
-    "title": {
-     "value": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC) असिस्टेंट मैनेजर व जूनियर एग्ज़ीक्यूटिव भर्ती 2026 — 327 पद",
-     "state": "ok"
-    },
-    "org": {
-     "value": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "327 पद (असिस्टेंट मैनेजर 171 + जूनियर एग्ज़ीक्यूटिव 156)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "Graduate",
-     "state": "ok"
-    },
-    "state": {
-     "value": "अखिल भारतीय",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-17",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-15",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "असिस्टेंट मैनेजर ₹40,000–₹1,40,000; जूनियर एग्ज़ीक्यूटिव ₹29,000–₹93,000",
-     "state": "ok"
-    },
-    "age": {
-     "value": "18 – 28 वर्ष (15 नवंबर 2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://www.cewacor.nic.in",
-     "state": "check"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.cewacor.nic.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/cwc-recruitment-2026-apply-online-for-327-assistant-manager-junior-executive-posts-3074247",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "FreeJobAlert, govtjobsalert, jobshouter, jobslokam और YouTube वीडियो से cross-check — Advt CWC/I-Manpower/DR/Rectt/2026/01, 327 पद, 17 Oct–15 Nov 2026, सभी स्रोतों में एक जैसी। AM (Finance) के लिए 27 Oct के अपडेट से अनुभव-शर्त में छूट — विस्तृत नोटिस से पुष्टि बाकी। शुल्क और official PDF link नहीं मिले — missing। अंतिम तिथि 15 Nov — सिर्फ़ 3 दिन बाकी।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T19:53+05:30"
-  },
-  {
-   "id": "prep-bel-probationary-engineer-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) प्रोबेशनरी इंजीनियर भर्ती 2026 — 350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
-   "fields": {
-    "title": {
-     "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) प्रोबेशनरी इंजीनियर भर्ती 2026 — 350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "Graduate",
-     "state": "ok"
-    },
-    "state": {
-     "value": "अखिल भारतीय",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-10-28",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-18",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": "2026-12-22",
-     "state": "check"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "₹40,000–₹1,40,000 (लगभग ₹13 लाख CTC सालाना)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "अधिकतम 25 वर्ष (UR/EWS, 1 अक्टूबर 2026 को)",
-     "state": "check"
-    },
-    "applyUrl": {
-     "value": "https://www.bel-india.in",
-     "state": "check"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://www.bel-india.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.karmasandhan.com/bel-probationary-engineer-recruitment/",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "Karmasandhan, examneed, govtjobalerts और YouTube वीडियो से cross-check — Advt 17556/HR/All-India/2026, 350 पद, 28 Oct–18 Nov 2026, CBT 22 Dec 2026 (tentative), सभी स्रोतों में एक जैसी। आयु-सीमा 25 वर्ष एक YouTube वीडियो से — पुष्टि बाकी। शुल्क और official PDF link नहीं मिले — missing।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T19:53+05:30"
-  },
-  {
-   "id": "prep-nicl-graduate-apprentice-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "NICL ग्रेजुएट अप्रेंटिस भर्ती 2026-27 — 200 सीटें (NATS, 14 राज्य)",
-   "fields": {
-    "title": {
-     "value": "NICL ग्रेजुएट अप्रेंटिस भर्ती 2026-27 — 200 सीटें (NATS, 14 राज्य)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "नेशनल इंश्योरेंस कंपनी लिमिटेड (NICL)",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "200 सीटें (14 राज्यों में, अस्थायी)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "Graduate",
-     "state": "ok"
-    },
-    "state": {
-     "value": "अखिल भारतीय (14 राज्य)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-04",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-11-18",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeText": {
-     "value": null,
-     "state": "missing"
-    },
-    "salary": {
-     "value": "स्टाइपेंड ₹15,000 प्रति माह (12 महीने)",
-     "state": "ok"
-    },
-    "age": {
-     "value": "21 – 30 वर्ष (1 अप्रैल 2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://nats.education.gov.in",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": null,
-     "state": "missing"
-    },
-    "siteUrl": {
-     "value": "https://nationalinsurance.nic.co.in",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.freejobalert.com/articles/nicl-graduate-apprentices-recruitment-2026-3078567",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "FreeJobAlert, Karmasandhan, govtjobsalert, jobshouter और YouTube वीडियो ('NICL Recruitment 2026 | 200 Apprentice Posts') से cross-check — 4 Nov 2026 नोटिस, 200 सीटें, 4–18 Nov 2026, स्टाइपेंड ₹15,000, सभी स्रोतों में एक जैसी। यह अप्रेंटिसशिप है, स्थायी नौकरी नहीं — कोई परीक्षा नहीं, स्नातक अंकों की मेरिट से चयन। शुल्क का उल्लेख नहीं मिला — missing। एक राज्य के लिए ही आवेदन।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-12T19:53+05:30"
-  }
- ],
- "submissions": [],
- "updatedAt": "2026-11-12T19:53+05:30",
- "version": 1
+  ],
+  "submissions": [],
+  "updatedAt": "2026-11-12T20:50+05:30",
+  "version": 1
 }
