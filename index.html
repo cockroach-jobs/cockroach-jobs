@@ -293,7 +293,11 @@
         html{scroll-behavior:auto}
         .bar i{transition:none}
       }
-    </style>
+          /* ---------- Sangstha logo ---------- */
+      .orglogo{position:relative;width:36px;height:36px;border-radius:10px;overflow:hidden;flex:none;border:1px solid #dbe4f0;background:#fff;display:inline-block;vertical-align:middle}
+      .orglogo .oglb{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:.56rem;letter-spacing:.02em;text-align:center;padding:2px;line-height:1.15}
+      .orglogo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:3px;background:#fff}
+</style>
   </head>
   <body>
 
@@ -585,6 +589,46 @@
         if(!url) return '<a href="#" onclick="return false" style="opacity:.55">' + label + ' <span class="ext">जल्द आएगा</span></a>';
         return '<a href="' + url + '" target="_blank" rel="noopener">' + label + ' <span class="ext">' + tag + '</span></a>';
       }
+      /* ============ SANGSTHA LOGO (aayog/sanstha ki pehchan) ============ */
+      var ORGLOGOS = [
+        { keys:["UPSSSC"], code:"UPSSSC", color:"#0F766E", url:null },
+        { keys:["OUSSSC","ओडिशा"], code:"OUSSSC", color:"#065F46", url:null },
+        { keys:["UPESSC","शिक्षा सेवा चयन"], code:"UPESSC", color:"#6D28D9", url:null },
+        { keys:["DSSSB","दिल्ली अधीनस्थ"], code:"DSSSB", color:"#1E40AF", url:null },
+        { keys:["SSC","कर्मचारी चयन आयोग"], code:"SSC", color:"#B91C1C", url:"https://en.wikipedia.org/wiki/Special:FilePath/Staff%20Selection%20Commission.webp?width=120" },
+        { keys:["रेलवे","Railway","RRC","RRB"], code:"रेलवे", color:"#991B1B", url:"https://en.wikipedia.org/wiki/Special:FilePath/Indian%20Railways.svg?width=120" },
+        { keys:["वायु सेना","AFCAT","Air Force"], code:"IAF", color:"#0369A1", url:"https://commons.wikimedia.org/wiki/Special:FilePath/IAF%20Emblem.svg?width=120" },
+        { keys:["UPSC","संघ लोक सेवा"], code:"UPSC", color:"#7C2D12", url:null },
+        { keys:["UPPSC","उत्तर प्रदेश लोक सेवा"], code:"UPPSC", color:"#854D0E", url:null },
+        { keys:["RPSC","राजस्थान लोक सेवा"], code:"RPSC", color:"#9D174D", url:null },
+        { keys:["APPSC","आंध्र प्रदेश लोक सेवा"], code:"APPSC", color:"#0E7490", url:null },
+        { keys:["BCECEB"], code:"BCECEB", color:"#7C3AED", url:null },
+        { keys:["ONGC"], code:"ONGC", color:"#7C2D12", url:null },
+        { keys:["BSF","सीमा सुरक्षा"], code:"BSF", color:"#44403C", url:null },
+        { keys:["AFMS","सशस्त्र बल चिकित्सा"], code:"AFMS", color:"#166534", url:null },
+        { keys:["IBPS","बैंकिंग कार्मिक"], code:"IBPS", color:"#155E75", url:null },
+        { keys:["सेना","Army","अग्निवीर"], code:"सेना", color:"#3F6212", url:null },
+        { keys:["पुलिस","Police"], code:"पुलिस", color:"#1E3A8A", url:null }
+      ];
+      function logoFor(j){
+        var s = (j.org || "") + " " + (j.title || "");
+        for(var i=0;i<ORGLOGOS.length;i++){
+          var L = ORGLOGOS[i];
+          for(var k=0;k<L.keys.length;k++){ if(s.indexOf(L.keys[k]) !== -1) return L; }
+        }
+        return null;
+      }
+      function logoHTML(j){
+        var L = logoFor(j);
+        var code = "सरकारी";
+        var m = /\(([A-Za-z][A-Za-z ]{1,9})\)/.exec(j.org || "");
+        if(m) code = m[1].trim().split(" ")[0];
+        else if(L) code = L.code;
+        var color = L ? L.color : "#0B3C8A";
+        var img = (L && L.url) ? '<img src="' + L.url + '" alt="" loading="lazy" onerror="this.remove()">' : '';
+        return '<span class="orglogo" title="' + j.org + '"><span class="oglb" style="background:' + color + '">' + code + '</span>' + img + '</span>';
+      }
+
       function normalizeJob(j){
         if(j.cat === "admit_card") j.cat = "admit";
         j.startDate = parseD(j.startDate);
@@ -653,7 +697,7 @@
         var isSaved = !!state.saved[j.id];
         var mainBtn = j.cat==="result" ? "Result देखो" : (j.cat==="admit" ? "Admit Card निकालो" : "Apply करो");
         return '<article class="card">'
-          + '<div class="toprow"><span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
+          + '<div class="toprow">' + logoHTML(j) + '<span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
           + sampleTag()
           + (j.isNew?'<span class="newtag">नया</span>':'')
           + daysPill(j)+'</div>'
@@ -770,7 +814,7 @@
         var docs = j.docs.map(function(s){ return "<li>"+iconCheck()+s+"</li>"; }).join("");
         $("detailBody").innerHTML =
           '<div class="detail-head">'
-          + '<div class="toprow" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
+          + '<div class="toprow" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">' + logoHTML(j) + '<span class="badge '+j.cat+'">'+CATNAME[j.cat]+'</span>'
           + sampleTag()+(j.isNew?'<span class="newtag">नया</span>':'')+daysPill(j)+'</div>'
           + '<h1>'+j.title+'</h1><div class="org muted">'+j.org+' · '+j.state+'</div>'
           + '<div class="facts" style="margin-top:14px">'
