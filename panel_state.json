@@ -1294,9 +1294,414 @@
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T15:50+05:30",
    "verifyNote": "PNB ने 11 Nov 2026 को LBO लिखित परीक्षा (6 Sep 2026) का रिजल्ट जारी किया — 545 पदों के लिए 594 अभ्यर्थी state-wise सूची में पास, अब LLPT (जहाँ लागू हो) व इंटरव्यू होगा, जिनकी तारीख़ें अभी घोषित नहीं। Karmasandhan, FreeJobAlert व SarkariResult.app से cross-check — सब में 11 Nov 2026, 594 पास ही है। कमी: रिजल्ट PDF का सीधा link नहीं मिला (pnb.bank.in के Recruitments पेज पर है)।"
+  },
+  {
+   "id": "prep-hprca-teacher-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "HPRCA PGT शिक्षक भर्ती 2026 (विज्ञापन 14/2026) — 2,423 पद, CBSE स्कूल",
+   "fields": {
+    "title": {
+     "value": "HPRCA PGT शिक्षक भर्ती 2026 (विज्ञापन 14/2026) — 2,423 पद, CBSE स्कूल",
+     "state": "ok"
+    },
+    "org": {
+     "value": "हिमाचल प्रदेश राज्य चयन आयोग (HPRCA), हमीरपुर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "2,423 पद (15 विषय; पद tentative — नोटिस में कुल संख्या नहीं छपी, विषयवार जोड़ है)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातकोत्तर (Master's) + B.Ed + TET",
+     "state": "ok"
+    },
+    "state": {
+     "value": "हिमाचल प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-10",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-05",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹— (पुष्टि बाकी)",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "एक स्रोत में कोई शुल्क नहीं, दूसरे में परीक्षा/प्रोसेसिंग शुल्क का ज़िक्र — आधिकारिक नोटिस देखकर भरें",
+     "state": "check"
+    },
+    "salary": {
+     "value": "₹30,000 / माह (fixed honorarium, साल में 10 महीने; 5 साल की scheme-based अस्थायी नियुक्ति, नियमित पद नहीं)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 45 वर्ष (1 जनवरी 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://hprca.hp.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://hprca.hp.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=ynlD83i5oIE",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T16:48+05:30",
+   "verifyNote": "YouTube वीडियो (Rohit Mahajan Sir — HPRCA CBSE Teacher Vacancy 2026, 2423 पद, last date 5 Dec 2026) + Testbook, FreeJobAlert, 9curry, GovtJobsAlert से cross-check — Advt 14/2026 (2 Nov 2026), 2,423 पद (15 विषय, पदों का जोड़; नोटिस में कुल संख्या नहीं छपी, पद tentative), आवेदन 10 Nov – 5 Dec 2026 (रात 11:59), आयु 18–45 (1 Jan 2026 को), योग्यता Master's + B.Ed + TET, मानदेय ₹30,000/माह (साल में 10 महीने)। ध्यान दें: यह नियमित सरकारी नौकरी नहीं — 5 साल की scheme-based अस्थायी नियुक्ति है, regularisation का अधिकार नहीं। कमी: शुल्क पर स्रोतों में मतभेद (एक में कोई शुल्क नहीं, दूसरे में परीक्षा शुल्क का ज़िक्र) और आधिकारिक notification PDF का सीधा link नहीं मिला — hprca.hp.gov.in से पुष्टि बाकी।"
+  },
+  {
+   "id": "prep-jshps-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "JSHPS भर्ती 2026 — 637 पद (ब्लॉक प्रोग्राम मैनेजर, DEO व अन्य)",
+   "fields": {
+    "title": {
+     "value": "JSHPS भर्ती 2026 — 637 पद (ब्लॉक प्रोग्राम मैनेजर, DEO व अन्य)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "झारखंड राज्य बागवानी संवर्धन सोसाइटी (JSHPS), कृषि निदेशालय, झारखंड सरकार",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "637 पद (264 Block Program Manager, 290 Assistant-cum-DEO, 24 District Program Manager व अन्य)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक (Graduate) — पद के अनुसार (DEO: Graduation + ADCA/BCA/B.Sc IT + 2 साल अनुभव)",
+     "state": "check"
+    },
+    "state": {
+     "value": "झारखंड",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-04",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/BC/EWS ₹500 · झारखंड SC/ST ₹300 · पात्र PH — शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹20,000 – ₹1,00,000 / माह (पद के अनुसार; DEO ₹20,000–₹25,000)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "21 – 50 वर्ष (पद के अनुसार; गिनती 4 दिसंबर 2026 को)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://recruitment.jharkhand.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://recruitment.jharkhand.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/jshps-recruitment-2026-apply-online-for-637-assistant-deo-and-more-posts-3077868",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T16:48+05:30",
+   "verifyNote": "FreeJobAlert, Karmasandhan, GovtJobsAlert, Careers360 व GovtJobsAI से cross-check — Advt 01/2026, 637 संविदा पद (264 Block Program Manager, 290 Assistant-cum-DEO, 24 District Program Manager व अन्य), ऑनलाइन आवेदन 4 Nov – 4 Dec 2026 (दोपहर 3 बजे), hard copy 14 Dec 2026 शाम 5 बजे तक राँची पहुँचनी है — सिर्फ़ ऑनलाइन भरना काफी नहीं। फ़ीस ₹500/₹300, वेतन ₹20,000–₹1,00,000/माह। यह 1 साल की संविदा नियुक्ति है (सालाना नवीकरण)। YouTube वीडियो इस भर्ती का नहीं मिला — स्रोत लेख से cross-check हुआ। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला; परीक्षा तारीख़ अभी घोषित नहीं (जनवरी 2027 में होने की बात)।"
+  },
+  {
+   "id": "prep-mmrcl-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "मुंबई मेट्रो रेल (MMRCL) भर्ती 2026 (विज्ञापन 04/2026) — 35 पद (GM से JE तक)",
+   "fields": {
+    "title": {
+     "value": "मुंबई मेट्रो रेल (MMRCL) भर्ती 2026 (विज्ञापन 04/2026) — 35 पद (GM से JE तक)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "मुंबई मेट्रो रेल कॉर्पोरेशन लिमिटेड (MMRCL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "35 पद (22 भूमिकाएँ — GM, DGM, AGM, Deputy Engineer, AE, JM, JE आदि)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "पद के अनुसार — BE/BTech, Diploma, MBA आदि + अनुभव ज़रूरी",
+     "state": "check"
+    },
+    "state": {
+     "value": "महाराष्ट्र",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-31",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0 (कोई शुल्क नहीं)",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "एक स्रोत के अनुसार कोई शुल्क नहीं — आधिकारिक विज्ञापन से पुष्टि बाकी",
+     "state": "check"
+    },
+    "salary": {
+     "value": "₹35,280 – ₹2,80,000 / माह (पद के अनुसार, IDA pay scale)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "पद के अनुसार (गिनती 1 अक्टूबर 2026 को)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://recruitment.mmrcl.com",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://recruitment.mmrcl.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/mmrcl-recruitment-2026-notification-out/",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T16:48+05:30",
+   "verifyNote": "Testbook, FreeJobAlert, Karmasandhan, GovtJobsAlert, PW.live से cross-check — Advt 04/2026 (31 Oct 2026), 35 पद, आवेदन 31 Oct – 30 Nov 2026 (रात 11:59), portal recruitment.mmrcl.com; नियमित/5-साल संविदा/प्रतिनियुक्ति — पद के अनुसार; चयन इंटरव्यू से, लिखित परीक्षा का ज़िक्र नहीं। नोट: post-wise आँकड़े 36 जोड़ते हैं जबकि विज्ञापन में कुल 35 लिखा है — आधिकारिक तालिका ही मान्य। YouTube वीडियो नहीं मिला। कमी: शुल्क (₹0 बताया गया, पुष्टि बाकी), पद-wise योग्यता/आयु व notification PDF का सीधा link।"
+  },
+  {
+   "id": "prep-nia-deputation-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "NIA ASI, हेड कांस्टेबल व DEO भर्ती 2026 — 111 पद (प्रतिनियुक्ति, सिर्फ़ सेवारत कर्मचारी)",
+   "fields": {
+    "title": {
+     "value": "NIA ASI, हेड कांस्टेबल व DEO भर्ती 2026 — 111 पद (प्रतिनियुक्ति, सिर्फ़ सेवारत कर्मचारी)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "राष्ट्रीय अन्वेषण अभिकरण (NIA), गृह मंत्रालय",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "111 पद (ASI 23, हेड कांस्टेबल 53, DEO 35)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "पद के अनुसार — Graduation (ASI) / 12वीं (HC) / IT 'O'/'A' level (DEO) + सेवारत सरकारी कर्मचारी होना ज़रूरी (प्रतिनियुक्ति)",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-21",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-20",
+     "state": "check"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "ASI/DEO Level-5 ₹29,200–₹92,300 · HC Level-4 ₹25,500–₹81,700 (+ 20% SSA)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 56 वर्ष (अंतिम तारीख़ को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://nia.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/nia-recruitment-2026-apply-offline-for-111-deo-asi-head-constable-posts-3075579",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T16:48+05:30",
+   "verifyNote": "FreeJobAlert, CareerAlert24, RojgarPulse, Karmasandhan, GovtJobe से cross-check — Notice E-96/001/Depu-ASI&HC/NIA/2026/12943 (21 Oct 2026), 111 पद प्रतिनियुक्ति पर; सिर्फ़ सेवारत सरकारी कर्मचारी (analogous पद) आवेदन कर सकते हैं — freshers/12वीं पास सीधे नहीं। आवेदन ऑफ़लाइन, डाक से proper channel द्वारा DIG (Adm), NIA HQ, नई दिल्ली — 20 Dec 2026 तक पहुँचना है। आख़िरी तारीख़ Employment News प्रकाशन से 60 दिन पर आधारित है (सभी स्रोतों में 20 Dec 2026) — इसलिए 'check' रखा है, nia.gov.in/recruitment-notice.htm से पुष्टि करें। YouTube वीडियो नहीं मिला। कमी: notification PDF का सीधा link नहीं मिला; आवेदन शुल्क का ज़िक्र नहीं।"
+  },
+  {
+   "id": "prep-tnpdcl-diploma-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "TNPDCL डिप्लोमा (टेक्नीशियन) अप्रेंटिस भर्ती 2026-27 — 500 सीटें",
+   "fields": {
+    "title": {
+     "value": "TNPDCL डिप्लोमा (टेक्नीशियन) अप्रेंटिस भर्ती 2026-27 — 500 सीटें",
+     "state": "ok"
+    },
+    "org": {
+     "value": "तमिलनाडु पावर डिस्ट्रीब्यूशन कॉर्पोरेशन लिमिटेड (TNPDCL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "500 सीटें (EEE 455, ECE 35, Computer/IT 10)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Diploma (Engineering/Technology, full-time; 2022–2025 या मई 2026 में पास, सिर्फ़ तमिलनाडु के निवासी)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "तमिलनाडु",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-28",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-28",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹10,900 / माह (स्टाइपेंड, 1 साल की ट्रेनिंग)",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://nats.education.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://nats.education.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=vIcGKRLgu4A",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T16:48+05:30",
+   "verifyNote": "YouTube वीडियो (TNPSC/TNPDCL जॉब राउंडअप — TNPDCL 500 सीटें, स्टाइपेंड ₹10,900, last date 28.11.2026) + Testbook, FreeJobAlert, CareerAlert24, ExamNeed से cross-check — TNPDCL (पहले TNEB) की 2026-27 Apprenticeship, 500 Diploma (Technician) Apprentice (EEE 455, ECE 35, Computer/IT 10), NATS पोर्टल पर आवेदन 28 Oct – 28 Nov 2026, स्टाइपेंड ₹10,900/माह, 1 साल ट्रेनिंग; चयन diploma अंकों से, कोई परीक्षा नहीं; सिर्फ़ तमिलनाडु के निवासी, 2022–2025 या मई 2026 में diploma पास, B.E./B.Tech वाले पात्र नहीं। यह स्थायी नौकरी नहीं है। कमी: आवेदन शुल्क व आयु सीमा का ज़िक्र नहीं मिला; आधिकारिक notification PDF का सीधा link नहीं मिला (NATS पोर्टल के BOAT-SR सेक्शन में है)।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T15:50+05:30",
+ "updatedAt": "2026-11-12T16:48+05:30",
  "version": 1
 }
