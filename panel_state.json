@@ -889,9 +889,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T14:48+05:30"
+  },
+  {
+   "id": "prep-osssc-ophthalmic-officer-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "OSSSC Ophthalmic Officer भर्ती 2026 — 238 पद (विज्ञापन सं. IIE-103/2026-3282/OSSSC)",
+   "fields": {
+    "title": {
+     "value": "OSSSC Ophthalmic Officer भर्ती 2026 — 238 पद (विज्ञापन सं. IIE-103/2026-3282/OSSSC)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "ओडिशा अधीनस्थ कर्मचारी चयन आयोग (OSSSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "238 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "2-वर्षीय Ophthalmic Assistant / Surgical Assistant प्रशिक्षण + Ophthalmic Officers' Council, Odisha में पंजीकरण (केवल +2 Science पर्याप्त नहीं)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "ओडिशा",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-05",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-05",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "Gen/OBC ₹500 · SC/ST/PwD — शुल्क नहीं",
+     "state": "check"
+    },
+    "salary": {
+     "value": "₹25,500–81,100 (Level-7)",
+     "state": "check"
+    },
+    "age": {
+     "value": "21 – 42 वर्ष (गिनती 05.11.2026 को)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://www.osssc.gov.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.osssc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/osssc-ophthalmic-officer-recruitment-2026-3077557",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T15:50+05:30",
+   "verifyNote": "विज्ञापन सं. IIE-103/2026-3282/OSSSC, 5 Nov 2026 — 238 District Cadre Group-C पद, 29 ज़िलों में। FreeJobAlert, Karmasandhan, TheJobsMe, Smart Optometry Academy व YouTube वीडियो से cross-check — सब में 238 पद, 5 Nov–5 Dec ही है। ध्यान दें: पंजीकरण/पुनः-पंजीकरण की आख़िरी तारीख़ 29 Nov 2026 है, अंतिम आवेदन 5 Dec 2026 — card में 5 Dec ही last date ली है। कमी: आधिकारिक PDF का सीधा link नहीं मिला; फ़ीस, वेतन व उम्र एक-एक स्रोत से हैं, पुष्टि बाकी। परीक्षा की तारीख़ अभी घोषित नहीं।"
+  },
+  {
+   "id": "prep-gsssb-cce-2-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "GSSSB CCE 2.0 भर्ती 2026 — 1,237 Class-3 पद (विज्ञापन सं. 468/2026-27)",
+   "fields": {
+    "title": {
+     "value": "GSSSB CCE 2.0 भर्ती 2026 — 1,237 Class-3 पद (विज्ञापन सं. 468/2026-27)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "गुजरात अधीनस्थ सेवा चयन बोर्ड (GSSSB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1,237 पद (Group-A 243 + Group-B 994 Junior Clerk)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "किसी भी विषय में स्नातक (Bachelor's Degree) + कंप्यूटर का बुनियादी ज्ञान",
+     "state": "ok"
+    },
+    "state": {
+     "value": "गुजरात",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-05",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹400–₹500",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "₹400–₹500 (श्रेणी अनुसार; फ़ीस भुगतान की आख़िरी तारीख़ 2 Dec 2026)",
+     "state": "check"
+    },
+    "salary": {
+     "value": "Group-A ₹49,600 · Group-B ₹26,000 (कुछ पदों की शुरुआती fixed pay, पद अनुसार अलग)",
+     "state": "check"
+    },
+    "age": {
+     "value": "20 – 35 वर्ष (गिनती 30.11.2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://ojas.gujarat.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://gsssb.gujarat.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/gsssb-cce-2-0-recruitment/",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T15:50+05:30",
+   "verifyNote": "विज्ञापन सं. 468/2026-27, 3 Nov 2026 — Karmasandhan, MaruGujarat, JagranJosh, Careers360, Testbook व SarkariNetwork से cross-check — सब में 1,237 पद, 5–30 Nov 2026 ही है। ध्यान दें: 28–29 Nov 2026 की Group-A मुख्य परीक्षा पुराने विज्ञापन 378/2025-26 की है, इस भर्ती की नहीं — इसलिए examDate खाली रखा है। कमी: आधिकारिक PDF का सीधा link नहीं मिला; फ़ीस व वेतन की पुष्टि बाकी।"
+  },
+  {
+   "id": "prep-jkssb-mts-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "JKSSB Class-IV (MTS) व Sanitation Worker भर्ती 2026 — 2,863 पद (विज्ञापन सं. 09/2026)",
+   "fields": {
+    "title": {
+     "value": "JKSSB Class-IV (MTS) व Sanitation Worker भर्ती 2026 — 2,863 पद (विज्ञापन सं. 09/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "जम्मू-कश्मीर सेवा चयन बोर्ड (JKSSB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "2,863 पद (MTS 2,697 + Sanitation Worker 166)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MTS: कम से कम 10वीं · Sanitation Worker: कम से कम 8वीं · अधिकतम 10+2 (इससे ज़्यादा योग्यता वाले पात्र नहीं)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "जम्मू-कश्मीर (केवल J&K domicile)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-14",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-27",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://jkssb.nic.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://jkssb.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/jkssb-class-iv-recruitment-2026-apply-online-for-2863-mts-sanitation-worker-posts-3065802",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T15:50+05:30",
+   "verifyNote": "विज्ञापन सं. 09/2026, 1 Sep 2026 — FreeJobAlert, GovtJobsAlert व SarkariNetwork से cross-check। तारीख़ बढ़ी है: पहले आख़िरी तारीख़ 12 Nov 2026 थी, 11 Nov 2026 के notice से बढ़कर 27 Nov 2026 हुई — card में बढ़ी हुई नई तारीख़ ही ली है। कमी: फ़ीस, वेतन, उम्र व आधिकारिक PDF का सीधा link नहीं मिला; परीक्षा की तारीख़ अभी घोषित नहीं।"
+  },
+  {
+   "id": "prep-gspcb-goa-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) भर्ती 2026 — 8 पद (विज्ञापन सं. 01/2026)",
+   "fields": {
+    "title": {
+     "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) भर्ती 2026 — 8 पद (विज्ञापन सं. 01/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB), सालिगाओ",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "8 पद (Scientific Assistant Microbiology, Scientific Assistant, Laboratory Attendant, MTS)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "पद अनुसार अलग — विस्तृत योग्यता आधिकारिक नोटिफ़िकेशन में देखें",
+     "state": "check"
+    },
+    "state": {
+     "value": "गोवा (केवल गोवा निवास — 15 वर्ष का residence certificate)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://cbes.goa.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.goaspcb.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/gspcb-recruitment-2026-mts-scientific-assistant-laboratory-attendant-3079514",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T15:50+05:30",
+   "verifyNote": "विज्ञापन सं. 01/2026, 6 Nov 2026 — FreeJobAlert, Karmasandhan, BoldVoices व GovNokri से cross-check — सब में 8 पद, 11–30 Nov 2026 ही है। ध्यान दें: Laboratory Attendant पद का portal तकनीकी दिक्कत से 11 Nov को live नहीं हुआ (FreeJobAlert update, 11 Nov) — उस पद की तारीख़ बाद में बताई जाएगी। कमी: पद-वार योग्यता, फ़ीस, वेतन, उम्र व आधिकारिक PDF का सीधा link नहीं मिला।"
+  },
+  {
+   "id": "prep-pnb-lbo-result-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "PNB Local Bank Officer (LBO) रिजल्ट 2026 घोषित — 594 अभ्यर्थी लिखित परीक्षा में पास",
+   "fields": {
+    "title": {
+     "value": "PNB Local Bank Officer (LBO) रिजल्ट 2026 घोषित — 594 अभ्यर्थी लिखित परीक्षा में पास",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पंजाब नेशनल बैंक (PNB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "545 पद (LBO, JMGS Scale-I) — लिखित परीक्षा में 594 अभ्यर्थी पास",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक (Graduate)",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-09-06",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://pnb.bank.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/pnb-lbo-result/",
+     "state": "ok"
+    }
+   },
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T15:50+05:30",
+   "verifyNote": "PNB ने 11 Nov 2026 को LBO लिखित परीक्षा (6 Sep 2026) का रिजल्ट जारी किया — 545 पदों के लिए 594 अभ्यर्थी state-wise सूची में पास, अब LLPT (जहाँ लागू हो) व इंटरव्यू होगा, जिनकी तारीख़ें अभी घोषित नहीं। Karmasandhan, FreeJobAlert व SarkariResult.app से cross-check — सब में 11 Nov 2026, 594 पास ही है। कमी: रिजल्ट PDF का सीधा link नहीं मिला (pnb.bank.in के Recruitments पेज पर है)।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T14:48+05:30",
+ "updatedAt": "2026-11-12T15:50+05:30",
  "version": 1
 }
