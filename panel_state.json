@@ -3724,9 +3724,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T21:49+05:30"
+  },
+  {
+   "id": "prep-sci-court-assistant-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "सुप्रीम कोर्ट कोर्ट असिस्टेंट (टेक्निकल असिस्टेंट-कम-प्रोग्रामर) भर्ती 2026 — 15 पद (विज्ञापन F.6/2026/Tech.Post/SC(RC))",
+   "fields": {
+    "title": {
+     "value": "सुप्रीम कोर्ट कोर्ट असिस्टेंट (टेक्निकल असिस्टेंट-कम-प्रोग्रामर) भर्ती 2026 — 15 पद (विज्ञापन F.6/2026/Tech.Post/SC(RC))",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारत का सर्वोच्च न्यायालय (Supreme Court of India)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "15 पद (tentative)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech (CS/IT) या MCA/M.Sc (CS) + 3 साल software development अनुभव; या B.Sc (CS)/BCA (60%) + 4 साल अनुभव (Law degree वरीयता)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-24",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-22",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": "₹1,500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen ₹1,500 · SC/ST/OBC (NCL)/Ex-SM/PwBD ₹750 (UCO Bank gateway, bank charges अलग)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level 7 — ₹44,900 – ₹1,42,400 (शुरुआती basic ₹44,900 + भत्ते)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 35 वर्ष (01.10.2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.sci.gov.in/recruitments/",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.sci.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://teztak.in/supreme-court-court-assistant-recruitment-2026",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (Supreme Court Recruitment 2026 — 80 Vacancies, Court Assistant & Senior PA) + TezTak (पूरा पेज पढ़ा), CareerBox, GovtJobsAlert, Certifica, BoldVoices, MaruGujarat से cross-check — सब में 15 पद, 3–24 Nov 2026, Level 7 ₹44,900 ही है। ध्यान दें: Senior PA 65 पद की last date 10 Nov को बीत चुकी, JCA 250 की 28 Oct को — इसलिए वे नहीं लिए; सिर्फ़ Court Assistant (Programmer) लिया है। कमी: official PDF का सीधा link नहीं मिला (sci.gov.in पर है); apply link Digialm portal पर है, पुष्टि बाकी। परीक्षा 22 Dec 2026 tentative है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T22:52+05:30"
+  },
+  {
+   "id": "prep-aees-teacher-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "AEES शिक्षक भर्ती 2026 — 254 पद (Principal, PGT, TGT, PRT व अन्य; विज्ञापन 01/2026)",
+   "fields": {
+    "title": {
+     "value": "AEES शिक्षक भर्ती 2026 — 254 पद (Principal, PGT, TGT, PRT व अन्य; विज्ञापन 01/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "परमाणु ऊर्जा शिक्षा सोसाइटी (AEES), परमाणु ऊर्जा विभाग",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "254 पद (Principal 4, Vice-Principal 1, PGT 27, TGT 102, Librarian 13, PRT 89, PRT Music 10, Balvatika 8)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "पद अनुसार — PGT: PG (50%) + B.Ed; TGT: स्नातक (50%) + B.Ed + CTET Paper-II; PRT: 12वीं (50%) + D.El.Ed/B.El.Ed + CTET Paper-I; Librarian: B.Lib (50%)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय — 15 केंद्रों के स्कूल)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-22",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹1,000",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "अन्य ₹1,000 (₹750 शुल्क + ₹250 processing) · महिला/SC/ST/PwBD/Ex-SM ₹250 (सिर्फ़ processing)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level 6–12 — ₹35,400 – ₹2,09,200 (पद अनुसार; PRT ₹35,400, PGT ₹47,600, Principal ₹78,800 से शुरू)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 50 वर्ष (पद अनुसार: PRT 30 तक, TGT/Librarian 35 तक, PGT 40 तक, Principal 35–50; गिनती 22.11.2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://aees.onlineregistrationforms.com",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://aees.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://teztak.in/aees-recruitment-2026",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "TezTak (पूरा पेज पढ़ा — fee, age, pay, vacancy table) + UdyogAlert, Jnanaloka, JobsLogin, Testbook, JobSearchKing से cross-check — सब में 254 पद, 2–22 Nov 2026 (रात 11:50) ही है। चयन CBT (no negative marking) + Skill Test/Interview; CBT की तारीख़ अभी घोषित नहीं। कमी: official PDF का सीधा link नहीं मिला (aees.gov.in पर है); विज्ञापन की तारीख़ पर स्रोतों में मतभेद (27 बनाम 29 Oct) — इसलिए तारीख़ card में नहीं डाली।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T22:52+05:30"
+  },
+  {
+   "id": "prep-136-ta-eco-mahar-rally-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "136 इन्फैंट्री बटालियन (TA) इको महार भर्ती रैली 2026 — 62 पद (Soldier GD व ट्रेड्समैन; सिर्फ़ भूतपूर्व सैनिक)",
+   "fields": {
+    "title": {
+     "value": "136 इन्फैंट्री बटालियन (TA) इको महार भर्ती रैली 2026 — 62 पद (Soldier GD व ट्रेड्समैन; सिर्फ़ भूतपूर्व सैनिक)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "136 इन्फैंट्री बटालियन (टेरिटोरियल आर्मी) इकोलॉजिकल महार",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "62 पद (Soldier GD 53 + ट्रेड्समैन 9)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं पास (Matriculation); सिर्फ़ भूतपूर्व सैनिक (pension holder) या MoEF&CC/राज्य वन विभाग की भूतपूर्व महिला कर्मचारी (कम से कम 20 साल सेवा)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (रैली नागपुर, महाराष्ट्र में)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं — न कोई ऑनलाइन फॉर्म, सीधे रैली स्थल पर हाज़िर होना है",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Sepoy के वेतनमान अनुसार (Army pay rules); 2 साल की सेवा, 1 साल बढ़ाई जा सकती है (non-pensionable)",
+     "state": "check"
+    },
+    "age": {
+     "value": "सेवा-मुक्ति के 5 साल के अंदर भर्ती; Sepoy के रूप में 50 वर्ष तक सेवा",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://territorialarmy.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/136-infantry-battalion-territorial-army-recruitment-rally-2026-3079860",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "QuickSarkari, Karmasandhan, FreeJobAlert, SarkariResult.app, RojgarPulse से cross-check — सब में 62 पद, रैली 23–25 Nov 2026, Kamptee (नागपुर) ही है; नोटिस 10 Nov 2026 को Times of India में छपा। ध्यान दें: यह 137 CETF बटालियन (प्रयागराज, 16–21 Nov) वाली रैली से अलग है — वह पहले से site पर live है। सिर्फ़ भूतपूर्व सैनिक (pension holder) व MoEF&CC/वन विभाग की भूतपूर्व महिला कर्मचारी ही पात्र; कोई ऑनलाइन फॉर्म/शुल्क नहीं, सुबह 5 बजे सीधे स्थल पर रिपोर्ट करना है। कमी: official PDF का सीधा link नहीं मिला; वेतन का सटीक आँकड़ा नोटिस में नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T22:52+05:30"
+  },
+  {
+   "id": "prep-uiic-ao-result-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UIIC AO (प्रशासनिक अधिकारी) प्रीलिम्स रिजल्ट 2026 घोषित — 225 पद, 5,806 अभ्यर्थी Mains के लिए shortlist",
+   "fields": {
+    "title": {
+     "value": "UIIC AO (प्रशासनिक अधिकारी) प्रीलिम्स रिजल्ट 2026 घोषित — 225 पद, 5,806 अभ्यर्थी Mains के लिए shortlist",
+     "state": "ok"
+    },
+    "org": {
+     "value": "यूनाइटेड इंडिया इंश्योरेंस कंपनी लिमिटेड (UIIC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "225 पद (Generalist 200 + Hindi Officer 25) — प्रीलिम्स में 5,806 shortlist",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक (Graduate)",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://uiic.co.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/uiic-ao-prelims-result/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "RojgarResult + RanchiPortal, SarkariResult.app, Karmasandhan, PlacementStore, Testbook, KollegeApply से cross-check — सब में 11 Nov 2026 को Phase-I रिजल्ट, 225 पद, Mains 30 Nov 2026 ही है। प्रीलिम्स 22 Oct 2026 को हुआ था; रिजल्ट सिर्फ़ roll-number सूची है (नाम/कट-ऑफ़ नहीं)। एक स्रोत (Testbook) में shortlist संख्या ~3,375 लिखी है, बाकी सब में 5,806 — बहुमत के हिसाब से 5,806 ली है। कमी: रिजल्ट PDF का सीधा link नहीं मिला (uiic.co.in के Careers/Recruitment section में है); Mains call letter की तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T22:52+05:30"
+  },
+  {
+   "id": "prep-upessc-assistant-professor-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UPESSC असिस्टेंट प्रोफेसर एडमिट कार्ड 2026 — परीक्षा 19–20 नवंबर, 1,936 पद (विज्ञापन 04/2026)",
+   "fields": {
+    "title": {
+     "value": "UPESSC असिस्टेंट प्रोफेसर एडमिट कार्ड 2026 — परीक्षा 19–20 नवंबर, 1,936 पद (विज्ञापन 04/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "उत्तर प्रदेश शिक्षा सेवा चयन आयोग (UPESSC), प्रयागराज",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1,936 पद (सहायक आचार्य — सह-शिक्षा कॉलेज 1,564 + महिला कॉलेज 372)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातकोत्तर (विज्ञापन 04/2026 अनुसार — विस्तृत योग्यता नोटिफ़िकेशन में देखें)",
+     "state": "check"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-08",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-19",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://upessc.up.gov.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://upessc.up.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.certifica.in/admit-card/upessc-assistant-professor-city-slip-2026",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "RojgarResult + EduAdvice, Certifica (official notice apply.upessc.org से जाँचा), Testbook, KollegeApply, NewsPlainly से cross-check — सब में 1,936 पद, परीक्षा 19–20 Nov 2026, 6 शहर (आगरा, मेरठ, गोरखपुर, लखनऊ, प्रयागराज, वाराणसी) ही है। ध्यान दें: अभी exam city slip जारी हुई है (8 Nov से) — असली admit card 15 Nov 2026 से मिलेगा; city slip से entry नहीं मिलेगी। कमी: admit card का सीधा link अभी live नहीं (15 Nov से आएगा); योग्यता/वेतन/शुल्क की पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T22:52+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T21:49+05:30",
+ "updatedAt": "2026-11-12T22:52+05:30",
  "version": 1
 }
