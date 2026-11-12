@@ -5749,9 +5749,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T21:29:49.412Z"
-  }
+  } ,
+ {
+  "createdAt": "2026-11-12T22:37:31.129934Z",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "ok",
+    "value": "18 – 24 वर्ष (30 Nov 2026 को)"
+   },
+   "applyUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "cat": {
+    "state": "ok",
+    "value": "job"
+   },
+   "examDate": {
+    "state": "missing",
+    "value": null
+   },
+   "feeGen": {
+    "state": "check",
+    "value": "—"
+   },
+   "feeText": {
+    "state": "check",
+    "value": "विज्ञापन में शुल्क की राशि नहीं दी — संभवतः निःशुल्क, पुष्टि बाकी"
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-12-12"
+   },
+   "org": {
+    "state": "ok",
+    "value": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) — मार्केटिंग डिवीज़न, पूर्वी क्षेत्र"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "ok",
+    "value": "409 पद"
+   },
+   "qual": {
+    "state": "ok",
+    "value": "12वीं / ITI / डिप्लोमा / स्नातक"
+   },
+   "salary": {
+    "state": "check",
+    "value": "स्टाइपेंड — Apprentices Act के अनुसार (राशि नोटिस में नहीं)"
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://iocl.com/apprenticeships"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://www.freejobalert.com/articles/iocl-eastern-region-apprentice-recruitment-2026-3080655"
+   },
+   "startDate": {
+    "state": "ok",
+    "value": "2026-11-13"
+   },
+   "state": {
+    "state": "ok",
+    "value": "पश्चिम बंगाल, बिहार, ओडिशा, झारखंड, असम व पूर्वोत्तर"
+   },
+   "title": {
+    "state": "ok",
+    "value": "IOCL मार्केटिंग (पूर्वी क्षेत्र) अप्रेंटिस भर्ती 2026 — 409 पद (विज्ञापन IOCL/MKTG/ER/APPR/2026-27)"
+   }
+  },
+  "id": "prep-iocl-er-apprentice-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "IOCL मार्केटिंग (पूर्वी क्षेत्र) अप्रेंटिस भर्ती 2026 — 409 पद (विज्ञापन IOCL/MKTG/ER/APPR/2026-27)",
+  "verifyNote": "13 Nov 2026 का नया नोटिस (विज्ञापन IOCL/MKTG/ER/APPR/2026-27) — पाइपलाइंस डिवीज़न की 500 पद वाली live भर्ती से अलग, मार्केटिंग डिवीज़न (पूर्वी क्षेत्र) की है; FreeJobAlert, GovtJobsAlert व FreshersLive से cross-check. पद-वार जोड़ 393 आता है जबकि नोटिस में 409 लिखे हैं — 16 पदों का अंतर, official स्पष्टीकरण बाकी. कोई परीक्षा/इंटरव्यू नहीं, मेरिट से चयन, 12 महीने की ट्रेनिंग. स्टाइपेंड की राशि, शुल्क व official PDF link नहीं मिले."
+ },
+ {
+  "createdAt": "2026-11-12T22:37:31.129934Z",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "check",
+    "value": "35 वर्ष से अधिक नहीं (15 Dec 2026 को)"
+   },
+   "applyUrl": {
+    "state": "ok",
+    "value": "https://www.nia.nic.in"
+   },
+   "cat": {
+    "state": "ok",
+    "value": "job"
+   },
+   "examDate": {
+    "state": "missing",
+    "value": null
+   },
+   "feeGen": {
+    "state": "check",
+    "value": "₹3,000"
+   },
+   "feeText": {
+    "state": "check",
+    "value": "सामान्य/OBC ₹3,000 (विस्तृत नोटिस के अनुसार; छूट की पुष्टि बाकी)"
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-12-15"
+   },
+   "org": {
+    "state": "ok",
+    "value": "कर्मचारी राज्य बीमा निगम (ESIC), भारत सरकार"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "ok",
+    "value": "24 पद (आयुर्वेद 19 + होम्योपैथी 5)"
+   },
+   "qual": {
+    "state": "ok",
+    "value": "BAMS / BHMS (आयुर्वेद या होम्योपैथी डिग्री)"
+   },
+   "salary": {
+    "state": "check",
+    "value": "Level-10: ₹56,100 – ₹1,77,500 + NPA"
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://esic.gov.in"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://www.youtube.com/watch?v=3etSnotF9UY"
+   },
+   "startDate": {
+    "state": "ok",
+    "value": "2026-11-16"
+   },
+   "state": {
+    "state": "ok",
+    "value": "सभी राज्य (केंद्रीय)"
+   },
+   "title": {
+    "state": "ok",
+    "value": "ESIC मेडिकल ऑफ़िसर (आयुर्वेद व होम्योपैथी) भर्ती 2026 — 24 पद (विज्ञापन A/184/2026-Exam)"
+   }
+  },
+  "id": "prep-esic-medical-officer-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "ESIC मेडिकल ऑफ़िसर (आयुर्वेद व होम्योपैथी) भर्ती 2026 — 24 पद (विज्ञापन A/184/2026-Exam)",
+  "verifyNote": "ESIC short notice A/184/2026-Exam (6 Nov) + NIA विस्तृत नोटिस ESIC/NIA 2/2026 (30 Oct) — YouTube वीडियो, FreeJobAlert, JobCareerUpdates व Viksit Haryana से cross-check. फॉर्म 16 Nov से सिर्फ़ nia.nic.in पर खुलेगा (ESIC साइट पर नहीं). शुल्क ₹3,000 व वेतन Level-10 विस्तृत नोटिस से हैं — 'check'. परीक्षा तिथि अभी घोषित नहीं; official PDF link नहीं मिला."
+ },
+ {
+  "createdAt": "2026-11-12T22:37:31.129934Z",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "missing",
+    "value": null
+   },
+   "applyUrl": {
+    "state": "ok",
+    "value": "https://recruitment.jharkhand.gov.in"
+   },
+   "cat": {
+    "state": "ok",
+    "value": "job"
+   },
+   "examDate": {
+    "state": "missing",
+    "value": null
+   },
+   "feeGen": {
+    "state": "ok",
+    "value": "₹100"
+   },
+   "feeText": {
+    "state": "ok",
+    "value": "₹100 (ऑनलाइन)"
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-12-11"
+   },
+   "org": {
+    "state": "ok",
+    "value": "झारखंड होम डिफेंस कोर, बोकारो (Jharkhand Home Defence Corps)"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "ok",
+    "value": "199 पद (ग्रामीण 111 + शहरी 88)"
+   },
+   "qual": {
+    "state": "ok",
+    "value": "7वीं / 10वीं पास"
+   },
+   "salary": {
+    "state": "ok",
+    "value": "ड्यूटी भत्ता ही — स्वयंसेवी सेवा, नियमित वेतन नहीं"
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://bokaro.nic.in"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://www.fresherslive.com/articles/jharkhand-home-guard-recruitment-2026-home-guard-3080597"
+   },
+   "startDate": {
+    "state": "ok",
+    "value": "2026-11-27"
+   },
+   "state": {
+    "state": "ok",
+    "value": "झारखंड (बोकारो जिला)"
+   },
+   "title": {
+    "state": "ok",
+    "value": "झारखंड होम गार्ड (बोकारो जिला) भर्ती 2026 — 199 पद (विज्ञापन 01/2026)"
+   }
+  },
+  "id": "prep-jharkhand-home-guard-bokaro-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "झारखंड होम गार्ड (बोकारो जिला) भर्ती 2026 — 199 पद (विज्ञापन 01/2026)",
+  "verifyNote": "बोकारो जिले की नई भर्ती (विज्ञापन 01/2026) — FreeJobAlert सूची + FreshersLive, JobsLogin व Viksit Haryana से cross-check. यह नियमित नौकरी नहीं है: 4 साल के लिए स्वयंसेवी नामांकन, सिर्फ़ ड्यूटी वाले दिनों का भत्ता. आयु सीमा व official PDF link नहीं मिले. लातेहार जिले की 457 पद वाली अलग होम गार्ड भर्ती से भ्रम न हो."
+ },
+ {
+  "createdAt": "2026-11-12T22:37:31.129934Z",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "missing",
+    "value": null
+   },
+   "applyUrl": {
+    "state": "ok",
+    "value": "https://vidhansabha.bihar.gov.in"
+   },
+   "cat": {
+    "state": "ok",
+    "value": "job"
+   },
+   "examDate": {
+    "state": "missing",
+    "value": null
+   },
+   "feeGen": {
+    "state": "missing",
+    "value": null
+   },
+   "feeText": {
+    "state": "missing",
+    "value": null
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-11-27"
+   },
+   "org": {
+    "state": "ok",
+    "value": "बिहार विधान सभा सचिवालय, पटना"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "check",
+    "value": "54 पद (ASO 50 + सहायक केयरटेकर 4)"
+   },
+   "qual": {
+    "state": "ok",
+    "value": "स्नातक (Graduate)"
+   },
+   "salary": {
+    "state": "check",
+    "value": "ASO Level-7: ₹44,900 – ₹1,42,400; सहायक केयरटेकर Level-4: ₹25,500 से"
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://vidhansabha.bihar.gov.in"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://govtjobsalert.in/bihar-vidhan-sabha-aso-recruitment-2026/"
+   },
+   "startDate": {
+    "state": "ok",
+    "value": "2026-11-07"
+   },
+   "state": {
+    "state": "ok",
+    "value": "बिहार"
+   },
+   "title": {
+    "state": "ok",
+    "value": "बिहार विधान सभा सचिवालय ASO व सहायक केयरटेकर भर्ती 2026 — फिर से आवेदन (विज्ञापन 01/2024)"
+   }
+  },
+  "id": "prep-bihar-vidhan-sabha-aso-reopen-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "बिहार विधान सभा सचिवालय ASO व सहायक केयरटेकर भर्ती 2026 — फिर से आवेदन (विज्ञापन 01/2024)",
+  "verifyNote": "विज्ञापन 01/2024 के तहत फिर से आवेदन (7–27 Nov 2026) — GovtJobsAlert, NayiUraan, RojgarPulse व ResultBharat से cross-check. पद-संख्या पर टकराव: विस्तृत पढ़त में ASO 50 + केयरटेकर 4 = 54; कुछ स्रोत 79 ASO + 5 = 84 भी कहते हैं (नोटिस में दो अलग तालिकाएँ) — queue करने से पहले official नोटिस से पुष्टि ज़रूरी. 2024 में आवेदन कर चुके को दोबारा फॉर्म नहीं भरना. शुल्क व आयु सीमा की पुष्टि बाकी."
+ },
+ {
+  "createdAt": "2026-11-12T22:37:31.129934Z",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "ok",
+    "value": "18 – 35 वर्ष (01 जुलाई 2026 को)"
+   },
+   "applyUrl": {
+    "state": "ok",
+    "value": "https://upanganwadibharti.in"
+   },
+   "cat": {
+    "state": "ok",
+    "value": "job"
+   },
+   "examDate": {
+    "state": "missing",
+    "value": null
+   },
+   "feeGen": {
+    "state": "check",
+    "value": "निःशुल्क"
+   },
+   "feeText": {
+    "state": "check",
+    "value": "कोई आवेदन शुल्क नहीं (अन्य जिलों के कार्डों के अनुसार; बदायूँ नोटिस में स्पष्ट उल्लेख नहीं मिला)"
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-11-24"
+   },
+   "org": {
+    "state": "ok",
+    "value": "जिला कार्यक्रम अधिकारी, ICDS बदायूँ (ICDS Budaun)"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "ok",
+    "value": "391 पद"
+   },
+   "qual": {
+    "state": "ok",
+    "value": "12वीं"
+   },
+   "salary": {
+    "state": "check",
+    "value": "मानदेय (राशि नोटिस में नहीं)"
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://upanganwadibharti.in"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://www.freejobalert.com/articles/district-programme-officer-budaun-anganwadi-worker-recruitment-2026-3078545"
+   },
+   "startDate": {
+    "state": "ok",
+    "value": "2026-11-03"
+   },
+   "state": {
+    "state": "ok",
+    "value": "उत्तर प्रदेश"
+   },
+   "title": {
+    "state": "ok",
+    "value": "UP आंगनवाड़ी कार्यकर्ता भर्ती 2026 — बदायूँ जिला, 391 पद (केवल महिलाएँ)"
+   }
+  },
+  "id": "prep-up-anganwadi-budaun-worker-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "UP आंगनवाड़ी कार्यकर्ता भर्ती 2026 — बदायूँ जिला, 391 पद (केवल महिलाएँ)",
+  "verifyNote": "बदायूँ जिले की नई भर्ती (नोटिस 3 Nov 2026) — FreeJobAlert, MockGhar, 9Curry व SarkariResult से cross-check. 391 पद (UR 204, OBC 95, SC 92), सिर्फ़ महिलाएँ, 12वीं पास, 16 बाल विकास परियोजनाएँ. शुल्क व मानदेय की राशि नोटिस-सार में नहीं मिली — 'check'. बलिया (242) व हरदोई (315) वाले live कार्डों से अलग जिला है."
+ }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T21:29:49.412Z",
+ "updatedAt": "2026-11-12T22:37:31.127782Z",
  "version": 1
 }
