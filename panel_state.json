@@ -2509,9 +2509,414 @@
    "status": "ready",
    "title": "J&K Bank प्रोबेशनरी ऑफिसर (PO) भर्ती 2026 — 323 पद (सिर्फ़ J&K डोमिसाइल)",
    "verifyNote": "YouTube वीडियो (J&K Bank Recruitment 2026 | 1356 Vacancies | PO & Banking Associate) + FreeJobAlert, Examera, GovtJobDeck, RojgarLive, Kashmir Outlook से cross-check — नोटिस No. JKB/HR/Rectt/2026-492, 7 Nov 2026; 323 PO पद, आवेदन 7–26 Nov 2026; सिर्फ़ J&K UT डोमिसाइल वाले ही आवेदन कर सकते हैं (लद्दाख के लिए अलग 20 पदों का नोटिस है)। चयन: Prelims + Mains + Interview, परीक्षा IBPS लेगा; परीक्षा तारीख़ अभी घोषित नहीं। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला — jkb.bank.in से पुष्टि बाकी।"
+  },
+  {
+   "id": "prep-nlc-india-get-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "NLC India ग्रेजुएट एग्ज़ीक्यूटिव ट्रेनी (GET) भर्ती 2026 — 143 पद (GATE 2025 से)",
+   "fields": {
+    "title": {
+     "value": "NLC India ग्रेजुएट एग्ज़ीक्यूटिव ट्रेनी (GET) भर्ती 2026 — 143 पद (GATE 2025 से)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "एनएलसी इंडिया लिमिटेड (NLC India Limited)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "143 पद (मैकेनिकल, इलेक्ट्रिकल, सिविल, माइनिंग)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-14",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": 854,
+     "state": "check"
+    },
+    "feeText": {
+     "value": "₹854 (SC/ST ₹354 — एक स्रोत से, पुष्टि बाकी)",
+     "state": "check"
+    },
+    "salary": {
+     "value": "ट्रेनिंग में ₹50,000 बेसिक (बाद में E-3 ग्रेड)",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.nlcindia.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.nlcindia.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.app/nlc-india-get-recruitment-2026-out-apply-online-143-graduate-executive-trainee-posts/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Testbook, sarkariresult.app, govtjobsalert, sahisarkarijobs और YouTube वीडियो ('Top 15 Latest Government Jobs 2026', IMS GATE Academy) से cross-check — Advt 10/2026, 143 पद, 13 Nov–14 Dec 2026, GATE 2025 + इंटरव्यू, सभी स्रोतों में एक जैसी। शुल्क ₹854/₹354 सिर्फ़ एक स्रोत से — पुष्टि बाकी। आयु-सीमा और official PDF link नहीं मिले — missing।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:53+05:30"
+  },
+  {
+   "id": "prep-bank-of-baroda-so-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "Bank of Baroda स्पेशलिस्ट ऑफिसर (SO) भर्ती 2026 — 837 पद (वेल्थ मैनेजमेंट सर्विसेज़, कॉन्ट्रैक्ट)",
+   "fields": {
+    "title": {
+     "value": "Bank of Baroda स्पेशलिस्ट ऑफिसर (SO) भर्ती 2026 — 837 पद (वेल्थ मैनेजमेंट सर्विसेज़, कॉन्ट्रैक्ट)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "बैंक ऑफ बड़ौदा (Bank of Baroda)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "837 पद (ग्रुप हेड, हेड इन्वेस्टमेंट, टेरिटरी हेड, इन्वेस्टमेंट प्रोडक्ट मैनेजर, सीनियर रिलेशनशिप मैनेजर)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-24",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹48,480 (एक YouTube वीडियो से)",
+     "state": "check"
+    },
+    "age": {
+     "value": "24 – 50 वर्ष",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://bankofbaroda.bank.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.bankofbaroda.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/bank-of-baroda-so-notification-2026-out/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Testbook, 9curry, mahanmk और YouTube वीडियो से cross-check — Advt BOB/HRM/REC/ADVT/2026/20, 837 पद, 4–24 Nov 2026, सभी स्रोतों में एक जैसी। वेतन ₹48,480 और आयु 24–50 सिर्फ़ एक-एक स्रोत से — पुष्टि बाकी। शुल्क, परीक्षा तिथि और official PDF link नहीं मिले — missing। यह भर्ती कॉन्ट्रैक्ट आधार पर है, स्थायी नौकरी नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:53+05:30"
+  },
+  {
+   "id": "prep-cwc-am-je-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC) असिस्टेंट मैनेजर व जूनियर एग्ज़ीक्यूटिव भर्ती 2026 — 327 पद",
+   "fields": {
+    "title": {
+     "value": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC) असिस्टेंट मैनेजर व जूनियर एग्ज़ीक्यूटिव भर्ती 2026 — 327 पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "सेंट्रल वेयरहाउसिंग कॉर्पोरेशन (CWC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "327 पद (असिस्टेंट मैनेजर 171 + जूनियर एग्ज़ीक्यूटिव 156)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-17",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "असिस्टेंट मैनेजर ₹40,000–₹1,40,000; जूनियर एग्ज़ीक्यूटिव ₹29,000–₹93,000",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 28 वर्ष (15 नवंबर 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.cewacor.nic.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.cewacor.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/cwc-recruitment-2026-apply-online-for-327-assistant-manager-junior-executive-posts-3074247",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, govtjobsalert, jobshouter, jobslokam और YouTube वीडियो से cross-check — Advt CWC/I-Manpower/DR/Rectt/2026/01, 327 पद, 17 Oct–15 Nov 2026, सभी स्रोतों में एक जैसी। AM (Finance) के लिए 27 Oct के अपडेट से अनुभव-शर्त में छूट — विस्तृत नोटिस से पुष्टि बाकी। शुल्क और official PDF link नहीं मिले — missing। अंतिम तिथि 15 Nov — सिर्फ़ 3 दिन बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:53+05:30"
+  },
+  {
+   "id": "prep-bel-probationary-engineer-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) प्रोबेशनरी इंजीनियर भर्ती 2026 — 350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+   "fields": {
+    "title": {
+     "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) प्रोबेशनरी इंजीनियर भर्ती 2026 — 350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-28",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-22",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹40,000–₹1,40,000 (लगभग ₹13 लाख CTC सालाना)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 25 वर्ष (UR/EWS, 1 अक्टूबर 2026 को)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://www.bel-india.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.bel-india.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/bel-probationary-engineer-recruitment/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Karmasandhan, examneed, govtjobalerts और YouTube वीडियो से cross-check — Advt 17556/HR/All-India/2026, 350 पद, 28 Oct–18 Nov 2026, CBT 22 Dec 2026 (tentative), सभी स्रोतों में एक जैसी। आयु-सीमा 25 वर्ष एक YouTube वीडियो से — पुष्टि बाकी। शुल्क और official PDF link नहीं मिले — missing।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:53+05:30"
+  },
+  {
+   "id": "prep-nicl-graduate-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "NICL ग्रेजुएट अप्रेंटिस भर्ती 2026-27 — 200 सीटें (NATS, 14 राज्य)",
+   "fields": {
+    "title": {
+     "value": "NICL ग्रेजुएट अप्रेंटिस भर्ती 2026-27 — 200 सीटें (NATS, 14 राज्य)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "नेशनल इंश्योरेंस कंपनी लिमिटेड (NICL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "200 सीटें (14 राज्यों में, अस्थायी)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय (14 राज्य)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "स्टाइपेंड ₹15,000 प्रति माह (12 महीने)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "21 – 30 वर्ष (1 अप्रैल 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://nats.education.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://nationalinsurance.nic.co.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/nicl-graduate-apprentices-recruitment-2026-3078567",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, Karmasandhan, govtjobsalert, jobshouter और YouTube वीडियो ('NICL Recruitment 2026 | 200 Apprentice Posts') से cross-check — 4 Nov 2026 नोटिस, 200 सीटें, 4–18 Nov 2026, स्टाइपेंड ₹15,000, सभी स्रोतों में एक जैसी। यह अप्रेंटिसशिप है, स्थायी नौकरी नहीं — कोई परीक्षा नहीं, स्नातक अंकों की मेरिट से चयन। शुल्क का उल्लेख नहीं मिला — missing। एक राज्य के लिए ही आवेदन।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T19:53+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T18:53:23+05:30",
+ "updatedAt": "2026-11-12T19:53+05:30",
  "version": 1
 }
