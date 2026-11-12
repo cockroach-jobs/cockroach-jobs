@@ -4939,9 +4939,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-12T19:19:42.300669Z"
+  },
+  {
+   "id": "prep-bihar-vidhan-sabha-jsa-office-attendant-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "बिहार विधान सभा सचिवालय JSA व कार्यालय परिचारी भर्ती 2026 — 20 पद (विज्ञापन 01/2026 व 02/2026)",
+   "fields": {
+    "title": {
+     "value": "बिहार विधान सभा सचिवालय JSA व कार्यालय परिचारी भर्ती 2026 — 20 पद (विज्ञापन 01/2026 व 02/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "बिहार विधान सभा सचिवालय (Bihar Vidhan Sabha Secretariat), पटना",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "20 पद (Junior Secretariat Assistant 15 + Office Attendant 5)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं (JSA) / 10वीं (Office Attendant)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "बिहार",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-07",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-06",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹600 (JSA) / ₹400 (Office Attendant)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC/EWS/बिहार-बाहर: JSA ₹600, Office Attendant ₹400; SC/ST/PH/बिहार की सभी महिला: JSA ₹150, Office Attendant ₹100; ऑनलाइन भुगतान",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹19,900–63,200 (JSA, Level-2) / ₹18,000–56,900 (Office Attendant, Level-1)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18–37 वर्ष (UR पुरुष, 01/08/2026 तक; महिला व आरक्षित वर्ग को नियमानुसार छूट)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://blasrecruit.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://vidhansabha.bihar.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://nayiuraan.com/bihar-vidhan-sabha-secretariat-recruitment-2026-office-attendant-jsa-form-for-20-posts/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariResult की ताज़ा सूची से मिला; YouTube पर Adda247 का JSA वीडियो व Umesh Talks का वीडियो, और Testbook, Nayi Uraan, JobCareerUpdates से cross-check — 20 पद, विज्ञापन 01/2026 व 02/2026, आवेदन 7 Nov–6 Dec 2026 सब जगह एक जैसे। Official notification PDF का सीधा link नहीं मिला (blasrecruit.in पर मिलेगा) — queue करने से पहले PDF link जाँच लें; परीक्षा की तारीख़ अभी घोषित नहीं हुई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T20:21:43.200619Z"
+  },
+  {
+   "id": "prep-bhu-non-teaching-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "BHU (बनारस हिंदू विश्वविद्यालय) नॉन-टीचिंग भर्ती 2026 — 11 पद, कंप्यूटर सेंटर (विज्ञापन 03/2026-2027)",
+   "fields": {
+    "title": {
+     "value": "BHU (बनारस हिंदू विश्वविद्यालय) नॉन-टीचिंग भर्ती 2026 — 11 पद, कंप्यूटर सेंटर (विज्ञापन 03/2026-2027)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "बनारस हिंदू विश्वविद्यालय (BHU), वाराणसी",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "11 पद (System Engineer 1, Maintenance Engineer (Junior) 1, Computer Operator Gr-I 3, AC Operator 3, Laboratory Attendant 1, Workshop Attendant 2)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech, B.Sc/BCA, ITI, 12वीं (पद के अनुसार)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-26",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹1,000 (Group A) / ₹500 (Group B व C)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "UR/EWS/OBC: Group A ₹1,000, Group B/C ₹500 (ऑनलाइन)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level-12: ₹78,800–2,09,200 (System Engineer); अन्य पदों का वेतन विज्ञापन में देखें",
+     "state": "check"
+    },
+    "age": {
+     "value": "अधिकतम 50 वर्ष (System Engineer); अन्य पदों की आयु-सीमा विज्ञापन में देखें",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://bhunt.samarth.edu.in/index.php/dashboard",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": "https://bhu.ac.in/Images/files/Advt_%20No_03_26-27%20for%20Computer%20Center.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://www.bhu.ac.in/rac",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://rojgarresult.com/bhu-non-teaching-post-nov26/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariResult + RojgarResult की सूची और FreeJobAlert, Rajkiya Result, SarkariJob से cross-check — 11 पद, 26 Oct–25 Nov 2026 सब जगह एक जैसे; 30/11 हार्ड-कॉपी जमा की आख़िरी तारीख़ है (ऑनलाइन फॉर्म 25/11 तक)। वेतन/आयु पद के अनुसार अलग-अलग हैं, पूरी जानकारी PDF में देख लें; PDF व Apply link सर्च नतीजों से लिए हैं, खोलकर जाँचे नहीं गए।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T20:21:43.200619Z"
+  },
+  {
+   "id": "prep-rites-assistant-manager-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "RITES असिस्टेंट मैनेजर (मैकेनिकल) भर्ती 2026 — 27 पद (VC No. CL/09/26–CL/11/26, तमिलनाडु)",
+   "fields": {
+    "title": {
+     "value": "RITES असिस्टेंट मैनेजर (मैकेनिकल) भर्ती 2026 — 27 पद (VC No. CL/09/26–CL/11/26, तमिलनाडु)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेल इंडिया टेक्निकल एंड इकोनॉमिक सर्विस (RITES) लिमिटेड, रेल मंत्रालय",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "27 पद (AM Mechanical-I 14 + II 10 + III 3)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Diploma / B.E./B.Tech (Mechanical) + अनुभव (Diploma: 8 वर्ष, Degree: 2 वर्ष)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "तमिलनाडु",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-30",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "कॉन्ट्रैक्ट आधार (lumpsum) — राशि विज्ञापन में देखें",
+     "state": "check"
+    },
+    "age": {
+     "value": "अधिकतम 40 वर्ष (20/11/2026 तक)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.rites.com/Career",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.rites.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkarijob.com/rites-assistant-manager/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariResult + RojgarResult की सूची, YouTube वीडियो (27 पद, फॉर्म भरने की प्रक्रिया) और SarkariJob, 9curry, NewsPoint से cross-check — 27 पद, 30 Oct–20 Nov 2026, लिखित परीक्षा 29 Nov 2026 सब जगह एक जैसे। आवेदन शुल्क और lumpsum वेतन की राशि विज्ञापन से पुष्ट नहीं हुई — queue करने से पहले rites.com पर जाँच लें; यह कॉन्ट्रैक्ट (नियमित नहीं) भर्ती है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T20:21:43.200619Z"
+  },
+  {
+   "id": "prep-npcil-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "NPCIL नरोरा अप्रेंटिस भर्ती 2026 — 80 पद (Trade 50 + Diploma 16 + Graduate 14; विज्ञापन NAPS/HRM/APPRENTICE/02/2026)",
+   "fields": {
+    "title": {
+     "value": "NPCIL नरोरा अप्रेंटिस भर्ती 2026 — 80 पद (Trade 50 + Diploma 16 + Graduate 14; विज्ञापन NAPS/HRM/APPRENTICE/02/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "न्यूक्लियर पावर कॉर्पोरेशन ऑफ इंडिया (NPCIL) — नरोरा परमाणु विद्युत केंद्र, बुलंदशहर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "80 पद (Trade Apprentice 50 + Diploma Apprentice 16 + Graduate Apprentice 14)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ITI / Diploma / Graduate (संबंधित ट्रेड/विषय)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-29",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹10,560–12,300 प्रति माह (स्टाइपेंड)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18–24 वर्ष (Trade) / 18–25 (Diploma) / 18–26 (Graduate), 18/11/2026 तक",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.npcilcareers.co.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://npcilcareers.co.in/NAPSA20262910/documents/advt.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://www.npcilcareers.co.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://upjobradar.com/npcil-apprentice-recruitment-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariResult + RojgarResult की सूची और upjobradar, SRN247, SetuVidhya, FreeJobAlert से cross-check — 80 पद, 29 Oct–18 Nov 2026, स्टाइपेंड ₹10,560–12,300 सब जगह एक जैसे। यह 12 महीने की अप्रेंटिसशिप है, स्थायी नौकरी नहीं; आवेदन से पहले NAPS/NATS पोर्टल पर रजिस्ट्रेशन ज़रूरी है। PDF link सर्च नतीजों से लिया है, खोलकर जाँचा नहीं गया।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T20:21:43.200619Z"
+  },
+  {
+   "id": "prep-rmlims-lucknow-non-teaching-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "डॉ. राम मनोहर लोहिया आयुर्विज्ञान संस्थान (RMLIMS), लखनऊ नॉन-टीचिंग भर्ती 2026 — 74 पद (विज्ञापन 78–83/2026)",
+   "fields": {
+    "title": {
+     "value": "डॉ. राम मनोहर लोहिया आयुर्विज्ञान संस्थान (RMLIMS), लखनऊ नॉन-टीचिंग भर्ती 2026 — 74 पद (विज्ञापन 78–83/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "डॉ. राम मनोहर लोहिया आयुर्विज्ञान संस्थान (Dr. RMLIMS), लखनऊ",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "74 पद (Hospital Attendant Gr-II 32, Stenographer 30, Receptionist 8, Programmer 2, Medical Physicist 1, Radiation Safety Officer 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं / स्नातक / PG (पद के अनुसार)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-19",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹18,000–1,77,500 (Level-1 से Level-10)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18–40 वर्ष (20/11/2026 तक)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.drrmlims.ac.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.drrmlims.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/drrmlims-non-teaching-group-b-c-d-recruitment-2026-apply-online-for-74-steno-receptionist-and-more-posts-3064817",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariResult + RojgarResult की सूची और FreeJobAlert, GovtJobsAlert, TezTak, RojgarLive से cross-check — 74 पद, 19 Oct–20 Nov 2026 सब जगह एक जैसे। आवेदन शुल्क विज्ञापन से पुष्ट नहीं हुआ — queue करने से पहले drrmlims.ac.in पर जाँच लें; CBT परीक्षा की तारीख़ अभी घोषित नहीं हुई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-12T20:21:43.200619Z"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T19:19:42.300669Z",
+ "updatedAt": "2026-11-12T20:21:43.200619Z",
  "version": 1
 }
