@@ -41,6 +41,13 @@ repo की write-पहुँच लेकर काम जारी रख स
    भी — जैसे "अंतिम तिथि (Last Date)"।
 6. बीत चुका चरण मत डालो (last date निकल चुकी भर्ती, हो चुकी परीक्षा का
    admit card आदि)।
+7. **Deploy का नियम (quota बचाने के लिए):** Cloudflare Pages free पर
+   500 builds/महीना की सीमा है और repo का हर push एक build गिनता है।
+   इसलिए site (jobs_data.json) **सिर्फ़ तब** बदलो जब मालिक चैट में कहे या
+   उसने कोई prepared entry queue की हो (workflow B)। नई खोजी गई जानकारी
+   हमेशा prepared entry बनकर कतार में लगेगी (workflow C) — सीधे site पर
+   कभी नहीं। panel_state.json के बदलाव भी एक बार में एक ही commit में
+   समेटो; कुछ न बदला हो तो commit ही मत करो।
 
 ## panel_state.json की बनावट
 
@@ -106,12 +113,18 @@ state के मायने: `ok` = पक्का/cross-checked, `missing` = 
 6. Entry का status `"live"` करो, source submission हो तो उसका status
    `"applied"` करो, फिर से commit + push।
 
-### C. (Optional) हर घंटे की खोज
+### C. (Optional) हर घंटे की खोज — सिर्फ़ कतार तक, site पर नहीं
 Top discovery sites (sarkariresult.com, sarkariexam.com, freejobalert.com,
-rojgarresult.com, projobalert.com) की ताज़ा सूचियों से site पर न मौजूद नई
-भर्तियाँ छाँटो (एक बार में अधिकतम 5), data YouTube video + 2-स्रोत
-cross-check से निकालकर सीधे jobs_data.json में डालो और ऊपर के नियमों से
-validate करके push करो। यह काम मालिक की खड़ी अनुमति से चलता है।
+rojgarresult.com, projobalert.com) की ताज़ा सूचियों से site पर न मौजूद और
+कतार में भी न मौजूद नई भर्तियाँ छाँटो (एक बार में अधिकतम 5), data
+YouTube video + 2-स्रोत cross-check से निकालो और हर एक की **prepared
+entry `panel_state.json` में** जोड़ो (status `"ready"`, createdBy में अपना
+नाम) — नियम 7 के कारण सीधे jobs_data.json में **मत** डालो। मालिक app/panel
+में देखकर queue करेगा, तभी workflow B से वह site पर जाएगी।
+किसी live card की last date बढ़ी (extend) हुई मिले तो jobs_data.json मत
+बदलो — उस job के लिए kind `"update"` की prepared entry बनाओ (jobId = उस
+job की id, fields में नई lastDate `"ok"` state के साथ, verifyNote में
+पुरानी → नई तारीख़ और extension का स्रोत)।
 
 ## लिखने का शिष्टाचार
 - panel_state.json और jobs_data.json हमेशा **पहले ताज़ा pull/read** करके
