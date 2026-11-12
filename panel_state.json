@@ -1,1 +1,492 @@
-{"prepared":[{"createdAt":"2026-11-12T12:20+05:30","createdBy":"LOYATI (Muse agent)","fields":{"age":{"state":"ok","value":"18 – 23 / 25 वर्ष (ट्रेड अनुसार; गिनती 01.07.2026 को)"},"applyUrl":{"state":"check","value":"https://www.assamrifles.gov.in/onlineapp/Default.aspx"},"cat":{"state":"ok","value":"job"},"examDate":{"state":"check","value":"2027-01-18"},"feeGen":{"state":"ok","value":"₹100"},"feeText":{"state":"ok","value":"Gen/OBC/EWS ₹100 · SC/ST/भूतपूर्व सैनिक — शुल्क नहीं"},"lastDate":{"state":"ok","value":"2026-12-14"},"org":{"state":"ok","value":"महानिदेशालय असम राइफ़ल्स, शिलांग (Assam Rifles)"},"pdfUrl":{"state":"check","value":"https://www.assamrifles.gov.in/ar-recruitment-pdf-viewer/8215"},"posts":{"state":"ok","value":"354 पद"},"qual":{"state":"ok","value":"10वीं"},"salary":{"state":"missing","value":null},"siteUrl":{"state":"ok","value":"https://www.assamrifles.gov.in"},"sourceUrl":{"state":"ok","value":"https://www.freejobalert.com/articles/assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"},"startDate":{"state":"ok","value":"2026-11-15"},"state":{"state":"ok","value":"सभी राज्य (केंद्रीय)"},"title":{"state":"ok","value":"असम राइफ़ल्स टेक्निकल व ट्रेड्समैन भर्ती रैली 2026 (Group C)"}},"id":"prep-assam-rifles-2026","jobId":null,"kind":"new_job","sourceSubmissionId":null,"status":"ready","verifyNote":"FreeJobAlert link से जानकारी निकाली, 3 और स्रोतों (Karmasandhan, HimExam, SarkariGuideJob) से cross-check — नया नोटिफ़िकेशन Memo No. I.12016/A Branch (Rect Cell)/2026/1892, 3 नवंबर 2026; 354 पद, 17 ट्रेड, सिर्फ़ पुरुष, domicile/PRC ज़रूरी; आवेदन 15 Nov – 14 Dec 2026; फ़ीस ₹100 (SC/ST/Ex-SM मुक्त); चयन PST/PET + CBT + ट्रेड टेस्ट + DV + मेडिकल। सितंबर वाला पुराना नोटिफ़िकेशन 30 Oct को रद्द — उसकी तारीख़ें नहीं लीं। आधिकारिक PDF link assamrifles.gov.in का viewer page है (पुष्टि बाकी)। कमी: वेतन का आँकड़ा नोटिफ़िकेशन में नहीं दिया। रैली 18 Jan 2027 tentative। नोट: यही entry Muse के Jobs Update Panel में भी तैयार है — जो agent पहले upload करे, दूसरा dedupe नियम से सिर्फ़ live चिह्नित करे।"}],"submissions":[],"updatedAt":"2026-11-12T12:54+05:30","version":1}
+{
+  "prepared": [
+    {
+      "createdAt": "2026-11-12T12:20+05:30",
+      "createdBy": "LOYATI (Muse agent)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "18 – 23 / 25 वर्ष (ट्रेड अनुसार; गिनती 01.07.2026 को)"
+        },
+        "applyUrl": {
+          "state": "check",
+          "value": "https://www.assamrifles.gov.in/onlineapp/Default.aspx"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "check",
+          "value": "2027-01-18"
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "₹100"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "Gen/OBC/EWS ₹100 · SC/ST/भूतपूर्व सैनिक — शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-14"
+        },
+        "org": {
+          "state": "ok",
+          "value": "महानिदेशालय असम राइफ़ल्स, शिलांग (Assam Rifles)"
+        },
+        "pdfUrl": {
+          "state": "check",
+          "value": "https://www.assamrifles.gov.in/ar-recruitment-pdf-viewer/8215"
+        },
+        "posts": {
+          "state": "ok",
+          "value": "354 पद"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "10वीं"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.assamrifles.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/assam-riffles-technical-and-tradesman-recruitment-rally-notification-2026-3068597"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-15"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "असम राइफ़ल्स टेक्निकल व ट्रेड्समैन भर्ती रैली 2026 (Group C)"
+        }
+      },
+      "id": "prep-assam-rifles-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "verifyNote": "FreeJobAlert link से जानकारी निकाली, 3 और स्रोतों (Karmasandhan, HimExam, SarkariGuideJob) से cross-check — नया नोटिफ़िकेशन Memo No. I.12016/A Branch (Rect Cell)/2026/1892, 3 नवंबर 2026; 354 पद, 17 ट्रेड, सिर्फ़ पुरुष, domicile/PRC ज़रूरी; आवेदन 15 Nov – 14 Dec 2026; फ़ीस ₹100 (SC/ST/Ex-SM मुक्त); चयन PST/PET + CBT + ट्रेड टेस्ट + DV + मेडिकल। सितंबर वाला पुराना नोटिफ़िकेशन 30 Oct को रद्द — उसकी तारीख़ें नहीं लीं। आधिकारिक PDF link assamrifles.gov.in का viewer page है (पुष्टि बाकी)। कमी: वेतन का आँकड़ा नोटिफ़िकेशन में नहीं दिया। रैली 18 Jan 2027 tentative। नोट: यही entry Muse के Jobs Update Panel में भी तैयार है — जो agent पहले upload करे, दूसरा dedupe नियम से सिर्फ़ live चिह्नित करे।"
+    },
+    {
+      "id": "prep-mpsc-group-c-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "महाराष्ट्र ग्रुप-C सेवा संयुक्त प्रारंभिक परीक्षा 2026 (विज्ञापन सं. 017/2026)",
+      "fields": {
+        "title": {
+          "value": "महाराष्ट्र ग्रुप-C सेवा संयुक्त प्रारंभिक परीक्षा 2026 (विज्ञापन सं. 017/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "महाराष्ट्र लोक सेवा आयोग (MPSC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "16,717 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "12वीं / स्नातक (पद अनुसार)",
+          "state": "check"
+        },
+        "state": {
+          "value": "महाराष्ट्र",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-27",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2027-01-24",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": "₹394",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen ₹394 · SC/ST ₹294 (ऑनलाइन; फ़ीस भुगतान की आख़िरी तारीख़ 30 Nov 2026)",
+          "state": "ok"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "18 – 43 वर्ष (एक साल की छूट सहित)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://mpsconline.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://mpsc.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/mpsc-group-c-recruitment-2026-3080387",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "6 Nov 2026 के MPSC शुद्धिपत्र से पद 5,707 से बढ़कर 16,717 हुए; परीक्षा 3 Jan 2027 से 24 Jan 2027 हुई; आवेदन 13–27 Nov 2026 (दोपहर 2 बजे से)। YouTube वीडियो (Puneri Pages, MPSC मेगाभरती) + Testbook, FreeJobAlert, AglaSem, Jagran, JagranJosh से cross-check — सब में 16,717 ही है (एक जगह '16,797' छपा था, वह ग़लत है)। कमी: पद-वार योग्यता व वेतन, और official PDF का सीधा link नहीं मिला (शुद्धिपत्र mpsc.gov.in पर है)।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
+    },
+    {
+      "id": "prep-indian-bank-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "इंडियन बैंक अप्रेंटिस भर्ती 2026-27 — 1,500 सीटें",
+      "fields": {
+        "title": {
+          "value": "इंडियन बैंक अप्रेंटिस भर्ती 2026-27 — 1,500 सीटें",
+          "state": "ok"
+        },
+        "org": {
+          "value": "इंडियन बैंक (Indian Bank)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "1,500 सीटें",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (01 Apr 2022 के बाद पास)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-05",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-25",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹800 + GST",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/OBC/EWS ₹800 + GST · SC/ST/PwBD ₹175 + GST",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹12,300 – 15,000/माह (स्टाइपेंड)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "20 – 28 वर्ष (01 Nov 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://www.nats.education.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
+          "state": "ok"
+        },
+        "siteUrl": {
+          "value": "https://indianbank.bank.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://testbook.com/news/indian-bank-apprentice-recruitment-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "इंडियन बैंक की official PDF (04 Nov 2026) से सीधे जाँचा + Testbook, BoldVoices, SahiSarkariJobs से cross-check। 12 महीने की अप्रेंटिसशिप है, स्थायी नौकरी नहीं; पहले NATS 2.0 पर profile पूरा करना ज़रूरी। कमी: परीक्षा की तारीख़ विज्ञापन में नहीं दी गई।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
+    },
+    {
+      "id": "prep-bhel-artisan-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "BHEL आर्टिज़न ग्रेड-IV भर्ती 2026 (विज्ञापन सं. 01/2026)",
+      "fields": {
+        "title": {
+          "value": "BHEL आर्टिज़न ग्रेड-IV भर्ती 2026 (विज्ञापन सं. 01/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "भारत हेवी इलेक्ट्रिकल्स लिमिटेड (BHEL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "660 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "10वीं + ITI (NTC) व NAC (60% अंक)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-21",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-18",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-12-11",
+          "state": "check"
+        },
+        "feeGen": {
+          "value": "₹1,072",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "UR/EWS/OBC ₹1,072 · SC/ST/PwBD/Ex-SM ₹472",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "₹24,000/माह (पहला साल), फिर ₹29,500 – 65,000",
+          "state": "ok"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://careers.bhel.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": "https://careers.bhel.in/ar_2027/Artisan_Detailed%20AD.pdf",
+          "state": "check"
+        },
+        "siteUrl": {
+          "value": "https://careers.bhel.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.sarkariresult.app/bhel-artisan-recruitment-2026-out-apply-online-660-posts/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "BoldVoices, TezTak, SarkariResult.app, JobReadyPortal से cross-check — 660 पद, 7 ट्रेड, 9 यूनिट; CBE 11 Dec 2026 (tentative)। कमी: आयु-सीमा इस जाँच में नहीं मिली; PDF link careers.bhel.in का है, सीधे खोलकर जाँच नहीं हुई।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
+    },
+    {
+      "id": "prep-iocl-apprentice-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "IOCL पाइपलाइंस अप्रेंटिस भर्ती 2026 — 500 पद",
+      "fields": {
+        "title": {
+          "value": "IOCL पाइपलाइंस अप्रेंटिस भर्ती 2026 — 500 पद",
+          "state": "ok"
+        },
+        "org": {
+          "value": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) — पाइपलाइंस डिवीज़न",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "500 पद (लगभग)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "12वीं / ITI / डिप्लोमा / स्नातक (ट्रेड अनुसार)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-06",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-05",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "18 – 24 वर्ष (30 Nov 2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://plapps.indianoilpipelines.in/",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.iocl.com",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/iocl-apprentice-recruitment-2026-3079245",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert, Examera, GovtJobsAlert, BoldVoices, SarkariResult.app से cross-check — Advt. PL/HR/ESTB/APPR (2026), 06 Nov 2026; 5 पाइपलाइन क्षेत्रों में ~500 सीटें; कोई लिखित परीक्षा नहीं, मेरिट से चयन। कमी: विज्ञापन में फ़ीस और स्टाइपेंड का उल्लेख नहीं; official PDF का सीधा link नहीं मिला।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
+    },
+    {
+      "id": "prep-nicl-ao-admit-card-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "NICL AO (प्रशासनिक अधिकारी) प्रीलिम्स एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
+      "fields": {
+        "title": {
+          "value": "NICL AO (प्रशासनिक अधिकारी) प्रीलिम्स एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
+          "state": "ok"
+        },
+        "org": {
+          "value": "नेशनल इंश्योरेंस कंपनी लिमिटेड (NICL)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "admit",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "321 पद (AO Scale-I)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक",
+          "state": "check"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-10",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-17",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-11-17",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://nationalinsurance.nic.co.in",
+          "state": "check"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://nationalinsurance.nic.co.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/nicl-ao-admit-card-2026-3077457",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "एडमिट कार्ड 10 Nov 2026 को जारी, Phase-I परीक्षा 17 Nov 2026 (ऑनलाइन); 321 AO (Scale-I) पद — 200 Generalist + 121 Specialist। JagranJosh, Testbook, FreeJobAlert, PuneriPages, Miscw से cross-check। कमी: योग्यता/आयु/वेतन/फ़ीस — ये आवेदन-समय की जानकारी है, admit card वाली खबरों में नहीं दी; download link IBPS portal पर है, NICL site के Recruitment section से मिलेगा।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-12T13:50+05:30"
+    }
+  ],
+  "submissions": [],
+  "updatedAt": "2026-11-12T13:50+05:30",
+  "version": 1
+}
