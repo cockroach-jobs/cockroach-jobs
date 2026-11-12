@@ -6209,9 +6209,414 @@
    "title": "UP आंगनवाड़ी कार्यकर्ता भर्ती 2026 — बदायूँ जिला, 391 पद (केवल महिलाएँ)",
    "verifyNote": "बदायूँ जिले की नई भर्ती (नोटिस 3 Nov 2026) — FreeJobAlert, MockGhar, 9Curry व SarkariResult से cross-check. 391 पद (UR 204, OBC 95, SC 92), सिर्फ़ महिलाएँ, 12वीं पास, 16 बाल विकास परियोजनाएँ. शुल्क व मानदेय की राशि नोटिस-सार में नहीं मिली — 'check'. बलिया (242) व हरदोई (315) वाले live कार्डों से अलग जिला है.",
    "listedAt": "2026-11-13T04:35:45+05:30"
+  },
+  {
+   "id": "prep-dhfws-rampurhat-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "DHFWS रामपुरहाट भर्ती 2026 — 36 पद (मेडिकल ऑफिसर-आयुष, स्टाफ नर्स, फार्मासिस्ट)",
+   "fields": {
+    "title": {
+     "value": "DHFWS रामपुरहाट भर्ती 2026 — 36 पद (मेडिकल ऑफिसर-आयुष, स्टाफ नर्स, फार्मासिस्ट)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "जिला स्वास्थ्य एवं परिवार कल्याण समिति, रामपुरहाट (DHFWS Rampurhat), बीरभूम — NHM, पश्चिम बंगाल",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "36 पद (मेडिकल ऑफिसर-आयुष 20 + स्टाफ नर्स 1 + फार्मासिस्ट 15)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "BAMS / BHMS / BUMS (MO-आयुष); GNM / B.Sc Nursing (स्टाफ नर्स); D.Pharm (फार्मासिस्ट)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "पश्चिम बंगाल (रामपुरहाट, बीरभूम)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-27",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-17",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹22,000–32,000/माह (MO-आयुष ₹32,000; स्टाफ नर्स ₹25,000; फार्मासिस्ट ₹22,000)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "स्टाफ नर्स — 40 वर्ष से कम (1 Jan 2026 तक); MO-आयुष व फार्मासिस्ट की आयु-सीमा पुष्टि बाकी",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://hr.wbhealth.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.wbhealth.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/dhfws-rampurhat-recruitment-2026-apply-online-for-36-pharmacist-staff-nurse-and-more-posts-3073734",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, PromptRoz, JobBarta व OnupronCareer से cross-check — 36 पद, नोटिस 01/2026-27 (14 Oct 2026), रजिस्ट्रेशन 27 Oct–13 Nov, फॉर्म जमा की अंतिम तिथि 17 Nov 2026। ध्यान: रजिस्ट्रेशन व शुल्क भुगतान आज 13 Nov को बंद हो रहा है — सिर्फ़ पहले से रजिस्टर उम्मीदवार 17 Nov तक फॉर्म जमा कर सकते हैं। कमी: शुल्क की राशि, MO-आयुष व फार्मासिस्ट की आयु-सीमा और official PDF link नहीं मिले — queue से पहले जाँच लें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T05:08+05:30"
+  },
+  {
+   "id": "prep-jharkhand-home-guard-latehar-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "झारखंड होम गार्ड (लातेहार जिला) भर्ती 2026 — 457 पद (विज्ञापन 01/2026)",
+   "fields": {
+    "title": {
+     "value": "झारखंड होम गार्ड (लातेहार जिला) भर्ती 2026 — 457 पद (विज्ञापन 01/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "झारखंड होम डिफेंस कोर, लातेहार (Jharkhand Home Defence Corps)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "457 पद (ग्रामीण 446 + शहरी 11)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं",
+     "state": "check"
+    },
+    "state": {
+     "value": "झारखंड (लातेहार जिला)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-17",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-01",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹100",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹100 (सभी वर्ग, ऑनलाइन)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "ड्यूटी भत्ता ही — स्वयंसेवी सेवा, नियमित वेतन नहीं",
+     "state": "ok"
+    },
+    "age": {
+     "value": "19–40 वर्ष (1 Jan 2026 तक)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://recruitment.jharkhand.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://latehar.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/jharkhand-home-guard-recruitment/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Karmasandhan, Testbook, SahiSarkariJobs व JobsLogin से cross-check — Advt 01/2026 (30 Oct 2026), 446 ग्रामीण + 11 शहरी, आवेदन 17 Nov–1 Dec 2026, शुल्क ₹100, आयु 19–40 वर्ष (1 Jan 2026 तक)। यह स्वयंसेवी सेवा है, नियमित सरकारी नौकरी नहीं; चयन PET + हिंदी लेखन + skill test से। कमी: योग्यता (10वीं) उसी योजना की बोकारो वाली भर्ती के आधार पर लिखी है — लातेहार के official नोटिस से पुष्टि बाकी है; official PDF link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T05:08+05:30"
+  },
+  {
+   "id": "prep-uppsc-various-post-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UPPSC विभिन्न पद भर्ती 2026 — 25 पद (असिस्टेंट आर्किटेक्ट प्लानर, स्पोर्ट्स ऑफिसर, प्रोग्रामर ग्रेड-2)",
+   "fields": {
+    "title": {
+     "value": "UPPSC विभिन्न पद भर्ती 2026 — 25 पद (असिस्टेंट आर्किटेक्ट प्लानर, स्पोर्ट्स ऑफिसर, प्रोग्रामर ग्रेड-2)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "उत्तर प्रदेश लोक सेवा आयोग (UPPSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "25 पद (असिस्टेंट आर्किटेक्ट प्लानर 8 + स्पोर्ट्स ऑफिसर 16 + प्रोग्रामर ग्रेड-2 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "आर्किटेक्ट प्लानर — आर्किटेक्चर डिग्री; स्पोर्ट्स ऑफिसर — स्नातक + NSNIS कोचिंग डिप्लोमा + 2 वर्ष अनुभव; प्रोग्रामर ग्रेड-2 की योग्यता पुष्टि बाकी",
+     "state": "check"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-04",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹47,600–1,51,100 (Level-8, स्पोर्ट्स ऑफिसर); आर्किटेक्ट प्लानर ₹15,600–39,100, GP ₹5,400 (Level-10)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "21–40 वर्ष (1 July 2026 तक)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://uppsc.up.nic.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://uppsc.up.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/uppsc-recruitment-2026-apply-online-for-25-assistant-architect-planner-sports-officer-and-more-posts-3079232",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, Testbook, SarkariSahayta व Certifica से cross-check — Advt A-5/E-1/2026 (4 Nov 2026), आवेदन 4 Nov–4 Dec 2026, OTR (otr.pariksha.nic.in) से आवेदन, correction 11 Dec तक। योग्यता: आर्किटेक्ट प्लानर — आर्किटेक्चर डिग्री + टाउन प्लानिंग/हाउसिंग या 3 वर्ष अनुभव; स्पोर्ट्स ऑफिसर — स्नातक + NSNIS कोचिंग डिप्लोमा + 2 वर्ष अनुभव। कमी: प्रोग्रामर ग्रेड-2 की योग्यता व वेतनमान, और शुल्क की राशि नहीं मिली; official PDF link भी नहीं मिला — queue से पहले जाँच लें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T05:08+05:30"
+  },
+  {
+   "id": "prep-shillong-medical-college-faculty-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "शिलॉन्ग मेडिकल कॉलेज फैकल्टी भर्ती 2026 — 11 पद (प्रोफेसर व एसोसिएट प्रोफेसर)",
+   "fields": {
+    "title": {
+     "value": "शिलॉन्ग मेडिकल कॉलेज फैकल्टी भर्ती 2026 — 11 पद (प्रोफेसर व एसोसिएट प्रोफेसर)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "शिलॉन्ग मेडिकल कॉलेज (SMC), स्वास्थ्य एवं परिवार कल्याण विभाग, मेघालय सरकार",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "11 पद (प्रोफेसर 7 + एसोसिएट प्रोफेसर 4)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MD / MS / DNB (संबंधित विषय)",
+     "state": "check"
+    },
+    "state": {
+     "value": "मेघालय (शिलॉन्ग)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹3,20,000/माह (प्रोफेसर); ₹2,60,000/माह (एसोसिएट प्रोफेसर) — fixed, कोई भत्ता नहीं",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 70 वर्ष (20 Nov 2026 तक)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "shgmedicalcollege@gmail.com",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://shillongmedicalcollege.co.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/smc-recruitment-2026-professor-associate-professor-3079833",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, MeghalayaJobPortal, FreshersLive व 9curry से cross-check — Advt SMC-97/2026/Estt./HR/ (3 Nov 2026), rolling advertisement, संविदा (contractual) पद; आवेदन सिर्फ़ ईमेल से — Annexure-I फॉर्म + दस्तावेज़ एक ही PDF में shgmedicalcollege@gmail.com पर 20 Nov 2026 शाम 5 बजे तक; ऑफ़लाइन आवेदन स्वीकार नहीं। कमी: शुल्क का उल्लेख नहीं मिला; official PDF link नहीं मिला — queue से पहले जाँच लें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T05:08+05:30"
+  },
+  {
+   "id": "prep-rrb-alp-cbt1-answer-key-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "RRB ALP CBT-1 आंसर की 2026 जारी — CEN 01/2026 (आपत्ति 19 नवंबर तक)",
+   "fields": {
+    "title": {
+     "value": "RRB ALP CBT-1 आंसर की 2026 जारी — CEN 01/2026 (आपत्ति 19 नवंबर तक)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती बोर्ड (RRB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "answer_key",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "असिस्टेंट लोको पायलट (ALP) CBT-1 — CEN 01/2026 (परीक्षा 3–5 Nov 2026)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": null,
+     "state": "missing"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-12",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-19",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-03",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": "₹50",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "आपत्ति शुल्क ₹50 प्रति प्रश्न + बैंक शुल्क",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://rrbapply.gov.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://rrb.indianrailways.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/rrb-alp-cen-01-2026-answer-key-2026-3080561",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Careers360, JagranJosh, FreeJobAlert, Prepp व SarkariExam से cross-check — RRB ALP CBT-1 (CEN 01/2026) की provisional आंसर की व response sheet 12 Nov 2026 शाम 7 बजे से live; परीक्षा 3–5 Nov 2026; आपत्ति 19 Nov 2026 रात 11:59 तक, ₹50 प्रति प्रश्न। डाउनलोड लॉगिन से (rrbapply.gov.in / rrb.digialm.com)। ध्यान: यह CBT-1 (CEN 01/2026) की की है — पुरानी CEN 01/2025 CBT-2 की की (5 Aug 2026) से अलग है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T05:08+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-12T22:37:31.127782Z",
+ "updatedAt": "2026-11-12T23:38:18.000000Z",
  "version": 1
 }

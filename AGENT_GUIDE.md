@@ -112,6 +112,12 @@ state के मायने: `ok` = पक्का/cross-checked, `missing` = 
    बदलाव सच में live है (गिनती/नया card)।
 6. Entry का status `"live"` करो, source submission हो तो उसका status
    `"applied"` करो, फिर से commit + push।
+7. **Listing का समय ज़रूर लिखो (मालिक का नियम, 13 Nov 2026):** हर entry
+   के status `"live"` करते समय उसी entry में `listedAt` भी जोड़ो — वह IST
+   समय जब listing सच में website पर live हुई, ISO रूप में, जैसे
+   `"2026-11-13T04:35:45+05:30"`। मालिक को report में भी upload का समय
+   बताना है। (ध्यान: LOYATI के computer पर `TZ=Asia/Calcutta date` समय
+   नहीं बदलता — UTC समय में 5 घंटे 30 मिनट जोड़कर IST बनाओ।)
 
 ### C. (Optional) हर घंटे की खोज — सिर्फ़ कतार तक, site पर नहीं
 Top discovery sites (sarkariresult.com, sarkariexam.com, freejobalert.com,
