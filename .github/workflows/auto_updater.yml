@@ -26,14 +26,17 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 🚀 Run Auto Updater Script
+      - name: 📦 Install PDF reader (for official notification PDFs)
+        run: pip install pypdf
+
+      - name: 🚀 Run Auto Updater Script (official sources only)
         run: python scripts/auto_updater.py
 
       - name: 💾 Commit & Push New Jobs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add jobs_data.json
+          git add jobs_data.json sitemap.xml jobs scripts/official_seen.json
           if git diff --staged --quiet; then
             echo "No new jobs discovered. Everything is up to date."
           else
