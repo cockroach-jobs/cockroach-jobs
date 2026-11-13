@@ -12927,9 +12927,414 @@
    "status": "ready",
    "title": "कर्नाटक महिला व बाल विकास विभाग — चामराजनगर आंगनवाड़ी कार्यकर्ता व सहायिका भर्ती 2026-27 — 390 पद",
    "verifyNote": "जिला नोटिस (30 Oct 2026) — FreeJobAlert, JagranJosh, Karmasandhan, Schools360 व SahiSarkariJobs से cross-check: आवेदन 5 Nov–4 Dec 2026, सिर्फ़ महिलाएँ (व ट्रांसजेंडर महिलाएँ), मानदेय-आधारित मानद सेवा (स्थायी सरकारी पद नहीं), 5 तालुक बाल विकास परियोजनाओं में पद। पद-संख्या में टकराव: ज़्यादातर स्रोत + आधिकारिक नोटिस के हवाले से 390 पद (कार्यकर्ता 119 + सहायिका 271), पर 2 स्रोतों में 391 (कार्यकर्ता 120) — आधिकारिक नोटिस से अंतिम पुष्टि बाकी। कमी: योग्यता, उम्र व मानदेय की राशि नोटिस-सार में नहीं मिली; PDF link व आवेदन पोर्टल का सीधा link नहीं मिला।"
+  },
+  {
+   "id": "prep-iocl-eastern-region-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "IOCL पूर्वी क्षेत्र अप्रेंटिस भर्ती 2026 — 409 पद (ट्रेड, तकनीशियन व ग्रेजुएट अप्रेंटिस)",
+   "fields": {
+    "title": {
+     "value": "IOCL पूर्वी क्षेत्र अप्रेंटिस भर्ती 2026 — 409 पद (ट्रेड, तकनीशियन व ग्रेजुएट अप्रेंटिस)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL), मार्केटिंग डिवीज़न, पूर्वी क्षेत्र",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "409 पद (तकनीशियन 206 + ट्रेड 97 + ग्रेजुएट 70 + डाटा एंट्री ऑपरेटर 20)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ITI / डिप्लोमा / स्नातक / 12वीं (पद के अनुसार)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "पूर्वी व पूर्वोत्तर राज्य + अंडमान-निकोबार",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-12",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं (सभी श्रेणियाँ)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "18–24 वर्ष (30.11.2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.iocl.com/apprenticeships",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.iocl.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/iocl-eastern-region-apprentice-recruitment-2026-3080655",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "विज्ञापन IOCL/MKTG/ER/APPR/2026-27, 13 Nov 2026 — FreeJobAlert, JagranJosh, GovtJob.info, Job4Freshers, GovtJobsAlert व SarkariJob.in से cross-check, सब में एक जैसे: 409 पद, आवेदन 13 Nov–12 Dec 2026 (शाम 5 बजे तक), कोई परीक्षा नहीं (योग्यता अंकों पर मेरिट), NAPS/NATS रजिस्ट्रेशन + IOCL Microsoft Form दोनों अनिवार्य, 12 महीने की अप्रेंटिसशिप। ध्यान: नोटिस में कुल 409 पद बताए गए हैं पर राज्यवार/पदवार जोड़ 393 आता है — अंतिम संख्या आधिकारिक शुद्धिपत्र से देखनी होगी। कमी: official notification PDF का सीधा link व स्टाइपेंड की रकम नहीं मिली।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T22:53+05:30"
+  },
+  {
+   "id": "prep-ihbas-faculty-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "IHBAS दिल्ली फैकल्टी भर्ती 2026 — 38 पद (प्रोफ़ेसर से सहायक प्रोफ़ेसर, नियमित)",
+   "fields": {
+    "title": {
+     "value": "IHBAS दिल्ली फैकल्टी भर्ती 2026 — 38 पद (प्रोफ़ेसर से सहायक प्रोफ़ेसर, नियमित)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "मानव व्यवहार व संबद्ध विज्ञान संस्थान (IHBAS), दिल्ली",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "38 पद (प्रोफ़ेसर 4 + अतिरिक्त प्रोफ़ेसर 7 + एसोसिएट प्रोफ़ेसर 11 + सहायक प्रोफ़ेसर 16)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS + MD/MS/MCh (चिकित्सा विषय) / PhD (गैर-चिकित्सा विषय) — पद के अनुसार",
+     "state": "check"
+    },
+    "state": {
+     "value": "दिल्ली",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-05",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-10",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹1,000",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹1,000 (श्रेणीवार छूट की पुष्टि बाकी)",
+     "state": "check"
+    },
+    "salary": {
+     "value": "प्रोफ़ेसर ₹1,68,900–2,20,400 (Level-14A) · सहायक प्रोफ़ेसर ₹1,01,500–1,67,400 (Level-12)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "प्रोफ़ेसर अधिकतम 50 वर्ष, सहायक प्रोफ़ेसर अधिकतम 45 वर्ष (पद के अनुसार)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://ihbas.delhi.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://telugucareers.in/ihbas-recruitment-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "विज्ञापन 2/6198/26/Estt/IHBAS 10443, 5 Nov 2026 — TeluguCareers, MyEducationWire व IHBAS की आधिकारिक साइट (ihbas.delhi.gov.in — नोटिस 05-11-2026) से cross-check: 38 नियमित फैकल्टी पद, आवेदन ऑफ़लाइन (डाक से निदेशक कार्यालय, दिलशाद गार्डन, दिल्ली-110095), अंतिम तिथि 10 Dec 2026, शुल्क ₹1,000। कमी: official notification PDF का सीधा link नहीं मिला; पदवार आयु-सीमा, योग्यता व शुल्क-छूट की पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T22:53+05:30"
+  },
+  {
+   "id": "prep-esic-korba-specialist-sr-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ESIC अस्पताल कोरबा स्पेशलिस्ट व सीनियर रेज़िडेंट भर्ती 2026 — 31 पद (वॉक-इन इंटरव्यू 19 नवंबर)",
+   "fields": {
+    "title": {
+     "value": "ESIC अस्पताल कोरबा स्पेशलिस्ट व सीनियर रेज़िडेंट भर्ती 2026 — 31 पद (वॉक-इन इंटरव्यू 19 नवंबर)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "कर्मचारी राज्य बीमा निगम (ESIC) अस्पताल, कोरबा (छत्तीसगढ़)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "31 पद (फुल/पार्ट टाइम स्पेशलिस्ट 13 + सीनियर रेज़िडेंट 18)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS + PG डिग्री/डिप्लोमा (संबंधित विशेषज्ञता)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "छत्तीसगढ़",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-14",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-19",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "फुल टाइम स्पेशलिस्ट ₹1,14,955/माह · पार्ट टाइम स्पेशलिस्ट ₹60,000/माह (निश्चित)",
+     "state": "check"
+    },
+    "age": {
+     "value": "स्पेशलिस्ट अधिकतम 69 वर्ष · सीनियर रेज़िडेंट अधिकतम 45 वर्ष (इंटरव्यू की तारीख 19 Nov 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.esic.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://naukrizila.com/employees-state-insurance-corporation-contractual-full-2026-notification",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "ESIC कोरबा का नया नोटिस (9curry पर 12 Nov को दर्ज) — NaukriZila, GetRojgar, FreshersLive व 9curry से cross-check, सब में एक जैसे: 31 पद, आवेदन ईमेल (ms-korba.cg@esic.gov.in) या हार्ड कॉपी से 14 Nov 2026 दोपहर 12:30 बजे तक, वॉक-इन इंटरव्यू 19 Nov 2026 सुबह 11 बजे, ESIC अस्पताल कोरबा। ध्यान: अक्टूबर में इसी भर्ती का पुराना दौर (आवेदन 10 Oct, इंटरव्यू 14 Oct) बीत चुका है — यह नए तारीख़ों वाला ताज़ा दौर है। कमी: official notification PDF का सीधा link व सीनियर रेज़िडेंट का वेतन नहीं मिला; स्पेशलिस्ट का वेतन आधिकारिक नोटिस के OCR से लिया है, पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T22:53+05:30"
+  },
+  {
+   "id": "prep-gmc-nagpur-assistant-professor-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "GMC नागपुर सहायक प्रोफ़ेसर व ब्लड ट्रांसफ़्यूज़न ऑफ़िसर भर्ती 2026 — 21 पद (संविदा, 364 दिन)",
+   "fields": {
+    "title": {
+     "value": "GMC नागपुर सहायक प्रोफ़ेसर व ब्लड ट्रांसफ़्यूज़न ऑफ़िसर भर्ती 2026 — 21 पद (संविदा, 364 दिन)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "शासकीय वैद्यकीय महाविद्यालय (GMC), नागपुर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "21 पद (GMC नागपुर 15 + GMC सुपर स्पेशलिटी अस्पताल 6; सहायक प्रोफ़ेसर 20 + ब्लड ट्रांसफ़्यूज़न ऑफ़िसर 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "संबंधित विषय में MD/MS/DNB/DM/MCh + 1 साल सीनियर रेज़िडेंट/ट्यूटर अनुभव",
+     "state": "ok"
+    },
+    "state": {
+     "value": "महाराष्ट्र",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-01",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹1,00,000/माह (संविदा, एकमुश्त मानदेय)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "खुला वर्ग 40 वर्ष · पिछड़ा वर्ग 45 वर्ष",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.gmcnagpur.org",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/gmc-nagpur-recruitment-2026-apply-offline-for-21-assistant-professor-blood-transfusion-officer-and-more-posts-3080996",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "विज्ञापन जा.क्र.शावैमना/आस्था-१ व २/19678-81/२०२६, 12 Nov 2026 — FreeJobAlert (आधिकारिक विज्ञापन के हवाले से पूरा ब्योरा) व GovtJobsAlert की ताज़ा सूची से cross-check: 21 पद, फॉर्म 16–23 Nov तक, आवेदन स्वयं जाकर 25 Nov 2026 शाम 5 बजे तक, इंटरव्यू 1 Dec 2026 दोपहर 3 बजे, वेतन ₹1,00,000/माह, 364 दिन की संविदा। कमी: gmcnagpur.org पर notification PDF का सीधा link नहीं मिला; आवेदन ऑफ़लाइन ही है, कोई ऑनलाइन link नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T22:53+05:30"
+  },
+  {
+   "id": "prep-cmo-dnh-specialist-doctor-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "CMO दादरा व नगर हवेली स्पेशलिस्ट डॉक्टर भर्ती 2026 — 14 पद (खानवेल SDH)",
+   "fields": {
+    "title": {
+     "value": "CMO दादरा व नगर हवेली स्पेशलिस्ट डॉक्टर भर्ती 2026 — 14 पद (खानवेल SDH)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "स्वास्थ्य व परिवार कल्याण विभाग, दादरा व नगर हवेली (CMO, NAMO अस्पताल, सिलवासा)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "14 पद (स्पेशलिस्ट डॉक्टर, फिज़िशियन व अन्य)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "PG / DNB / MS/MD (संबंधित विशेषज्ञता)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "दादरा व नगर हवेली और दमन व दीव",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-28",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹1,25,000–2,25,000/माह (पद व अनुभव के अनुसार)",
+     "state": "check"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": "https://linkingsky.com/Docs/daman-and-diu-6-2026.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://ddd.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/medical-hospital-jobs/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "विज्ञापन CMO/EST/Adv./KSDH/2026-27/4055 — FreeJobAlert की मेडिकल सूची (14 पद, अंतिम तिथि 28 Nov 2026) व आधिकारिक नोटिस की प्रति (linkingsky पर UT प्रशासन का पत्र — खानवेल SDH स्पेशलिस्ट, वेतन ₹1,25,000–2,25,000, CMO कार्यालय NAMO अस्पताल सिलवासा) से cross-check। नोटिस का OCR गड़बड़ है, इसलिए पदवार ब्योरा व वेतन 'check' पर है। कमी: आवेदन की शुरुआत की तारीख़, आयु-सीमा व शुल्क नहीं मिले; official PDF का सीधा link (ddd.gov.in) नहीं मिला — दिया गया link नोटिस की mirror प्रति है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T22:53+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T21:50+05:30",
+ "updatedAt": "2026-11-13T22:53+05:30",
  "version": 1
 }
