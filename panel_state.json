@@ -14871,9 +14871,333 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T02:49+05:30"
+  },
+  {
+   "id": "prep-isro-sdsc-shar-97-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ISRO SDSC SHAR भर्ती 2026 — टेक्निकल असिस्टेंट, साइंटिफिक असिस्टेंट, टेक्नीशियन-B व अन्य 97 पद (विज्ञापन SDSC SHAR/RMT/03/2026; पोर्टल फिर खुला — अंतिम तिथि 16 नवंबर)",
+   "fields": {
+    "title": {
+     "value": "ISRO SDSC SHAR भर्ती 2026 — टेक्निकल असिस्टेंट, साइंटिफिक असिस्टेंट, टेक्नीशियन-B व अन्य 97 पद (विज्ञापन SDSC SHAR/RMT/03/2026; पोर्टल फिर खुला — अंतिम तिथि 16 नवंबर)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "सतीश धवन अंतरिक्ष केंद्र (SDSC SHAR), श्रीहरिकोटा — भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "97 पद (टेक्निकल असिस्टेंट 14 + साइंटिफिक असिस्टेंट 3 + लाइब्रेरी असिस्टेंट-A 3 + नर्स-B 3 + टेक्नीशियन-B 43 + ड्राफ्ट्समैन-B 1 + फायरमैन-A 2 + लाइट व्हीकल ड्राइवर-A 5 + हैवी व्हीकल ड्राइवर-A 7 + MTS 16)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं / ITI / डिप्लोमा / B.Sc. / स्नातक (पद अनुसार)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-19",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500 – ₹750 (पोस्ट कोड अनुसार)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "पोस्ट कोड 07–15 ₹750 · पोस्ट कोड 16–30 ₹500; लिखित परीक्षा में शामिल होने पर महिला/SC/ST/PwBD/भूतपूर्व सैनिक को पूरा शुल्क वापस, अन्य को ₹500/₹400 वापस",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level 1–7 — ₹18,000 – ₹1,42,400 (पद अनुसार; TA/SA/लाइब्रेरी/नर्स Level 7 ₹44,900–1,42,400; टेक्नीशियन-B Level 3 ₹21,700–69,100; MTS Level 1 ₹18,000–56,900)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 35 वर्ष (फायरमैन-A व MTS 18–25 वर्ष; गिनती 09.11.2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://apps.shar.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://www.isro.gov.in/SDSCRecruitment26.html",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://www.shar.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=wbaWEvLQ-K0",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (97 पद, विज्ञापन SDSC SHAR/RMT/03/2026, apps.shar.gov.in) + FreeJobAlert, QuickSarkari, govtjobsalert, sarkarijob.in एकमत। पोर्टल 13 नवंबर 2026 को फिर खुला — अंतिम तिथि 9 नवंबर से बढ़कर 16 नवंबर 2026 (official notice 13.11.2026); उम्र/योग्यता की गिनती 09.11.2026 को ही। कमी: सीधा notification PDF link नहीं मिला — ISRO careers page (SDSCRecruitment26.html) check state में है; परीक्षा तिथि अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T03:55+05:30"
+  },
+  {
+   "id": "prep-rrc-cr-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "मध्य रेलवे (RRC CR) एक्ट अप्रेंटिस भर्ती 2026 — 3,809 स्लॉट (विज्ञापन RRC/CR/AA/2026 + P-Way addendum)",
+   "fields": {
+    "title": {
+     "value": "मध्य रेलवे (RRC CR) एक्ट अप्रेंटिस भर्ती 2026 — 3,809 स्लॉट (विज्ञापन RRC/CR/AA/2026 + P-Way addendum)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती प्रकोष्ठ, मध्य रेलवे (RRC), मुंबई",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "3,809 स्लॉट (मूल नोटिस 2,861 — मुंबई 1,712 + भुसावल 500 + पुणे 271 + नागपुर 221 + सोलापुर 157; Engineering (P-Way) addendum 09.11.2026 से 948 अतिरिक्त; addendum में कुल संख्या नहीं छपी)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ITI (10वीं में 50% + संबंधित ट्रेड में NCVT/SCVT ITI)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "महाराष्ट्र",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-02",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹100",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC ₹100 · SC/ST/PwBD/महिला — कोई शुल्क नहीं (वापस नहीं होगा)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹9,600/माह स्टाइपेंड (1 साल की ट्रेनिंग; स्थायी नौकरी नहीं)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "15 – 24 वर्ष (03 नवंबर 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.rrccr.com",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://rrccr.com/rrwc/Files/89178478-8bc4-43c2-b1a2-384d4c8fda73.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://www.rrccr.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/shorts/aENbPxGCXYM",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (2,861 स्लॉट, 10वीं 50% + ITI, स्टाइपेंड ₹9,600, अंतिम तिथि 2 दिसंबर 2026) + FreeJobAlert, jobsdigger, govtjobsalert, maharashtrajobalert एकमत। 9/10 नवंबर के addendum से Engineering (P-Way) यूनिट जुड़ी — 948 अतिरिक्त स्लॉट (boldvoices + pincodeofindia); addendum में कुल संख्या नहीं छपी, इसलिए posts में मूल + अतिरिक्त दोनों लिखे हैं। चयन 10वीं+ITI अंकों की मेरिट से, कोई परीक्षा नहीं; यह 1 साल की अप्रेंटिसशिप है, स्थायी नौकरी नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T03:55+05:30"
+  },
+  {
+   "id": "prep-rpsc-protection-officer-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "RPSC प्रोटेक्शन ऑफ़िसर एडमिट कार्ड 2026 — परीक्षा 15 नवंबर (विज्ञापन 13/2025-26)",
+   "fields": {
+    "title": {
+     "value": "RPSC प्रोटेक्शन ऑफ़िसर एडमिट कार्ड 2026 — परीक्षा 15 नवंबर (विज्ञापन 13/2025-26)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "राजस्थान लोक सेवा आयोग (RPSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "12 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "check"
+    },
+    "state": {
+     "value": "राजस्थान",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-12",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "—",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "—",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "—",
+     "state": "ok"
+    },
+    "age": {
+     "value": "—",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://recruitment.rajasthan.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://rpsc.rajasthan.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://jobshouter.com/rpsc-protection-officer-admit-card-2026-out-written-exam-on-15-november-in-3-days-download-at-recruitment-rajasthan-gov-in/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "CareerIndia + jobshouter + nrai + SarkariExam एकमत — एडमिट कार्ड 12 नवंबर 2026 को जारी, लिखित परीक्षा 15 नवंबर 2026 (दो पेपर: सुबह 9–12 सामान्य अध्ययन, दोपहर 2:30–5:30 सोशल वर्क/कानून); 12 पद, विज्ञापन 13/Exam/Protection Officer/RPSC/EP-1/2025-26। परीक्षा कल (15 नवंबर) है — एडमिट कार्ड तुरंत download करना ज़रूरी है। योग्यता (स्नातक) की पुष्टि बाकी — check state में है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T03:55+05:30"
+  },
+  {
+   "id": "prep-aiims-bhubaneswar-faculty-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "AIIMS भुवनेश्वर फैकल्टी (Group-A) भर्ती 2026 — प्रोफ़ेसर, एडिशनल/एसोसिएट/असिस्टेंट प्रोफ़ेसर 82 पद (विज्ञापन RECT-11012/4/2026-RECU SEC)",
+   "fields": {
+    "title": {
+     "value": "AIIMS भुवनेश्वर फैकल्टी (Group-A) भर्ती 2026 — प्रोफ़ेसर, एडिशनल/एसोसिएट/असिस्टेंट प्रोफ़ेसर 82 पद (विज्ञापन RECT-11012/4/2026-RECU SEC)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), भुवनेश्वर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "82 पद (प्रोफ़ेसर 28 + एडिशनल प्रोफ़ेसर 12 + एसोसिएट प्रोफ़ेसर 16 + असिस्टेंट प्रोफ़ेसर 26)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MD/MS/DM/M.Ch/PhD (पद अनुसार; मेडिकल व नॉन-मेडिकल)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "ओडिशा",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "check"
+    },
+    "lastDate": {
+     "value": "2026-12-13",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹3,000",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/EWS/OBC ₹3,000 · SC/ST ₹2,400 (इंटरव्यू में शामिल होने पर वापस) · PwBD/महिला — कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level 12–14A — ₹1,01,500 – ₹1,68,900 (पद अनुसार; NPA अलग)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 50 – 58 वर्ष (प्रोफ़ेसर/एडिशनल प्रोफ़ेसर 58, एसोसिएट/असिस्टेंट प्रोफ़ेसर 50; गिनती अंतिम तिथि को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://aiimsbhubaneswar.nic.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://aiimsbhubaneswar.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/aiims-bhubaneswar-recruitment-2026-professor-3081125",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert + 9curry एकमत — 82 फैकल्टी पद, विज्ञापन RECT-11012/4/2026-RECU SEC दिनांक 13.11.2026; ऑनलाइन आवेदन 13 दिसंबर 2026 तक, signed hard copy 7 दिन के अंदर भेजनी होगी। चयन स्क्रीनिंग + इंटरव्यू से। कमी: आवेदन link Employment News में प्रकाशन की तारीख़ से active होगा — start date (13.11.2026) check बाकी; सीधा notification PDF link नहीं मिला, aiimsbhubaneswar.nic.in पर देखें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T03:55+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T02:49+05:30",
+ "updatedAt": "2026-11-14T03:55+05:30",
  "version": 1
 }
