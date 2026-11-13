@@ -10454,87 +10454,6 @@
       "createdBy": "LOYATI (hourly check)",
       "fields": {
         "age": {
-          "state": "missing",
-          "value": null
-        },
-        "applyUrl": {
-          "state": "ok",
-          "value": "https://ssc.gov.in"
-        },
-        "cat": {
-          "state": "ok",
-          "value": "answer_key"
-        },
-        "examDate": {
-          "state": "missing",
-          "value": null
-        },
-        "feeGen": {
-          "state": "missing",
-          "value": null
-        },
-        "feeText": {
-          "state": "ok",
-          "value": "स्कोर कार्ड व आंसर की देखने के लिए कोई शुल्क नहीं"
-        },
-        "lastDate": {
-          "state": "ok",
-          "value": "2026-11-17"
-        },
-        "org": {
-          "state": "ok",
-          "value": "कर्मचारी चयन आयोग (SSC)"
-        },
-        "pdfUrl": {
-          "state": "check",
-          "value": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_03112026.pdf"
-        },
-        "posts": {
-          "state": "check",
-          "value": "39,481 पद (CBT में 1,97,408 अभ्यर्थी PET/PST के लिए चयनित)"
-        },
-        "qual": {
-          "state": "check",
-          "value": "10वीं"
-        },
-        "salary": {
-          "state": "missing",
-          "value": null
-        },
-        "siteUrl": {
-          "state": "ok",
-          "value": "https://ssc.gov.in"
-        },
-        "sourceUrl": {
-          "state": "ok",
-          "value": "https://prepp.in/ssc-gd-exam/results"
-        },
-        "startDate": {
-          "state": "ok",
-          "value": "2026-11-03"
-        },
-        "state": {
-          "state": "ok",
-          "value": "सभी राज्य (केंद्रीय)"
-        },
-        "title": {
-          "state": "ok",
-          "value": "SSC GD कांस्टेबल स्कोर कार्ड व फाइनल आंसर की 2026 जारी — 17 नवंबर तक डाउनलोड करें"
-        }
-      },
-      "id": "prep-ssc-gd-score-card-final-answer-key-2026",
-      "jobId": null,
-      "kind": "new_job",
-      "sourceSubmissionId": null,
-      "status": "ready",
-      "title": "SSC GD कांस्टेबल स्कोर कार्ड व फाइनल आंसर की 2026 जारी — 17 नवंबर तक डाउनलोड करें",
-      "verifyNote": "SSC ने 3 Nov 2026 को GD कांस्टेबल CBT का स्कोर कार्ड व फाइनल आंसर की (प्रश्न-पत्र व रिस्पॉन्स शीट सहित) जारी की; डाउनलोड 3–17 Nov 2026 (शाम 5 बजे तक) — Prepp, CareerIndia, Shiksha, Testbook व PracticeMock से cross-check, सब में तारीख़ें एक जैसी। रिजल्ट 12 Oct 2026 को आया था, संशोधित मेरिट सूची 23 Oct को। कमी: पदों की संख्या (39,481) इस जाँच में पक्की नहीं हुई; योग्यता/आयु आवेदन-समय की जानकारी है, स्कोर कार्ड वाली खबरों में नहीं दी; writeup PDF का link एक स्रोत से है, सीधे खोलकर जाँच नहीं हुई।"
-    },
-    {
-      "createdAt": "2026-11-13T16:48+05:30",
-      "createdBy": "LOYATI (hourly check)",
-      "fields": {
-        "age": {
           "state": "check",
           "value": "18 – 35 वर्ष"
         },
@@ -10937,6 +10856,6 @@
     }
   ],
   "submissions": [],
-  "updatedAt": "2026-11-13T16:48+05:30",
+  "updatedAt": "2026-11-13T16:49+05:30",
   "version": 1
 }
