@@ -10045,409 +10045,409 @@
       "verifyNote": "Karmasandhan + Himexam + PlacementStore + JobCareerUpdates + DailyHimachalGK से cross-check: Advt 15/2026 (3 Nov 2026), Post Code 26061, 43 पद (स्वास्थ्य व परिवार कल्याण 19 + चिकित्सा शिक्षा 24), आवेदन 12 Nov–7 Dec 2026, शुल्क ₹800, fixed ₹18,000/माह, चयन CBT/लिखित स्क्रीनिंग टेस्ट से, HP Para Medical Council (अब State Allied Health Care Council) पंजीकरण ज़रूरी। कमी: notification PDF का सीधा link नहीं मिला।"
     },
     {
+      "createdAt": "2026-11-13T15:51:13+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "अधिकतम 35 वर्ष (13.11.2026 को)"
+        },
+        "applyUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "826"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "सामान्य/OBC/EWS ₹826; SC/ST/PwD/भूतपूर्व सैनिक ₹354; महिला/आंतरिक अभ्यर्थी ₹354 — सिर्फ़ ऑनलाइन"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-13"
+        },
+        "org": {
+          "state": "ok",
+          "value": "IREL (इंडिया) लिमिटेड"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "131"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "ITI / NAC (संबंधित ट्रेड) + 2 साल का अनुभव"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.irel.co.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.sarkarijob.com/irel-tradesman-trainee/"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-10-24"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "IREL ट्रेड्समैन ट्रेनी भर्ती 2026 — 131 पद (विज्ञापन CO/HRM/36/2026)"
+        }
+      },
       "id": "prep-irel-tradesman-trainee-2026",
-      "kind": "new_job",
       "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
       "title": "IREL ट्रेड्समैन ट्रेनी भर्ती 2026 — 131 पद (विज्ञापन CO/HRM/36/2026)",
-      "fields": {
-        "title": {
-          "value": "IREL ट्रेड्समैन ट्रेनी भर्ती 2026 — 131 पद (विज्ञापन CO/HRM/36/2026)",
-          "state": "ok"
-        },
-        "org": {
-          "value": "IREL (इंडिया) लिमिटेड",
-          "state": "ok"
-        },
-        "cat": {
-          "value": "job",
-          "state": "ok"
-        },
-        "posts": {
-          "value": "131",
-          "state": "ok"
-        },
-        "qual": {
-          "value": "ITI / NAC (संबंधित ट्रेड) + 2 साल का अनुभव",
-          "state": "ok"
-        },
-        "state": {
-          "value": "सभी राज्य (केंद्रीय)",
-          "state": "ok"
-        },
-        "startDate": {
-          "value": "2026-10-24",
-          "state": "ok"
-        },
-        "lastDate": {
-          "value": "2026-11-13",
-          "state": "ok"
-        },
-        "examDate": {
-          "value": null,
-          "state": "missing"
-        },
-        "feeGen": {
-          "value": "826",
-          "state": "ok"
-        },
-        "feeText": {
-          "value": "सामान्य/OBC/EWS ₹826; SC/ST/PwD/भूतपूर्व सैनिक ₹354; महिला/आंतरिक अभ्यर्थी ₹354 — सिर्फ़ ऑनलाइन",
-          "state": "ok"
-        },
-        "salary": {
-          "value": null,
-          "state": "missing"
-        },
-        "age": {
-          "value": "अधिकतम 35 वर्ष (13.11.2026 को)",
-          "state": "ok"
-        },
-        "applyUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "pdfUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "siteUrl": {
-          "value": "https://www.irel.co.in",
-          "state": "ok"
-        },
-        "sourceUrl": {
-          "value": "https://www.sarkarijob.com/irel-tradesman-trainee/",
-          "state": "ok"
-        }
-      },
-      "verifyNote": "Cross-check: sarkarijob.com, sarkarijob.in, quicksarkari.com, freshersvoice.com — सभी में विज्ञापन CO/HRM/36/2026, 131 पद (फिटर 93, इलेक्ट्रीशियन 12, इंस्ट्रूमेंटेशन 6, AOCP 20), आवेदन 24 अक्टूबर–13 नवंबर 2026, फीस व आयु-सीमा एक जैसी मिलीं। ⚠️ आज ही अंतिम तिथि है — शाम 6 बजे फॉर्म बंद हो जाएगा; queue करते ही upload करें। CBT की तारीख़ अभी घोषित नहीं (examDate missing); वेतन/स्टाइपेंड की पुष्टि नहीं हुई (salary missing); सीधा apply link व notification PDF का सीधा link नहीं मिला (applyUrl/pdfUrl missing) — आधिकारिक साइट irel.co.in से लें।",
-      "status": "ready",
-      "sourceSubmissionId": null,
-      "createdBy": "LOYATI (hourly check)",
-      "createdAt": "2026-11-13T15:51:13+05:30"
+      "verifyNote": "Cross-check: sarkarijob.com, sarkarijob.in, quicksarkari.com, freshersvoice.com — सभी में विज्ञापन CO/HRM/36/2026, 131 पद (फिटर 93, इलेक्ट्रीशियन 12, इंस्ट्रूमेंटेशन 6, AOCP 20), आवेदन 24 अक्टूबर–13 नवंबर 2026, फीस व आयु-सीमा एक जैसी मिलीं। ⚠️ आज ही अंतिम तिथि है — शाम 6 बजे फॉर्म बंद हो जाएगा; queue करते ही upload करें। CBT की तारीख़ अभी घोषित नहीं (examDate missing); वेतन/स्टाइपेंड की पुष्टि नहीं हुई (salary missing); सीधा apply link व notification PDF का सीधा link नहीं मिला (applyUrl/pdfUrl missing) — आधिकारिक साइट irel.co.in से लें।"
     },
     {
+      "createdAt": "2026-11-13T15:51:13+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "cat": {
+          "state": "ok",
+          "value": "result"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2025-11-09"
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "—"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-01"
+        },
+        "org": {
+          "state": "ok",
+          "value": "तमिलनाडु वर्दीधारी सेवा भर्ती बोर्ड (TNUSRB)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "3,644"
+        },
+        "qual": {
+          "state": "check",
+          "value": "10वीं"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://tnusrb.tn.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://testbook.com/news/tnusrb-police-constable-result-2026-out/"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-01"
+        },
+        "state": {
+          "state": "ok",
+          "value": "तमिलनाडु"
+        },
+        "title": {
+          "state": "ok",
+          "value": "TNUSRB कांस्टेबल फाइनल रिजल्ट 2026 घोषित — 3,644 पद (ग्रेड-II पुलिस कांस्टेबल, जेल वार्डर, फायरमैन)"
+        }
+      },
       "id": "prep-tnusrb-constable-final-result-2026",
-      "kind": "new_job",
       "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
       "title": "TNUSRB कांस्टेबल फाइनल रिजल्ट 2026 घोषित — 3,644 पद (ग्रेड-II पुलिस कांस्टेबल, जेल वार्डर, फायरमैन)",
-      "fields": {
-        "title": {
-          "value": "TNUSRB कांस्टेबल फाइनल रिजल्ट 2026 घोषित — 3,644 पद (ग्रेड-II पुलिस कांस्टेबल, जेल वार्डर, फायरमैन)",
-          "state": "ok"
-        },
-        "org": {
-          "value": "तमिलनाडु वर्दीधारी सेवा भर्ती बोर्ड (TNUSRB)",
-          "state": "ok"
-        },
-        "cat": {
-          "value": "result",
-          "state": "ok"
-        },
-        "posts": {
-          "value": "3,644",
-          "state": "ok"
-        },
-        "qual": {
-          "value": "10वीं",
-          "state": "check"
-        },
-        "state": {
-          "value": "तमिलनाडु",
-          "state": "ok"
-        },
-        "startDate": {
-          "value": "2026-11-01",
-          "state": "ok"
-        },
-        "lastDate": {
-          "value": "2026-11-01",
-          "state": "ok"
-        },
-        "examDate": {
-          "value": "2025-11-09",
-          "state": "ok"
-        },
-        "feeGen": {
-          "value": "—",
-          "state": "ok"
-        },
-        "feeText": {
-          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
-          "state": "ok"
-        },
-        "salary": {
-          "value": null,
-          "state": "missing"
-        },
-        "age": {
-          "value": null,
-          "state": "missing"
-        },
-        "applyUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "pdfUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "siteUrl": {
-          "value": "https://tnusrb.tn.gov.in",
-          "state": "ok"
-        },
-        "sourceUrl": {
-          "value": "https://testbook.com/news/tnusrb-police-constable-result-2026-out/",
-          "state": "ok"
-        }
-      },
-      "verifyNote": "Cross-check: testbook.com, freejobalert.com, governmentdailyjobs.com, rojgarpulse.in, 9curry.com — सभी में 1 नवंबर 2026 को फाइनल प्रोविज़नल सेलेक्शन लिस्ट, 3,644 पद, नोटिफिकेशन 02/2025 एक जैसा मिला। यह अंतिम नियुक्ति आदेश नहीं है — मेडिकल, दस्तावेज़ व चरित्र जाँच के बाद ही नियुक्ति होगी। रिजल्ट PDF का सीधा link नहीं मिला (pdfUrl missing) — tnusrb.tn.gov.in से लें; योग्यता (10वीं) की पुष्टि बाकी (qual check)।",
-      "status": "ready",
-      "sourceSubmissionId": null,
-      "createdBy": "LOYATI (hourly check)",
-      "createdAt": "2026-11-13T15:51:13+05:30"
+      "verifyNote": "Cross-check: testbook.com, freejobalert.com, governmentdailyjobs.com, rojgarpulse.in, 9curry.com — सभी में 1 नवंबर 2026 को फाइनल प्रोविज़नल सेलेक्शन लिस्ट, 3,644 पद, नोटिफिकेशन 02/2025 एक जैसा मिला। यह अंतिम नियुक्ति आदेश नहीं है — मेडिकल, दस्तावेज़ व चरित्र जाँच के बाद ही नियुक्ति होगी। रिजल्ट PDF का सीधा link नहीं मिला (pdfUrl missing) — tnusrb.tn.gov.in से लें; योग्यता (10वीं) की पुष्टि बाकी (qual check)।"
     },
     {
+      "createdAt": "2026-11-13T15:51:13+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "cat": {
+          "state": "ok",
+          "value": "result"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-03-01"
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "—"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "स्कोर कार्ड देखने के लिए कोई शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2027-03-31"
+        },
+        "org": {
+          "state": "ok",
+          "value": "भारतीय रिज़र्व बैंक (RBI)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "572"
+        },
+        "qual": {
+          "state": "check",
+          "value": "10वीं"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.rbi.org.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://testbook.com/news/rbi-office-attendant-scorecard-2026-out/"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-04"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "RBI ऑफिस अटेंडेंट स्कोर कार्ड व कट-ऑफ 2026 जारी — 572 पद (पैनल वर्ष 2025)"
+        }
+      },
       "id": "prep-rbi-office-attendant-scorecard-2026",
-      "kind": "new_job",
       "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
       "title": "RBI ऑफिस अटेंडेंट स्कोर कार्ड व कट-ऑफ 2026 जारी — 572 पद (पैनल वर्ष 2025)",
-      "fields": {
-        "title": {
-          "value": "RBI ऑफिस अटेंडेंट स्कोर कार्ड व कट-ऑफ 2026 जारी — 572 पद (पैनल वर्ष 2025)",
-          "state": "ok"
-        },
-        "org": {
-          "value": "भारतीय रिज़र्व बैंक (RBI)",
-          "state": "ok"
-        },
-        "cat": {
-          "value": "result",
-          "state": "ok"
-        },
-        "posts": {
-          "value": "572",
-          "state": "ok"
-        },
-        "qual": {
-          "value": "10वीं",
-          "state": "check"
-        },
-        "state": {
-          "value": "सभी राज्य (केंद्रीय)",
-          "state": "ok"
-        },
-        "startDate": {
-          "value": "2026-11-04",
-          "state": "ok"
-        },
-        "lastDate": {
-          "value": "2027-03-31",
-          "state": "ok"
-        },
-        "examDate": {
-          "value": "2026-03-01",
-          "state": "ok"
-        },
-        "feeGen": {
-          "value": "—",
-          "state": "ok"
-        },
-        "feeText": {
-          "value": "स्कोर कार्ड देखने के लिए कोई शुल्क नहीं",
-          "state": "ok"
-        },
-        "salary": {
-          "value": null,
-          "state": "missing"
-        },
-        "age": {
-          "value": null,
-          "state": "missing"
-        },
-        "applyUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "pdfUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "siteUrl": {
-          "value": "https://www.rbi.org.in",
-          "state": "ok"
-        },
-        "sourceUrl": {
-          "value": "https://testbook.com/news/rbi-office-attendant-scorecard-2026-out/",
-          "state": "ok"
-        }
-      },
-      "verifyNote": "Cross-check: testbook.com, jobcareerupdates.in, pw.live, govtjobsalert.in, 9curry.com — सभी में स्कोर कार्ड व कट-ऑफ 4 नवंबर 2026 को जारी, 572 पद, परीक्षा 28 फरवरी–1 मार्च 2026, रिजल्ट 22 जून 2026 एक जैसा मिला। यह अंतिम रिजल्ट नहीं — शॉर्टलिस्ट अभ्यर्थियों को आगे Language Proficiency Test (LPT) देना है, तारीख़ अभी घोषित नहीं। स्कोर कार्ड 31 मार्च 2027 तक डाउनलोड होगा (opportunities.rbi.org.in)। कट-ऑफ PDF का सीधा link नहीं मिला (pdfUrl missing); योग्यता (10वीं) की पुष्टि बाकी (qual check)।",
-      "status": "ready",
-      "sourceSubmissionId": null,
-      "createdBy": "LOYATI (hourly check)",
-      "createdAt": "2026-11-13T15:51:13+05:30"
+      "verifyNote": "Cross-check: testbook.com, jobcareerupdates.in, pw.live, govtjobsalert.in, 9curry.com — सभी में स्कोर कार्ड व कट-ऑफ 4 नवंबर 2026 को जारी, 572 पद, परीक्षा 28 फरवरी–1 मार्च 2026, रिजल्ट 22 जून 2026 एक जैसा मिला। यह अंतिम रिजल्ट नहीं — शॉर्टलिस्ट अभ्यर्थियों को आगे Language Proficiency Test (LPT) देना है, तारीख़ अभी घोषित नहीं। स्कोर कार्ड 31 मार्च 2027 तक डाउनलोड होगा (opportunities.rbi.org.in)। कट-ऑफ PDF का सीधा link नहीं मिला (pdfUrl missing); योग्यता (10वीं) की पुष्टि बाकी (qual check)।"
     },
     {
+      "createdAt": "2026-11-13T15:51:13+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "cat": {
+          "state": "ok",
+          "value": "answer_key"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-10-29"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-15"
+        },
+        "org": {
+          "state": "ok",
+          "value": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "175"
+        },
+        "qual": {
+          "state": "check",
+          "value": "B.E./B.Tech"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.isro.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://timesofindia.indiatimes.com/education/news/isro-scientist-engineer-answer-key-2026-released-at-isro-gov-in-candidates-can-raise-objections-till-november-15-check-direct-link-to-download-here/articleshow/135762760.cms"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-12"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "ISRO साइंटिस्ट/इंजीनियर 'SC' आंसर की 2026 जारी — आपत्ति 15 नवंबर तक (175 पद)"
+        }
+      },
       "id": "prep-isro-scientist-engineer-answer-key-2026",
-      "kind": "new_job",
       "jobId": null,
-      "title": "ISRO साइंटिस्ट/इंजीनियर 'SC' आंसर की 2026 जारी — आपत्ति 15 नवंबर तक (175 पद)",
-      "fields": {
-        "title": {
-          "value": "ISRO साइंटिस्ट/इंजीनियर 'SC' आंसर की 2026 जारी — आपत्ति 15 नवंबर तक (175 पद)",
-          "state": "ok"
-        },
-        "org": {
-          "value": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)",
-          "state": "ok"
-        },
-        "cat": {
-          "value": "answer_key",
-          "state": "ok"
-        },
-        "posts": {
-          "value": "175",
-          "state": "ok"
-        },
-        "qual": {
-          "value": "B.E./B.Tech",
-          "state": "check"
-        },
-        "state": {
-          "value": "सभी राज्य (केंद्रीय)",
-          "state": "ok"
-        },
-        "startDate": {
-          "value": "2026-11-12",
-          "state": "ok"
-        },
-        "lastDate": {
-          "value": "2026-11-15",
-          "state": "ok"
-        },
-        "examDate": {
-          "value": "2026-10-29",
-          "state": "ok"
-        },
-        "feeGen": {
-          "value": null,
-          "state": "missing"
-        },
-        "feeText": {
-          "value": null,
-          "state": "missing"
-        },
-        "salary": {
-          "value": null,
-          "state": "missing"
-        },
-        "age": {
-          "value": null,
-          "state": "missing"
-        },
-        "applyUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "pdfUrl": {
-          "value": null,
-          "state": "missing"
-        },
-        "siteUrl": {
-          "value": "https://www.isro.gov.in",
-          "state": "ok"
-        },
-        "sourceUrl": {
-          "value": "https://timesofindia.indiatimes.com/education/news/isro-scientist-engineer-answer-key-2026-released-at-isro-gov-in-candidates-can-raise-objections-till-november-15-check-direct-link-to-download-here/articleshow/135762760.cms",
-          "state": "ok"
-        }
-      },
-      "verifyNote": "Cross-check: timesofindia, jagranjosh.com, fresherslive.com, 9curry.com — सभी में आंसर की 12 नवंबर 2026 को जारी, CBT 29 अक्टूबर 2026, विज्ञापन ISRO ICRB:03(EMC):2026, 175 पद (इलेक्ट्रॉनिक्स 100, मैकेनिकल 53, कंप्यूटर साइंस 22), आपत्ति 15 नवंबर 2026 दोपहर 1 बजे तक एक जैसा मिला। आपत्ति सिर्फ़ ऑनलाइन लॉगिन से — आपत्ति शुल्क की पुष्टि नहीं हुई (fee missing); आंसर की लॉगिन से मिलती है, सीधा PDF link नहीं (pdfUrl missing); योग्यता (B.E./B.Tech) की पुष्टि बाकी (qual check)।",
-      "status": "ready",
+      "kind": "new_job",
       "sourceSubmissionId": null,
-      "createdBy": "LOYATI (hourly check)",
-      "createdAt": "2026-11-13T15:51:13+05:30"
+      "status": "ready",
+      "title": "ISRO साइंटिस्ट/इंजीनियर 'SC' आंसर की 2026 जारी — आपत्ति 15 नवंबर तक (175 पद)",
+      "verifyNote": "Cross-check: timesofindia, jagranjosh.com, fresherslive.com, 9curry.com — सभी में आंसर की 12 नवंबर 2026 को जारी, CBT 29 अक्टूबर 2026, विज्ञापन ISRO ICRB:03(EMC):2026, 175 पद (इलेक्ट्रॉनिक्स 100, मैकेनिकल 53, कंप्यूटर साइंस 22), आपत्ति 15 नवंबर 2026 दोपहर 1 बजे तक एक जैसा मिला। आपत्ति सिर्फ़ ऑनलाइन लॉगिन से — आपत्ति शुल्क की पुष्टि नहीं हुई (fee missing); आंसर की लॉगिन से मिलती है, सीधा PDF link नहीं (pdfUrl missing); योग्यता (B.E./B.Tech) की पुष्टि बाकी (qual check)।"
     },
     {
-      "id": "prep-dwcd-bidar-anganwadi-2026",
-      "kind": "new_job",
-      "jobId": null,
-      "title": "कर्नाटक WCD बीदर आंगनवाड़ी भर्ती 2026 — 441 पद (कार्यकर्ता 110 + सहायिका 331)",
+      "createdAt": "2026-11-13T15:51:13+05:30",
+      "createdBy": "LOYATI (hourly check)",
       "fields": {
-        "title": {
-          "value": "कर्नाटक WCD बीदर आंगनवाड़ी भर्ती 2026 — 441 पद (कार्यकर्ता 110 + सहायिका 331)",
-          "state": "ok"
-        },
-        "org": {
-          "value": "महिला एवं बाल विकास विभाग, बीदर (कर्नाटक)",
-          "state": "ok"
-        },
-        "cat": {
-          "value": "job",
-          "state": "ok"
-        },
-        "posts": {
-          "value": "441",
-          "state": "ok"
-        },
-        "qual": {
-          "value": "12वीं (PUC) — कार्यकर्ता; 10वीं (SSLC) — सहायिका; कन्नड़ भाषा अनिवार्य",
-          "state": "ok"
-        },
-        "state": {
-          "value": "कर्नाटक",
-          "state": "ok"
-        },
-        "startDate": {
-          "value": "2026-11-11",
-          "state": "ok"
-        },
-        "lastDate": {
-          "value": "2026-12-11",
-          "state": "ok"
-        },
-        "examDate": {
-          "value": null,
-          "state": "missing"
-        },
-        "feeGen": {
-          "value": null,
-          "state": "missing"
-        },
-        "feeText": {
-          "value": "नोटिफिकेशन में आवेदन शुल्क नहीं दिया गया",
-          "state": "ok"
-        },
-        "salary": {
-          "value": "मानदेय (honorarium) आधारित — राशि नोटिफिकेशन में नहीं दी गई",
-          "state": "ok"
-        },
         "age": {
-          "value": "19–35 वर्ष (केवल महिलाएँ व ट्रांसजेंडर महिलाएँ)",
-          "state": "ok"
+          "state": "ok",
+          "value": "19–35 वर्ष (केवल महिलाएँ व ट्रांसजेंडर महिलाएँ)"
         },
         "applyUrl": {
-          "value": "https://bidar.nic.in/",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://bidar.nic.in/"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "नोटिफिकेशन में आवेदन शुल्क नहीं दिया गया"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-11"
+        },
+        "org": {
+          "state": "ok",
+          "value": "महिला एवं बाल विकास विभाग, बीदर (कर्नाटक)"
         },
         "pdfUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "441"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "12वीं (PUC) — कार्यकर्ता; 10वीं (SSLC) — सहायिका; कन्नड़ भाषा अनिवार्य"
+        },
+        "salary": {
+          "state": "ok",
+          "value": "मानदेय (honorarium) आधारित — राशि नोटिफिकेशन में नहीं दी गई"
         },
         "siteUrl": {
-          "value": "https://bidar.nic.in/",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://bidar.nic.in/"
         },
         "sourceUrl": {
-          "value": "https://www.freejobalert.com/articles/dwcd-bidar-recruitment-2026-apply-online-for-441-anganwadi-worker-anganwadi-helper-posts-3080778",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/dwcd-bidar-recruitment-2026-apply-online-for-441-anganwadi-worker-anganwadi-helper-posts-3080778"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-11"
+        },
+        "state": {
+          "state": "ok",
+          "value": "कर्नाटक"
+        },
+        "title": {
+          "state": "ok",
+          "value": "कर्नाटक WCD बीदर आंगनवाड़ी भर्ती 2026 — 441 पद (कार्यकर्ता 110 + सहायिका 331)"
         }
       },
-      "verifyNote": "Cross-check: freejobalert.com का पूरा लेख पढ़ा (तालुक-वार सूची: कार्यकर्ता 110 + सहायिका 331 = 441), mysarkarinaukri.com, 9curry.com — अधिसूचना 05/11/2026, आवेदन 11 नवंबर–11 दिसंबर 2026, आयु 19–35, सिर्फ़ महिलाएँ/ट्रांसजेंडर महिलाएँ एक जैसी मिलीं। एक स्रोत (newgovtjobalert) में सहायिका 326 लिखी है — बहुमत व तालुक-वार जोड़ (331) से कुल 441 ही सही माना गया है। मानदेय की राशि व आवेदन शुल्क नोटिफिकेशन में नहीं दिए गए; चयन योग्यता के अंकों + बोनस अंकों से, कोई परीक्षा नहीं। Notification PDF का सीधा link नहीं मिला (pdfUrl missing) — bidar.nic.in से लें।",
-      "status": "ready",
+      "id": "prep-dwcd-bidar-anganwadi-2026",
+      "jobId": null,
+      "kind": "new_job",
       "sourceSubmissionId": null,
-      "createdBy": "LOYATI (hourly check)",
-      "createdAt": "2026-11-13T15:51:13+05:30"
+      "status": "ready",
+      "title": "कर्नाटक WCD बीदर आंगनवाड़ी भर्ती 2026 — 441 पद (कार्यकर्ता 110 + सहायिका 331)",
+      "verifyNote": "Cross-check: freejobalert.com का पूरा लेख पढ़ा (तालुक-वार सूची: कार्यकर्ता 110 + सहायिका 331 = 441), mysarkarinaukri.com, 9curry.com — अधिसूचना 05/11/2026, आवेदन 11 नवंबर–11 दिसंबर 2026, आयु 19–35, सिर्फ़ महिलाएँ/ट्रांसजेंडर महिलाएँ एक जैसी मिलीं। एक स्रोत (newgovtjobalert) में सहायिका 326 लिखी है — बहुमत व तालुक-वार जोड़ (331) से कुल 441 ही सही माना गया है। मानदेय की राशि व आवेदन शुल्क नोटिफिकेशन में नहीं दिए गए; चयन योग्यता के अंकों + बोनस अंकों से, कोई परीक्षा नहीं। Notification PDF का सीधा link नहीं मिला (pdfUrl missing) — bidar.nic.in से लें।"
     },
     {
       "createdAt": "2026-11-13T16:48+05:30",
@@ -10859,72 +10859,72 @@
       "createdBy": "LOYATI (hourly check)",
       "fields": {
         "age": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "applyUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "cat": {
-          "value": "result",
-          "state": "ok"
+          "state": "ok",
+          "value": "result"
         },
         "examDate": {
-          "value": "2026-05-31",
-          "state": "check"
+          "state": "check",
+          "value": "2026-05-31"
         },
         "feeGen": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeText": {
-          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
-          "state": "ok"
+          "state": "ok",
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
         },
         "lastDate": {
-          "value": "2026-10-29",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-10-29"
         },
         "org": {
-          "value": "इंडियन बैंक (Indian Bank)",
-          "state": "ok"
+          "state": "ok",
+          "value": "इंडियन बैंक (Indian Bank)"
         },
         "pdfUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "posts": {
-          "value": "350 पद (SO) — 129 अभ्यर्थी अंतिम चयन सूची में",
-          "state": "ok"
+          "state": "ok",
+          "value": "350 पद (SO) — 129 अभ्यर्थी अंतिम चयन सूची में"
         },
         "qual": {
-          "value": "स्नातक + विशेषज्ञता (पद अनुसार)",
-          "state": "check"
+          "state": "check",
+          "value": "स्नातक + विशेषज्ञता (पद अनुसार)"
         },
         "salary": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "siteUrl": {
-          "value": "https://indianbank.bank.in",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://indianbank.bank.in"
         },
         "sourceUrl": {
-          "value": "https://www.jagranjosh.com/lite/articles/indian-bank-so-result-2026-out-download-provisional-merit-list-pdf-direct-link-here-1800018516-1",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://www.jagranjosh.com/lite/articles/indian-bank-so-result-2026-out-download-provisional-merit-list-pdf-direct-link-here-1800018516-1"
         },
         "startDate": {
-          "value": "2026-10-29",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-10-29"
         },
         "state": {
-          "value": "सभी राज्य (केंद्रीय)",
-          "state": "ok"
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
         },
         "title": {
-          "value": "इंडियन बैंक स्पेशलिस्ट ऑफिसर (SO) फाइनल रिजल्ट 2026 घोषित — 129 अभ्यर्थी अंतिम सूची में",
-          "state": "ok"
+          "state": "ok",
+          "value": "इंडियन बैंक स्पेशलिस्ट ऑफिसर (SO) फाइनल रिजल्ट 2026 घोषित — 129 अभ्यर्थी अंतिम सूची में"
         }
       },
       "id": "prep-indian-bank-so-result-2026",
@@ -10940,72 +10940,72 @@
       "createdBy": "LOYATI (hourly check)",
       "fields": {
         "age": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "applyUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "cat": {
-          "value": "result",
-          "state": "ok"
+          "state": "ok",
+          "value": "result"
         },
         "examDate": {
-          "value": "2026-09-27",
-          "state": "check"
+          "state": "check",
+          "value": "2026-09-27"
         },
         "feeGen": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeText": {
-          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
-          "state": "ok"
+          "state": "ok",
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
         },
         "lastDate": {
-          "value": "2026-11-13",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-11-13"
         },
         "org": {
-          "value": "उत्तराखंड विद्यालयी शिक्षा परिषद (UBSE)",
-          "state": "ok"
+          "state": "ok",
+          "value": "उत्तराखंड विद्यालयी शिक्षा परिषद (UBSE)"
         },
         "pdfUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "posts": {
-          "value": "UTET 2026 — पेपर-1 (कक्षा 1–5) व पेपर-2 (कक्षा 6–8)",
-          "state": "ok"
+          "state": "ok",
+          "value": "UTET 2026 — पेपर-1 (कक्षा 1–5) व पेपर-2 (कक्षा 6–8)"
         },
         "qual": {
-          "value": "D.El.Ed / B.Ed (पेपर अनुसार)",
-          "state": "check"
+          "state": "check",
+          "value": "D.El.Ed / B.Ed (पेपर अनुसार)"
         },
         "salary": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "siteUrl": {
-          "value": "https://ukutet.com",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://ukutet.com"
         },
         "sourceUrl": {
-          "value": "https://news.careers360.com/utet-result-2026-out-download-scorecard-ukutet-com-final-answer-key-ubse-teacher-eligibility-test-ubse-uk-gov-in-paper-1-2",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://news.careers360.com/utet-result-2026-out-download-scorecard-ukutet-com-final-answer-key-ubse-teacher-eligibility-test-ubse-uk-gov-in-paper-1-2"
         },
         "startDate": {
-          "value": "2026-11-13",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-11-13"
         },
         "state": {
-          "value": "उत्तराखंड",
-          "state": "ok"
+          "state": "ok",
+          "value": "उत्तराखंड"
         },
         "title": {
-          "value": "UTET रिजल्ट 2026 घोषित — पेपर-1 व पेपर-2 का स्कोरकार्ड जारी",
-          "state": "ok"
+          "state": "ok",
+          "value": "UTET रिजल्ट 2026 घोषित — पेपर-1 व पेपर-2 का स्कोरकार्ड जारी"
         }
       },
       "id": "prep-utet-result-2026",
@@ -11021,72 +11021,72 @@
       "createdBy": "LOYATI (hourly check)",
       "fields": {
         "age": {
-          "value": "अधिकतम 33 वर्ष (आवेदन की आख़िरी तारीख़ को)",
-          "state": "ok"
+          "state": "ok",
+          "value": "अधिकतम 33 वर्ष (आवेदन की आख़िरी तारीख़ को)"
         },
         "applyUrl": {
-          "value": "https://forms.gle/8CqCB5iXLhHmUN519",
-          "state": "check"
+          "state": "check",
+          "value": "https://forms.gle/8CqCB5iXLhHmUN519"
         },
         "cat": {
-          "value": "job",
-          "state": "ok"
+          "state": "ok",
+          "value": "job"
         },
         "examDate": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeGen": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeText": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "lastDate": {
-          "value": "2026-12-03",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-12-03"
         },
         "org": {
-          "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), मदुरै",
-          "state": "ok"
+          "state": "ok",
+          "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), मदुरै"
         },
         "pdfUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "posts": {
-          "value": "36 पद",
-          "state": "ok"
+          "state": "ok",
+          "value": "36 पद"
         },
         "qual": {
-          "value": "MBBS + इंटर्नशिप पूरा + NMC पंजीकरण",
-          "state": "check"
+          "state": "check",
+          "value": "MBBS + इंटर्नशिप पूरा + NMC पंजीकरण"
         },
         "salary": {
-          "value": "Level-10 — ₹56,100 – ₹1,77,500 + NPA",
-          "state": "ok"
+          "state": "ok",
+          "value": "Level-10 — ₹56,100 – ₹1,77,500 + NPA"
         },
         "siteUrl": {
-          "value": "https://aiimsmadurai.edu.in",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://aiimsmadurai.edu.in"
         },
         "sourceUrl": {
-          "value": "https://www.freejobalert.com/articles/aiims-madurai-junior-resident-non-academic-recruitment-2026-3080933",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/aiims-madurai-junior-resident-non-academic-recruitment-2026-3080933"
         },
         "startDate": {
-          "value": "2026-11-13",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-11-13"
         },
         "state": {
-          "value": "तमिलनाडु",
-          "state": "ok"
+          "state": "ok",
+          "value": "तमिलनाडु"
         },
         "title": {
-          "value": "AIIMS मदुरै जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 36 पद (रोलिंग विज्ञापन)",
-          "state": "ok"
+          "state": "ok",
+          "value": "AIIMS मदुरै जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 36 पद (रोलिंग विज्ञापन)"
         }
       },
       "id": "prep-aiims-madurai-junior-resident-2026",
@@ -11102,72 +11102,72 @@
       "createdBy": "LOYATI (hourly check)",
       "fields": {
         "age": {
-          "value": "अधिकतम 45 वर्ष (03.12.2026 को)",
-          "state": "ok"
+          "state": "ok",
+          "value": "अधिकतम 45 वर्ष (03.12.2026 को)"
         },
         "applyUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "cat": {
-          "value": "job",
-          "state": "ok"
+          "state": "ok",
+          "value": "job"
         },
         "examDate": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeGen": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeText": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "lastDate": {
-          "value": "2026-12-03",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-12-03"
         },
         "org": {
-          "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), मदुरै",
-          "state": "ok"
+          "state": "ok",
+          "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), मदुरै"
         },
         "pdfUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "posts": {
-          "value": "46 पद (19 विभाग)",
-          "state": "ok"
+          "state": "ok",
+          "value": "46 पद (19 विभाग)"
         },
         "qual": {
-          "value": "MD/MS/DNB (संबंधित विषय)",
-          "state": "check"
+          "state": "check",
+          "value": "MD/MS/DNB (संबंधित विषय)"
         },
         "salary": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "siteUrl": {
-          "value": "https://aiimsmadurai.edu.in",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://aiimsmadurai.edu.in"
         },
         "sourceUrl": {
-          "value": "https://www.freejobalert.com/articles/aiims-madurai-recruitment-2026-senior-resident-non-academic-3080929",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/aiims-madurai-recruitment-2026-senior-resident-non-academic-3080929"
         },
         "startDate": {
-          "value": "2026-11-13",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-11-13"
         },
         "state": {
-          "value": "तमिलनाडु",
-          "state": "ok"
+          "state": "ok",
+          "value": "तमिलनाडु"
         },
         "title": {
-          "value": "AIIMS मदुरै सीनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 46 पद (19 विभाग, 3 वर्ष का कार्यकाल)",
-          "state": "ok"
+          "state": "ok",
+          "value": "AIIMS मदुरै सीनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 46 पद (19 विभाग, 3 वर्ष का कार्यकाल)"
         }
       },
       "id": "prep-aiims-madurai-senior-resident-2026",
@@ -11183,72 +11183,72 @@
       "createdBy": "LOYATI (hourly check)",
       "fields": {
         "age": {
-          "value": "अधिकतम 69 वर्ष (18.11.2026 को)",
-          "state": "ok"
+          "state": "ok",
+          "value": "अधिकतम 69 वर्ष (18.11.2026 को)"
         },
         "applyUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "cat": {
-          "value": "job",
-          "state": "ok"
+          "state": "ok",
+          "value": "job"
         },
         "examDate": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeGen": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "feeText": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "lastDate": {
-          "value": "2026-11-18",
-          "state": "ok"
+          "state": "ok",
+          "value": "2026-11-18"
         },
         "org": {
-          "value": "कर्मचारी राज्य बीमा निगम — ESIC मेडिकल कॉलेज व अस्पताल, बिहटा, पटना",
-          "state": "ok"
+          "state": "ok",
+          "value": "कर्मचारी राज्य बीमा निगम — ESIC मेडिकल कॉलेज व अस्पताल, बिहटा, पटना"
         },
         "pdfUrl": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "posts": {
-          "value": "59 पद (प्रोफ़ेसर 16 + एसोसिएट प्रोफ़ेसर 26 + असिस्टेंट प्रोफ़ेसर 17)",
-          "state": "ok"
+          "state": "ok",
+          "value": "59 पद (प्रोफ़ेसर 16 + एसोसिएट प्रोफ़ेसर 26 + असिस्टेंट प्रोफ़ेसर 17)"
         },
         "qual": {
-          "value": "NMC नियमों के अनुसार संबंधित विषय में योग्यता व अनुभव (पद अनुसार)",
-          "state": "check"
+          "state": "check",
+          "value": "NMC नियमों के अनुसार संबंधित विषय में योग्यता व अनुभव (पद अनुसार)"
         },
         "salary": {
-          "value": null,
-          "state": "missing"
+          "state": "missing",
+          "value": null
         },
         "siteUrl": {
-          "value": "https://www.mcpatna.esic.gov.in",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://www.mcpatna.esic.gov.in"
         },
         "sourceUrl": {
-          "value": "https://www.freejobalert.com/articles/esic-mch-bihta-recruitment-2026-professor-associate-professor-3079036",
-          "state": "ok"
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/esic-mch-bihta-recruitment-2026-professor-associate-professor-3079036"
         },
         "startDate": {
-          "value": "2026-11-05",
-          "state": "check"
+          "state": "check",
+          "value": "2026-11-05"
         },
         "state": {
-          "value": "बिहार",
-          "state": "ok"
+          "state": "ok",
+          "value": "बिहार"
         },
         "title": {
-          "value": "ESIC मेडिकल कॉलेज व अस्पताल, बिहटा (पटना) टीचिंग फैकल्टी भर्ती 2026 — 59 पद (विज्ञापन 15/2026, कॉन्ट्रैक्ट)",
-          "state": "ok"
+          "state": "ok",
+          "value": "ESIC मेडिकल कॉलेज व अस्पताल, बिहटा (पटना) टीचिंग फैकल्टी भर्ती 2026 — 59 पद (विज्ञापन 15/2026, कॉन्ट्रैक्ट)"
         }
       },
       "id": "prep-esic-mch-bihta-faculty-2026",
@@ -11258,9 +11258,495 @@
       "status": "ready",
       "title": "ESIC मेडिकल कॉलेज व अस्पताल, बिहटा (पटना) टीचिंग फैकल्टी भर्ती 2026 — 59 पद (विज्ञापन 15/2026, कॉन्ट्रैक्ट)",
       "verifyNote": "विज्ञापन 15/2026 — FreeJobAlert, MySarkariNaukri, Certifica, FreshersLive व 9curry से cross-check, सब में 59 पद (16+26+17), 18 Nov 2026 दोपहर 12 बजे तक ईमेल से आवेदन एक जैसे। कॉन्ट्रैक्ट पर टीचिंग फैकल्टी (1 साल); आवेदन dean-bihta.bh@esic.gov.in पर ईमेल से, ऑनलाइन फॉर्म नहीं है; इंटरव्यू 19 Nov 2026 (Pre/Para Clinical)। ध्यान दें: नोटिस में Clinical विभागों के इंटरव्यू की तारीख़ 20 Oct 2026 छपी है — वह आवेदन की आख़िरी तारीख़ से पहले की है, इसलिए साफ़ ग़लती लगती है; card में वह तारीख़ नहीं ली है, आधिकारिक सुधार की पुष्टि बाकी। कमी: वेतन, फ़ीस व official PDF का सीधा link नहीं मिला; विज्ञापन जारी होने की सटीक तारीख़ भी नहीं मिली (5 Nov 2026 प्रकाशन के हिसाब से 'check')।"
+    },
+    {
+      "createdAt": "2026-11-13T18:54+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "check",
+          "value": "https://drdo.res.in/ceptam_noticeboard/drentrystatus/"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "result"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-06-15"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-09"
+        },
+        "org": {
+          "state": "ok",
+          "value": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) — CEPTAM"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "764 पद (STA-B 561 + टेक्नीशियन-A 203)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "STA-B: B.Sc./Diploma · टेक्नीशियन-A: 10वीं + ITI (CEPTAM-11 नोटिफ़िकेशन के अनुसार)"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.drdo.gov.in/"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://timesofindia.indiatimes.com/education/news/drdo-ceptam-11-tier-2-result-2026-declared-for-technician-a-posts-check-direct-links-to-download-scorecards-here/articleshow/135683535.cms"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-09"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "DRDO CEPTAM-11 Tier-II रिजल्ट 2026 जारी — टेक्नीशियन-A के लिए, 764 पद (STA-B अभी प्रक्रिया में)"
+        }
+      },
+      "id": "prep-drdo-ceptam-11-tier2-result-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "DRDO CEPTAM-11 Tier-II रिजल्ट 2026 जारी — टेक्नीशियन-A के लिए, 764 पद (STA-B अभी प्रक्रिया में)",
+      "verifyNote": "Tier-II रिजल्ट 9 Nov 2026 को टेक्नीशियन-A (15 ट्रेड, पोस्ट कोड 0201–0216) के लिए जारी; STA-B (0101–0117) का रिजल्ट अभी under process है। TOI, NDTV Profit, JagranJosh, Testbook, SarkariResult.app व Certifica (official notice drdo.res.in पर 10 Nov को जाँचा) से cross-check — सब में 9 Nov, 764 पद, परीक्षा 15 June 2026 एक जैसे। अगले चरण: टेक्नीशियन-A — ट्रेड टेस्ट; STA-B — दस्तावेज़ सत्यापन (तारीख़ें अभी घोषित नहीं)। कमी: सीधा merit-list PDF link नहीं मिला (रिजल्ट login से देखना है); वेतन/आयु की पुष्टि बाकी।"
+    },
+    {
+      "createdAt": "2026-11-13T18:54+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "18–35 वर्ष (01.07.2026 को)"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "http://upanganwadibharti.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-03"
+        },
+        "org": {
+          "state": "ok",
+          "value": "जिला कार्यक्रम अधिकारी, जनपद पीलीभीत (बाल विकास सेवा व पुष्टाहार विभाग, UP)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "283 पद (कार्यकर्ता 130 + सहायिका 153)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "12वीं (Intermediate) — मेरिट Intermediate से PG तक"
+        },
+        "salary": {
+          "state": "check",
+          "value": "मानदेय पर (राशि नोटिफ़िकेशन में नहीं दी गई)"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "http://upanganwadibharti.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/up-anganwadi-pilibhit-recruitment-2026-anganwadi-helper-3080845"
+        },
+        "startDate": {
+          "state": "check",
+          "value": "2026-11-12"
+        },
+        "state": {
+          "state": "ok",
+          "value": "उत्तर प्रदेश (पीलीभीत जिला, केवल महिलाएँ)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "UP आंगनवाड़ी कार्यकर्ता व सहायिका भर्ती 2026 — पीलीभीत जिला, 283 पद (केवल महिलाएँ)"
+        }
+      },
+      "id": "prep-up-anganwadi-pilibhit-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "UP आंगनवाड़ी कार्यकर्ता व सहायिका भर्ती 2026 — पीलीभीत जिला, 283 पद (केवल महिलाएँ)",
+      "verifyNote": "विज्ञापन C-1455, 12 Nov 2026 — FreeJobAlert, GovtJobGuru, 9curry, FreshersLive व SarkariResult से cross-check, सब में 283 पद (कार्यकर्ता 130 + सहायिका 153) व 3 Dec 2026 एक जैसे। सिर्फ़ महिलाएँ; पीलीभीत की 8 बाल विकास परियोजनाओं में पद; सिर्फ़ ऑनलाइन आवेदन, डाक से नहीं। कमी: नोटिस में आवेदन शुरू होने की तारीख़, फ़ीस व मानदेय की राशि नहीं दी; कार्यकर्ता/सहायिका की योग्यता की पुष्टि बाकी।"
+    },
+    {
+      "createdAt": "2026-11-13T18:54+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "18–28 वर्ष (27.11.2026 को)"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.powergrid.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "₹500"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "₹500 — ऑनलाइन"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-27"
+        },
+        "org": {
+          "state": "ok",
+          "value": "पावर ग्रिड कॉरपोरेशन ऑफ इंडिया लिमिटेड (POWERGRID) — PowerTel"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "33 पद (UR 14, OBC 7, SC 6, ST 3, EWS 3)"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "B.E./B.Tech (Electronics) — 60% अंक + GATE 2026 (EC)"
+        },
+        "salary": {
+          "state": "ok",
+          "value": "₹30,000 – ₹1,20,000 / माह (प्रशिक्षण के दौरान) + IDA, HRA व भत्ते; अनुमानित CTC ₹14.33 लाख/वर्ष"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.powergrid.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://timesofindia.indiatimes.com/education/news/powergrid-invites-applications-for-trainee-engineer-posts-through-gate-2026-check-eligibility-and-key-dates/articleshow/135796956.cms"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-13"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "पावरग्रिड (PowerTel) ट्रेनी इंजीनियर (इलेक्ट्रॉनिक्स) भर्ती 2026 — 33 पद (GATE 2026 से)"
+        }
+      },
+      "id": "prep-powergrid-powertel-trainee-engineer-electronics-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "पावरग्रिड (PowerTel) ट्रेनी इंजीनियर (इलेक्ट्रॉनिक्स) भर्ती 2026 — 33 पद (GATE 2026 से)",
+      "verifyNote": "विज्ञापन CC/04/2026, 13 Nov 2026 — आधिकारिक powergrid.in रोज़गार पेज पर भी सूचीबद्ध; FreeJobAlert, Times of India, Daily Kiran, Dhan Times, QuickSarkari व FreshersLive से cross-check, सब में 33 पद, GATE 2026 (EC), 13–27 Nov 2026 एक जैसे। यह POWERGRID की 319 पद वाली इंजीनियर ट्रेनी भर्ती (CC/04/2025, GATE से) से अलग है — यह सहायक कंपनी PowerTel के लिए है। चयन: GATE स्कोर + बिहेवियरल असेसमेंट + ग्रुप डिस्कशन + इंटरव्यू + मेडिकल। कमी: official notification PDF का सीधा link नहीं मिला।"
+    },
+    {
+      "createdAt": "2026-11-13T18:54+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://sssb.punjab.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "admit"
+        },
+        "examDate": {
+          "state": "check",
+          "value": "2026-11-16"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "check",
+          "value": "2026-11-16"
+        },
+        "org": {
+          "state": "ok",
+          "value": "पंजाब अधीनस्थ सेवा चयन बोर्ड (PSSSB)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "532 पद (वार्डर + मैट्रन)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "12वीं"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://sssb.punjab.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.karmasandhan.com/psssb-jail-warder-pmt-pet-admit-card/"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-10"
+        },
+        "state": {
+          "state": "ok",
+          "value": "पंजाब"
+        },
+        "title": {
+          "state": "ok",
+          "value": "PSSSB जेल वार्डर व मैट्रन PMT/PET एडमिट कार्ड 2026 जारी — शारीरिक परीक्षा 11–16 नवंबर (विज्ञापन 08/2026)"
+        }
+      },
+      "id": "prep-psssb-jail-warder-matron-pmt-pet-admit-card-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "PSSSB जेल वार्डर व मैट्रन PMT/PET एडमिट कार्ड 2026 जारी — शारीरिक परीक्षा 11–16 नवंबर (विज्ञापन 08/2026)",
+      "verifyNote": "e-एडमिट कार्ड 10 Nov 2026 को जारी — Karmasandhan, KollegeApply, Testbook, PunjabJobAlert व RozgarNews से cross-check, सब में PMT/PET 11–16 Nov 2026, पटियाला (Polo Ground), 4,124 अभ्यर्थी (वार्डर 3,642 + मैट्रन 482), विज्ञापन 08/2026 एक जैसे। लिखित परीक्षा 26 July 2026, रिजल्ट 30 Sep 2026। ध्यान: एडमिट कार्ड प्रिंट करके self-declaration हाथ से भरकर हस्ताक्षर करना ज़रूरी है। कमी: official PDF link नहीं मिला; योग्यता की पुष्टि बाकी।"
+    },
+    {
+      "createdAt": "2026-11-13T18:54+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://upanganwadibharti.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-06"
+        },
+        "org": {
+          "state": "ok",
+          "value": "जिला कार्यक्रम अधिकारी, संत कबीर नगर (बाल विकास सेवा व पुष्टाहार विभाग, UP)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "112 पद (सहायिका)"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "12वीं (Intermediate)"
+        },
+        "salary": {
+          "state": "check",
+          "value": "मानदेय पर (राशि नोटिफ़िकेशन में नहीं दी गई)"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://upanganwadibharti.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/up-anganwadi-sant-kabir-nagar-anganwadi-helper-recruitment-2026-apply-online-for-112-posts-3080223"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-06"
+        },
+        "state": {
+          "state": "ok",
+          "value": "उत्तर प्रदेश (संत कबीर नगर जिला, केवल महिलाएँ)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "UP आंगनवाड़ी सहायिका भर्ती 2026 — संत कबीर नगर जिला, 112 पद (केवल महिलाएँ)"
+        }
+      },
+      "id": "prep-up-anganwadi-sant-kabir-nagar-sahayika-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "UP आंगनवाड़ी सहायिका भर्ती 2026 — संत कबीर नगर जिला, 112 पद (केवल महिलाएँ)",
+      "verifyNote": "विज्ञापन C-1587, 6 Nov 2026 — PlacementStore, FreeJobAlert, SarkariResult.app, SarkariResult व GovtJobGuru से cross-check, सब में 112 सहायिका पद व 6 Dec 2026 एक जैसे। सिर्फ़ महिलाएँ; जिले की 10 बाल विकास परियोजनाओं में पद; सिर्फ़ ऑनलाइन आवेदन। ध्यान: संत कबीर नगर की पुरानी 192 कार्यकर्ता भर्ती (अगस्त 2026 में बंद) से अलग है — इसे मिलाना नहीं। कमी: नोटिस में फ़ीस, मानदेय की राशि व आयु-सीमा नहीं दी।"
+    },
+    {
+      "createdAt": "2026-11-13T18:54+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "18–35 वर्ष (13 नवंबर 2026 को; आरक्षित वर्गों को नियमानुसार छूट)"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.ursc.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "₹500"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "सभी अभ्यर्थियों को शुरुआत में ₹500 देने हैं; लिखित परीक्षा में बैठने पर ₹400 वापस मिलते हैं (महिला, SC, ST, PwBD व भूतपूर्व सैनिकों को पूरे ₹500 वापस)"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-20"
+        },
+        "org": {
+          "state": "ok",
+          "value": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) — URSC, बेंगलुरु"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "कुल 61 पद"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "ITI"
+        },
+        "salary": {
+          "state": "ok",
+          "value": "₹19,900 – ₹21,700 / माह + भत्ते"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.isro.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.isro.gov.in/URSCRecruitment13.html"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-10-24"
+        },
+        "state": {
+          "state": "ok",
+          "value": "कर्नाटक"
+        },
+        "title": {
+          "state": "ok",
+          "value": "ISRO URSC Technician-B व ड्राइवर भर्ती 2026 — आख़िरी तारीख़ 20 नवंबर (बढ़ी हुई)"
+        }
+      },
+      "id": "prep-isro-ursc-lastdate-extension-2026",
+      "jobId": "isro-ursc-technician-driver-2026",
+      "kind": "update",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "ISRO URSC Technician-B व ड्राइवर भर्ती 2026 — आख़िरी तारीख़ 20 नवंबर (बढ़ी हुई)",
+      "verifyNote": "आधिकारिक ISRO पेज (isro.gov.in/URSCRecruitment13.html) पर सूचना: पेमेंट गेटवे की तकनीकी गड़बड़ी के कारण आवेदन व शुल्क जमा करने की अंतिम तिथि 13 नवंबर 2026 से बढ़ाकर 20 नवंबर 2026 (शाम 5 बजे) कर दी गई है; योग्यता की कट-ऑफ तारीख़ 13.11.2026 ही रहेगी। पुरानी तारीख़ 13 Nov → नई तारीख़ 20 Nov। बाकी सारी जानकारी live card जैसी ही है। उपयोगकर्ता queue करेगा तभी site पर नई तारीख़ लगेगी।"
     }
   ],
   "submissions": [],
-  "updatedAt": "2026-11-13T17:48+05:30",
+  "updatedAt": "2026-11-13T18:55+05:30",
   "version": 1
 }
