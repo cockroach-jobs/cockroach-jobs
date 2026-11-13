@@ -12149,9 +12149,414 @@
       "status": "ready",
       "title": "PFRDA ग्रेड-A (असिस्टेंट मैनेजर) फेज़-2 एडमिट कार्ड 2026 — परीक्षा 20 नवंबर",
       "verifyNote": "PFRDA ने 12 Nov 2026 को ग्रेड-A (असिस्टेंट मैनेजर, Advt 03/2026) फेज़-2 का एडमिट कार्ड जारी किया; फेज़-2 परीक्षा 20 Nov 2026 (फेज़-1 परीक्षा 15 Oct 2026 थी) — JagranJosh, FreeJobAlert, FreshersLive व anujjindal से cross-check, सब में तारीख़ें एक जैसी। कमी: पद-संख्या (30) व योग्यता एक-एक स्रोत से हैं, पुष्टि बाकी; admit card डाउनलोड का सीधा link नहीं मिला — pfrda.org.in से लॉगिन करके मिलेगा।"
+    },
+    {
+      "id": "prep-ntpc-gm-executive-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "NTPC जनरल मैनेजर व एक्ज़ीक्यूटिव भर्ती 2026 — 12 पद (विज्ञापन सं. 17/26)",
+      "fields": {
+        "title": {
+          "value": "NTPC जनरल मैनेजर व एक्ज़ीक्यूटिव भर्ती 2026 — 12 पद (विज्ञापन सं. 17/26)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "एनटीपीसी लिमिटेड (NTPC Limited)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "12 पद (जनरल मैनेजर 1 + एक्ज़ीक्यूटिव 11)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "B.E./B.Tech / M.E./M.Tech / Ph.D (60% अंक + 12/10/4 साल का अनुभव; GM हेतु केमिकल इंजीनियरिंग + 23 साल अनुभव)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-27",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹500",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "Gen/EWS/OBC ₹500 · SC/ST/PwBD/भूतपूर्व सैनिक व महिला — शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "GM ₹1,20,000–2,80,000 (E8 ग्रेड) · एक्ज़ीक्यूटिव ₹1,50,000/माह (3 साल, fixed term)",
+          "state": "ok"
+        },
+        "age": {
+          "value": "अधिकतम 55 वर्ष (GM) / 54 वर्ष (एक्ज़ीक्यूटिव) — 27.11.2026 को",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://careers.ntpc.co.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.ntpc.co.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/ntpc-recruitment-2026-apply-online-for-12-general-manager-executive-posts-3081048",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert के आधिकारिक नोटिफ़िकेशन-आधारित लेख + Viksit Haryana व IndianGovtJobs से cross-check — 12 पद, 13–27 Nov 2026, सब में एक जैसे। कमी: आधिकारिक PDF का सीधा link नहीं मिला (careers.ntpc.co.in पर है); परीक्षा की तारीख़ अभी घोषित नहीं।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-13T20:53+05:30"
+    },
+    {
+      "id": "prep-upsc-advt-13-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "UPSC भर्ती 2026 — डेंटल सर्जन, आयुर्वेद फिज़िशियन व अन्य 13 पद (विज्ञापन सं. 13/2026)",
+      "fields": {
+        "title": {
+          "value": "UPSC भर्ती 2026 — डेंटल सर्जन, आयुर्वेद फिज़िशियन व अन्य 13 पद (विज्ञापन सं. 13/2026)",
+          "state": "ok"
+        },
+        "org": {
+          "value": "संघ लोक सेवा आयोग (UPSC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "13 पद (डेंटल सर्जन, आयुर्वेद फिज़िशियन, साइंटिस्ट-B व अन्य)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "BDS (इंटर्नशिप सहित) / आयुर्वेद डिग्री / होम्योपैथी डिग्री / M.Sc (पद अनुसार)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-14",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-12-04",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": "₹25",
+          "state": "ok"
+        },
+        "feeText": {
+          "value": "UR/OBC/EWS पुरुष ₹25 · SC/ST/PwBD/महिला — शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "35 वर्ष तक (04.12.2026 को; पद अनुसार अलग हो सकती है)",
+          "state": "check"
+        },
+        "applyUrl": {
+          "value": "https://upsconline.nic.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://upsc.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.getrojgar.com/jobs/dental-surgeon-physician-and-scientist-b-in-various-departments-8773",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "FreeJobAlert की 13/11/2026 वाली सूची (13 पद, Advt 13/2026, last 04-12-2026) + GetRojgar के विस्तृत पेज से cross-check — आवेदन 14 Nov–4 Dec 2026, फ़ीस ₹25। GetRojgar ने खुद 'Verification Pending' लिखा है, इसलिए official PDF से दोबारा जाँच बाकी है। कमी: पद-वार वेतन व official PDF का सीधा link नहीं मिला; उम्र पद अनुसार अलग हो सकती है।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-13T20:53+05:30"
+    },
+    {
+      "id": "prep-uk-deled-admit-card-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "उत्तराखंड D.El.Ed प्रवेश परीक्षा एडमिट कार्ड 2026 — परीक्षा 18 नवंबर",
+      "fields": {
+        "title": {
+          "value": "उत्तराखंड D.El.Ed प्रवेश परीक्षा एडमिट कार्ड 2026 — परीक्षा 18 नवंबर",
+          "state": "ok"
+        },
+        "org": {
+          "value": "उत्तराखंड विद्यालयी शिक्षा परिषद (UBSE), रामनगर",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "admit",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "650 सीटें (13 DIET, हर DIET 50 सीटें) — 2-वर्षीय D.El.Ed प्रशिक्षण",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (Graduate) — Science/Non-Science (वर्ग अनुसार)",
+          "state": "ok"
+        },
+        "state": {
+          "value": "उत्तराखंड",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-09",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-18",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-11-18",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": "एडमिट कार्ड डाउनलोड के लिए कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": "19–30 वर्ष (01.07.2027 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://ukdeled.com",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://ubse.uk.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.dyarakotiuk.com/uk-deled-exam-date-admit-card-result/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "UBSE की Vigyapti 06 (5 Nov 2026) के आधार पर — DyarakotiUK, Pioneer Edge, AglaSem, 9curry व FreshersLive से cross-check, सब में एक जैसे: एडमिट कार्ड 9 Nov सुबह 11 बजे से, परीक्षा 18 Nov 2026, सुबह 10:00–12:30, 200 प्रश्न/200 अंक। कमी: एडमिट कार्ड नोटिफ़िकेशन PDF का सीधा link नहीं लिया; नोडल सेंटर पर ऑफ़लाइन एडमिट कार्ड 16–17 Nov को मिलेगा।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-13T20:53+05:30"
+    },
+    {
+      "id": "prep-allahabad-hc-ps-admit-card-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "इलाहाबाद हाई कोर्ट प्राइवेट सेक्रेटरी ग्रेड-I (स्टेज-I) एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
+      "fields": {
+        "title": {
+          "value": "इलाहाबाद हाई कोर्ट प्राइवेट सेक्रेटरी ग्रेड-I (स्टेज-I) एडमिट कार्ड 2026 — परीक्षा 17 नवंबर",
+          "state": "ok"
+        },
+        "org": {
+          "value": "इलाहाबाद हाई कोर्ट (High Court of Judicature at Allahabad)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "admit",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "195 पद (प्राइवेट सेक्रेटरी ग्रेड-I)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (Graduate)",
+          "state": "check"
+        },
+        "state": {
+          "value": "उत्तर प्रदेश",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-17",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-11-17",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": "एडमिट कार्ड डाउनलोड के लिए कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://www.allahabadhighcourt.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.allahabadhighcourt.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.sarkariexam.com/allahabad-high-court-private-secretary-grade-1-2026/",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "13 Nov 2026 के public notice से — SarkariExam, JagranJosh, PlacementStore, QuickSarkari व FreshersLive से cross-check, सब में एक जैसे: एडमिट कार्ड 13 Nov को जारी, स्टेज-I परीक्षा 17 Nov 2026, UP के 10 शहरों में, TCS द्वारा CBT। कमी: योग्यता/आयु/वेतन आवेदन-समय की जानकारी है, इस जाँच में दोबारा नहीं जाँची; एडमिट कार्ड TCS login पोर्टल पर है, सीधा link नहीं लिया।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-13T20:53+05:30"
+    },
+    {
+      "id": "prep-ssc-cpo-city-slip-2026",
+      "kind": "new_job",
+      "jobId": null,
+      "title": "SSC CPO SI (दिल्ली पुलिस व CAPF) पेपर-I एग्ज़ाम सिटी स्लिप 2026 — परीक्षा 23–28 नवंबर",
+      "fields": {
+        "title": {
+          "value": "SSC CPO SI (दिल्ली पुलिस व CAPF) पेपर-I एग्ज़ाम सिटी स्लिप 2026 — परीक्षा 23–28 नवंबर",
+          "state": "ok"
+        },
+        "org": {
+          "value": "कर्मचारी चयन आयोग (SSC)",
+          "state": "ok"
+        },
+        "cat": {
+          "value": "admit",
+          "state": "ok"
+        },
+        "posts": {
+          "value": "1,871 पद (दिल्ली पुलिस SI 317 + CAPF SI (GD) 1,320 + CISF SI (Fire) 234)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक (Graduate)",
+          "state": "check"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-28",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-11-23",
+          "state": "ok"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": "सिटी स्लिप देखने के लिए कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "salary": {
+          "value": "Level-6 — ₹35,400–1,12,400",
+          "state": "ok"
+        },
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": "https://ssc.gov.in",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://ssc.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/ssc-cpo-city-intimation-slip-2026-3080923",
+          "state": "ok"
+        }
+      },
+      "verifyNote": "SSC के 13 Nov 2026 के notice से — JagranJosh, FreeJobAlert, Testbook, IndianSarkari व RanchiPortal से cross-check, सब में एक जैसे: सिटी स्लिप 13 Nov को जारी, पेपर-I 23–28 Nov 2026, 1,871 पद। ध्यान दें: यह सिटी स्लिप है, एडमिट कार्ड नहीं — एडमिट कार्ड ~20 Nov से आने की उम्मीद है। कमी: सिटी स्लिप login के अंदर मिलती है, इसका कोई public PDF link नहीं; उम्र/फ़ीस आवेदन-समय की जानकारी है।",
+      "status": "ready",
+      "sourceSubmissionId": null,
+      "createdBy": "LOYATI (hourly check)",
+      "createdAt": "2026-11-13T20:53+05:30"
     }
   ],
   "submissions": [],
-  "updatedAt": "2026-11-13T19:51+05:30",
+  "updatedAt": "2026-11-13T20:53+05:30",
   "version": 1
 }
