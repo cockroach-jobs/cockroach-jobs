@@ -10448,9 +10448,495 @@
       "sourceSubmissionId": null,
       "createdBy": "LOYATI (hourly check)",
       "createdAt": "2026-11-13T15:51:13+05:30"
+    },
+    {
+      "createdAt": "2026-11-13T16:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://ssc.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "answer_key"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "स्कोर कार्ड व आंसर की देखने के लिए कोई शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-17"
+        },
+        "org": {
+          "state": "ok",
+          "value": "कर्मचारी चयन आयोग (SSC)"
+        },
+        "pdfUrl": {
+          "state": "check",
+          "value": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_03112026.pdf"
+        },
+        "posts": {
+          "state": "check",
+          "value": "39,481 पद (CBT में 1,97,408 अभ्यर्थी PET/PST के लिए चयनित)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "10वीं"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://ssc.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://prepp.in/ssc-gd-exam/results"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-03"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "SSC GD कांस्टेबल स्कोर कार्ड व फाइनल आंसर की 2026 जारी — 17 नवंबर तक डाउनलोड करें"
+        }
+      },
+      "id": "prep-ssc-gd-score-card-final-answer-key-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "SSC GD कांस्टेबल स्कोर कार्ड व फाइनल आंसर की 2026 जारी — 17 नवंबर तक डाउनलोड करें",
+      "verifyNote": "SSC ने 3 Nov 2026 को GD कांस्टेबल CBT का स्कोर कार्ड व फाइनल आंसर की (प्रश्न-पत्र व रिस्पॉन्स शीट सहित) जारी की; डाउनलोड 3–17 Nov 2026 (शाम 5 बजे तक) — Prepp, CareerIndia, Shiksha, Testbook व PracticeMock से cross-check, सब में तारीख़ें एक जैसी। रिजल्ट 12 Oct 2026 को आया था, संशोधित मेरिट सूची 23 Oct को। कमी: पदों की संख्या (39,481) इस जाँच में पक्की नहीं हुई; योग्यता/आयु आवेदन-समय की जानकारी है, स्कोर कार्ड वाली खबरों में नहीं दी; writeup PDF का link एक स्रोत से है, सीधे खोलकर जाँच नहीं हुई।"
+    },
+    {
+      "createdAt": "2026-11-13T16:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "check",
+          "value": "18 – 35 वर्ष"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "http://upanganwadibharti.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-03"
+        },
+        "org": {
+          "state": "ok",
+          "value": "जिला कार्यक्रम अधिकारी, ICDS लखनऊ (बाल विकास सेवा व पुष्टाहार विभाग, UP)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "428 पद (सहायिका 356 + कार्यकर्ता 72)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "कार्यकर्ता: 12वीं · सहायिका: 10वीं"
+        },
+        "salary": {
+          "state": "check",
+          "value": "मानदेय पर (राशि नोटिफ़िकेशन में नहीं दी गई)"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "http://upanganwadibharti.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/up-anganwadi-lucknow-recruitment-2026-apply-online-for-428-anganwadi-helper-anganwadi-worker-posts-3080843"
+        },
+        "startDate": {
+          "state": "check",
+          "value": "2026-11-12"
+        },
+        "state": {
+          "state": "ok",
+          "value": "उत्तर प्रदेश (लखनऊ जिला, केवल महिलाएँ)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "UP आंगनवाड़ी कार्यकर्ता व सहायिका भर्ती 2026 — लखनऊ जिला, 428 पद (केवल महिलाएँ)"
+        }
+      },
+      "id": "prep-up-anganwadi-lucknow-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "UP आंगनवाड़ी कार्यकर्ता व सहायिका भर्ती 2026 — लखनऊ जिला, 428 पद (केवल महिलाएँ)",
+      "verifyNote": "विज्ञापन C-1487, 12 Nov 2026 — FreeJobAlert, FreshersLive व 9curry से cross-check, सब में 428 पद व 3 Dec 2026 एक जैसे। सिर्फ़ महिलाएँ; लखनऊ जिले की 10 बाल विकास परियोजनाओं में पद; सिर्फ़ ऑनलाइन आवेदन, डाक से नहीं। कमी: नोटिस में आवेदन शुरू होने की तारीख़, फ़ीस व मानदेय की राशि नहीं दी; कार्यकर्ता/सहायिका की योग्यता व आयु-सीमा की पुष्टि बाकी।"
+    },
+    {
+      "createdAt": "2026-11-13T16:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://psc.uk.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "admit"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-11-29"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-29"
+        },
+        "org": {
+          "state": "ok",
+          "value": "उत्तराखंड लोक सेवा आयोग (UKPSC), हरिद्वार"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "67 पद (Group-B)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "स्नातक (Graduate)"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://psc.uk.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.jagranjosh.com/articles/ukpsc-upper-pcs-admit-card-2026-released-download-prelims-hall-ticket-pdf-at-psc-uk-gov-in-1800019066-1"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-13"
+        },
+        "state": {
+          "state": "ok",
+          "value": "उत्तराखंड"
+        },
+        "title": {
+          "state": "ok",
+          "value": "UKPSC अपर PCS प्रीलिम्स एडमिट कार्ड 2026 जारी — परीक्षा 29 नवंबर"
+        }
+      },
+      "id": "prep-ukpsc-upper-pcs-admit-card-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "UKPSC अपर PCS प्रीलिम्स एडमिट कार्ड 2026 जारी — परीक्षा 29 नवंबर",
+      "verifyNote": "एडमिट कार्ड 13 Nov 2026 को जारी — JagranJosh, Times of India, FreeJobAlert, Testbook व Samvegias से cross-check; प्रीलिम्स 29 Nov 2026 (रविवार), दो शिफ्ट (GS सुबह 10–12, Aptitude दोपहर 2–4), उत्तराखंड के 18 शहरों में; विज्ञापन A-1/E-1/2026-27, 67 Group-B पद। डाक से नहीं भेजा जाएगा, सिर्फ़ ऑनलाइन डाउनलोड। कमी: एडमिट कार्ड डाउनलोड का सीधा link नहीं मिला (psc.uk.gov.in पर है); योग्यता/आयु/वेतन आवेदन-समय की जानकारी है।"
+    },
+    {
+      "createdAt": "2026-11-13T16:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "18 – 24 वर्ष (30 Nov 2026 को)"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.iocl.com"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "कोई फ़ीस नहीं"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "कोई आवेदन शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-06"
+        },
+        "org": {
+          "state": "ok",
+          "value": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) — बरौनी रिफाइनरी, बेगूसराय (बिहार)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "272 सीटें (ट्रेड अप्रेंटिस 228 + टेक्नीशियन अप्रेंटिस 44)"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "B.Sc. (गणित/भौतिकी/रसायन) / डिप्लोमा (मैकेनिकल/इंस्ट्रूमेंटेशन), 50% अंक (SC/ST/PwBD 45%)"
+        },
+        "salary": {
+          "state": "check",
+          "value": "स्टाइपेंड — Apprentices Act के अनुसार"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.iocl.com"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/iocl-recruitment-2026-trade-apprentice-3079378"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-06"
+        },
+        "state": {
+          "state": "ok",
+          "value": "बिहार (बरौनी रिफाइनरी)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "IOCL बरौनी रिफाइनरी अप्रेंटिस भर्ती 2026-27 — 272 सीटें (विज्ञापन BR/HR/APPR/2026-27/II)"
+        }
+      },
+      "id": "prep-iocl-barauni-apprentice-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "IOCL बरौनी रिफाइनरी अप्रेंटिस भर्ती 2026-27 — 272 सीटें (विज्ञापन BR/HR/APPR/2026-27/II)",
+      "verifyNote": "विज्ञापन BR/HR/APPR/2026-27/II, 6 Nov 2026 — FreeJobAlert, CareerStar, MySarkariNaukri, GovtJobGuru व NewSarkariResults से cross-check; 272 सीटें (अटेंडेंट ऑपरेटर 190, बॉयलर 38, टेक्नीशियन मैकेनिकल 21, इंस्ट्रूमेंटेशन 23), 6 Nov–6 Dec 2026, कोई लिखित परीक्षा नहीं (योग्यता के अंकों से मेरिट), NAPS/NATS पोर्टल + Microsoft Form — दोनों भरने ज़रूरी। यह IOCL पाइपलाइंस अप्रेंटिस (500 पद, अलग भर्ती) से अलग है। कमी: स्टाइपेंड की राशि व official PDF का सीधा link नहीं मिला।"
+    },
+    {
+      "createdAt": "2026-11-13T16:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "check",
+          "value": "पद अनुसार अलग (गिनती 09.11.2026 को)"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.shar.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-16"
+        },
+        "org": {
+          "state": "ok",
+          "value": "सतीश धवन अंतरिक्ष केंद्र (SDSC SHAR), भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "97 पद (टेक्नीशियन 'B' 43 + MTS 16 + टेक्निकल असिस्टेंट 14 + अन्य)"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "10वीं / ITI / डिप्लोमा / स्नातक (पद अनुसार)"
+        },
+        "salary": {
+          "state": "check",
+          "value": "₹18,000 – ₹1,42,400/माह (पद अनुसार)"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.shar.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://quicksarkari.com/isro-sdsc-shar-recruitment/"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-10-19"
+        },
+        "state": {
+          "state": "ok",
+          "value": "आंध्र प्रदेश (श्रीहरिकोटा) / अन्य केंद्र"
+        },
+        "title": {
+          "state": "ok",
+          "value": "ISRO SDSC SHAR विभिन्न पद भर्ती 2026 — 97 पद (पोर्टल फिर खुला, 16 नवंबर तक)"
+        }
+      },
+      "id": "prep-isro-sdsc-shar-various-posts-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "ISRO SDSC SHAR विभिन्न पद भर्ती 2026 — 97 पद (पोर्टल फिर खुला, 16 नवंबर तक)",
+      "verifyNote": "विज्ञापन SDSC SHAR/RMT/03/2026, 19 Oct 2026 — QuickSarkari, ParikshaSarathi, MajhiNaukri, SarkariNetwork व FreshersLive से cross-check; 97 पद, मूल आख़िरी तारीख़ 9 Nov थी, पोर्टल 13 Nov को फिर खुला है और 16 Nov 2026 (रात 11:59) तक आवेदन होगा — योग्यता की गिनती 9 Nov 2026 को ही होगी। यह SDSC SHAR अप्रेंटिस भर्ती (400 पद, अलग) से अलग है। कमी: फ़ीस, पद-वार आयु-सीमा व official PDF का सीधा link नहीं मिला; परीक्षा की तारीख़ अभी घोषित नहीं।"
+    },
+    {
+      "createdAt": "2026-11-13T16:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "ok",
+          "value": "18 – 40 वर्ष (पद अनुसार)"
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.rrbapply.gov.in/"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "job"
+        },
+        "examDate": {
+          "state": "missing",
+          "value": null
+        },
+        "feeGen": {
+          "state": "ok",
+          "value": "₹500"
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "Gen/OBC/EWS ₹500 (CBT के बाद ₹400 वापस) · SC/ST/महिला/ESM ₹250 (पूरी वापस)"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-12-04"
+        },
+        "org": {
+          "state": "ok",
+          "value": "Railway Recruitment Board (RRB)"
+        },
+        "pdfUrl": {
+          "state": "ok",
+          "value": "https://www.rrbapply.gov.in/assets/forms/CEN_09_2026_IsolatedCategory.pdf"
+        },
+        "posts": {
+          "state": "ok",
+          "value": "191 पद"
+        },
+        "qual": {
+          "state": "ok",
+          "value": "Graduate"
+        },
+        "salary": {
+          "state": "ok",
+          "value": "₹19,900 – ₹44,900 / माह (पद अनुसार)"
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://rrb.indianrailways.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.youtube.com/watch?v=CZz_uVWpIEY"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-05"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "रेलवे आइसोलेटेड कैटेगरी भर्ती 2026 (CEN 09/2026) — 191 पद"
+        }
+      },
+      "id": "prep-rrb-isolated-categories-title-correction-2026",
+      "jobId": "rrb-isolated-categories-cen-09-2026",
+      "kind": "update",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "रेलवे आइसोलेटेड कैटेगरी भर्ती 2026 (CEN 09/2026) — 191 पद (title सुधार)",
+      "verifyNote": "Site पर live card का title '7 विशेषज्ञ पद' लिखता है — 7 असल में पदों की श्रेणियाँ हैं, कुल पद 191 हैं (CEN 09/2026, विस्तृत नोटिफ़िकेशन 4–5 Nov 2026)। Testbook, FreeJobAlert, PW, TezTak व GovtJobDeck से cross-check — सब में 191 पद, 7 श्रेणियाँ, आख़िरी तारीख़ 4 Dec 2026 एक जैसी; पद-वार बँटवारा भी मिला (जूनियर अनुवादक 79, लैब असिस्टेंट 36, स्टाफ़ व कल्याण निरीक्षक 27, लोक अभियोजक 21, मुख्य विधि सहायक 17, वरिष्ठ प्रचार निरीक्षक 8, वैज्ञानिक सहायक 3 = 191)। posts field में पहले से '191 पद' सही है, सिर्फ़ title ठीक करना है।"
     }
   ],
   "submissions": [],
-  "updatedAt": "2026-11-13T15:51:13+05:30",
+  "updatedAt": "2026-11-13T16:48+05:30",
   "version": 1
 }
