@@ -10853,9 +10853,414 @@
       "status": "ready",
       "title": "रेलवे आइसोलेटेड कैटेगरी भर्ती 2026 (CEN 09/2026) — 191 पद (title सुधार)",
       "verifyNote": "Site पर live card का title '7 विशेषज्ञ पद' लिखता है — 7 असल में पदों की श्रेणियाँ हैं, कुल पद 191 हैं (CEN 09/2026, विस्तृत नोटिफ़िकेशन 4–5 Nov 2026)। Testbook, FreeJobAlert, PW, TezTak व GovtJobDeck से cross-check — सब में 191 पद, 7 श्रेणियाँ, आख़िरी तारीख़ 4 Dec 2026 एक जैसी; पद-वार बँटवारा भी मिला (जूनियर अनुवादक 79, लैब असिस्टेंट 36, स्टाफ़ व कल्याण निरीक्षक 27, लोक अभियोजक 21, मुख्य विधि सहायक 17, वरिष्ठ प्रचार निरीक्षक 8, वैज्ञानिक सहायक 3 = 191)। posts field में पहले से '191 पद' सही है, सिर्फ़ title ठीक करना है।"
+    },
+    {
+      "createdAt": "2026-11-13T17:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "cat": {
+          "value": "result",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-05-31",
+          "state": "check"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-10-29",
+          "state": "ok"
+        },
+        "org": {
+          "value": "इंडियन बैंक (Indian Bank)",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "posts": {
+          "value": "350 पद (SO) — 129 अभ्यर्थी अंतिम चयन सूची में",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "स्नातक + विशेषज्ञता (पद अनुसार)",
+          "state": "check"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://indianbank.bank.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.jagranjosh.com/lite/articles/indian-bank-so-result-2026-out-download-provisional-merit-list-pdf-direct-link-here-1800018516-1",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-10-29",
+          "state": "ok"
+        },
+        "state": {
+          "value": "सभी राज्य (केंद्रीय)",
+          "state": "ok"
+        },
+        "title": {
+          "value": "इंडियन बैंक स्पेशलिस्ट ऑफिसर (SO) फाइनल रिजल्ट 2026 घोषित — 129 अभ्यर्थी अंतिम सूची में",
+          "state": "ok"
+        }
+      },
+      "id": "prep-indian-bank-so-result-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "इंडियन बैंक स्पेशलिस्ट ऑफिसर (SO) फाइनल रिजल्ट 2026 घोषित — 129 अभ्यर्थी अंतिम सूची में",
+      "verifyNote": "इंडियन बैंक ने 29 Oct 2026 की सूचना से SO भर्ती (विज्ञापन 8 Apr 2026) की अंतिम (provisional) चयन सूची जारी की — 31 पोस्ट कोड में 129 अभ्यर्थी, 7 पोस्ट कोड NIL। PracticeMock, JobShouter, MySarkariNaukri, JagranJosh से cross-check — सब में 29 Oct 2026, 129 चयन, 350 पद एक जैसे (एक स्रोत ने 2 Nov लिखा, वह प्रकाशन की तारीख़ है, सूचना 29 Oct की है)। ऑनलाइन परीक्षा 31 May 2026, फिर इंटरव्यू। यह अंतिम नियुक्ति आदेश नहीं — दस्तावेज़ जाँच व मेडिकल बाकी। कमी: रिजल्ट PDF का सीधा link, योग्यता/आयु/वेतन की जानकारी इस जाँच में नहीं मिली।"
+    },
+    {
+      "createdAt": "2026-11-13T17:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "value": null,
+          "state": "missing"
+        },
+        "applyUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "cat": {
+          "value": "result",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": "2026-09-27",
+          "state": "check"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+          "state": "ok"
+        },
+        "lastDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "org": {
+          "value": "उत्तराखंड विद्यालयी शिक्षा परिषद (UBSE)",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "posts": {
+          "value": "UTET 2026 — पेपर-1 (कक्षा 1–5) व पेपर-2 (कक्षा 6–8)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "D.El.Ed / B.Ed (पेपर अनुसार)",
+          "state": "check"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://ukutet.com",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://news.careers360.com/utet-result-2026-out-download-scorecard-ukutet-com-final-answer-key-ubse-teacher-eligibility-test-ubse-uk-gov-in-paper-1-2",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "state": {
+          "value": "उत्तराखंड",
+          "state": "ok"
+        },
+        "title": {
+          "value": "UTET रिजल्ट 2026 घोषित — पेपर-1 व पेपर-2 का स्कोरकार्ड जारी",
+          "state": "ok"
+        }
+      },
+      "id": "prep-utet-result-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "UTET रिजल्ट 2026 घोषित — पेपर-1 व पेपर-2 का स्कोरकार्ड जारी",
+      "verifyNote": "UBSE ने 13 Nov 2026 को UTET 2026 पेपर-1 व पेपर-2 का रिजल्ट जारी किया — Careers360 व Moneycontrol (दोनों 13 Nov, शाम) से cross-check, साथ में RojgarResult। स्कोरकार्ड ukutet.com व ubse.uk.gov.in से (रजिस्ट्रेशन नं./पासवर्ड या रोल नं./जन्मतिथि से); लिंक 25 Nov 2026 रात 11:59 तक उपलब्ध। दोनों पेपरों की फाइनल आंसर की भी जारी। ध्यान दें: परीक्षा की तारीख़ में टकराव — दो ताज़ा स्रोत 27 Sep 2026 कहते हैं, पुराने पेजों में 29 Sep छपा है; 27 Sep ही ली है, पुष्टि बाकी। कमी: योग्यता का विवरण व रिजल्ट PDF का सीधा link नहीं मिला (स्कोरकार्ड लॉगिन से ही मिलता है)।"
+    },
+    {
+      "createdAt": "2026-11-13T17:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "value": "अधिकतम 33 वर्ष (आवेदन की आख़िरी तारीख़ को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": "https://forms.gle/8CqCB5iXLhHmUN519",
+          "state": "check"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "lastDate": {
+          "value": "2026-12-03",
+          "state": "ok"
+        },
+        "org": {
+          "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), मदुरै",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "posts": {
+          "value": "36 पद",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "MBBS + इंटर्नशिप पूरा + NMC पंजीकरण",
+          "state": "check"
+        },
+        "salary": {
+          "value": "Level-10 — ₹56,100 – ₹1,77,500 + NPA",
+          "state": "ok"
+        },
+        "siteUrl": {
+          "value": "https://aiimsmadurai.edu.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/aiims-madurai-junior-resident-non-academic-recruitment-2026-3080933",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "state": {
+          "value": "तमिलनाडु",
+          "state": "ok"
+        },
+        "title": {
+          "value": "AIIMS मदुरै जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 36 पद (रोलिंग विज्ञापन)",
+          "state": "ok"
+        }
+      },
+      "id": "prep-aiims-madurai-junior-resident-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "AIIMS मदुरै जूनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 36 पद (रोलिंग विज्ञापन)",
+      "verifyNote": "रोलिंग विज्ञापन AIIMS-MDU/Recruitment-JR/50/2025-26/NOVEMBER-2026, 13 Nov 2026 — FreeJobAlert व FreshersLive से cross-check, दोनों में 36 पद, 13 Nov–3 Dec 2026 (शाम 5 बजे तक), Google Form से आवेदन एक जैसे। 1 साल का अस्थायी पद (Level-10 + NPA); पद न भरे तो वॉक-इन इंटरव्यू में जाएँगे। कमी: आवेदन फ़ीस व official PDF का सीधा link नहीं मिला; Google Form का link aggregator से लिया है, पुष्टि बाकी।"
+    },
+    {
+      "createdAt": "2026-11-13T17:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "value": "अधिकतम 45 वर्ष (03.12.2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "lastDate": {
+          "value": "2026-12-03",
+          "state": "ok"
+        },
+        "org": {
+          "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), मदुरै",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "posts": {
+          "value": "46 पद (19 विभाग)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "MD/MS/DNB (संबंधित विषय)",
+          "state": "check"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://aiimsmadurai.edu.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/aiims-madurai-recruitment-2026-senior-resident-non-academic-3080929",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-13",
+          "state": "ok"
+        },
+        "state": {
+          "value": "तमिलनाडु",
+          "state": "ok"
+        },
+        "title": {
+          "value": "AIIMS मदुरै सीनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 46 पद (19 विभाग, 3 वर्ष का कार्यकाल)",
+          "state": "ok"
+        }
+      },
+      "id": "prep-aiims-madurai-senior-resident-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "AIIMS मदुरै सीनियर रेज़िडेंट (Non-Academic) भर्ती 2026 — 46 पद (19 विभाग, 3 वर्ष का कार्यकाल)",
+      "verifyNote": "रोलिंग विज्ञापन AIIMS-MDU/Recruitment-SR/50/2025-26/NOVEMBER-2026, 13 Nov 2026 — FreeJobAlert व FreshersLive से cross-check, दोनों में 46 पद, 19 विभाग, 13 Nov–3 Dec 2026 (शाम 5 बजे तक), Google Form से आवेदन एक जैसे। 3 वर्ष का कार्यकाल (पहले 1 साल की नियुक्ति); पद न भरे तो वॉक-इन इंटरव्यू में जाएँगे। कमी: आधिकारिक नोटिस में वेतन नहीं दिया गया; आवेदन फ़ीस, Google Form का link व official PDF का सीधा link नहीं मिला।"
+    },
+    {
+      "createdAt": "2026-11-13T17:48+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "value": "अधिकतम 69 वर्ष (18.11.2026 को)",
+          "state": "ok"
+        },
+        "applyUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "cat": {
+          "value": "job",
+          "state": "ok"
+        },
+        "examDate": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeGen": {
+          "value": null,
+          "state": "missing"
+        },
+        "feeText": {
+          "value": null,
+          "state": "missing"
+        },
+        "lastDate": {
+          "value": "2026-11-18",
+          "state": "ok"
+        },
+        "org": {
+          "value": "कर्मचारी राज्य बीमा निगम — ESIC मेडिकल कॉलेज व अस्पताल, बिहटा, पटना",
+          "state": "ok"
+        },
+        "pdfUrl": {
+          "value": null,
+          "state": "missing"
+        },
+        "posts": {
+          "value": "59 पद (प्रोफ़ेसर 16 + एसोसिएट प्रोफ़ेसर 26 + असिस्टेंट प्रोफ़ेसर 17)",
+          "state": "ok"
+        },
+        "qual": {
+          "value": "NMC नियमों के अनुसार संबंधित विषय में योग्यता व अनुभव (पद अनुसार)",
+          "state": "check"
+        },
+        "salary": {
+          "value": null,
+          "state": "missing"
+        },
+        "siteUrl": {
+          "value": "https://www.mcpatna.esic.gov.in",
+          "state": "ok"
+        },
+        "sourceUrl": {
+          "value": "https://www.freejobalert.com/articles/esic-mch-bihta-recruitment-2026-professor-associate-professor-3079036",
+          "state": "ok"
+        },
+        "startDate": {
+          "value": "2026-11-05",
+          "state": "check"
+        },
+        "state": {
+          "value": "बिहार",
+          "state": "ok"
+        },
+        "title": {
+          "value": "ESIC मेडिकल कॉलेज व अस्पताल, बिहटा (पटना) टीचिंग फैकल्टी भर्ती 2026 — 59 पद (विज्ञापन 15/2026, कॉन्ट्रैक्ट)",
+          "state": "ok"
+        }
+      },
+      "id": "prep-esic-mch-bihta-faculty-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "ESIC मेडिकल कॉलेज व अस्पताल, बिहटा (पटना) टीचिंग फैकल्टी भर्ती 2026 — 59 पद (विज्ञापन 15/2026, कॉन्ट्रैक्ट)",
+      "verifyNote": "विज्ञापन 15/2026 — FreeJobAlert, MySarkariNaukri, Certifica, FreshersLive व 9curry से cross-check, सब में 59 पद (16+26+17), 18 Nov 2026 दोपहर 12 बजे तक ईमेल से आवेदन एक जैसे। कॉन्ट्रैक्ट पर टीचिंग फैकल्टी (1 साल); आवेदन dean-bihta.bh@esic.gov.in पर ईमेल से, ऑनलाइन फॉर्म नहीं है; इंटरव्यू 19 Nov 2026 (Pre/Para Clinical)। ध्यान दें: नोटिस में Clinical विभागों के इंटरव्यू की तारीख़ 20 Oct 2026 छपी है — वह आवेदन की आख़िरी तारीख़ से पहले की है, इसलिए साफ़ ग़लती लगती है; card में वह तारीख़ नहीं ली है, आधिकारिक सुधार की पुष्टि बाकी। कमी: वेतन, फ़ीस व official PDF का सीधा link नहीं मिला; विज्ञापन जारी होने की सटीक तारीख़ भी नहीं मिली (5 Nov 2026 प्रकाशन के हिसाब से 'check')।"
     }
   ],
   "submissions": [],
-  "updatedAt": "2026-11-13T16:49+05:30",
+  "updatedAt": "2026-11-13T17:48+05:30",
   "version": 1
 }
