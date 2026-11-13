@@ -13332,9 +13332,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-13T22:53+05:30"
+  },
+  {
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "18–40 वर्ष (पद के अनुसार, 1 जनवरी 2027 को)"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://www.rrbapply.gov.in/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-23"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "₹500/-"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "सामान्य/OBC/EWS ₹500, SC/ST/PH/सभी महिला ₹250; परीक्षा में बैठने पर ₹400/₹250 वापस"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-25"
+    },
+    "org": {
+     "state": "ok",
+     "value": "रेलवे भर्ती बोर्ड (RRB), रेल मंत्रालय"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "590 पद (नर्सिंग सुपरिटेंडेंट 365, फार्मासिस्ट 118, हेल्थ व मलेरिया इंस्पेक्टर 43, लैब असिस्टेंट 31, रेडियोग्राफर 25, ECG टेक्नीशियन 4, ऑप्टोमेट्रिस्ट 2, डायलिसिस टेक्नीशियन 1, ऑडियोलॉजिस्ट 1)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "पद के अनुसार — GNM/B.Sc नर्सिंग, B.Pharm, B.Sc (रसायन) + हेल्थ इंस्पेक्टर डिप्लोमा, DMLT, 10+2 + रेडियोग्राफी डिप्लोमा आदि"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://rrb.indianrailways.gov.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.sarkariexam.com/railway-rrb-paramedical-2026/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "रेलवे RRB पैरामेडिकल (CEN 05/2026) एप्लीकेशन स्टेटस जारी — CBT-I परीक्षा 23 व 25 नवंबर, 590 पद"
+    }
+   },
+   "id": "prep-rrb-paramedical-cen-05-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "रेलवे RRB पैरामेडिकल (CEN 05/2026) एप्लीकेशन स्टेटस जारी — CBT-I परीक्षा 23 व 25 नवंबर, 590 पद",
+   "verifyNote": "CEN 05/2026 — Application Status 12 Nov 2026 को जारी (sarkariexam, sarkariresult.com, sarkarig, FreeJobAlert, indiansarkari, 9curry — 6 स्रोत एकमत); CBT-I 23 व 25 Nov 2026 को। पद-संख्या में टकराव था — sarkariresult.app ने 1,376 लिखी (पुराना/गलत आँकड़ा), जबकि sarkariexam की पदवार table (365+118+43+31+25+4+2+1+1) व sarkariresult.com/9curry के हवाले से कुल 590 पक्की हुई। City Slip: FreeJobAlert के अनुसार 13 Nov को 'expected' थी, पर official link चालू होने की पुष्टि नहीं — इसलिए card Application Status पर है; admit card परीक्षा से ~4 दिन पहले आएगा। कमी: वेतन (पदवार pay level) व notification PDF का सीधा link नहीं मिला।",
+   "createdAt": "2026-11-13T23:53+05:30"
+  },
+  {
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "30–62 वर्ष (1 जुलाई 2026 को)"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://apply.upessc.org/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2027-01-07"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "₹1,500/-"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "सभी वर्गों के लिए ₹1,500 (ऑनलाइन); फॉर्म सुधार 25 Nov 2026 तक"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-22"
+    },
+    "org": {
+     "state": "ok",
+     "value": "उत्तर प्रदेश शिक्षा सेवा चयन आयोग (UPESSC), प्रयागराज"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "1,172 पद (लड़कों के स्कूल 1,037 + लड़कियों के स्कूल 135)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "स्नातकोत्तर (PG) + B.Ed + 4 साल का शिक्षण/नेतृत्व अनुभव"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹56,100–1,77,500/माह (Level-10)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://upessc.up.gov.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://govtjobsalert.in/upessc-headmaster-recruitment-2026/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-10-23"
+    },
+    "state": {
+     "state": "ok",
+     "value": "उत्तर प्रदेश"
+    },
+    "title": {
+     "state": "ok",
+     "value": "UPESSC प्रधानाध्यापक (Headmaster) भर्ती 2026 — 1,172 पद (विज्ञापन सं. 09/2026)"
+    }
+   },
+   "id": "prep-up-head-master-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "UPESSC प्रधानाध्यापक (Headmaster) भर्ती 2026 — 1,172 पद (विज्ञापन सं. 09/2026)",
+   "verifyNote": "विज्ञापन सं. 09/2026 — govtjobsalert, NDTV, PW Live, sarkarimauka, yuvaresult, talentmate, jobcareerupdates (7 स्रोत) सब एकमत: 1,172 पद, 23 Oct–22 Nov 2026, लिखित परीक्षा 7 Jan 2027। UPESSC के ही विज्ञापन 08/2026 वाले 1,475 प्रधानाचार्य (Principal) पद इस card में नहीं हैं — वह भर्ती पहले से live है। कमी: notification PDF का सीधा link नहीं मिला।",
+   "createdAt": "2026-11-13T23:53+05:30"
+  },
+  {
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "₹600/-"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "सामान्य ₹600; SC/ST-1/ST-2/EWS/PwBD ₹500 (ऑनलाइन)"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-15"
+    },
+    "org": {
+     "state": "ok",
+     "value": "जम्मू-कश्मीर सेवा चयन बोर्ड (JKSSB)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "127 पद (जूनियर इंजीनियर, मैकेनिकल — लोक निर्माण (R&B) विभाग, Item No. 265)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "मैकेनिकल इंजीनियरिंग में 3 साल का डिप्लोमा या डिग्री"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹35,400–1,12,400/माह (Level-6)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://jkssb.nic.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://govtjobdeck.com/jkssb-je-mechanical-recruitment-2026/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-16"
+    },
+    "state": {
+     "state": "ok",
+     "value": "जम्मू-कश्मीर"
+    },
+    "title": {
+     "state": "ok",
+     "value": "JKSSB जूनियर इंजीनियर (मैकेनिकल) भर्ती 2026 — 127 पद (विज्ञापन सं. 10/2026)"
+    }
+   },
+   "id": "prep-jkssb-je-mechanical-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "JKSSB जूनियर इंजीनियर (मैकेनिकल) भर्ती 2026 — 127 पद (विज्ञापन सं. 10/2026)",
+   "verifyNote": "विज्ञापन सं. 10/2026 (21 Oct 2026) — jkyouthguide, govtjobdeck, examoneducation, testbook, jkedusphere, sahisarkarijobs (6 स्रोत) एकमत: 127 पद, आवेदन 16 Nov–15 Dec 2026, सिर्फ़ लिखित (OMR) परीक्षा, सिर्फ़ J&K domicile। JKSSB JE (सिविल) 458 पद (30 Nov–29 Dec) अलग नोटिस है — इस card में नहीं, अगली run में देखा जाएगा। कमी: आयु-सीमा की range (सिर्फ़ cut-off तारीख़ 1 Jan 2026 मिली), परीक्षा तारीख़ व notification PDF का सीधा link नहीं मिला।",
+   "createdAt": "2026-11-13T23:53+05:30"
+  },
+  {
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "check",
+     "value": "पद के अनुसार अधिकतम 27–37 वर्ष (14 Nov 2026 को)"
+    },
+    "applyUrl": {
+     "state": "check",
+     "value": "https://www.oil-india.com/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "check",
+     "value": "2026-12-28"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-14"
+    },
+    "org": {
+     "state": "ok",
+     "value": "ऑयल इंडिया लिमिटेड (OIL)"
+    },
+    "pdfUrl": {
+     "state": "check",
+     "value": "https://dwpivt501gtb6.cloudfront.net/upload/students/8961749b8835ba46ada500a1f7bd8a34_20261016124510.pdf"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "32 पद (सीनियर ऑफिसर मैकेनिकल 14, पेट्रोलियम 4, सीनियर अकाउंट्स ऑफिसर/सीनियर इंटरनल ऑडिटर 6, सुपरिटेंडिंग रिसर्च साइंटिस्ट, हिंदी ऑफिसर, कॉन्फिडेंशियल सेक्रेटरी व अन्य)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "पद के अनुसार — मैकेनिकल/पेट्रोलियम इंजीनियरिंग, CA/ICWA, Ph.D (केमिकल) आदि"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹60,000–1,80,000/माह (Grade-B)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.oil-india.com/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/oil-india-executive-recruitment-2026-3073913"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-10-15"
+    },
+    "state": {
+     "state": "ok",
+     "value": "अखिल भारतीय"
+    },
+    "title": {
+     "state": "ok",
+     "value": "Oil India Executive भर्ती 2026 — 32 पद (सीनियर ऑफिसर व अन्य; आख़िरी तारीख़ बढ़कर 14 दिसंबर)"
+    }
+   },
+   "id": "prep-oil-india-executive-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "Oil India Executive भर्ती 2026 — 32 पद (सीनियर ऑफिसर व अन्य; आख़िरी तारीख़ बढ़कर 14 दिसंबर)",
+   "verifyNote": "विज्ञापन HRAQ/REC-EX-B/2026-03 (15 Oct 2026) — FreeJobAlert व alljobassam से extension पक्का: आख़िरी तारीख़ 14 Nov से बढ़कर 14 Dec 2026 (सुबह 11 बजे तक) हुई; पुरानी तारीख़ वाले स्रोत (jobalertshub, tamilanguide, tnjobalert) extension से पहले के हैं। CBT की तारीख़ में टकराव — FreeJobAlert 28 Dec 2026, assamjobalerts 18 Dec 2026 — इसलिए examDate 'check' पर है। कमी: शुल्क नहीं मिला; Grade-A के 3 पदों का पूरा ब्योरा व आयु-सीमा पदवार पुष्टि बाकी; PDF link आधिकारिक विज्ञापन की mirror प्रति है।",
+   "createdAt": "2026-11-13T23:53+05:30"
+  },
+  {
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "18–28 वर्ष (1 जनवरी 2026 को)"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-12"
+    },
+    "org": {
+     "state": "ok",
+     "value": "पुलिस अधीक्षक कार्यालय, दंतेवाड़ा — छत्तीसगढ़ पुलिस"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "128 पद (ST 93, OBC 17, SC 11, UR 7)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "10वीं पास"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://dantewada.cgpolice.gov.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/dantewada-police-bastar-fighter-constable-recruitment-2026-3077677"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-02"
+    },
+    "state": {
+     "state": "ok",
+     "value": "छत्तीसगढ़"
+    },
+    "title": {
+     "state": "ok",
+     "value": "दंतेवाड़ा बस्तर फाइटर कांस्टेबल भर्ती 2026 — 128 पद (ऑफ़लाइन, सिर्फ़ दंतेवाड़ा जिले के निवासी)"
+    }
+   },
+   "id": "prep-dantewada-bastar-fighter-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "दंतेवाड़ा बस्तर फाइटर कांस्टेबल भर्ती 2026 — 128 पद (ऑफ़लाइन, सिर्फ़ दंतेवाड़ा जिले के निवासी)",
+   "verifyNote": "विज्ञापन 30 Oct 2026 — 9curry, FreeJobAlert, rojgarlive, mysarkarinaukri, freejobnotification, sarkariresultsnow (6+ स्रोत) एकमत: 128 पद, ऑफ़लाइन आवेदन 2 Nov–12 Dec 2026 (शाम 5 बजे तक), SP कार्यालय दंतेवाड़ा / रजिस्टर्ड डाक (PIN 494449)। यह बीजापुर (417) व सुकमा (375) वाली बस्तर फाइटर भर्तियों से अलग है — वे दोनों पहले से live हैं। योग्यता में टकराव — ज़्यादातर स्रोत 10वीं पास, एक स्रोत में 5वीं का उल्लेख — इसलिए qual 'check' पर है; नोटिस देखकर पुष्टि करें। कमी: शुल्क, वेतन, परीक्षा तारीख़ व notification PDF का सीधा link नहीं मिला।",
+   "createdAt": "2026-11-13T23:53+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T22:53+05:30",
+ "updatedAt": "2026-11-13T23:53+05:30",
  "version": 1
 }
