@@ -11744,9 +11744,414 @@
       "status": "ready",
       "title": "ISRO URSC Technician-B व ड्राइवर भर्ती 2026 — आख़िरी तारीख़ 20 नवंबर (बढ़ी हुई)",
       "verifyNote": "आधिकारिक ISRO पेज (isro.gov.in/URSCRecruitment13.html) पर सूचना: पेमेंट गेटवे की तकनीकी गड़बड़ी के कारण आवेदन व शुल्क जमा करने की अंतिम तिथि 13 नवंबर 2026 से बढ़ाकर 20 नवंबर 2026 (शाम 5 बजे) कर दी गई है; योग्यता की कट-ऑफ तारीख़ 13.11.2026 ही रहेगी। पुरानी तारीख़ 13 Nov → नई तारीख़ 20 Nov। बाकी सारी जानकारी live card जैसी ही है। उपयोगकर्ता queue करेगा तभी site पर नई तारीख़ लगेगी।"
+    },
+    {
+      "createdAt": "2026-11-13T19:51+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://upsconline.nic.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "admit"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-11-22"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-29"
+        },
+        "org": {
+          "state": "ok",
+          "value": "संघ लोक सेवा आयोग (UPSC)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "check",
+          "value": "80 पद (भारतीय वन सेवा)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "स्नातक (CSE प्रीलिम्स 2026 में IFoS के लिए चयनित अभ्यर्थी ही)"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.upsc.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.sarkariresult.com/upsc/upsc-ias-ifs-pre-2026/"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-13"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "UPSC भारतीय वन सेवा (IFS) मुख्य परीक्षा एडमिट कार्ड 2026 — परीक्षा 22–29 नवंबर"
+        }
+      },
+      "id": "prep-upsc-ifs-mains-admit-card-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "UPSC भारतीय वन सेवा (IFS) मुख्य परीक्षा एडमिट कार्ड 2026 — परीक्षा 22–29 नवंबर",
+      "verifyNote": "UPSC ने IFS (Main) 2026 का e-Admit Card 13 Nov 2026 को जारी किया; परीक्षा 22–29 Nov 2026 — SarkariResult, FreeJobAlert व resultindia.org से cross-check, तीनों में तारीख़ें एक जैसी। CSE Mains का रिजल्ट 5 Nov 2026 को आया; IFoS Mains के लिए 1,046 अभ्यर्थी shortlist हुए (80 पद — एक स्रोत से, पुष्टि बाकी)। कमी: admit card डाउनलोड का सीधा link व official PDF link नहीं मिला — डाउनलोड upsconline.nic.in से होगा।"
+    },
+    {
+      "createdAt": "2026-11-13T19:51+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://upsssc.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "answer_key"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-08-23"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "आंसर की देखने के लिए कोई शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-13"
+        },
+        "org": {
+          "state": "ok",
+          "value": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग (UPSSSC)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "check",
+          "value": "2,587 पद"
+        },
+        "qual": {
+          "state": "check",
+          "value": "स्नातक (Graduate)"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://upsssc.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/upsssc-lower-pcs-answer-key-2026-released-3081019"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-13"
+        },
+        "state": {
+          "state": "ok",
+          "value": "उत्तर प्रदेश"
+        },
+        "title": {
+          "state": "ok",
+          "value": "UPSSSC लोअर PCS (स्नातक स्तर) मुख्य परीक्षा संशोधित आंसर की 2026 जारी — परीक्षा 23 अगस्त"
+        }
+      },
+      "id": "prep-upsssc-lower-pcs-answer-key-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "UPSSSC लोअर PCS (स्नातक स्तर) मुख्य परीक्षा संशोधित आंसर की 2026 जारी — परीक्षा 23 अगस्त",
+      "verifyNote": "UPSSSC ने 13 Nov 2026 को Revised Master Answer Key जारी की (प्रोविज़नल की 24 Aug 2026, आपत्ति 30 Aug तक); परीक्षा 23 Aug 2026, Advt 07-Exam/2026 — FreeJobAlert, SarkariAllUpdates, Testbook व PW Live से cross-check। ध्यान दें: यह स्नातक-स्तर वाली भर्ती है — site पर पहले से live 'इंटर लेवल' वाली लोअर PCS (1,784 पद) अलग भर्ती है। कमी: पद-संख्या में टकराव — दो स्रोत 2,587 कहते हैं, Testbook 2,285; official PDF का सीधा link नहीं मिला; नई आपत्ति-विंडो की जानकारी नहीं मिली।"
+    },
+    {
+      "createdAt": "2026-11-13T19:51+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://ksp-recruitment.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "result"
+        },
+        "examDate": {
+          "state": "check",
+          "value": "2026-11-02"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "ok",
+          "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-12"
+        },
+        "org": {
+          "state": "ok",
+          "value": "कर्नाटक राज्य पुलिस (KSP)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "ok",
+          "value": "3,991 पद (RPC 3,395 + KK 596)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "12वीं (PUC)"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://ksp-recruitment.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/ksp-constable-result-2026-3080766"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-12"
+        },
+        "state": {
+          "state": "ok",
+          "value": "कर्नाटक"
+        },
+        "title": {
+          "state": "ok",
+          "value": "KSP सिविल पुलिस कांस्टेबल रिजल्ट 2026 घोषित — 3,991 पद, ज़िला-वार चयन सूची जारी"
+        }
+      },
+      "id": "prep-ksp-constable-result-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "KSP सिविल पुलिस कांस्टेबल रिजल्ट 2026 घोषित — 3,991 पद, ज़िला-वार चयन सूची जारी",
+      "verifyNote": "कर्नाटक राज्य पुलिस ने 12 Nov 2026 को सिविल पुलिस कांस्टेबल की ज़िला-वार चयन सूची (RPC 3,395 + KK 596 = 3,991 पद) ksp-recruitment.in पर जारी की — FreeJobAlert व Testbook से cross-check, दोनों में तारीख़ व पद-संख्या एक जैसी। PET 2 Nov 2026 से हुआ था; अगला चरण मेडिकल व दस्तावेज़ जाँच। कमी: योग्यता/आयु/वेतन — ये आवेदन-समय की जानकारी है, रिजल्ट वाली खबरों में नहीं दी; official PDF का सीधा link नहीं मिला।"
+    },
+    {
+      "createdAt": "2026-11-13T19:51+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.opsc.gov.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "admit"
+        },
+        "examDate": {
+          "state": "check",
+          "value": "2026-11-15"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-15"
+        },
+        "org": {
+          "state": "ok",
+          "value": "ओडिशा लोक सेवा आयोग (OPSC)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "check",
+          "value": "AAE 48 पद + जियोलॉजिस्ट (पद-संख्या नहीं मिली)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "AAE: B.Tech (कृषि अभियांत्रिकी) ही; जियोलॉजिस्ट: पुष्टि बाकी"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.opsc.gov.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/opsc-aae-and-geologist-admit-card-2026-3079985"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-10"
+        },
+        "state": {
+          "state": "ok",
+          "value": "ओडिशा"
+        },
+        "title": {
+          "state": "ok",
+          "value": "OPSC असिस्टेंट एग्रीकल्चर इंजीनियर व जियोलॉजिस्ट एडमिट कार्ड 2026 — परीक्षा 15 नवंबर"
+        }
+      },
+      "id": "prep-opsc-aae-geologist-admit-card-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "OPSC असिस्टेंट एग्रीकल्चर इंजीनियर व जियोलॉजिस्ट एडमिट कार्ड 2026 — परीक्षा 15 नवंबर",
+      "verifyNote": "OPSC ने 10 Nov 2026 (शाम 5 बजे) से AAE (विज्ञापन 08/2026-27, 48 पद) व जियोलॉजिस्ट (विज्ञापन 10/2026-27) की लिखित परीक्षा के एडमिट कार्ड जारी किए; परीक्षा 15 Nov 2026 — FreeJobAlert, JagranJosh व 9curry से cross-check। ध्यान दें: एक स्रोत (civilgyantests) में AAE परीक्षा 1 Nov 2026 लिखी है, पर admit card 10 Nov को जारी हुआ और दोनों ताज़ा स्रोत 15 Nov कहते हैं — इसलिए 15 Nov ही लिया है। कमी: जियोलॉजिस्ट के पदों की संख्या व योग्यता की पुष्टि बाकी; official PDF का सीधा link नहीं मिला।"
+    },
+    {
+      "createdAt": "2026-11-13T19:51+05:30",
+      "createdBy": "LOYATI (hourly check)",
+      "fields": {
+        "age": {
+          "state": "missing",
+          "value": null
+        },
+        "applyUrl": {
+          "state": "ok",
+          "value": "https://www.pfrda.org.in"
+        },
+        "cat": {
+          "state": "ok",
+          "value": "admit"
+        },
+        "examDate": {
+          "state": "ok",
+          "value": "2026-11-20"
+        },
+        "feeGen": {
+          "state": "missing",
+          "value": null
+        },
+        "feeText": {
+          "state": "missing",
+          "value": null
+        },
+        "lastDate": {
+          "state": "ok",
+          "value": "2026-11-20"
+        },
+        "org": {
+          "state": "ok",
+          "value": "पेंशन फंड नियामक व विकास प्राधिकरण (PFRDA)"
+        },
+        "pdfUrl": {
+          "state": "missing",
+          "value": null
+        },
+        "posts": {
+          "state": "check",
+          "value": "30 पद (ऑफिसर ग्रेड-A, असिस्टेंट मैनेजर)"
+        },
+        "qual": {
+          "state": "check",
+          "value": "स्नातक (विस्तृत योग्यता आधिकारिक नोटिफिकेशन में देखें)"
+        },
+        "salary": {
+          "state": "missing",
+          "value": null
+        },
+        "siteUrl": {
+          "state": "ok",
+          "value": "https://www.pfrda.org.in"
+        },
+        "sourceUrl": {
+          "state": "ok",
+          "value": "https://www.freejobalert.com/articles/pfrda-grade-a-mains-admit-card-2026-3080441"
+        },
+        "startDate": {
+          "state": "ok",
+          "value": "2026-11-12"
+        },
+        "state": {
+          "state": "ok",
+          "value": "सभी राज्य (केंद्रीय)"
+        },
+        "title": {
+          "state": "ok",
+          "value": "PFRDA ग्रेड-A (असिस्टेंट मैनेजर) फेज़-2 एडमिट कार्ड 2026 — परीक्षा 20 नवंबर"
+        }
+      },
+      "id": "prep-pfrda-grade-a-phase2-admit-card-2026",
+      "jobId": null,
+      "kind": "new_job",
+      "sourceSubmissionId": null,
+      "status": "ready",
+      "title": "PFRDA ग्रेड-A (असिस्टेंट मैनेजर) फेज़-2 एडमिट कार्ड 2026 — परीक्षा 20 नवंबर",
+      "verifyNote": "PFRDA ने 12 Nov 2026 को ग्रेड-A (असिस्टेंट मैनेजर, Advt 03/2026) फेज़-2 का एडमिट कार्ड जारी किया; फेज़-2 परीक्षा 20 Nov 2026 (फेज़-1 परीक्षा 15 Oct 2026 थी) — JagranJosh, FreeJobAlert, FreshersLive व anujjindal से cross-check, सब में तारीख़ें एक जैसी। कमी: पद-संख्या (30) व योग्यता एक-एक स्रोत से हैं, पुष्टि बाकी; admit card डाउनलोड का सीधा link नहीं मिला — pfrda.org.in से लॉगिन करके मिलेगा।"
     }
   ],
   "submissions": [],
-  "updatedAt": "2026-11-13T18:55+05:30",
+  "updatedAt": "2026-11-13T19:51+05:30",
   "version": 1
 }
