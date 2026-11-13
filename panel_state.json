@@ -7849,9 +7849,414 @@
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-13T07:49:13+05:30",
    "listedAt": "2026-11-13T08:16:06+05:30"
+  },
+  {
+   "createdAt": "2026-11-13T08:54:00+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "अधिकतम 32 वर्ष (31 Dec 2026 को); SC/ST को 5 साल की छूट"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://bsf.mha.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "परीक्षा शुल्क — रकम विज्ञापन में नहीं दी, पोर्टल (bsf.mha.gov.in) पर आवेदन के समय दिखेगी"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-31"
+    },
+    "org": {
+     "state": "ok",
+     "value": "सीमा सुरक्षा बल (BSF — नोडल फोर्स), गृह मंत्रालय — BSF, CRPF, ITBP व SSB के लिए"
+    },
+    "pdfUrl": {
+     "state": "check",
+     "value": "https://img.jagranjosh.com/images/2026/11/11/template/image/BSF-SI-Recruitment-2026-Notification-1794395192278.pdf"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "1,167 पद (BSF 235 + CRPF 377 + ITBP 430 + SSB 125)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "स्नातक (Bachelor's degree) + 4 साल की नियमित सेवा — सिर्फ़ सेवारत CAPF कर्मी (Constable/HC/ASI)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "Level-6 ₹35,400–1,12,400"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://bsf.mha.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.karmasandhan.com/capf-si-ldce-recruitment/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "state": {
+     "state": "ok",
+     "value": "अखिल भारतीय"
+    },
+    "title": {
+     "state": "ok",
+     "value": "CAPF सब-इंस्पेक्टर (GD) LDCE भर्ती 2026 — 1,167 पद (BSF, CRPF, ITBP, SSB; सिर्फ़ सेवारत जवानों के लिए)"
+    }
+   },
+   "id": "prep-capf-si-ldce-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "CAPF सब-इंस्पेक्टर (GD) LDCE भर्ती 2026 — 1,167 पद (BSF, CRPF, ITBP, SSB; सिर्फ़ सेवारत जवानों के लिए)",
+   "verifyNote": "BSF के विस्तृत विज्ञापन (पत्र सं. A.2/SI (LDCE)/CAPFs Exam-2026/Pers(Rectt)/BSF/2026/7179-98, 10 Nov 2026) से — Karmasandhan, PlacementStore, GovtServiceInfo, CareerAlert24, QuickSarkari व JagranJosh से cross-check; सब में 1,167 पद व 12 Nov–31 Dec 2026 ही है। ध्यान: यह विभागीय LDCE है — सिर्फ़ BSF/CRPF/ITBP के सेवारत Constable (GD/Tradesmen), Head Constable व ASI (GD) और SSB के ASI (GD) ही भर सकते हैं, आम जनता/फ्रेशर नहीं; CISF इसमें नहीं है। कमी: परीक्षा शुल्क की रकम विज्ञापन में नहीं है (पोर्टल पर दिखेगी); CBT की तारीख़ अभी घोषित नहीं; PDF link JagranJosh पर hosted official पत्र की copy है।"
+  },
+  {
+   "createdAt": "2026-11-13T08:54:00+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "18–27 वर्ष (1 Oct 2026 को)"
+    },
+    "applyUrl": {
+     "state": "check",
+     "value": "https://www.sci.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "check",
+     "value": "2026-12-26"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "₹1500"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "सामान्य ₹1,500; SC/ST/OBC (NCL)/भूतपूर्व सैनिक/दिव्यांग ₹750 — ऑनलाइन (UCO Bank gateway), वापस नहीं होगा; आंसर की आपत्ति ₹100 प्रति प्रश्न"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-25"
+    },
+    "org": {
+     "state": "ok",
+     "value": "भारत का सर्वोच्च न्यायालय (Supreme Court of India), नई दिल्ली"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "130 पद (tentative — रजिस्ट्री की ज़रूरत से बदल सकते हैं)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "10वीं पास (अधिकतम 12वीं पास)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "Level-3 ₹21,700–69,100 (शुरुआती बेसिक ₹21,700)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.sci.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.sarkarijob.com/sci-junior-court-attendant/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-04"
+    },
+    "state": {
+     "state": "ok",
+     "value": "अखिल भारतीय (दिल्ली — सुप्रीम कोर्ट रजिस्ट्री)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "सुप्रीम कोर्ट जूनियर कोर्ट अटेंडेंट भर्ती 2026 — 130 पद (10वीं पास, Group-C)"
+    }
+   },
+   "id": "prep-sci-junior-court-attendant-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "सुप्रीम कोर्ट जूनियर कोर्ट अटेंडेंट भर्ती 2026 — 130 पद (10वीं पास, Group-C)",
+   "verifyNote": "विज्ञापन सं. F.3/2026-SC (RC), 15 Oct 2026 — SarkariJob, FreeJobAlert, JagranJosh, ExamNeed, GovtJobsAlert व MyMaharashtra से cross-check; सब में 130 पद, 4–25 Nov 2026 व ₹1,500/₹750 शुल्क ही है। चयन: Objective Test (100 प्रश्न, 100 अंक, 26 Dec 2026 tentative) → इंटरव्यू (25 अंक) → दस्तावेज़ जाँच; पास होने पर merit panel बनेगा। कमी: official notification PDF का सीधा link नहीं मिला (sci.gov.in से लेना होगा); 130 पद tentative हैं; परीक्षा की तारीख़ tentative है।"
+  },
+  {
+   "createdAt": "2026-11-13T08:54:00+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "15–24 वर्ष (3 Nov 2026 को); SC/ST +5, OBC +3, PwBD +10 साल की छूट"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://www.rrccr.com"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "₹100"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "₹100 (सामान्य/OBC); SC/ST/PwBD/महिला — कोई शुल्क नहीं; वापस नहीं होगा"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-02"
+    },
+    "org": {
+     "state": "ok",
+     "value": "रेलवे भर्ती प्रकोष्ठ, मध्य रेलवे (RRC/CR), मुंबई"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "2,861 स्लॉट (मुंबई 1,712 + भुसावल 500 + पुणे 271 + नागपुर 221 + सोलापुर 157; provisional)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "10वीं (कम से कम 50%) + संबंधित ट्रेड में ITI (NCVT/SCVT)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹9,600/माह स्टाइपेंड (1 साल की ट्रेनिंग)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.rrccr.com"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/rrc-central-railway-act-apprentice-recruitment-2026-3078343"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-03"
+    },
+    "state": {
+     "state": "ok",
+     "value": "महाराष्ट्र (मुंबई, भुसावल, पुणे, नागपुर, सोलापुर)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "मध्य रेलवे (RRC CR) एक्ट अप्रेंटिस भर्ती 2026 — 2,861 स्लॉट (10वीं + ITI)"
+    }
+   },
+   "id": "prep-rrc-central-railway-apprentice-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "मध्य रेलवे (RRC CR) एक्ट अप्रेंटिस भर्ती 2026 — 2,861 स्लॉट (10वीं + ITI)",
+   "verifyNote": "नोटिस सं. RRC/CR/AA/2026, 3 Nov 2026 — FreeJobAlert, Karmasandhan, JobsDigger, RojgarPulse, MaharashtraJobAlert व MyMaharashtra से cross-check; सब में 2,861 स्लॉट व 3 Nov–2 Dec 2026 ही है। चयन: 10वीं + ITI अंकों की मेरिट, कोई लिखित परीक्षा/इंटरव्यू नहीं; 1 साल की ट्रेनिंग, स्थायी नौकरी की गारंटी नहीं। ध्यान: 11 Nov के addendum से Engineering (P-Way) यूनिट जुड़ी है — स्लॉट-संख्या में बदलाव हो सकता है, 2,861 मूल नोटिस की संख्या है। कमी: official PDF का सीधा link नहीं मिला। यह RRC NWR अप्रेंटिस (2,008 स्लॉट, पहले से live) से अलग है।"
+  },
+  {
+   "createdAt": "2026-11-13T08:54:00+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "check",
+     "value": "https://upsconline.nic.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "check",
+     "value": "2026-08-21"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-25"
+    },
+    "org": {
+     "state": "ok",
+     "value": "संघ लोक सेवा आयोग (UPSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "2,526 अभ्यर्थी Personality Test (इंटरव्यू) के लिए चुने गए — कुल 933 पद (IAS, IFS, IPS व अन्य Group A/B सेवाएँ)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "स्नातक (Graduate)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://upsc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.pw.live/news/upsc-cse-mains-result-2026-pdf-download-interview-date"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-05"
+    },
+    "state": {
+     "state": "ok",
+     "value": "अखिल भारतीय"
+    },
+    "title": {
+     "state": "ok",
+     "value": "UPSC सिविल सेवा (मुख्य) परीक्षा रिजल्ट 2026 घोषित — 2,526 अभ्यर्थी इंटरव्यू के लिए चुने गए"
+    }
+   },
+   "id": "prep-upsc-cse-mains-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "UPSC सिविल सेवा (मुख्य) परीक्षा रिजल्ट 2026 घोषित — 2,526 अभ्यर्थी इंटरव्यू के लिए चुने गए",
+   "verifyNote": "UPSC ने 5 Nov 2026 को Civil Services (Main) Exam 2026 का written result जारी किया — PW Live, The Study IAS, LotusArise, Education Times व Telegraph से cross-check; सब में 5 Nov 2026 व 2,526 shortlisted ही है। Mains परीक्षा 21–30 Aug 2026 हुई थी; चुने गए अभ्यर्थियों को 11–25 Nov 2026 (शाम 6 बजे तक) upsconline.nic.in पर DAF update करना है; इंटरव्यू की तारीख़ें अभी घोषित नहीं (Dholpur House, नई दिल्ली)। कमी: result PDF का सीधा link नहीं मिला; इंटरव्यू schedule बाकी।"
+  },
+  {
+   "createdAt": "2026-11-13T08:54:00+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "20–33 वर्ष (1 Jan 2027 को)"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://rrbapply.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "check",
+     "value": "₹500"
+    },
+    "feeText": {
+     "state": "check",
+     "value": "सामान्य ₹500, आरक्षित ₹250 (RRB की सामान्य फीस-संरचना से — CEN 08/2026 से पुष्टि बाकी); शुल्क जमा करने की आख़िरी तारीख़ 27 Nov 2026"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-25"
+    },
+    "org": {
+     "state": "ok",
+     "value": "रेलवे भर्ती बोर्ड (RRB)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "1,265 पद (Annexure-B के जोड़ से; नोटिस की summary table में 1,215 छपा था — corrigendum से 1,265 सही)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "किसी भी विषय में स्नातक (Graduate)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "Level-6 ₹35,400 (शुरुआती बेसिक) + भत्ते"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://rrb.indianrailways.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.practicemock.com/blog/railway-station-master-notification/amp/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-10-27"
+    },
+    "state": {
+     "state": "ok",
+     "value": "अखिल भारतीय"
+    },
+    "title": {
+     "state": "ok",
+     "value": "RRB स्टेशन मास्टर भर्ती 2026 (CEN 08/2026) — 1,265 पद (स्नातक, Level-6)"
+    }
+   },
+   "id": "prep-rrb-station-master-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "RRB स्टेशन मास्टर भर्ती 2026 (CEN 08/2026) — 1,265 पद (स्नातक, Level-6)",
+   "verifyNote": "CEN 08/2026, 26 Oct 2026 (corrigendum 27 Oct) — PracticeMock, JagranJosh, BrollyExamPrep, HandwrittenNotes व Saja से cross-check; सब में 1,265 पद व 27 Oct–25 Nov 2026 ही है। ध्यान: इस बार स्टेशन मास्टर NTPC (CEN 06/2026) से अलग, अपने CEN 08/2026 से निकला है; चयन single-stage CBT → CBAT → दस्तावेज़ जाँच → मेडिकल (A2)। पद-संख्या पर टकराव: summary में 1,215, Annexure-B के जोड़ में 1,265 — corrigendum ने 1,265 सही किया। कमी: शुल्क की रकम CEN से सीधे पुष्टि नहीं हुई (RRB की सामान्य ₹500/₹250 संरचना मानी है); CBT की तारीख़ अभी घोषित नहीं; official PDF का सीधा link नहीं मिला। यह RRB NTPC UG (CEN 07/2026, पहले से live) से अलग भर्ती है।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T08:16:06+05:30",
+ "updatedAt": "2026-11-13T08:54:00+05:30",
  "version": 1
 }
