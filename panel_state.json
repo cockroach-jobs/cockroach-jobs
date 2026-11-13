@@ -15200,87 +15200,6 @@
    "createdAt": "2026-11-14T03:55+05:30"
   },
   {
-   "id": "prep-rrc-nr-act-apprentice-2026",
-   "kind": "new_job",
-   "jobId": null,
-   "title": "रेलवे RRC उत्तर रेलवे (NR) एक्ट अप्रेंटिस भर्ती 2026 — 4,651 स्लॉट (विज्ञापन RRC/NR/03/2026)",
-   "fields": {
-    "title": {
-     "value": "रेलवे RRC उत्तर रेलवे (NR) एक्ट अप्रेंटिस भर्ती 2026 — 4,651 स्लॉट (विज्ञापन RRC/NR/03/2026)",
-     "state": "ok"
-    },
-    "org": {
-     "value": "रेलवे भर्ती प्रकोष्ठ, उत्तर रेलवे (RRC NR), नई दिल्ली",
-     "state": "ok"
-    },
-    "cat": {
-     "value": "job",
-     "state": "ok"
-    },
-    "posts": {
-     "value": "4,651 स्लॉट (लखनऊ 1,525 + दिल्ली 1,312 + अंबाला 979 + फ़िरोज़पुर 740 + मोरादाबाद 63 + जम्मू 32)",
-     "state": "ok"
-    },
-    "qual": {
-     "value": "10वीं (50% अंक) + संबंधित ट्रेड में ITI (NCVT/SCVT)",
-     "state": "ok"
-    },
-    "state": {
-     "value": "उत्तर भारत — लखनऊ, दिल्ली, फ़िरोज़पुर, अंबाला, मोरादाबाद व जम्मू क्लस्टर (केंद्रीय)",
-     "state": "ok"
-    },
-    "startDate": {
-     "value": "2026-11-11",
-     "state": "ok"
-    },
-    "lastDate": {
-     "value": "2026-12-11",
-     "state": "ok"
-    },
-    "examDate": {
-     "value": null,
-     "state": "missing"
-    },
-    "feeGen": {
-     "value": "₹100",
-     "state": "ok"
-    },
-    "feeText": {
-     "value": "Gen/OBC/EWS ₹100 · SC/ST/PwBD/महिला — शुल्क नहीं (ऑनलाइन)",
-     "state": "ok"
-    },
-    "salary": {
-     "value": null,
-     "state": "missing"
-    },
-    "age": {
-     "value": "15 – 24 वर्ष (11 Dec 2026 को)",
-     "state": "ok"
-    },
-    "applyUrl": {
-     "value": "https://www.rrcnr.org",
-     "state": "ok"
-    },
-    "pdfUrl": {
-     "value": "https://rrcnr.org/downloads/Notification_Act_Appretice_2026.pdf",
-     "state": "ok"
-    },
-    "siteUrl": {
-     "value": "https://www.rrcnr.org",
-     "state": "ok"
-    },
-    "sourceUrl": {
-     "value": "https://www.youtube.com/watch?v=NznSrA0dbik",
-     "state": "ok"
-    }
-   },
-   "verifyNote": "YouTube वीडियो (SIKSHA SAMBAD — Northern Railway Apprentice 4,651 Vacancies) + NDTV + आधिकारिक नोटिफ़िकेशन PDF (rrcnr.org) + JobCareerUpdates, GovtJobsAlert, FreeJobAlert, ProJobAlert से cross-check — विज्ञापन RRC/NR/03/2026, 6 Nov 2026; 4,651 स्लॉट, 6 क्लस्टर; आवेदन 11 Nov – 11 Dec 2026; कोई लिखित परीक्षा/इंटरव्यू नहीं, 10वीं + ITI अंकों से मेरिट; मेरिट सूची फरवरी 2027 में। ध्यान दें: यह स्थायी नौकरी नहीं, अप्रेंटिसशिप प्रशिक्षण है। कमी: स्टाइपेंड की रकम की पुष्टि बाकी।",
-   "status": "ready",
-   "sourceSubmissionId": null,
-   "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T04:53+05:30"
-  },
-  {
    "id": "prep-csir-npl-mts-2026",
    "kind": "new_job",
    "jobId": null,
@@ -15525,6 +15444,6 @@
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T04:53+05:30",
+ "updatedAt": "2026-11-14T04:58+05:30",
  "version": 1
 }
