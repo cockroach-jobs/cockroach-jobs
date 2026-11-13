@@ -7019,9 +7019,414 @@
    "status": "ready",
    "title": "WAPCOS एनवायरनमेंटल एक्सपर्ट भर्ती 2026 — 5 पद",
    "verifyNote": "FreeJobAlert + BoldVoices से cross-check — Advt WAPCOS/HR/ENVS/TECH/2026, 4 Nov 2026; 5 पद (Expert-Engineer Environment 2, Expert-Scientist Forestry 1, Fisheries & Aquatic Ecology 1, Social Scientist 1), गुरुग्राम; ऑनलाइन आवेदन WAPCOS portal पर (मोबाइल + OTP), 4–18 Nov 2026; अनुभव की गिनती 01.11.2026 को। कमी: शुल्क व चयन-प्रक्रिया official notification में नहीं दिए; पद-वार योग्यता/अनुभव की पुष्टि बाकी; official PDF का सीधा link नहीं मिला। यह 29-पद वाली WAPCOS भर्ती (Notice 5/226/Power/T&D) से अलग विज्ञापन है।"
+  },
+  {
+   "id": "prep-dgll-technician-diesel-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "DGLL तकनीशियन (डीज़ल) भर्ती 2026 — 1 पद (चेन्नई, EWS)",
+   "fields": {
+    "title": {
+     "value": "DGLL तकनीशियन (डीज़ल) भर्ती 2026 — 1 पद (चेन्नई, EWS)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "लाइटहाउस व लाइटशिप महानिदेशालय (DGLL), चेन्नई",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं + 4 साल अप्रेंटिसशिप या मैकेनिकल इंजीनियरिंग में डिप्लोमा (2 साल अनुभव के साथ)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "तमिलनाडु (पोस्टिंग भारत में किसी भी लाइटहाउस स्टेशन पर)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-24",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹29,200 – ₹92,300 (Level-5)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "21 – 30 वर्ष (अंतिम तिथि को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.dgll.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/dll-technician-diesel-recruitment-2026-3076407",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert पर official notification (Advt 07/2026, 24 Oct 2026) का पूरा text पढ़कर जाँचा; FreshersLive, AllGovernmentJobs व Qaskme से cross-check — 1 पद, 23 Nov 2026 तक offline, लिखित परीक्षा (100 अंक, Part-A सामान्य ज्ञान/योग्यता + Part-B तकनीकी) + ट्रेड टेस्ट। ध्यान: यह दूसरी बार बढ़ी हुई तारीख़ है (मूल Advt 03/2026, पात्रता की कट-ऑफ 10 Aug 2026 ही रही); Electronics वाले Notice 02/2026 (गोवा, 8 Dec) से अलग भर्ती है — Advt 07/2026, चेन्नई; EWS आरक्षण Qaskme के अनुसार। कमी: शुल्क नोटिफ़िकेशन में नहीं दिया; official PDF का सीधा link नहीं मिला (dgll.nic.in पर है); परीक्षा की तारीख़ अभी नहीं आई। आवेदन डाक से — Director, DGLL, Deep Bhavan, 5/20 Jaffar Syrang Street, Chennai – 600001।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T06:51:55+05:30"
+  },
+  {
+   "id": "prep-district-judge-chandigarh-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "जिला एवं सत्र न्यायाधीश, चंडीगढ़ भर्ती 2026 — 32 पद (गेट कीपर, चौकीदार, पार्किंग अटेंडेंट)",
+   "fields": {
+    "title": {
+     "value": "जिला एवं सत्र न्यायाधीश, चंडीगढ़ भर्ती 2026 — 32 पद (गेट कीपर, चौकीदार, पार्किंग अटेंडेंट)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "जिला एवं सत्र न्यायाधीश कार्यालय, चंडीगढ़",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "32 पद (गेट कीपर 8 + चौकीदार 6 + पार्किंग अटेंडेंट 18)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "मिडिल (8वीं) पास + हिंदी/पंजाबी का ज्ञान",
+     "state": "ok"
+    },
+    "state": {
+     "value": "चंडीगढ़",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "18 – 37 वर्ष (01/01/2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://chandigarh.dcourts.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/district-sessions-judge-chandigarh-recruitment-2026-parking-attendant-3077771",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert पर official notification (Employment Notice 1 of 2026) का text पढ़कर जाँचा; RojgarPulse, PlacementStore व NRAI से cross-check — 32 पद, 16 Nov 2026 शाम 5 बजे तक offline, 89 दिन का कॉन्ट्रैक्ट (बढ़ाया जा सकता है), मल्टी-लेवल पार्किंग, District Courts Complex, Sector 43, चंडीगढ़। कोई शुल्क नहीं। कमी: वेतन नोटिस में नहीं दिया; official PDF का सीधा link नहीं मिला (chandigarh.dcourts.gov.in पर है); परीक्षा/चयन की तारीख़ नहीं दी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T06:51:55+05:30"
+  },
+  {
+   "id": "prep-visva-bharati-teaching-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "विश्वभारती शिक्षक भर्ती 2026 — 14 पद (प्रोफेसर, एसोसिएट व असिस्टेंट प्रोफेसर)",
+   "fields": {
+    "title": {
+     "value": "विश्वभारती शिक्षक भर्ती 2026 — 14 पद (प्रोफेसर, एसोसिएट व असिस्टेंट प्रोफेसर)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "विश्वभारती, शांतिनिकेतन (केंद्रीय विश्वविद्यालय)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "14 पद (प्रोफेसर 1 + एसोसिएट प्रोफेसर 6 + असिस्टेंट प्रोफेसर 7)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Ph.D. / मास्टर डिग्री 55% + NET/SLET (UGC नियम 2018)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "पश्चिम बंगाल",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-13",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹2,000 (प्रोफेसर/एसोसिएट प्रोफेसर), ₹1,600 (असिस्टेंट प्रोफेसर)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "महिला/PwD छूट; SC/ST को 25% शुल्क",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level-10 – 14 (₹57,700 – ₹1,44,200)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "UGC नियमों के अनुसार",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://curec.samarth.ac.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.visvabharati.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/visva-bharati-professor-assistant-professor-recruitment/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Karmasandhan पर official notification (Advt 03/2026, 13 Oct 2026) का पूरा text पढ़कर जाँचा; JobsDigger से cross-check — 14 पद, 15 Nov 2026 रात 11:59 बजे तक ऑनलाइन, चयन इंटरव्यू/परफॉर्मेंस टेस्ट से (कोई लिखित परीक्षा नहीं), शुल्क ₹2,000/₹1,600। ध्यान: '500 पद' वाला दावा किसी स्रोत में नहीं मिला — वह गलत/पुरानी सूची थी, इसलिए नहीं लिया; Radiologist 1 पद (20 Nov) वाली छोटी भर्ती अलग है, अगली run में देखेंगे। कमी: official PDF का सीधा link नहीं मिला; इंटरव्यू की तारीख़ अभी नहीं आई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T06:51:55+05:30"
+  },
+  {
+   "id": "prep-hbtu-faculty-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "HBTU कानपुर फैकल्टी भर्ती 2026 — 25 पद (प्रोफेसर, एसोसिएट व असिस्टेंट प्रोफेसर)",
+   "fields": {
+    "title": {
+     "value": "HBTU कानपुर फैकल्टी भर्ती 2026 — 25 पद (प्रोफेसर, एसोसिएट व असिस्टेंट प्रोफेसर)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "हरकोर्ट बटलर टेक्निकल यूनिवर्सिटी (HBTU), कानपुर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "25 पद (24 फैकल्टी + 1 असिस्टेंट वर्कशॉप सुपरिंटेंडेंट)",
+     "state": "check"
+    },
+    "qual": {
+     "value": "Ph.D. (AICTE/UGC/HBTU नियमों के अनुसार)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-26",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-08",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹2,000",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "UR/EWS/OBC ₹2,000; SC/ST ₹1,500",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "विश्वविद्यालय/उ.प्र. सरकार के नियमों के अनुसार",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://hbtu.ac.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://hbtu.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/hbtu-recruitment-2026-apply-online-for-25-professor-associate-professor-and-more-posts-3075792",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert पर official notification (File No. 1460/HBTU/Estt/01/2026, 24 Oct 2026) का text पढ़कर जाँचा; SarkariResult.app, SahiSarkariJobs व 9Curry से cross-check — 25 पद, 8 Dec 2026 रात 11:59 बजे तक ऑनलाइन, चयन स्क्रीनिंग + इंटरव्यू से। ध्यान: पद-वार सूची जोड़ने पर 23 बनती है, जबकि श्रेणी-वार कुल 25 है — official नोटिस से पुष्टि बाकी, इसलिए posts 'check' है; 4 पद बाद की तारीख़ों (Dec 2026–Aug 2027) में खाली होंगे। कमी: वेतनमान नोटिस-सार में नहीं दिया; official PDF का सीधा link नहीं मिला (hbtu.ac.in पर है)।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T06:51:55+05:30"
+  },
+  {
+   "id": "prep-127-ta-eco-garhwal-rally-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "127 इन्फैंट्री बटालियन (TA) इको गढ़वाल राइफल्स भर्ती रैली 2026 — 45 पद (JCO व सैनिक; सिर्फ़ भूतपूर्व सैनिक)",
+   "fields": {
+    "title": {
+     "value": "127 इन्फैंट्री बटालियन (TA) इको गढ़वाल राइफल्स भर्ती रैली 2026 — 45 पद (JCO व सैनिक; सिर्फ़ भूतपूर्व सैनिक)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "127 इन्फैंट्री बटालियन (टेरिटोरियल आर्मी) इकोलॉजिकल, गढ़वाल राइफल्स",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "45 पद (JCO धार्मिक शिक्षक 1 + Soldier GD 31 + Clerk SD 2 + ट्रेड्समैन 11)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "सिर्फ़ भूतपूर्व सैनिक (सेना/TA पेंशनभोगी) या MoEF&CC/राज्य वन विभाग की भूतपूर्व महिला कर्मचारी (कम से कम 20 साल सेवा); SHAPE-I मेडिकल श्रेणी",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (रैली देहरादून, उत्तराखंड में)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-12-07",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-10",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-07",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं — न कोई ऑनलाइन फॉर्म, सीधे रैली स्थल पर हाज़िर होना है",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "JCO 55 वर्ष तक, अन्य रैंक 50 वर्ष तक; सेवा-मुक्ति के 5 साल के अंदर भर्ती",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://territorialarmy.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/127-inf-bn-ta-eco-garhwal-rifles-recruitment-rally-2026-3080453",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert पर Employment News नोटिस (EN 33/59, 14–20 Nov 2026) का पूरा text पढ़कर जाँचा; NRAI, FreshersLive, SarkariResult.app व QuickSarkari से cross-check — 45 पद, रैली 7–10 Dec 2026, Jaswant Singh Ground, Garhi Cantt, देहरादून; दस्तावेज़ जाँच व शारीरिक परीक्षा 7–8 Dec, मेडिकल 9–10 Dec; सुबह 6–9 बजे रिपोर्ट करना है। ध्यान: यह 136 TA इको महार रैली (23–25 Nov, Kamptee) से अलग बटालियन है — वह पहले से site पर live है। सिर्फ़ भूतपूर्व सैनिक (pension holder) व MoEF&CC/वन विभाग की भूतपूर्व महिला कर्मचारी ही पात्र; JCO पद सिर्फ़ उत्तराखंड के लिए, सैनिक पद सभी राज्यों के लिए। कमी: official PDF का सीधा link नहीं मिला; वेतन का सटीक आँकड़ा नोटिस में नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T06:51:55+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T06:04:34+05:30",
+ "updatedAt": "2026-11-13T06:51:55+05:30",
  "version": 1
 }
