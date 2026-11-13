@@ -9069,9 +9069,171 @@
    "status": "ready",
    "title": "RSSB महिला पर्यवेक्षक (Female Supervisor) रिजल्ट 2026 घोषित — 72 पद",
    "verifyNote": "SarkariExam व RojgarResult से cross-check — रिजल्ट 4 नवंबर 2026 को घोषित, Advt 02/2026, परीक्षा 24 जुलाई 2026, 72 पद। कमी: रिजल्ट PDF का सीधा link बाकी है।"
+  },
+  {
+   "createdAt": "2026-11-13T11:48:17+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "check",
+     "value": "2026-08-03"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-01"
+    },
+    "org": {
+     "state": "ok",
+     "value": "रेलवे भर्ती बोर्ड (RRB)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "22,195 पद (Level-1) — अब तक 6 RRBs से 16,427 अभ्यर्थी PET के लिए shortlist"
+    },
+    "qual": {
+     "state": "check",
+     "value": "10वीं पास / ITI (CEN 09/2025 के अनुसार)"
+    },
+    "salary": {
+     "state": "check",
+     "value": "Level-1 — ₹18,000 – ₹56,900 (7th CPC)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://rrb.indianrailways.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://govtjobsalert.in/rrb-group-d-cen-09-2025-pet-shortlist-2026/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "RRB ग्रुप-D रिजल्ट 2026 (CEN 09/2025) — PET शॉर्टलिस्ट जारी, 22,195 पद"
+    }
+   },
+   "id": "prep-rrb-group-d-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "RRB ग्रुप-D रिजल्ट 2026 (CEN 09/2025) — PET शॉर्टलिस्ट जारी, 22,195 पद",
+   "verifyNote": "12 Nov 2026 को 6 RRBs (अहमदाबाद, भोपाल, गोरखपुर, पटना, प्रयागराज, राँची) ने PET शॉर्टलिस्ट जारी की — अब तक 16,427 अभ्यर्थी shortlist; बाकी RRBs की सूची अभी आनी बाकी है। GovtJobsAlert, JagranJosh, Testbook (YouTube वीडियो सहित), CareerIndia व NewsArkariResults से cross-check — सब में 12 Nov, 22,195 पद, CBT 3–25 Aug 2026 एक जैसे। स्कोरकार्ड link 16 Nov 2026 शाम 5 बजे से 1 Dec 2026 रात 11:55 तक चलेगा; PET दिसंबर 2026 में होने की उम्मीद (तारीख़ अभी घोषित नहीं)। कमी: RRB-वार result PDF का एक सीधा link नहीं (हर RRB की अपनी site पर है); योग्यता/वेतन भर्ती-समय की जानकारी है, इस जाँच में स्रोत से पुष्टि बाकी।"
+  },
+  {
+   "createdAt": "2026-11-13T11:48:17+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "25 – 45 वर्ष (Principal: 30 – 45 वर्ष; गिनती 01.04.2026 को)"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-30"
+    },
+    "org": {
+     "state": "ok",
+     "value": "जिला बेसिक शिक्षा अधिकारी, लखीमपुर खीरी (उत्तर प्रदेश)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "158 पद (Principal, PGT, Clerk, Lab Assistant, Peon, Chowkidar, Cook व अन्य)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "पद अनुसार अलग — Principal: PG + B.Ed, Peon/Chowkidar: 8वीं पास"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹6,433 – ₹30,000/माह (मानदेय, पद अनुसार)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://kheri.nic.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/district-basic-education-office-lakhimpur-teaching-and-non-teaching-recruitment-2026-3076453"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-10-28"
+    },
+    "state": {
+     "state": "ok",
+     "value": "उत्तर प्रदेश (लखीमपुर खीरी जिला)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "KGBV लखीमपुर खीरी भर्ती 2026-27 — 158 शिक्षण व गैर-शिक्षण पद (केवल महिला, संविदा)"
+    }
+   },
+   "id": "prep-kgbv-lakhimpur-kheri-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "KGBV लखीमपुर खीरी भर्ती 2026-27 — 158 शिक्षण व गैर-शिक्षण पद (केवल महिला, संविदा)",
+   "verifyNote": "28 Oct 2026 का विज्ञापन (सं. एस0एस0ए0/उ0क0गॉ0आ0बा0वि0/4855-64/2026-27) — 158 पद (149 + 9), केवल महिला अभ्यर्थी, 2026-27 सत्र के लिए संविदा नियुक्ति; आवेदन सिर्फ़ रजिस्टर्ड/स्पीड पोस्ट से, 30 Nov 2026 शाम 5 बजे तक पहुँचना चाहिए। RojgarLive, FreeJobAlert, CareerAlert24, Karmasandhan, SarkariKing से cross-check — सब में 158 पद, 30 Nov, महिला-केवल एक जैसे। कमी: आधिकारिक PDF का सीधा link नहीं मिला (kheri.nic.in पर है); Peon के मानदेय पर स्रोतों में छोटा मतभेद (₹7,147 बनाम ₹6,642), इसलिए सिर्फ़ कुल रेंज ली है; चयन-प्रक्रिया (परीक्षा/इंटरव्यू) का उल्लेख नहीं मिला; यह स्थायी सरकारी नौकरी नहीं, सत्र-आधारित संविदा है।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T10:51:46+05:30",
+ "updatedAt": "2026-11-13T11:48:17+05:30",
  "version": 1
 }
