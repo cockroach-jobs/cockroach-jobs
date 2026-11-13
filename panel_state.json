@@ -7424,9 +7424,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-13T06:51:55+05:30"
+  },
+  {
+   "id": "prep-kashmir-university-calligraphist-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "कश्मीर विश्वविद्यालय कैलीग्राफिस्ट भर्ती 2026 — 1 पद (फ़ारसी विभाग; सिर्फ़ J&K domicile)",
+   "fields": {
+    "title": {
+     "value": "कश्मीर विश्वविद्यालय कैलीग्राफिस्ट भर्ती 2026 — 1 पद (फ़ारसी विभाग; सिर्फ़ J&K domicile)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "कश्मीर विश्वविद्यालय (University of Kashmir), श्रीनगर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1 पद (UR; Post Code PGD-PN-12)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक (B.A.) + कैलीग्राफी डिप्लोमा",
+     "state": "check"
+    },
+    "state": {
+     "value": "जम्मू और कश्मीर (सिर्फ़ J&K domicile)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-12",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Pay Level-4, ₹25,500–₹81,100 प्रति माह",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://kashmiruniversity.net/recruitment/Main/Default.aspx?List=SL",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.kashmiruniversity.net",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://jkadworld.com/jammu-kashmir-jobs/university-of-kashmir-recruitment-2026-16/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "कश्मीर विश्वविद्यालय की official recruitment portal पर Advt No. 18 of 2026 (10.11.2026) — आवेदन 12–30 Nov 2026 (शाम 4 बजे तक), in-service की hard copy 4 Dec तक; jkadworld, mysarkarinaukri व jkcareerstudyalerts से cross-check — 1 पद, फ़ारसी विभाग, Level-4 वेतन, सिर्फ़ J&K domicile। कमी: विस्तृत नोटिस (12 Nov से portal पर) से योग्यता व आयु सीमा की पुष्टि बाकी; शुल्क व चयन-प्रक्रिया नोटिस में नहीं मिली; official PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T07:49:13+05:30"
+  },
+  {
+   "id": "prep-iim-ranchi-manager-academics-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "IIM राँची मैनेजर (एकेडमिक्स) भर्ती 2026 — 1 पद (कॉन्ट्रैक्ट; Pay Level-10)",
+   "fields": {
+    "title": {
+     "value": "IIM राँची मैनेजर (एकेडमिक्स) भर्ती 2026 — 1 पद (कॉन्ट्रैक्ट; Pay Level-10)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय प्रबंधन संस्थान (IIM) राँची",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1 पद (UR)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातकोत्तर (PG) 55% अंकों के साथ",
+     "state": "ok"
+    },
+    "state": {
+     "value": "झारखंड (राँची)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-09",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Pay Level-10 के बराबर consolidated वेतन",
+     "state": "ok"
+    },
+    "age": {
+     "value": "50 वर्ष से अधिक नहीं (आवेदन की अंतिम तिथि को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://iimranchi.ac.in/careers/",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://iimranchi.ac.in/media/2026/11/NTR_ADVT_NOVEMBER_2026.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://iimranchi.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.karmasandhan.com/iim-ranchi-manager-academics-recruitment/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "IIM राँची की official PDF (Advt No. IIMR/HR/Recruitment/2026/1030, दिनांक 5.11.2026) से जाँचा — आवेदन 9–30 Nov 2026 (शाम 5 बजे तक); karmasandhan, rojgarpulse व fresherslive से cross-check — 1 पद UR, कॉन्ट्रैक्ट 2 साल (1+1 साल बढ़ सकता है), PG 55%, आयु 50 वर्ष तक। कमी: शुल्क का कोई ज़िक्र नोटिस/स्रोतों में नहीं मिला; चयन-प्रक्रिया (इंटरव्यू/परीक्षा) की तारीख़ अभी नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T07:49:13+05:30"
+  },
+  {
+   "id": "prep-orissa-high-court-typist-deo-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ओडिशा हाई कोर्ट जूनियर ग्रेड टाइपिस्ट / डेटा एंट्री ऑपरेटर भर्ती 2026 — 31 पद (विज्ञापन 07/2026)",
+   "fields": {
+    "title": {
+     "value": "ओडिशा हाई कोर्ट जूनियर ग्रेड टाइपिस्ट / डेटा एंट्री ऑपरेटर भर्ती 2026 — 31 पद (विज्ञापन 07/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "ओडिशा उच्च न्यायालय (High Court of Orissa), कटक",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "31 पद (जूनियर ग्रेड टाइपिस्ट 7 + DEO 24; महिलाओं के लिए 10)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "किसी भी विषय में स्नातक + PGDCA या समकक्ष + कंप्यूटर पर टाइपिंग 40 शब्द/मिनट",
+     "state": "ok"
+    },
+    "state": {
+     "value": "ओडिशा",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-07",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "सामान्य/अन्य ₹500; SC/ST/PwBD नि:शुल्क",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Pay Level-4, ₹19,900–₹63,200 प्रति माह",
+     "state": "ok"
+    },
+    "age": {
+     "value": "21–42 वर्ष (12.11.2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.orissahighcourt.nic.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.orissahighcourt.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/high-court-of-orissa-junior-grade-typist-data-entry-recruitment-2026-3080446",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, testbook, govtjobsai व quicksarkari से cross-check — Advt No. 07/2026, आवेदन 13 Nov (सुबह 10 बजे) से 7 Dec 2026 (रात 11:59) तक; टाइपिस्ट 7 + DEO 24 = 31 पद, Level-4 वेतन, शुल्क ₹500 (SC/ST/PwBD छूट), आयु 21–42 वर्ष; चयन: प्रारंभिक परीक्षा + भाषा परीक्षा + कंप्यूटर परीक्षा + मुख्य (टाइपिंग) परीक्षा + viva। कमी: official PDF का सीधा link नहीं मिला; परीक्षा की तारीख़ें अभी घोषित नहीं। ध्यान: इसी दिनांक की Junior Stenographer 33 पद (Advt 06/2026) अलग भर्ती है — अगली run में अलग card बनेगा।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T07:49:13+05:30"
+  },
+  {
+   "id": "prep-aiims-nagpur-project-nurse-technical-support-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "AIIMS नागपुर प्रोजेक्ट नर्स-II व प्रोजेक्ट टेक्निकल सपोर्ट-III भर्ती 2026 — 2 पद (ICMR प्रोजेक्ट SMRITI)",
+   "fields": {
+    "title": {
+     "value": "AIIMS नागपुर प्रोजेक्ट नर्स-II व प्रोजेक्ट टेक्निकल सपोर्ट-III भर्ती 2026 — 2 पद (ICMR प्रोजेक्ट SMRITI)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), नागपुर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "2 पद (प्रोजेक्ट नर्स-II 1 + प्रोजेक्ट टेक्निकल सपोर्ट-III 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "नर्स-II: 3 वर्ष का GNM कोर्स; टेक्निकल सपोर्ट-III: संबंधित विषय में स्नातक + 3 वर्ष अनुभव या संबंधित विषय में PG",
+     "state": "ok"
+    },
+    "state": {
+     "value": "महाराष्ट्र (नागपुर)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-21",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹24,000 प्रति माह (₹20,000 + 20% HRA)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "30 वर्ष तक (दोनों पद)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://forms.gle/npy2XuG73XqmXcrh6",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://aiimsnagpur.edu.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/aiims-nagpur-recruitment-2026-project-nurse-and-project-technical-3078114",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, mysarkarinaukri, jobsearchking व fresherslive से cross-check — Advt No. AIIMS-NAG/Anaesth/2026/1731 (3.11.2026), ICMR-funded SMRITI प्रोजेक्ट (एनेस्थीसियोलॉजी विभाग); आवेदन सिर्फ़ ऑनलाइन Google Form से, 16 Nov 2026 शाम 5 बजे तक; इंटरव्यू 21 Nov 2026; दोनों पद ₹24,000/माह, शुरुआती अवधि 9 महीने, पूरी तरह अस्थायी (प्रोजेक्ट) — नियमित नौकरी नहीं। कमी: official PDF का सीधा link नहीं मिला; शुल्क का ज़िक्र नहीं; टेक्निकल सपोर्ट-III का form link (forms.gle/D7MU3sPAHYLoG1HRA) queue से पहले official नोटिस से जाँच लें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T07:49:13+05:30"
+  },
+  {
+   "id": "prep-esic-rohini-senior-resident-specialist-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ESIC अस्पताल रोहिणी (दिल्ली) सीनियर रेज़िडेंट, स्पेशलिस्ट व सुपर स्पेशलिस्ट भर्ती 2026 — 50 पद (वॉक-इन 25–26 Nov)",
+   "fields": {
+    "title": {
+     "value": "ESIC अस्पताल रोहिणी (दिल्ली) सीनियर रेज़िडेंट, स्पेशलिस्ट व सुपर स्पेशलिस्ट भर्ती 2026 — 50 पद (वॉक-इन 25–26 Nov)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "कर्मचारी राज्य बीमा निगम (ESIC) अस्पताल, रोहिणी, दिल्ली",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "50 पद (सीनियर रेज़िडेंट Regular 29 + सीनियर रेज़िडेंट Contractual 3 + फुल-टाइम स्पेशलिस्ट 11 + पार्ट-टाइम सुपर स्पेशलिस्ट 7)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS + PG डिग्री (MD/MS/DNB/DM — पद के अनुसार)",
+     "state": "check"
+    },
+    "state": {
+     "value": "दिल्ली",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-26",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "कोई ऑनलाइन फॉर्म नहीं — वॉक-इन इंटरव्यू (25–26 Nov, सुबह 9 बजे रिपोर्ट करें)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.esic.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/esic-recruitment-2026-senior-resident-specialist-3080583",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, fresherslive, nrai व 9curry से cross-check — Advt No. 115-A-12/16/SR Rectt./2024-Med.-1906, नोटिस 12 Nov 2026; वॉक-इन इंटरव्यू 25 व 26 Nov 2026, ESIC अस्पताल रोहिणी सेक्टर-15, दिल्ली; 29+3+11+7 = 50 पद। कमी: official PDF का सीधा link नहीं मिला; पद-वार योग्यता/आयु/वेतन का सटीक ब्योरा नोटिस से पुष्टि बाकी (queue से पहले official नोटिस जाँच लें); शुल्क का ज़िक्र नहीं। ध्यान: यह ESIC लुधियाना फैकल्टी भर्ती (112 पद, पहले से site पर live) से अलग है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T07:49:13+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T06:51:55+05:30",
+ "updatedAt": "2026-11-13T07:49:13+05:30",
  "version": 1
 }
