@@ -13737,9 +13737,252 @@
    "title": "दंतेवाड़ा बस्तर फाइटर कांस्टेबल भर्ती 2026 — 128 पद (ऑफ़लाइन, सिर्फ़ दंतेवाड़ा जिले के निवासी)",
    "verifyNote": "विज्ञापन 30 Oct 2026 — 9curry, FreeJobAlert, rojgarlive, mysarkarinaukri, freejobnotification, sarkariresultsnow (6+ स्रोत) एकमत: 128 पद, ऑफ़लाइन आवेदन 2 Nov–12 Dec 2026 (शाम 5 बजे तक), SP कार्यालय दंतेवाड़ा / रजिस्टर्ड डाक (PIN 494449)। यह बीजापुर (417) व सुकमा (375) वाली बस्तर फाइटर भर्तियों से अलग है — वे दोनों पहले से live हैं। योग्यता में टकराव — ज़्यादातर स्रोत 10वीं पास, एक स्रोत में 5वीं का उल्लेख — इसलिए qual 'check' पर है; नोटिस देखकर पुष्टि करें। कमी: शुल्क, वेतन, परीक्षा तारीख़ व notification PDF का सीधा link नहीं मिला।",
    "createdAt": "2026-11-13T23:53+05:30"
+  },
+  {
+   "createdAt": "2026-11-14T00:57+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": "18–44 वर्ष (1 जुलाई 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://tet2dsc.apcfss.in",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-20",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "₹1,000",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹1,000 प्रति पद — सभी वर्ग के लिए (ऑनलाइन भुगतान)",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "org": {
+     "value": "स्कूल शिक्षा विभाग, आंध्र प्रदेश सरकार",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "2,721 पद (नियमित स्कूल 2,111 + विशेष शिक्षा 350 + सोसाइटी व अन्य प्रबंधन 260)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "पद के अनुसार — SGT: इंटर + D.El.Ed + TET; SA/TGT: स्नातक + B.Ed + TET; PGT: स्नातकोत्तर + B.Ed",
+     "state": "check"
+    },
+    "salary": {
+     "value": "SGT ₹21,230 से शुरू, SA ₹28,940 से शुरू (पद के अनुसार, AP संशोधित वेतनमान)",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://tet2dsc.apcfss.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.thehindu.com/news/national/andhra-pradesh/aptrt2026-notification-released-applications-from-november-11-exams-from-december-20/article71668498.ece",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "state": {
+     "value": "आंध्र प्रदेश",
+     "state": "ok"
+    },
+    "title": {
+     "value": "AP DSC शिक्षक भर्ती 2026 (APTRT-2026) — 2,721 पद (SA, SGT, TGT, PGT व अन्य)",
+     "state": "ok"
+    }
+   },
+   "id": "prep-ap-dsc-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "AP DSC शिक्षक भर्ती 2026 (APTRT-2026) — 2,721 पद (SA, SGT, TGT, PGT व अन्य)",
+   "verifyNote": "तीन विस्तृत अधिसूचनाएँ (01, 02, 03/DSC-TRC-1/2026) 5 Nov 2026 को — The Hindu, FreeJobAlert, Testbook, JagranJosh, Edex Live से cross-check: 2,721 पद, आवेदन 11–30 Nov 2026, CBT 20 Dec 2026–13 Jan 2027, शुल्क ₹1,000/पद, आयु 18–44। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला (tet2dsc.apcfss.in से लेना होगा); वेतन का आँकड़ा एक स्रोत ने 'बुलेटिन से पुष्टि करें' कहा है, इसलिए salary 'check' पर है; योग्यता पदवार है, पूरी सूची बुलेटिन में देखनी होगी।"
+  },
+  {
+   "createdAt": "2026-11-14T00:57+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": "45 वर्ष",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹1,200",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "सामान्य/EWS/OBC ₹1,200; SC/ST/PwD — कोई शुल्क नहीं (NEFT/RTGS/IMPS/UPI से)",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "org": {
+     "value": "वर्धमान महावीर मेडिकल कॉलेज (VMMC) व सफदरजंग अस्पताल, नई दिल्ली",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "470 पद (VMMC व सफदरजंग 439 + RHTC नजफ़गढ़ 31; 3 वर्ष का कार्यकाल, नियमित आधार)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS + PG डिग्री/डिप्लोमा/DNB",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "लेवल-11 — ₹67,700 + भत्ते",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://vmmc-sjh.mohfw.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/vmmc-safdarjung-hospital-senior-resident-recruitment-2026-3079717",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-10",
+     "state": "ok"
+    },
+    "state": {
+     "value": "दिल्ली",
+     "state": "ok"
+    },
+    "title": {
+     "value": "VMMC व सफदरजंग अस्पताल सीनियर रेज़िडेंट भर्ती 2026 — 470 पद (42 विभाग)",
+     "state": "ok"
+    }
+   },
+   "id": "prep-vmmc-senior-resident-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "VMMC व सफदरजंग अस्पताल सीनियर रेज़िडेंट भर्ती 2026 — 470 पद (42 विभाग)",
+   "verifyNote": "विज्ञापन ACDM-13015/1/2026-ACAD-VMMC, 6 Nov 2026 — FreeJobAlert, Karmasandhan, FreshersLive, RojgarSuvidha, JobsArkariUpdate, AllexamReview से cross-check: 470 पद, ऑफ़लाइन आवेदन 10–25 Nov 2026 (दोपहर 3 बजे तक), MBBS + PG/DNB, लेवल-11 ₹67,700, शुल्क ₹1,200। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला; आयु-सीमा सिर्फ़ एक स्रोत में 45 वर्ष मिली है, इसलिए 'check' पर है; स्क्रीनिंग टेस्ट की तारीख़ अभी नहीं।"
+  },
+  {
+   "createdAt": "2026-11-14T00:57+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://sletregistration.cbrt.co.in",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "org": {
+     "value": "बिहार विद्यालय परीक्षा समिति (BSEB)",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "स्कूल लाइब्रेरियन पात्रता परीक्षा (SLET) 2026 — CBT मोड",
+     "state": "ok"
+    },
+    "qual": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://sletregistration.cbrt.co.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.jagranjosh.com/articles/bihar-slet-2026-rescheduled-check-new-exam-date-and-download-admit-card-at-sletregistration-cbrt-co-in-1800018888-1",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-17",
+     "state": "ok"
+    },
+    "state": {
+     "value": "बिहार",
+     "state": "ok"
+    },
+    "title": {
+     "value": "बिहार स्कूल लाइब्रेरियन पात्रता परीक्षा (SLET) एडमिट कार्ड 2026 — परीक्षा 23 नवंबर",
+     "state": "ok"
+    }
+   },
+   "id": "prep-bihar-slet-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "बिहार स्कूल लाइब्रेरियन पात्रता परीक्षा (SLET) एडमिट कार्ड 2026 — परीक्षा 23 नवंबर",
+   "verifyNote": "BSEB ने परीक्षा 22 Nov से बदलकर 23 Nov 2026 की; एडमिट कार्ड 17 Nov 2026 से sletregistration.cbrt.co.in पर — JagranJosh, NDTV, Daily Jagran, Certifica, SarkariG से cross-check। डमी एडमिट कार्ड 2–5 Nov को जारी हुआ था। कमी: पद-संख्या लागू नहीं (यह पात्रता परीक्षा है, भर्ती नहीं); योग्यता/शुल्क admit खबरों में नहीं दिए गए।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T23:53+05:30",
+ "updatedAt": "2026-11-14T00:57+05:30",
  "version": 1
 }
