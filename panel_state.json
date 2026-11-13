@@ -9231,9 +9231,414 @@
    "status": "ready",
    "title": "KGBV लखीमपुर खीरी भर्ती 2026-27 — 158 शिक्षण व गैर-शिक्षण पद (केवल महिला, संविदा)",
    "verifyNote": "28 Oct 2026 का विज्ञापन (सं. एस0एस0ए0/उ0क0गॉ0आ0बा0वि0/4855-64/2026-27) — 158 पद (149 + 9), केवल महिला अभ्यर्थी, 2026-27 सत्र के लिए संविदा नियुक्ति; आवेदन सिर्फ़ रजिस्टर्ड/स्पीड पोस्ट से, 30 Nov 2026 शाम 5 बजे तक पहुँचना चाहिए। RojgarLive, FreeJobAlert, CareerAlert24, Karmasandhan, SarkariKing से cross-check — सब में 158 पद, 30 Nov, महिला-केवल एक जैसे। कमी: आधिकारिक PDF का सीधा link नहीं मिला (kheri.nic.in पर है); Peon के मानदेय पर स्रोतों में छोटा मतभेद (₹7,147 बनाम ₹6,642), इसलिए सिर्फ़ कुल रेंज ली है; चयन-प्रक्रिया (परीक्षा/इंटरव्यू) का उल्लेख नहीं मिला; यह स्थायी सरकारी नौकरी नहीं, सत्र-आधारित संविदा है।"
+  },
+  {
+   "id": "prep-rrc-nr-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "उत्तर रेलवे (RRC NR) एक्ट अप्रेंटिस भर्ती 2026 — 4,651 स्लॉट (विज्ञापन RRC/NR/03/2026)",
+   "fields": {
+    "title": {
+     "value": "उत्तर रेलवे (RRC NR) एक्ट अप्रेंटिस भर्ती 2026 — 4,651 स्लॉट (विज्ञापन RRC/NR/03/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती प्रकोष्ठ, उत्तर रेलवे (RRC NR), नई दिल्ली",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "4,651 स्लॉट",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ITI",
+     "state": "ok"
+    },
+    "state": {
+     "value": "दिल्ली",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-11",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹100",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC/EWS ₹100 · SC/ST/PwBD/महिला — कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "15 – 24 वर्ष (11 दिसंबर 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://rrcnr.org/",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://rrcnr.org/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=NznSrA0dbik",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (SIKSHA SAMBAD) + RojgarResult + NDTV + ReportWire से cross-check: 4,651 स्लॉट (लखनऊ 1,525, दिल्ली 1,312, अंबाला 979, फ़िरोज़पुर 740, मुरादाबाद 63, जम्मू 32), विज्ञापन RRC/NR/03/2026 (6 नवंबर 2026), आवेदन 11 नवंबर–11 दिसंबर 2026, 10वीं 50% + ITI, आयु 15–24, शुल्क ₹100, मेरिट से चयन (कोई परीक्षा/इंटरव्यू नहीं)। यह अप्रेंटिसशिप ट्रेनिंग है, स्थायी नौकरी नहीं। कमी: notification PDF का सीधा link नहीं मिला; stipend की रकम पक्की नहीं हुई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T13:49:50+05:30"
+  },
+  {
+   "id": "prep-odisha-police-constable-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ओडिशा पुलिस कांस्टेबल भर्ती 2026 — 7,268 पद (OUSSSC, विज्ञापन 01-CRE-2026)",
+   "fields": {
+    "title": {
+     "value": "ओडिशा पुलिस कांस्टेबल भर्ती 2026 — 7,268 पद (OUSSSC, विज्ञापन 01-CRE-2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "ओडिशा यूनिफ़ॉर्म्ड सर्विसेज़ स्टाफ़ सिलेक्शन कमीशन (OUSSSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "7,268 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं",
+     "state": "check"
+    },
+    "state": {
+     "value": "ओडिशा",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-23",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-17",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹500 (अधिकांश अभ्यर्थियों के लिए)",
+     "state": "check"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "18 – 26 वर्ष (पद के अनुसार 23/25/32 तक; 01/01/2026 को)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://ousssc.odisha.gov.in/",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://ousssc.odisha.gov.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=1rhYNNa7bcQ",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो + enijukti.net + jobcareerupdates से cross-check। अहम: अंतिम तारीख़ बढ़ाई गई है — पहले 12 नवंबर 2026 थी, अब 17 नवंबर 2026 (रात 10 बजे) है; शुल्क 18 नवंबर तक। पद: सिविल कांस्टेबल 4,219, OISF 2,212, कम्युनिकेशन 300 व अन्य (फायरफ़ाइटर, ड्राइवर, ट्रैफ़िक)। योग्यता पद के अनुसार 10वीं/+2 है — पूरी सूची के लिए notification देखना होगा। कमी: notification PDF का सीधा link नहीं मिला; वेतन व परीक्षा तारीख़ पक्की नहीं हुई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T13:49:50+05:30"
+  },
+  {
+   "id": "prep-powergrid-engineer-trainee-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "POWERGRID इंजीनियर ट्रेनी भर्ती 2026 — 319 पद (GATE 2026 से, विज्ञापन CC/04/2025)",
+   "fields": {
+    "title": {
+     "value": "POWERGRID इंजीनियर ट्रेनी भर्ती 2026 — 319 पद (GATE 2026 से, विज्ञापन CC/04/2025)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पावर ग्रिड कॉर्पोरेशन ऑफ इंडिया लिमिटेड (POWERGRID)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "319 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC/EWS ₹500 · SC/ST/ESM/PH — कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹40,000 – ₹1,40,000 / माह",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 28 वर्ष (31 दिसंबर 2025 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.powergrid.in/en/job-opportunities",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.powergrid.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/shorts/2IC44hTXi8g",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो + MadeEasy + PW + sarkarinaukriblog + UdyogAlert से cross-check: 319 पद (इलेक्ट्रिकल 250, सिविल 48, कंप्यूटर साइंस 21), सिर्फ़ GATE 2026 स्कोर मान्य (GATE 2025 या पुराना नहीं), आवेदन 3–18 नवंबर 2026, शुल्क ₹500, चयन GATE 85% + GD 3% + इंटरव्यू 12%। कमी: notification PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T13:49:50+05:30"
+  },
+  {
+   "id": "prep-appsc-various-posts-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "APPSC विभिन्न पद भर्ती 2026 — 106 पद (विज्ञापन 31/2026–36/2026)",
+   "fields": {
+    "title": {
+     "value": "APPSC विभिन्न पद भर्ती 2026 — 106 पद (विज्ञापन 31/2026–36/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "Andhra Pradesh Public Service Commission (APPSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "106 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "check"
+    },
+    "state": {
+     "value": "आंध्र प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-06",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-26",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹35,570 – ₹1,47,760 / माह (पद के अनुसार)",
+     "state": "check"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://psc.ap.gov.in/",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://psc.ap.gov.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-releases-notifications-for-five-categories-of-posts/article71674202.ece",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "The Hindu + sarkariresult.app + placementstore + govtjobsalert से cross-check: 6 विज्ञापन (31/2026–36/2026), कुल 106 पद — AMVI 50, टेक्निकल असिस्टेंट 36, असिस्टेंट केमिकल एग्ज़ामिनर 9, रॉयल्टी इंस्पेक्टर 9, असिस्टेंट डायरेक्टर (माइंस) 1, लैब असिस्टेंट 1; आवेदन 6–26 नवंबर 2026। योग्यता पद के अनुसार Degree/Diploma (Engineering/Geology/Chemistry/Pharmacy)। कमी: शुल्क व आयु-सीमा की पुष्टि नहीं हुई; notification PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T13:49:50+05:30"
+  },
+  {
+   "id": "prep-sameer-project-posts-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "SAMEER प्रोजेक्ट पद भर्ती 2026 — 174 पद (विज्ञापन 10/2026 व 11/2026, कॉन्ट्रैक्ट)",
+   "fields": {
+    "title": {
+     "value": "SAMEER प्रोजेक्ट पद भर्ती 2026 — 174 पद (विज्ञापन 10/2026 व 11/2026, कॉन्ट्रैक्ट)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "सोसाइटी फॉर अप्लाइड माइक्रोवेव इलेक्ट्रॉनिक्स इंजीनियरिंग एंड रिसर्च (SAMEER), MeitY",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "174 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹100",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "₹100 (online, non-refundable) — एक स्रोत के अनुसार पोर्टल पर contractual पदों के लिए Nil; पुष्टि बाकी",
+     "state": "check"
+    },
+    "salary": {
+     "value": "₹21,000 – ₹55,000 / माह",
+     "state": "check"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://recruitment.sameer.gov.in/",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://sameer.gov.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/sameer-recruitment-2026-apply-online-for-140-project-fellow-project-engineer-and-more-posts-3078741",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert + thejobsme + jobcareerupdates + boldvoices से cross-check: विज्ञापन 10/2026 (मुंबई/नवी मुंबई 140) व 11/2026 (कोलकाता 34), कुल 174 कॉन्ट्रैक्ट पद (अधिकतम 2 साल, स्थायी नहीं), आवेदन 4–15 नवंबर 2026, वेतन ₹21,000–₹55,000। शुल्क ₹100 बताया गया है पर एक स्रोत के अनुसार पोर्टल पर Nil दिखा — पुष्टि बाकी। कमी: आयु-सीमा व notification PDF का सीधा link नहीं मिला; योग्यता पद के अनुसार ITI/डिप्लोमा/स्नातक/PG बदलती है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-13T13:49:50+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-13T11:48:17+05:30",
+ "updatedAt": "2026-11-13T13:49:50+05:30",
  "version": 1
 }
