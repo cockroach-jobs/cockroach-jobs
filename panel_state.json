@@ -13980,9 +13980,414 @@
    "status": "ready",
    "title": "बिहार स्कूल लाइब्रेरियन पात्रता परीक्षा (SLET) एडमिट कार्ड 2026 — परीक्षा 23 नवंबर",
    "verifyNote": "BSEB ने परीक्षा 22 Nov से बदलकर 23 Nov 2026 की; एडमिट कार्ड 17 Nov 2026 से sletregistration.cbrt.co.in पर — JagranJosh, NDTV, Daily Jagran, Certifica, SarkariG से cross-check। डमी एडमिट कार्ड 2–5 Nov को जारी हुआ था। कमी: पद-संख्या लागू नहीं (यह पात्रता परीक्षा है, भर्ती नहीं); योग्यता/शुल्क admit खबरों में नहीं दिए गए।"
+  },
+  {
+   "id": "prep-upsssc-inter-level-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UPSSSC इंटर (12वीं) स्तर भर्ती 2026 — संयुक्त निम्न अधीनस्थ सेवा मुख्य परीक्षा, 1,784 पद (विज्ञापन 26-परीक्षा/2026)",
+   "fields": {
+    "title": {
+     "value": "UPSSSC इंटर (12वीं) स्तर भर्ती 2026 — संयुक्त निम्न अधीनस्थ सेवा मुख्य परीक्षा, 1,784 पद (विज्ञापन 26-परीक्षा/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग (UPSSSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1,784 पद (12 पद — ग्राम पंचायत अधिकारी 508, ग्राम विकास अधिकारी व अन्य)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "इंटरमीडिएट (12वीं) पास + UPSSSC PET-2025 स्कोरकार्ड अनिवार्य",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-10",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-01",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹25",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹25 — सभी वर्गों के लिए (ऑनलाइन भुगतान)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "18–40 वर्ष (1 जुलाई 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://upsssc.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://upsssc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=3At4rWWSiYA",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (SSG Gurukul) + sarkariexam, 9curry, careerghar, pincodeofindia से cross-check: विज्ञापन 26-परीक्षा/2026, 1,784 पद, आवेदन 10 Nov–1 Dec 2026, शुल्क ₹25, PET-2025 स्कोरकार्ड अनिवार्य, आयु 18–40। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला (upsssc.gov.in से लेना होगा); मुख्य परीक्षा की तारीख़ अभी घोषित नहीं; वेतन पद के अनुसार है, पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T01:54+05:30"
+  },
+  {
+   "id": "prep-bceceb-senior-resident-tutor-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "BCECEB सीनियर रेज़िडेंट / ट्यूटर (चरण-III) भर्ती 2026 — 575 पद (स्वास्थ्य विभाग, बिहार)",
+   "fields": {
+    "title": {
+     "value": "BCECEB सीनियर रेज़िडेंट / ट्यूटर (चरण-III) भर्ती 2026 — 575 पद (स्वास्थ्य विभाग, बिहार)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "बिहार संयुक्त प्रवेश प्रतियोगी परीक्षा बोर्ड (BCECEB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "575 पद (सीनियर रेज़िडेंट / ट्यूटर, 3 साल की tenure)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "संबंधित विशेषज्ञता में PG डिग्री (MD/MS/DNB या समकक्ष)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "बिहार",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹2,250",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹2,250 — सभी अभ्यर्थियों के लिए (ऑनलाइन भुगतान)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹1,15,000 प्रति माह (+ भत्ते)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "UR पुरुष 37 वर्ष, UR महिला 40 वर्ष (1 अगस्त 2026 को); वर्ग अनुसार अधिकतम 37–42 वर्ष",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://bceceboard.bihar.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://bceceboard.bihar.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=qJhQ9PQo1Sc",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो + sarkarijob, Daily Kiran, Job Carnival, sarkari-naukri.in से cross-check: विज्ञापन BCECEB/Health(SR)/2026(III)/01, 575 पद, आवेदन 2–23 Nov 2026 (रात 10 बजे तक), शुल्क ₹2,250, मानदेय ₹1,15,000/माह। एक स्रोत में 557 लिखा था, पर अधिकांश स्रोतों में 575 है — 575 ही लिया। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला; परीक्षा तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T01:54+05:30"
+  },
+  {
+   "id": "prep-upsssc-je-mechanical-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UPSSSC जूनियर इंजीनियर (मैकेनिकल) व समकक्ष तकनीकी पद भर्ती 2026 — 1,156 पद (विज्ञापन 24-परीक्षा/2026)",
+   "fields": {
+    "title": {
+     "value": "UPSSSC जूनियर इंजीनियर (मैकेनिकल) व समकक्ष तकनीकी पद भर्ती 2026 — 1,156 पद (विज्ञापन 24-परीक्षा/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग (UPSSSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1,156 पद (जूनियर इंजीनियर मैकेनिकल व समकक्ष तकनीकी पद)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "मैकेनिकल इंजीनियरिंग में 3 वर्षीय डिप्लोमा + UPSSSC PET-2025 स्कोरकार्ड अनिवार्य",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹25",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹25 — सभी वर्गों के लिए (ऑनलाइन भुगतान)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹35,400–₹1,12,400 (Level-6)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18–40 वर्ष (1 जुलाई 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://upsssc.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://upsssc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=nP2eBd9HNck",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (SIKSHA SAMBAD) + MadeEasy, Testbook, sarkariresult.app, careerghar से cross-check: विज्ञापन 24-परीक्षा/2026, 1,156 पद, आवेदन 3–25 Nov 2026, शुल्क ₹25, PET-2025 अनिवार्य। ध्यान: इलेक्ट्रिकल 380 पद वाला हिस्सा (विज्ञापन 25-परीक्षा/2026) site पर पहले से live है — यह Mechanical वाला अलग विज्ञापन है। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला; मुख्य परीक्षा की तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T01:54+05:30"
+  },
+  {
+   "id": "prep-maharashtra-nhm-abdm-walkin-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "महाराष्ट्र NHM — आयुष्मान भारत डिजिटल मिशन (ABDM) वॉक-इन इंटरव्यू 2026 — 20 पद (प्रोजेक्ट मैनेजर, बिज़नेस एनालिस्ट व अन्य)",
+   "fields": {
+    "title": {
+     "value": "महाराष्ट्र NHM — आयुष्मान भारत डिजिटल मिशन (ABDM) वॉक-इन इंटरव्यू 2026 — 20 पद (प्रोजेक्ट मैनेजर, बिज़नेस एनालिस्ट व अन्य)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "राज्य स्वास्थ्य सोसाइटी, महाराष्ट्र (राष्ट्रीय स्वास्थ्य मिशन — NHM)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "20 पद (19 भूमिकाएँ — प्रोजेक्ट मैनेजर, बिज़नेस एनालिस्ट, AI/ML लीड व अन्य)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "पद के अनुसार — B.E./B.Tech, MCA, MBA, MPH (3–10 वर्ष अनुभव)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "महाराष्ट्र",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-17",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹750 (आरक्षित वर्ग ₹500)",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "₹750 — डिमांड ड्राफ्ट (आरक्षित वर्ग ₹500)",
+     "state": "check"
+    },
+    "salary": {
+     "value": "₹50,000–₹3,25,157 प्रति माह (पद के अनुसार)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "21–60 वर्ष (NHA नियम)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://nhm.maharashtra.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://nhm.maharashtra.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.app/abdm-recruitment-2026-out-20-project-manager-business-analyst-walk-in-interview/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो नहीं मिला; sarkariresult.app + FreeJobAlert + 9curry + Transclew से cross-check: मूल विज्ञापन 26 Oct 2026, 3–4 Nov वाला इंटरव्यू टलकर 6 Nov के reschedule नोटिस से 17–18 Nov हुआ — तकनीकी पद (1–14) 17 Nov सुबह 10 बजे, गैर-तकनीकी पद (15–19) 18 Nov, स्थान आरोग्य भवन, मुंबई। startDate/lastDate यहाँ वॉक-इन की तारीख़ें हैं, ऑनलाइन आवेदन नहीं। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला; शुल्क सिर्फ़ एक स्रोत में मिला है, इसलिए 'check' पर है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T01:54+05:30"
+  },
+  {
+   "id": "prep-kondagaon-bastar-fighter-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "कोंडागांव जिला पुलिस बस्तर फाइटर कांस्टेबल भर्ती 2026 — 81 पद (ऑफ़लाइन)",
+   "fields": {
+    "title": {
+     "value": "कोंडागांव जिला पुलिस बस्तर फाइटर कांस्टेबल भर्ती 2026 — 81 पद (ऑफ़लाइन)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पुलिस अधीक्षक कार्यालय, कोंडागांव (छत्तीसगढ़)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "81 पद (बस्तर फाइटर कांस्टेबल)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं पास (ST व नक्सल प्रभावित परिवारों के लिए 5वीं) + सिर्फ़ कोंडागांव जिले के स्थानीय निवासी",
+     "state": "ok"
+    },
+    "state": {
+     "value": "छत्तीसगढ़",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-12",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0 (कोई शुल्क नहीं)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://kondagaon.cgpolice.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://cgpolice.gov.in/cms/sites/default/files/2026-11/Document%20431.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://kondagaon.cgpolice.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.jobkaka.com/kondagaon-police-bastar-fighter-constable-post/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो नहीं मिला; sarkarijob.in + JobKaka + FreshersLive + MySarkariNaukri से cross-check: राज्य-स्तरीय 1,588 पदों की बस्तर फाइटर भर्ती का कोंडागांव हिस्सा (81 पद), ऑफ़लाइन आवेदन 2 Nov–12 Dec 2026 (शाम 5 बजे तक), कोई शुल्क नहीं। बीजापुर (417) व दंतेवाड़ा (128) के अलग कार्ड site पर पहले से live हैं — यह कोंडागांव जिले का अलग कार्ड है। कमी: वेतन व आयु सीमा notification में नहीं मिली; PDF link aggregator के हवाले से है, 'check' पर है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T01:54+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T00:57+05:30",
+ "updatedAt": "2026-11-14T01:54+05:30",
  "version": 1
 }
