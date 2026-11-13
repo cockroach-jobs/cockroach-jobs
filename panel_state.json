@@ -15198,9 +15198,333 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T03:55+05:30"
+  },
+  {
+   "id": "prep-rrc-nr-act-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "रेलवे RRC उत्तर रेलवे (NR) एक्ट अप्रेंटिस भर्ती 2026 — 4,651 स्लॉट (विज्ञापन RRC/NR/03/2026)",
+   "fields": {
+    "title": {
+     "value": "रेलवे RRC उत्तर रेलवे (NR) एक्ट अप्रेंटिस भर्ती 2026 — 4,651 स्लॉट (विज्ञापन RRC/NR/03/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती प्रकोष्ठ, उत्तर रेलवे (RRC NR), नई दिल्ली",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "4,651 स्लॉट (लखनऊ 1,525 + दिल्ली 1,312 + अंबाला 979 + फ़िरोज़पुर 740 + मोरादाबाद 63 + जम्मू 32)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं (50% अंक) + संबंधित ट्रेड में ITI (NCVT/SCVT)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर भारत — लखनऊ, दिल्ली, फ़िरोज़पुर, अंबाला, मोरादाबाद व जम्मू क्लस्टर (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-11",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹100",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC/EWS ₹100 · SC/ST/PwBD/महिला — शुल्क नहीं (ऑनलाइन)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "15 – 24 वर्ष (11 Dec 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.rrcnr.org",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://rrcnr.org/downloads/Notification_Act_Appretice_2026.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://www.rrcnr.org",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=NznSrA0dbik",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube वीडियो (SIKSHA SAMBAD — Northern Railway Apprentice 4,651 Vacancies) + NDTV + आधिकारिक नोटिफ़िकेशन PDF (rrcnr.org) + JobCareerUpdates, GovtJobsAlert, FreeJobAlert, ProJobAlert से cross-check — विज्ञापन RRC/NR/03/2026, 6 Nov 2026; 4,651 स्लॉट, 6 क्लस्टर; आवेदन 11 Nov – 11 Dec 2026; कोई लिखित परीक्षा/इंटरव्यू नहीं, 10वीं + ITI अंकों से मेरिट; मेरिट सूची फरवरी 2027 में। ध्यान दें: यह स्थायी नौकरी नहीं, अप्रेंटिसशिप प्रशिक्षण है। कमी: स्टाइपेंड की रकम की पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T04:53+05:30"
+  },
+  {
+   "id": "prep-csir-npl-mts-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "CSIR-राष्ट्रीय भौतिक प्रयोगशाला (NPL), नई दिल्ली MTS भर्ती 2026 — 25 पद (विज्ञापन Rectt./05/2026)",
+   "fields": {
+    "title": {
+     "value": "CSIR-राष्ट्रीय भौतिक प्रयोगशाला (NPL), नई दिल्ली MTS भर्ती 2026 — 25 पद (विज्ञापन Rectt./05/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "CSIR-राष्ट्रीय भौतिक प्रयोगशाला (CSIR-NPL), नई दिल्ली",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "25 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं (मैट्रिक) या समकक्ष",
+     "state": "ok"
+    },
+    "state": {
+     "value": "दिल्ली (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-12-23",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen ₹500 · SC/ST — शुल्क नहीं (ऑफ़लाइन आवेदन के साथ)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹18,000 – 56,900 (Level-1); कुल ₹41,040/माह (न्यूनतम, HRA सहित)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 25 वर्ष",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.nplindia.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.nplindia.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sahisarkarijobs.in/job/csir-npl-mts-recruitment-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert ताज़ा सूची + SahiSarkariJobs + GovtJobsAI से cross-check — विज्ञापन Rectt./05/2026; 25 MTS पद, Level-1; आवेदन ऑफ़लाइन है — फॉर्म nplindia.in से डाउनलोड करके डाक से भेजना है, 23 Dec 2026 तक पहुँचना चाहिए (Senior Controller of Administration, CSIR-NPL, नई दिल्ली)। कमी: आवेदन शुरू की तारीख़ नोटिस में नहीं छपी; official PDF का सीधा link नहीं मिला; परीक्षा की तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T04:53+05:30"
+  },
+  {
+   "id": "prep-cmo-ballia-medical-officer-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "CMO बलिया (UP) मेडिकल ऑफ़िसर व महिला मेडिकल ऑफ़िसर भर्ती 2026 — 14 पद (वॉक-इन 27 नवंबर)",
+   "fields": {
+    "title": {
+     "value": "CMO बलिया (UP) मेडिकल ऑफ़िसर व महिला मेडिकल ऑफ़िसर भर्ती 2026 — 14 पद (वॉक-इन 27 नवंबर)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "मुख्य चिकित्सा अधिकारी कार्यालय, बलिया (उत्तर प्रदेश) — NHM",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "14 पद (MO NCD 2 + महिला MO FRU 1 + MO EMO 6 + MO NUHM 4 + MO NCD 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS + UP Medical Council में पंजीकरण (EMO: 100-बेड अस्पताल के इमरजेंसी वार्ड में 1 वर्ष का अनुभव; NCD: 2 वर्ष)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश (बलिया)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-27",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-27",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹80,000 – 1,00,000/माह (पद अनुसार; NUHM पदों पर ₹80,000 + ₹20,000 PBI)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 65 वर्ष (विज्ञापन की तारीख़ को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://ballia.nic.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://cdn.s3waas.gov.in/s32b44928ae11fb9384c4cf38708677c48/uploads/2026/11/17945870087835.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://ballia.nic.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/cmo-ballia-recruitment-2026-medical-officer-and-female-medical-officer-3081193",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert विस्तार पेज (आधिकारिक विज्ञापन NHM/MBBS/2026-27, 13 Nov 2026 पर आधारित) + FreeJobAlert ताज़ा सूची से cross-check — 14 पद, वॉक-इन इंटरव्यू 27 Nov 2026 सुबह 10 बजे, विकास भवन सभागार, बलिया; संविदा (एक वित्तीय वर्ष तक); MBBS + UP Medical Council पंजीकरण अनिवार्य। कमी: official PDF link FreeJobAlert पेज से मिला है पर सीधे खोलकर जाँच नहीं हुई (fetch timeout); आवेदन शुल्क का उल्लेख नोटिफ़िकेशन में नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T04:53+05:30"
+  },
+  {
+   "id": "prep-exim-bank-dpo-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "EXIM Bank डेटा प्रोटेक्शन ऑफ़िसर व डिप्टी DPO भर्ती 2026 — 2 पद",
+   "fields": {
+    "title": {
+     "value": "EXIM Bank डेटा प्रोटेक्शन ऑफ़िसर व डिप्टी DPO भर्ती 2026 — 2 पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय निर्यात-आयात बैंक (EXIM Bank)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "2 पद (DPO 1 + डिप्टी DPO 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक (Graduate)",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-01",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.eximbankindia.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.eximbankindia.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.getrojgar.com/jobs/data-protection-officer-and-deputy-data-protection-officer-in-export-import-bank-of-india-4343",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert ताज़ा सूची + GetRojgar से cross-check — 2 पद (DPO व डिप्टी DPO), आवेदन 1–30 Nov 2026, ईमेल से आवेदन (hrm@eximbankindia.in)। कमी: योग्यता का पूरा विवरण, आयु-सीमा, वेतन, शुल्क व official PDF link नहीं मिले — पुष्टि बाकी; यह छोटी विशेषज्ञ भर्ती है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T04:53+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T03:55+05:30",
+ "updatedAt": "2026-11-14T04:53+05:30",
  "version": 1
 }
