@@ -14385,9 +14385,495 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T01:54+05:30"
+  },
+  {
+   "id": "prep-narayanpur-bastar-fighter-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "नारायणपुर बस्तर फाइटर कांस्टेबल भर्ती 2026 — 383 पद (ऑफ़लाइन, सिर्फ़ नारायणपुर जिले के निवासी)",
+   "fields": {
+    "title": {
+     "value": "नारायणपुर बस्तर फाइटर कांस्टेबल भर्ती 2026 — 383 पद (ऑफ़लाइन, सिर्फ़ नारायणपुर जिले के निवासी)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पुलिस अधीक्षक कार्यालय, नारायणपुर — छत्तीसगढ़ पुलिस",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "383 पद (UR 42, OBC 53, SC 20, ST 268)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं पास (ST व नक्सल प्रभावित परिवारों के लिए 5वीं) + सिर्फ़ नारायणपुर जिले के स्थानीय निवासी",
+     "state": "ok"
+    },
+    "state": {
+     "value": "छत्तीसगढ़",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-12",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0 (कोई शुल्क नहीं)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "पे मैट्रिक्स लेवल-4 + भत्ते",
+     "state": "check"
+    },
+    "age": {
+     "value": "18–28 वर्ष (1 जनवरी 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://narayanpur.cgpolice.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/sp-narayanpur-bastar-fighter-constable-recruitment-2026-3077540",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "YouTube पर इस जिले की अलग वीडियो नहीं मिली; FreeJobAlert, Karmasandhan, SarkariAlerts, 9curry, FreshersLive, SarkariJob.in (6+ स्रोत) एकमत: 383 पद, विज्ञापन 31 Oct 2026, ऑफ़लाइन आवेदन 2 Nov–12 Dec 2026 (शाम 5 बजे तक), SP कार्यालय नारायणपुर / रजिस्टर्ड डाक (PIN 494661), सिर्फ़ नारायणपुर जिले के स्थानीय निवासी। यह 1,588 पदों वाली बस्तर फाइटर भर्ती का नारायणपुर हिस्सा है — सुकमा (375) व बीजापुर (417) पहले से live हैं, दंतेवाड़ा (128) व कोंडागांव (81) कतार में ready हैं। चयन: शारीरिक माप + 100 अंक PET + 50 अंक लिखित परीक्षा + 20 अंक इंटरव्यू। कमी: notification PDF का सीधा link नहीं मिला; वेतन सिर्फ़ लेवल-4 के हवाले से है, पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T02:49+05:30"
+  },
+  {
+   "id": "prep-kanker-bastar-fighter-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "कांकेर बस्तर फाइटर कांस्टेबल भर्ती 2026 — 125 पद (ऑफ़लाइन, सिर्फ़ कांकेर जिले के निवासी)",
+   "fields": {
+    "title": {
+     "value": "कांकेर बस्तर फाइटर कांस्टेबल भर्ती 2026 — 125 पद (ऑफ़लाइन, सिर्फ़ कांकेर जिले के निवासी)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पुलिस अधीक्षक कार्यालय, कांकेर — छत्तीसगढ़ पुलिस",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "125 पद (UR 33, OBC 17, SC 5, ST 70)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं पास (ST व नक्सल प्रभावित परिवारों के लिए 5वीं) + सिर्फ़ कांकेर जिले के स्थानीय निवासी",
+     "state": "check"
+    },
+    "state": {
+     "value": "छत्तीसगढ़",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-12",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0 (कोई शुल्क नहीं)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "पे मैट्रिक्स लेवल-4 + भत्ते",
+     "state": "check"
+    },
+    "age": {
+     "value": "18–28 वर्ष (1 जनवरी 2026 को)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://cgpolice.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://sarkarijob.in/cg-police-bastar-fighter-constable-recruitment/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariJob.in (जिला-वार तालिका: UR 33, OBC 17, SC 5, ST 70 = 125) + SarkariPrep.in से cross-check — 1,588 पदों वाली बस्तर फाइटर भर्ती का कांकेर हिस्सा, ऑफ़लाइन आवेदन 2 Nov–12 Dec 2026 (शाम 5 बजे तक), SP कार्यालय कांकेर / SDOP भानुप्रतापपुर, अंतागढ़, पखांजूर (PIN 494334)। सुकमा (375) व बीजापुर (417) पहले से live हैं, नारायणपुर (383) व बस्तर (79) भी इसी run में कतार में लगे हैं। योग्यता/आयु/वेतन जिले के अलग नोटिस से नहीं, पूरी भर्ती के साझा नियमों से लिए गए हैं — इसलिए 'check' पर हैं। कमी: कांकेर जिले का अलग notification PDF व official site का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T02:49+05:30"
+  },
+  {
+   "id": "prep-bastar-jagdalpur-bastar-fighter-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "बस्तर (जगदलपुर) बस्तर फाइटर कांस्टेबल भर्ती 2026 — 79 पद (ऑफ़लाइन, सिर्फ़ बस्तर जिले के निवासी)",
+   "fields": {
+    "title": {
+     "value": "बस्तर (जगदलपुर) बस्तर फाइटर कांस्टेबल भर्ती 2026 — 79 पद (ऑफ़लाइन, सिर्फ़ बस्तर जिले के निवासी)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पुलिस अधीक्षक कार्यालय, जगदलपुर (जिला बस्तर) — छत्तीसगढ़ पुलिस",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "79 पद (UR 16, OBC 11, SC 2, ST 50)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं पास (ST व नक्सल प्रभावित परिवारों के लिए 5वीं) + सिर्फ़ बस्तर जिले के स्थानीय निवासी",
+     "state": "ok"
+    },
+    "state": {
+     "value": "छत्तीसगढ़",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-12",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0 (कोई शुल्क नहीं)",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "पे मैट्रिक्स लेवल-4 + भत्ते",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18–28 वर्ष (1 जनवरी 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://bastar.cgpolice.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/bastar-police-bastar-fighter-constable-recruitment-2026-3077791",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, FreshersLive, MySarkariNaukri, SRN247, RojgarPulse, SarkariJob.in (6 स्रोत) एकमत: 79 पद, ऑफ़लाइन आवेदन 2 Nov–12 Dec 2026 (शाम 5 बजे तक), SP कार्यालय जगदलपुर / रिज़र्व केंद्र / SDOP केशलूर, लोहांडीगुड़ा, भानपुरी या रजिस्टर्ड डाक (PIN 494001), सिर्फ़ बस्तर जिले के स्थानीय निवासी। यह 1,588 पदों वाली बस्तर फाइटर भर्ती का बस्तर जिला हिस्सा है — सुकमा (375) व बीजापुर (417) पहले से live हैं, नारायणपुर (383) व कांकेर (125) भी इसी run में कतार में लगे हैं। कमी: notification PDF का सीधा link नहीं मिला; परीक्षा की तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T02:49+05:30"
+  },
+  {
+   "id": "prep-fiu-ind-deputation-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "FIU-IND ग्रुप-B व C भर्ती 2026 (प्रतिनियुक्ति) — 12 पद (PA, DEO, UDC, LDC)",
+   "fields": {
+    "title": {
+     "value": "FIU-IND ग्रुप-B व C भर्ती 2026 (प्रतिनियुक्ति) — 12 पद (PA, DEO, UDC, LDC)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "वित्तीय आसूचना इकाई — भारत (FIU-IND), राजस्व विभाग, वित्त मंत्रालय",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "12 पद (PA 9, DEO 1, UDC 1, LDC 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक + स्टेनोग्राफी/डेटा एंट्री गति (PA, DEO, UDC); LDC के लिए 12वीं — सिर्फ़ केंद्र सरकार के अधिकारी (प्रतिनियुक्ति)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "दिल्ली (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "प्रतिनियुक्ति पदों पर कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "लेवल-2 से लेवल-6 (₹19,900 – ₹1,12,400, पद अनुसार)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 56 वर्ष",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://fiuindia.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/fiu-ind-recruitment-2026-apply-offline-for-12-deo-udc-and-more-posts-3079218",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, SarkariResult.app, RojgarPulse, MySarkariNaukri से cross-check: खुला परिपत्र सं. 2-1/2022/Admn/FIU-IND, 4 Nov 2026 — PA 9 (लेवल-6), DEO 1 (लेवल-6), UDC 1 (लेवल-4), LDC 1 (लेवल-2); सिर्फ़ केंद्र सरकार के अधिकारी प्रतिनियुक्ति पर, आवेदन proper channel से ऑफ़लाइन (Annexure-II proforma)। कोई एक आख़िरी तारीख़ नहीं — हर महीने की 30 तारीख़ तक मिले आवेदन अगले महीने विचार में लिए जाते हैं, जब तक पद भर न जाएँ; lastDate में अगली कट-ऑफ़ 30 Nov 2026 ली है। कमी: official PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T02:49+05:30"
+  },
+  {
+   "id": "prep-balod-sangwari-guruji-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "बालोद संगवारी गुरुजी भर्ती 2026 — 93 पद (व्याख्याता, शिक्षक व सहायक शिक्षक, अस्थायी)",
+   "fields": {
+    "title": {
+     "value": "बालोद संगवारी गुरुजी भर्ती 2026 — 93 पद (व्याख्याता, शिक्षक व सहायक शिक्षक, अस्थायी)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "जिला शिक्षा अधिकारी कार्यालय, बालोद (छत्तीसगढ़)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "93 पद (व्याख्याता 46, शिक्षक 26, सहायक शिक्षक 21)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं + D.El.Ed/TET (सहायक शिक्षक) · स्नातक + B.Ed/TET (शिक्षक) · स्नातकोत्तर + B.Ed (व्याख्याता)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "छत्तीसगढ़",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-06",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "मानदेय ₹15,000 – ₹20,000/माह (अस्थायी व्यवस्था)",
+     "state": "check"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://balod.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.app/district-education-officer-balod-recruitment-2026-out-93-sangwari-guruji-posts/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariResult.app, FreeJobAlert, Karmasandhan, 9curry, PlacementStore, GovtServiceInfo (6 स्रोत) एकमत: पत्र सं. 9120/संगवारी गुरूजी/2026, 6 Nov 2026 — 93 पद (बालोद, डोंडी, डोंडी-लोहारा, गुरुर ब्लॉक के सरकारी स्कूल), ऑफ़लाइन आवेदन सीधे संबंधित स्कूल के प्राचार्य को, आख़िरी तारीख़ 16 Nov 2026 (शाम 4 बजे तक)। ध्यान दें: यह नियमित नियुक्ति नहीं — अस्थायी व्यवस्था है, नियमित शिक्षक आने या 31 Mar 2027 तक (जो पहले हो); चयन मेरिट से, कोई परीक्षा नहीं; सिर्फ़ संबंधित ब्लॉक के निवासी। कमी: शुल्क व आयु-सीमा नोटिस में नहीं मिली; मानदेय एक स्रोत से है, पुष्टि बाकी; notification PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T02:49+05:30"
+  },
+  {
+   "id": "prep-rrb-ntpc-ug-extension-2026",
+   "kind": "update",
+   "jobId": "rrb-ntpc-ug-cen-07-2026",
+   "title": "रेलवे NTPC अंडरग्रेजुएट भर्ती 2026 (CEN 07/2026)",
+   "fields": {
+    "title": {
+     "value": "रेलवे NTPC अंडरग्रेजुएट भर्ती 2026 (CEN 07/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "Railway Recruitment Board (RRB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1,688 पद",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-15",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC/EWS ₹500 (CBT-1 में बैठने पर ₹400 वापस) · SC/ST/PwBD/महिला/अल्पसंख्यक/EBC ₹250 (पूरी ₹250 वापस, बैंक शुल्क काटकर) — फ़ीस जमा करने की आख़िरी तारीख़ 15 नवंबर 2026",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹19,900 – ₹21,700 / माह (लेवल 2/3)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 30 वर्ष (01.01.2027 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.rrbapply.gov.in/#/auth/landing",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://www.rrbapply.gov.in/assets/forms/CEN_07_2026_NTPC_UG.pdf",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://rrb.indianrailways.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://rojgarresult.com/railway-rrb-ntpc-under-graduate-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "तारीख़ बढ़ी है: पुरानी आख़िरी तारीख़ 13 नवंबर 2026 थी, RRB के extension notice से बढ़कर 15 नवंबर 2026 हुई — Testbook, RojgarResult, SarkariResult.com, CareerDiary (4 स्रोत) एकमत; फ़ीस जमा करने की आख़िरी तारीख़ भी 15 नवंबर 2026 है; correction window 16–25 नवंबर 2026। यह update entry है — queue करोगे तभी site के live card पर नई तारीख़ लगेगी; तब तक card पर पुरानी 13 नवंबर वाली तारीख़ दिख रही है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T02:49+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T01:54+05:30",
+ "updatedAt": "2026-11-14T02:49+05:30",
  "version": 1
 }
