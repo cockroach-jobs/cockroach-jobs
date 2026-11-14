@@ -20309,9 +20309,414 @@
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T18:52:26+05:30",
    "listedAt": "2026-11-14T20:03:56+05:30"
+  },
+  {
+   "id": "prep-upsc-cds-i-final-result-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UPSC CDS (I) फाइनल रिजल्ट 2026 घोषित — 243 अभ्यर्थी IMA, INA व AFA के लिए चयनित",
+   "fields": {
+    "title": {
+     "value": "UPSC CDS (I) फाइनल रिजल्ट 2026 घोषित — 243 अभ्यर्थी IMA, INA व AFA के लिए चयनित",
+     "state": "ok"
+    },
+    "org": {
+     "value": "संघ लोक सेवा आयोग (UPSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "243 अभ्यर्थी (IMA 155 + INA 63 + AFA 25) — 158 पदों के लिए (IMA 100 + INA 26 + AFA 32)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": null,
+     "state": "missing"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://upsc.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://upsc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://govtjobsalert.in/upsc-cds-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "5 स्रोतों से cross-check (ssbpsych, govtjobsalert, ssbcrack, jobcareerupdates, ranchiportal): UPSC ने CDS (I) 2026 का फाइनल रिजल्ट 2 Nov 2026 को घोषित किया — लिखित परीक्षा (12 Apr 2026) व SSB इंटरव्यू के बाद 243 अभ्यर्थी (IMA 155, INA 63, AFA 25) मेरिट सूची में; टॉपर लोहिताक्ष महाजन (रोल 0500513) तीनों सूचियों में पहले स्थान पर; मेडिकल रिजल्ट इस सूची में शामिल नहीं, उम्मीदवारी अस्थायी; अंक OTA कोर्स के फाइनल रिजल्ट के बाद जारी होंगे। कमी: मेरिट लिस्ट PDF का सीधा link नहीं मिला (pdfUrl missing) — सूची upsc.gov.in पर देखें; OTA कोर्स का फाइनल रिजल्ट अभी बाकी है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T20:07:44+05:30"
+  },
+  {
+   "id": "prep-rrc-nr-scouts-guides-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "RRC उत्तर रेलवे स्काउट्स व गाइड्स कोटा भर्ती 2026-27 — 27 पद (ग्रुप C व ग्रुप D)",
+   "fields": {
+    "title": {
+     "value": "RRC उत्तर रेलवे स्काउट्स व गाइड्स कोटा भर्ती 2026-27 — 27 पद (ग्रुप C व ग्रुप D)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती प्रकोष्ठ, उत्तर रेलवे (RRC/NR)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "27 पद (ग्रुप C लेवल-2: 5 + ग्रुप D लेवल-1: 22; रोज़गार सूचना सं. RRC/NR 01/2026/S&G)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "राष्ट्रपति स्काउट/गाइड/रोवर/रेंजर पुरस्कार या हिमालय वुड बैज + पद अनुसार शिक्षा (10वीं/12वीं/स्नातक)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-06",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-06",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": 500,
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹500 (सामान्य); ₹250 (SC/ST/Ex-Serviceman/PwBD/महिला/ट्रांसजेंडर/अल्पसंख्यक/EBC) — परीक्षा में बैठने पर वापस",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "7th CPC पे मैट्रिक्स — ग्रुप C लेवल-2; ग्रुप D लेवल-1 (राशि सूचना में नहीं छपी)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "01/01/2027 को — लेवल-1: 18–33 वर्ष (लेवल-2 की आयु सूचना में अलग से जाँचें)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://www.rrcnr.org",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.rrcnr.org",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/rrc-nr-scouts-and-guides-quota-recruitment-2026-apply-online-for-27-group-c-and-group-d-posts-3078775",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "8 स्रोतों से cross-check (jobcareerupdates, govtjobsalert, FreeJobAlert, sarkarinaukrikar, rojgarpulse, sahisarkarijobs, marugujarat, preptm): रोज़गार सूचना सं. RRC/NR 01/2026/S&G, 4 Nov 2026; स्काउट्स व गाइड्स कोटा 2026-27 के तहत 27 पद (ग्रुप C लेवल-2: 5, ग्रुप D लेवल-1: 22), कोई आरक्षण नहीं; आवेदन 06/11–06/12/2026, लिखित परीक्षा जनवरी 2027 (संभावित) व दस्तावेज़ जाँच सिर्फ़ दिल्ली में; फ़ीस ₹500/₹250, परीक्षा में बैठने पर वापस। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला (pdfUrl missing — एक स्रोत ने बताया कि rrcnr.org का PDF सर्वर timeout हुआ); लेवल-2 की आयु-सीमा अलग से पुष्टि बाकी (age 'check'); परीक्षा की तारीख़ अभी घोषित नहीं (examDate missing)।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T20:07:44+05:30"
+  },
+  {
+   "id": "prep-wbpdcl-technician-apprentice-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "WBPDCL टेक्नीशियन अप्रेंटिस भर्ती 2026 — 60 पद (ग्रेजुएट व डिप्लोमा इंजीनियरिंग)",
+   "fields": {
+    "title": {
+     "value": "WBPDCL टेक्नीशियन अप्रेंटिस भर्ती 2026 — 60 पद (ग्रेजुएट व डिप्लोमा इंजीनियरिंग)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पश्चिम बंगाल विद्युत विकास निगम लिमिटेड (WBPDCL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "60 पद (ग्रेजुएट इंजीनियरिंग अप्रेंटिस 30 + डिप्लोमा इंजीनियरिंग अप्रेंटिस 30; अधिसूचना WBPDCL/Apprentice/2026/01)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "संबंधित विषय में इंजीनियरिंग डिग्री (ग्रेजुएट) या डिप्लोमा (डिप्लोमा) — मैकेनिकल, इलेक्ट्रिकल, इंस्ट्रूमेंटेशन/इलेक्ट्रॉनिक्स, माइनिंग",
+     "state": "ok"
+    },
+    "state": {
+     "value": "पश्चिम बंगाल",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-10",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.wbpdcl.co.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.wbpdcl.co.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/wbpdcl-technician-apprentice-recruitment-2026-3081257",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "2 स्रोतों से cross-check (FreeJobAlert detail page, govtjobsai): अधिसूचना WBPDCL/Apprentice/2026/01 — 60 टेक्नीशियन अप्रेंटिस (ग्रेजुएट 30: मैकेनिकल 12, इलेक्ट्रिकल 10, इंस्ट्रूमेंटेशन/इलेक्ट्रॉनिक्स 5, माइनिंग 3; डिप्लोमा 30: मैकेनिकल 13, इलेक्ट्रिकल 10, इंस्ट्रूमेंटेशन/इलेक्ट्रॉनिक्स 7); 1 वर्ष का प्रशिक्षण (Apprentices Act 1961), NATS रजिस्ट्रेशन ज़रूरी; आवेदन 20 Nov–10 Dec 2026, सिर्फ़ ऑनलाइन। कमी: छोटी सूचना में आयु-सीमा, स्टाइपेंड, फ़ीस व चयन-प्रक्रिया नहीं दी — विस्तृत विज्ञापन wbpdcl.co.in पर देखें (age/salary/fee missing); यह नियमित नौकरी नहीं, अप्रेंटिसशिप प्रशिक्षण है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T20:07:44+05:30"
+  },
+  {
+   "id": "prep-tnpsc-departmental-exam-result-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "TNPSC विभागीय परीक्षा (मई 2026) रिजल्ट घोषित — टेस्ट-वार सूची apply.tnpscexams.in पर",
+   "fields": {
+    "title": {
+     "value": "TNPSC विभागीय परीक्षा (मई 2026) रिजल्ट घोषित — टेस्ट-वार सूची apply.tnpscexams.in पर",
+     "state": "ok"
+    },
+    "org": {
+     "value": "तमिलनाडु लोक सेवा आयोग (TNPSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "विभागीय परीक्षा — मई 2026 सत्र (इन-सर्विस कर्मचारियों की परीक्षा; कोई पद-संख्या नहीं)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": null,
+     "state": "missing"
+    },
+    "state": {
+     "value": "तमिलनाडु",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-06",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-06",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://apply.tnpscexams.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://tnpsc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.certifica.in/result/tnpsc-departmental-examinations-may-2026-result",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "5 स्रोतों से cross-check (jobreadyportal, certifica, fresherslive, trendplus24, freejobalert): TNPSC ने विभागीय परीक्षा — मई 2026 सत्र का रिजल्ट घोषित किया; रिजल्ट पेज आख़िरी बार 6 Nov 2026 को अपडेट हुआ, टेस्ट-वार PDF सूचियाँ (रिजेक्ट सूची — टेस्ट कोड 201 व 205; वाइवा-वोसी सूची — टेस्ट कोड 019) apply.tnpscexams.in पर; यह इन-सर्विस तमिलनाडु सरकारी कर्मचारियों की परीक्षा है (प्रोबेशन/पदोन्नति के लिए), नई भर्ती नहीं — इसलिए कोई पद-संख्या/आवेदन-खिड़की नहीं। कमी: पहली प्रकाशन तारीख़ स्रोतों में अलग-अलग (8 Oct/23 Oct/6 Nov) — 6 Nov पेज की आख़िरी अपडेट तारीख़ है; रिजल्ट PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T20:07:44+05:30"
+  },
+  {
+   "id": "prep-rrb-je-vacancy-increase-2026",
+   "kind": "update",
+   "jobId": "rrb-je-cbt1-answer-key-2026",
+   "title": "RRB JE CBT-1 Answer Key 2026 जारी (CEN 04/2026) — आपत्ति 17 नवंबर तक",
+   "fields": {
+    "title": {
+     "value": "RRB JE CBT-1 Answer Key 2026 जारी (CEN 04/2026) — आपत्ति 17 नवंबर तक",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती बोर्ड (RRB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "answer_key",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "आपत्ति शुल्क ₹50/प्रश्न (+ बैंक शुल्क); आपत्ति सही मिलने पर शुल्क वापस — कुल 4,487 पदों (JE, DMS, CMA) की CBT-1 उत्तर कुंजी",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Diploma",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-11",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-17",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹50",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "आपत्ति शुल्क ₹50 प्रति प्रश्न + बैंक शुल्क (Debit/Credit Card, UPI, Net Banking); आपत्ति सही पाई जाने पर बैंक शुल्क काटकर शुल्क वापस",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "—",
+     "state": "ok"
+    },
+    "age": {
+     "value": "—",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://rrb.digialm.com",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://rrb.indianrailways.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=WkIQwqerYLE",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "6 स्रोतों से cross-check (GovtJobsAlert, PW.live, Testbook ×2, sarkarinetwork, gujeduhouse): RRB ने CEN 04/2026 के लिए Corrigendum No. 2 (4 Nov 2026) जारी किया — JE (P.Way, कैटेगरी 17) व JE (S&T/Signal, कैटेगरी 35) के पद बढ़े, कुल notified vacancies 4,029 से बढ़कर 4,487 हुईं (+458)। Live card पर अभी 4,029 लिखा है — सिर्फ़ posts का आँकड़ा बदलना है, बाकी सब (तारीख़ें, फ़ीस, आपत्ति की अंतिम तिथि 17 Nov) वही है। Queue करोगे तभी site पर 4,487 दिखेगा।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T20:07:44+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T18:52:26+05:30",
+ "updatedAt": "2026-11-14T20:07:44+05:30",
  "version": 1
 }
