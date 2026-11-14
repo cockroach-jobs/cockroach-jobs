@@ -19624,9 +19624,414 @@
    "status": "ready",
    "title": "भारतीय तटरक्षक (ICG) नाविक (GD/DB) व यांत्रिक एडमिट कार्ड 2026 — CGEPT परीक्षा 17–18 नवंबर (बैच 01/2027 व 02/2027)",
    "verifyNote": "एग्ज़ाम सिटी स्लिप 6 Nov 2026 को जारी; Stage-I CBT परीक्षा 17–18 Nov 2026 — FastJobSearchers, GreatSarkariJobs, RojgarResult, FreeJobAlert व JobReadyPortal से cross-check, सब में तारीख़ें व 365 पद एक जैसे। e-एडमिट कार्ड परीक्षा से 48–72 घंटे पहले जारी होता है — कुछ स्रोतों में 14 Nov से जारी बताया गया है, इसलिए startDate 'check' रखा है। कमी: योग्यता व आयु-सीमा आवेदन-समय की जानकारी है, admit card वाली खबरों में नहीं दी — 'check' रखा है; एडमिट कार्ड login से डाउनलोड होता है, सीधा PDF link नहीं मिला।"
+  },
+  {
+   "createdAt": "2026-11-14T17:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-10-27"
+    },
+    "org": {
+     "state": "ok",
+     "value": "डाक विभाग (Department of Posts), संचार मंत्रालय"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "23,757 पद (BPM, ABPM व डाक सेवक)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "10वीं पास"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.indiapost.gov.in/gdsonlineengagement"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://resultdekho.net/result/india-post-gds-merit-list-schedule-ii-july-2026"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-10-12"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (अखिल भारतीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "India Post GDS मेरिट लिस्ट 2026 (Schedule-II, July 2026) — पहली सूची जारी, 23,757 पद"
+    }
+   },
+   "id": "prep-india-post-gds-merit-list-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "India Post GDS मेरिट लिस्ट 2026 (Schedule-II, July 2026) — पहली सूची जारी, 23,757 पद",
+   "verifyNote": "पहली मेरिट सूची (List-I) 12 अक्टूबर 2026 को जारी — India Post की आधिकारिक साइट (circle-wise List-1), Edex Live व ResultDekho से cross-check; 23,757 पद, नोटिफ़िकेशन 17-12/2026-GDS (20 अगस्त 2026), 10वीं के अंकों से मेरिट, कोई परीक्षा नहीं। List-I के shortlisted अभ्यर्थियों का दस्तावेज़ सत्यापन 27 अक्टूबर 2026 तक था। कमी: दूसरी सूची अभी जारी नहीं हुई — सिर्फ़ 'नवंबर के तीसरे हफ़्ते में आने की उम्मीद' है, आधिकारिक तारीख़ नहीं; वेतन, आयु-सीमा व आवेदन-शुल्क इस जाँच में नहीं मिले — missing रखे हैं।"
+  },
+  {
+   "createdAt": "2026-11-14T17:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "35–40 वर्ष (पद के अनुसार)"
+    },
+    "applyUrl": {
+     "state": "check",
+     "value": "https://www.aiimsjammu.edu.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "check",
+     "value": "₹1,500"
+    },
+    "feeText": {
+     "state": "check",
+     "value": "सभी श्रेणियों के लिए ₹1,500 (non-refundable)"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-14"
+    },
+    "org": {
+     "state": "ok",
+     "value": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS), जम्मू (विजयपुर)"
+    },
+    "pdfUrl": {
+     "state": "ok",
+     "value": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/11/Advt-for-NF-GA-DR-Recruitment-2026.pdf"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "4 पद (ब्लड ट्रांसफ़्यूज़न ऑफ़िसर 1 + मेडिकल ऑफ़िसर आयुष 2 + चाइल्ड साइकोलॉजिस्ट 1)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "MBBS/MD व संबंधित योग्यता (पद के अनुसार — विवरण नोटिफ़िकेशन में देखें)"
+    },
+    "salary": {
+     "state": "check",
+     "value": "Level-10: ₹56,100–1,77,500; Level-11: ₹67,700–2,08,700 (7th CPC)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.aiimsjammu.edu.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://jkadworld.com/jammu-kashmir-jobs/aiims-jammu-recruitment-2026-7/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-14"
+    },
+    "state": {
+     "state": "ok",
+     "value": "जम्मू और कश्मीर"
+    },
+    "title": {
+     "state": "ok",
+     "value": "AIIMS जम्मू नॉन-फैकल्टी (ग्रुप-A) भर्ती 2026 — 4 पद (विज्ञापन 06/2026)"
+    }
+   },
+   "id": "prep-aiims-jammu-non-faculty-group-a-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "AIIMS जम्मू नॉन-फैकल्टी (ग्रुप-A) भर्ती 2026 — 4 पद (विज्ञापन 06/2026)",
+   "verifyNote": "आधिकारिक नोटिफ़िकेशन (Employment Notification No. 06/2026, दिनांक 09.11.2026) AIIMS जम्मू की साइट से — 4 पद, ऑनलाइन 14 Nov–14 Dec 2026, हार्ड कॉपी 21 Dec 2026 तक; JKAdWorld व MySarkariNaukri से cross-check, तारीख़ें व पद एक जैसे। ध्यान दें: AIIMS जम्मू की 76 फैकल्टी पदों वाली भर्ती (05/2026) की आख़िरी तारीख़ 13 Nov 2026 निकल चुकी है — वह इसमें नहीं है। कमी: हर पद की पूरी योग्यता, वेतन-सीमा व फ़ीस सिर्फ़ एक-एक स्रोत से मिलीं — 'check' रखी हैं; इंटरव्यू की तारीख़ अभी घोषित नहीं।"
+  },
+  {
+   "createdAt": "2026-11-14T17:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "check",
+     "value": "https://www.sjvn.nic.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-17"
+    },
+    "org": {
+     "state": "ok",
+     "value": "सतलुज जल विद्युत निगम (SJVN) लिमिटेड"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "100 पद (ग्रेजुएट 40 + डिप्लोमा 25 + ITI 35)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "ग्रेजुएट / डिप्लोमा / ITI (Civil, Electrical, Mechanical, IT, Fitter, Welder व अन्य ट्रेड)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.sjvn.nic.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/sjvn-recruitment-2026-technician-apprentice-graduate-apprentice-3081244"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-18"
+    },
+    "state": {
+     "state": "ok",
+     "value": "हिमाचल प्रदेश (सिर्फ़ HP domicile)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "SJVN अप्रेंटिस भर्ती 2026 — 100 पद (विज्ञापन 128/2026)"
+    }
+   },
+   "id": "prep-sjvn-apprentice-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "SJVN अप्रेंटिस भर्ती 2026 — 100 पद (विज्ञापन 128/2026)",
+   "verifyNote": "विज्ञापन 128/2026, नोटिफ़िकेशन 14 Nov 2026 — FreeJobAlert, QuickSarkari, HimExam व KollegeApply से cross-check, 100 पद, तारीख़ें व HP-domicile शर्त सब में एक जैसी। ध्यान दें: पुराना विज्ञापन 125/2025 (100 पद, आख़िरी तारीख़ 15 Jan 2026) अलग है — उसकी तारीख़ें इसमें बिल्कुल नहीं मिलाई गईं। कमी: आयु-सीमा, स्टाइपेंड व फ़ीस इन खबरों में नहीं मिलीं — missing रखी हैं; आवेदन 18 Nov से खुलेगा।"
+  },
+  {
+   "createdAt": "2026-11-14T17:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-12-01"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-01"
+    },
+    "org": {
+     "state": "ok",
+     "value": "भारतीय स्टेट बैंक (SBI)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "missing",
+     "value": null
+    },
+    "qual": {
+     "state": "check",
+     "value": "स्नातक (Graduate)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://sbi.bank.in/web/careers/current-openings"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/sbi-po-interview-admit-card-2026-3081253"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "SBI PO इंटरव्यू एडमिट कार्ड 2026 — इंटरव्यू 1 दिसंबर से, कॉल लेटर जल्द"
+    }
+   },
+   "id": "prep-sbi-po-interview-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "SBI PO इंटरव्यू एडमिट कार्ड 2026 — इंटरव्यू 1 दिसंबर से, कॉल लेटर जल्द",
+   "verifyNote": "SBI ने इंटरव्यू शेड्यूल जारी किया — ग्रुप एक्सरसाइज़ व इंटरव्यू 1 दिसंबर 2026 से (विज्ञापन CRPD/PO/2026-27/09); FreeJobAlert व Guidely से cross-check, दोनों में 1 Dec एक जैसा; मेन्स रिजल्ट 14 Oct 2026 को जारी, 4,367 अभ्यर्थी Phase-III के लिए shortlist (CareerBox)। कमी: इंटरव्यू कॉल लेटर का डाउनलोड लिंक अभी सक्रिय नहीं हुआ — 'जल्द आएगा' ही कहा गया है, इसलिए applyUrl/pdfUrl missing रखे हैं; पदों की संख्या इस खबर में नहीं थी।"
+  },
+  {
+   "createdAt": "2026-11-14T17:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "check",
+     "value": "https://www.sci.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-20"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-20"
+    },
+    "org": {
+     "state": "ok",
+     "value": "भारत का सर्वोच्च न्यायालय (Supreme Court of India)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "250 पद (Junior Court Assistant, Group-B)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "स्नातक (Graduate)"
+    },
+    "salary": {
+     "state": "check",
+     "value": "₹35,400–₹1,12,400 (Level-6)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.sci.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/supreme-court-junior-court-assistant-admit-card-2026-3081218"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-14"
+    },
+    "state": {
+     "state": "ok",
+     "value": "अखिल भारतीय"
+    },
+    "title": {
+     "state": "ok",
+     "value": "सुप्रीम कोर्ट जूनियर कोर्ट असिस्टेंट एडमिट कार्ड 2026 — परीक्षा 20 नवंबर, 250 पद"
+    }
+   },
+   "id": "prep-sci-junior-court-assistant-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "सुप्रीम कोर्ट जूनियर कोर्ट असिस्टेंट एडमिट कार्ड 2026 — परीक्षा 20 नवंबर, 250 पद",
+   "verifyNote": "एडमिट कार्ड 14 Nov 2026 को जारी (आधिकारिक नोटिस दिनांक 14 Nov 2026) — FreeJobAlert, ExamNeed, AllJobAssam व Testbook से cross-check, परीक्षा 20 Nov 2026 (tentative) व 250 पद सब में एक जैसे; एग्ज़ाम सिटी स्लिप 9 Nov को जारी हुई थी। योग्यता/वेतन इसी भर्ती की पहले से तैयार exam-city-slip entry से लिए गए हैं।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T16:48:44+05:30",
+ "updatedAt": "2026-11-14T17:53:33+05:30",
  "version": 1
 }
