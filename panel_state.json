@@ -22431,9 +22431,333 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-15T02:53:26+05:30"
+  },
+  {
+   "createdAt": "2026-11-15T03:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://www.mpscmanipur.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "answer_key"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "आंसर की देखने के लिए कोई शुल्क नहीं; आपत्ति ₹300 प्रति प्रश्न"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-20"
+    },
+    "org": {
+     "state": "ok",
+     "value": "मणिपुर लोक सेवा आयोग (MPSC), मणिपुर सरकार"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "130 पद (असिस्टेंट इंजीनियर/मैनेजर — सिविल व इलेक्ट्रिकल)"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.mpscmanipur.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://govtjobsai.com/answer-key/manipur-psc-assistant-engineer-answer-key-2026"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-13"
+    },
+    "state": {
+     "state": "ok",
+     "value": "मणिपुर"
+    },
+    "title": {
+     "state": "ok",
+     "value": "मणिपुर PSC असिस्टेंट इंजीनियर/मैनेजर प्रोविज़नल आंसर की 2026 जारी — 130 पद, परीक्षा 12 नवंबर"
+    }
+   },
+   "id": "prep-manipur-psc-ae-answer-key-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "मणिपुर PSC असिस्टेंट इंजीनियर/मैनेजर प्रोविज़नल आंसर की 2026 जारी — 130 पद, परीक्षा 12 नवंबर",
+   "verifyNote": "MPSC ने 13 Nov 2026 को असिस्टेंट इंजीनियर/मैनेजर (सिविल/इलेक्ट्रिकल) लिखित परीक्षा की प्रोविज़नल आंसर की जारी की — परीक्षा 12 Nov 2026 (ऑब्जेक्टिव), संदर्भ 7/1/2026-MPSC (DR); GAT + सिविल/इलेक्ट्रिकल पेपर-I व II की key; आपत्ति 16–20 Nov 2026 शाम 5 बजे तक empsconline.gov.in पर, ₹300/प्रश्न — govtjobsai, govtjobguru, 9curry व indiajobnotice (आधिकारिक mpscmanipur.gov.in नोटिस) से cross-check। कमी: आधिकारिक PDF का सीधा link नहीं मिला; योग्यता/आयु/वेतन की पुष्टि भर्ती-विज्ञापन से बाकी है; conventional परीक्षा (13 Nov) की key अभी नहीं आई।"
+  },
+  {
+   "createdAt": "2026-11-15T03:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://www.keralapsc.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "answer_key"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-11"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "आंसर की देखने के लिए कोई शुल्क नहीं; आपत्ति OTR प्रोफ़ाइल से"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-16"
+    },
+    "org": {
+     "state": "ok",
+     "value": "केरल लोक सेवा आयोग (Kerala PSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "missing",
+     "value": null
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.keralapsc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/kerala-psc-assistant-jailor-and-other-post-answer-key-2026-3081064"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "state": {
+     "state": "ok",
+     "value": "केरल"
+    },
+    "title": {
+     "state": "ok",
+     "value": "केरल PSC असिस्टेंट जेलर ग्रेड-I प्रोविज़नल आंसर की 2026 जारी — परीक्षा 11 नवंबर (प्रश्न-पत्र कोड 095/2026)"
+    }
+   },
+   "id": "prep-kerala-psc-assistant-jailor-answer-key-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "केरल PSC असिस्टेंट जेलर ग्रेड-I प्रोविज़नल आंसर की 2026 जारी — परीक्षा 11 नवंबर (प्रश्न-पत्र कोड 095/2026)",
+   "verifyNote": "केरल PSC ने 12 Nov 2026 को असिस्टेंट जेलर ग्रेड-I / सुपरिंटेंडेंट सब जेल / सुपरवाइज़र ओपन प्रिज़न मुख्य परीक्षा (11 Nov 2026, 100 अंक) की प्रोविज़नल आंसर की जारी की — श्रेणी सं. 451/2025, 452/2025, 453/2025; प्रश्न-पत्र कोड 095/2026; मलयालम/तमिल/कन्नड़ PDF; आपत्ति 12–16 Nov 2026 OTR प्रोफ़ाइल से — freejobalert, entri, govtjobsai, easypsc व YouTube पर Sahakari Race Plus की आंसर-की चर्चा से cross-check। कमी: पद-संख्या, योग्यता व वेतन की जानकारी स्रोतों में नहीं मिली; आधिकारिक PDF का सीधा link नहीं मिला; final key अभी नहीं आई।"
+  },
+  {
+   "createdAt": "2026-11-15T03:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "check",
+     "value": "गुड्स ट्रेन मैनेजर: 18–42 वर्ष (सूचना से पुष्टि बाकी)"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://www.rrchubli.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": 0
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "कोई शुल्क नहीं (Nil)"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-08"
+    },
+    "org": {
+     "state": "ok",
+     "value": "रेलवे भर्ती प्रकोष्ठ, दक्षिण पश्चिम रेलवे (RRC SWR), हुबली"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "258 पद (गुड्स ट्रेन मैनेजर 247 + जूनियर इंजीनियर 11 — ब्रिज 2, P.Way 2, मैकेनिकल वर्कशॉप 5, S&T 2)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "विभागीय परीक्षा — सिर्फ़ SWR व RWF/YNK के नियमित सेवारत कर्मचारी; पद के अनुसार डिग्री/डिप्लोमा (सूचना में जाँचें)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.rrchubli.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://careeralert24.com/south-western-railway-gdce-recruitment/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-09"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "RRC दक्षिण पश्चिम रेलवे GDCE भर्ती 2026 — 258 पद (गुड्स ट्रेन मैनेजर व जूनियर इंजीनियर; सिर्फ़ सेवारत रेलवे कर्मचारी)"
+    }
+   },
+   "id": "prep-rrc-swr-gdce-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "RRC दक्षिण पश्चिम रेलवे GDCE भर्ती 2026 — 258 पद (गुड्स ट्रेन मैनेजर व जूनियर इंजीनियर; सिर्फ़ सेवारत रेलवे कर्मचारी)",
+   "verifyNote": "RRC SWR, हुबली ने GDCE सूचना सं. 01/2026(GDCE) दिनांक 28 Oct 2026 से 258 पदों की भर्ती निकाली — आवेदन 9 Nov–8 Dec 2026 (rrchubli.in), शुल्क Nil, एकल-चरण CBT (120 प्रश्न/120 अंक/90 मिनट, 6 Nov 2026 के corrigendum से) — careeralert24, viksitharyana, gyanzap, upjobradar व quicksarkari से cross-check। ध्यान दें: यह खुली भर्ती नहीं है — सिर्फ़ दक्षिण पश्चिम रेलवे व रेल व्हील फैक्ट्री, येलहंका के नियमित सेवारत कर्मचारी पात्र हैं (RPF/RPSF, लॉ असिस्टेंट, केटरिंग इंस्पेक्टर व अकाउंट्स कैडर बाहर); आम अभ्यर्थी/फ्रेशर आवेदन नहीं कर सकते। कमी: आधिकारिक PDF का सीधा link नहीं मिला; आयु-सीमा व योग्यता की पुष्टि सूचना से बाकी है; CBT तारीख़ अभी घोषित नहीं।"
+  },
+  {
+   "createdAt": "2026-11-15T03:53:33+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "UDC अधिकतम 58 वर्ष; अन्य 12 श्रेणियाँ अधिकतम 56 वर्ष (15 Dec 2026 को)"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://gstn.org.in/gstat-application"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-15"
+    },
+    "org": {
+     "state": "ok",
+     "value": "वस्तु एवं सेवा कर अपीलीय अधिकरण (GSTAT), राजस्व विभाग, वित्त मंत्रालय"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "237 पद (13 श्रेणियाँ — स्टेनोग्राफर ग्रेड-I 59, कोर्ट ऑफिसर 56, प्राइवेट सेक्रेटरी 23, UDC 19 सहित; अस्थायी संख्या)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "प्रतिनियुक्ति — केंद्र/राज्य सरकार, UT, ट्रिब्यूनल, कोर्ट या PSU के सेवारत अधिकारी/कर्मचारी; पद के अनुसार सेवा-शर्तें"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "पद के अनुसार लेवल-4 से लेवल-11 (₹25,500–₹2,08,700)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://dor.gov.in/gstat-recruitment"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/gstat-recruitment-2026-stenographer-udc-assistant-3079720"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-15"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "GSTAT भर्ती 2026 — 237 पद (स्टेनोग्राफर, कोर्ट ऑफिसर, UDC व अन्य; प्रतिनियुक्ति — सिर्फ़ सेवारत अधिकारी/कर्मचारी)"
+    }
+   },
+   "id": "prep-gstat-deputation-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "GSTAT भर्ती 2026 — 237 पद (स्टेनोग्राफर, कोर्ट ऑफिसर, UDC व अन्य; प्रतिनियुक्ति — सिर्फ़ सेवारत अधिकारी/कर्मचारी)",
+   "verifyNote": "राजस्व विभाग ने 6 Nov 2026 को GSTAT में अधिकारियों/कर्मचारियों की नियुक्ति का Vacancy Circular (A-12/4/2024-GSTAT-DOR-DOR-Part (3)) जारी किया — 237 पद, 13 श्रेणियाँ; ऑनलाइन पोर्टल 15 Nov 2026 से सक्रिय, आवेदन 15 Dec 2026 से पहले — freejobalert, nrai, sarkariresult.app, placementstore व sarkarinokrii से cross-check (सबमें तारीख़ें एक-सी)। ध्यान दें: यह खुली भर्ती नहीं, प्रतिनियुक्ति (deputation) है — सिर्फ़ सेवारत अधिकारी/कर्मचारी पात्र; एक स्रोत में 'अंतिम तिथि 15 Nov' लिखा था, वह गलत है — सही अंतिम तिथि 15 Dec 2026 है (पोर्टल 15 Nov से खुल रहा है)। कमी: आधिकारिक PDF का सीधा link नहीं मिला; शुल्क की जानकारी नहीं मिली।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-15T02:53:26+05:30",
+ "updatedAt": "2026-11-15T03:53:33+05:30",
  "version": 1
 }
