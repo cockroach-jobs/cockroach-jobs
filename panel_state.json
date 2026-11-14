@@ -18652,9 +18652,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T13:48:05+05:30"
+  },
+  {
+   "createdAt": "2026-11-14T14:49:39+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-10"
+    },
+    "org": {
+     "state": "ok",
+     "value": "भारतीय विमानपत्तन प्राधिकरण (AAI)"
+    },
+    "pdfUrl": {
+     "state": "ok",
+     "value": "https://www.aai.aero/sites/default/files/examdashboard-result/SELECTION%20NOTIFICATION%20FOR%20APPLICATION%20VERIFICATION%20IN%202ND%20PHASE%20FOR%20THE%20POST%20OF%20JE%20ENGG%20CIVIL%20THROUGH%20GATE%202023-2024-2025.pdf"
+    },
+    "posts": {
+     "state": "check",
+     "value": "199 पद (JE सिविल, विज्ञापन 09/2025/CHQ)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "B.E./B.Tech (सिविल) + वैध GATE 2023/2024/2025 स्कोर"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.aai.aero"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://jobshouter.com/aai-je-civil-2nd-phase-result-2026-out-application-verification-shortlist-released-for-unfilled-vacancies-at-aai-aero/"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "AAI जूनियर एग्ज़ीक्यूटिव (सिविल) 2nd फेज़ रिजल्ट 2026 जारी — GATE स्कोर से एप्लिकेशन वेरिफिकेशन शॉर्टलिस्ट, 199 पद"
+    }
+   },
+   "id": "prep-aai-je-civil-2nd-phase-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "AAI जूनियर एग्ज़ीक्यूटिव (सिविल) 2nd फेज़ रिजल्ट 2026 जारी — GATE स्कोर से एप्लिकेशन वेरिफिकेशन शॉर्टलिस्ट, 199 पद",
+   "verifyNote": "AAI की आधिकारिक selection notification (10 नवंबर 2026, विज्ञापन 09/2025/CHQ) से पुष्टि — आधिकारिक PDF aai.aero पर; NRAI, JobShouter, FreshersLive व 9curry में एक ही तारीख़ व कट-ऑफ (UR 712)। यह 2nd फेज़ एप्लिकेशन वेरिफिकेशन शॉर्टलिस्ट है, सिर्फ़ पहले चरण की खाली सीटों के लिए — अंतिम चयन नहीं। वेरिफिकेशन का शेड्यूल अभी घोषित नहीं हुआ। पद-संख्या (199) एक स्रोत से है, आधिकारिक PDF में नहीं दिखी इसलिए check रखी है।"
+  },
+  {
+   "createdAt": "2026-11-14T14:49:39+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-07-22"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "org": {
+     "state": "ok",
+     "value": "BEML लिमिटेड (रक्षा मंत्रालय)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "44 पद (ITI वेल्डर; कुल विज्ञापन 362 ऑपरेटर पद)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "ITI (वेल्डर) 60% अंक + NTC + NAC"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹16,900 मूल वेतन + DA + HRA व अन्य भत्ते"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://bemlindia.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://jobshouter.com/beml-non-executive-welder-final-merit-list-2026-out-42-candidates-provisionally-shortlisted-under-advt-kp-s-10-2026/"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "BEML नॉन-एग्ज़ीक्यूटिव (ITI वेल्डर) फाइनल मेरिट लिस्ट 2026 जारी — 42 अभ्यर्थी shortlist, 44 पद"
+    }
+   },
+   "id": "prep-beml-welder-final-merit-list-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "BEML नॉन-एग्ज़ीक्यूटिव (ITI वेल्डर) फाइनल मेरिट लिस्ट 2026 जारी — 42 अभ्यर्थी shortlist, 44 पद",
+   "verifyNote": "BEML की अंतिम मेरिट सूची (12 नवंबर 2026, विज्ञापन KP/S/10/2026) से पुष्टि — JobShouter, KollegeApply, ShikshaPedia व 9curry में एक ही तारीख़ व 42 shortlist। लिखित परीक्षा 22 जुलाई 2026, स्किल टेस्ट 29–31 अक्टूबर 2026। यह अंतिम मेरिट लिस्ट है पर चयन अनंतिम है — मेडिकल व दस्तावेज़ सत्यापन बाकी; मेडिकल की तारीख़ ई-मेल से बताई जाएगी। वेल्डर के 44 पद (कुल विज्ञापन 362 ऑपरेटर पद) आधिकारिक विज्ञापन से। नियुक्ति अधिकतम 4 वर्ष की tenure पर है, नियमित पद नहीं। PDF का सीधा लिंक नहीं मिला इसलिए pdfUrl missing रखा है।"
+  },
+  {
+   "createdAt": "2026-11-14T14:49:39+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-08-22"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-04"
+    },
+    "org": {
+     "state": "ok",
+     "value": "राजस्थान कर्मचारी चयन बोर्ड (RSSB)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "3,951 पद (BCI 3,629 + SCI 322)"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://rssb.rajasthan.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/rssb-basic-computer-instructor-result-2026-3078600"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "राजस्थान"
+    },
+    "title": {
+     "state": "ok",
+     "value": "RSSB कंप्यूटर इंस्ट्रक्टर (BCI व SCI) रिजल्ट 2026 जारी — 3,951 पद, स्क्रूटनी फॉर्म 12–21 नवंबर"
+    }
+   },
+   "id": "prep-rssb-bci-sci-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "RSSB कंप्यूटर इंस्ट्रक्टर (BCI व SCI) रिजल्ट 2026 जारी — 3,951 पद, स्क्रूटनी फॉर्म 12–21 नवंबर",
+   "verifyNote": "RSSB की रिजल्ट सूचना (4 नवंबर 2026, विज्ञापन 07/2026) से पुष्टि — FreeJobAlert, JagranJosh, RojgarPulse व JobCareerUpdates में एक ही तारीख़, पद-संख्या व कट-ऑफ (BCI GEN NTSP 105.932, SCI GEN NTSP 102.2729)। परीक्षा 22–23 अगस्त 2026, यह अनंतिम (provisional) मेरिट लिस्ट है — स्क्रूटनी फॉर्म 12–21 नवंबर 2026 तक भरना है, उसके बाद दस्तावेज़ सत्यापन। SCI रिजल्ट का सीधा PDF स्वतंत्र रूप से नहीं खुला, इसलिए pdfUrl missing रखा है — आधिकारिक Results पेज से देखें।"
+  },
+  {
+   "createdAt": "2026-11-14T14:49:39+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-07-07"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-02"
+    },
+    "org": {
+     "state": "ok",
+     "value": "सशस्त्र सीमा बल (SSB)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "115 पद"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://recruitment.ssb.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/ssb-hc-ministerial-2020-cbt-result-2026-3078048"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "SSB हेड कांस्टेबल (मिनिस्टीरियल) CBT रिजल्ट 2026 जारी — 1,725 अभ्यर्थी टाइपिंग टेस्ट के लिए shortlist, 115 पद"
+    }
+   },
+   "id": "prep-ssb-hc-ministerial-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "SSB हेड कांस्टेबल (मिनिस्टीरियल) CBT रिजल्ट 2026 जारी — 1,725 अभ्यर्थी टाइपिंग टेस्ट के लिए shortlist, 115 पद",
+   "verifyNote": "SSB की रिजल्ट सूचना (2 नवंबर 2026, विज्ञापन 338/RC/SSB/HC(Min)/2020) से पुष्टि — Times of India, Telegraph India, FreeJobAlert, CareerIndia व PW Live में एक ही तारीख़, 1,725 shortlist व कट-ऑफ (UR 90, OBC 88, EWS 86, SC 84, ST 80 — 100 में से)। CBT 7 जुलाई 2026 को हुई थी; टाइपिंग/स्किल टेस्ट 16 नवंबर (अलवर, दिल्ली) व 18 नवंबर (भोपाल, सुपौल, गोरखपुर) को है। यह CBT चरण की सूची है, अंतिम चयन नहीं। PDF का सीधा लिंक नहीं मिला इसलिए pdfUrl missing रखा है।"
+  },
+  {
+   "createdAt": "2026-11-14T14:49:39+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-10-30"
+    },
+    "org": {
+     "state": "ok",
+     "value": "गुजरात अधीनस्थ सेवा चयन बोर्ड (GSSSB)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "261 पद (महिलाओं के लिए 83 आरक्षित)"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://gsssb.gujarat.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/gsssb-ophthalmic-assistant-final-result-2026-3077503"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "गुजरात"
+    },
+    "title": {
+     "state": "ok",
+     "value": "GSSSB ओफ्थैल्मिक असिस्टेंट फाइनल रिजल्ट 2026 जारी — 187 अभ्यर्थी चयनित, 261 पद"
+    }
+   },
+   "id": "prep-gsssb-ophthalmic-assistant-final-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "GSSSB ओफ्थैल्मिक असिस्टेंट फाइनल रिजल्ट 2026 जारी — 187 अभ्यर्थी चयनित, 261 पद",
+   "verifyNote": "GSSSB की अंतिम परिणाम सूचना (30 अक्टूबर 2026, विज्ञापन 344/2025-26) से पुष्टि — JobCareerUpdates ने आधिकारिक PDF पढ़कर बताया (187 चयनित, 25 प्रतीक्षा सूची, 34 असफल/अनुपस्थित), FreeJobAlert, RojgarPulse, JagranJosh व Times of India में एक ही तारीख़ व पद-संख्या। चयन MCQ-CBRT परीक्षा व दस्तावेज़ सत्यापन के आधार पर; नियुक्ति/जॉइनिंग की तारीख़ अभी घोषित नहीं हुई। PDF का सीधा लिंक नहीं मिला इसलिए pdfUrl missing रखा है।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T13:48:05+05:30",
+ "updatedAt": "2026-11-14T14:49:39+05:30",
  "version": 1
 }
