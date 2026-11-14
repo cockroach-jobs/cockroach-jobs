@@ -17436,9 +17436,252 @@
    "status": "ready",
    "title": "CTET सितंबर 2026 — संशोधित परीक्षा तिथि 12–13 दिसंबर, एडमिट कार्ड 10 दिसंबर से",
    "verifyNote": "CBSE ने 14 सितंबर 2026 के पब्लिक नोटिस से CTET सितंबर 2026 (22वाँ संस्करण) की संशोधित परीक्षा तिथि 12–13 दिसंबर 2026 घोषित की — पहले 6 सितंबर 2026 तय थी, फिर टाली गई; shiksha, careerpower, testbook व examdetail से cross-check; सिटी स्लिप परीक्षा से ~15 दिन पहले, एडमिट कार्ड 2 दिन पहले (10 दिसंबर) आएगा। आवेदन व सुधार की खिड़की बंद हो चुकी है।"
-  }
+  },
+ {
+  "createdAt": "2026-11-14T10:56:04+05:30",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "ok",
+    "value": "18–40 वर्ष (पद के अनुसार, 1 जनवरी 2027 को)"
+   },
+   "applyUrl": {
+    "state": "ok",
+    "value": "https://rrb.indianrailways.gov.in/"
+   },
+   "cat": {
+    "state": "ok",
+    "value": "admit"
+   },
+   "examDate": {
+    "state": "ok",
+    "value": "2026-11-23"
+   },
+   "feeGen": {
+    "state": "ok",
+    "value": "—"
+   },
+   "feeText": {
+    "state": "ok",
+    "value": "सिटी स्लिप देखने के लिए कोई शुल्क नहीं"
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-11-25"
+   },
+   "org": {
+    "state": "ok",
+    "value": "रेलवे भर्ती बोर्ड (RRB), रेल मंत्रालय"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "ok",
+    "value": "590 पद (नर्सिंग सुपरिटेंडेंट 365, फार्मासिस्ट 118, हेल्थ व मलेरिया इंस्पेक्टर 43, लैब असिस्टेंट 31, रेडियोग्राफर 25, ECG टेक्नीशियन 4, ऑप्टोमेट्रिस्ट 2, डायलिसिस टेक्नीशियन 1, ऑडियोलॉजिस्ट 1)"
+   },
+   "qual": {
+    "state": "check",
+    "value": "पद के अनुसार — Diploma / B.Sc (नर्सिंग: B.Sc)"
+   },
+   "salary": {
+    "state": "missing",
+    "value": null
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://rrb.indianrailways.gov.in/"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://www.youtube.com/watch?v=2Ln8-pr7lOA"
+   },
+   "startDate": {
+    "state": "ok",
+    "value": "2026-11-13"
+   },
+   "state": {
+    "state": "ok",
+    "value": "सभी राज्य (केंद्रीय)"
+   },
+   "title": {
+    "state": "ok",
+    "value": "रेलवे RRB पैरामेडिकल (CEN 05/2026) एग्ज़ाम सिटी स्लिप जारी — CBT परीक्षा 23 व 25 नवंबर, 590 पद"
+   }
+  },
+  "id": "prep-rrb-paramedical-city-slip-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "रेलवे RRB पैरामेडिकल (CEN 05/2026) एग्ज़ाम सिटी स्लिप जारी — CBT परीक्षा 23 व 25 नवंबर, 590 पद",
+  "verifyNote": "RRB की परीक्षा-सूची नोटिस (18 अक्टूबर 2026) से पुष्टि — CBT 23 व 25 नवंबर 2026, 590 पद; सिटी स्लिप 13 नवंबर (23 नवंबर वाली परीक्षा के लिए) व 15 नवंबर (25 नवंबर वाली परीक्षा के लिए) को जारी — YouTube वीडियो, CareerPower, Testbook, JagranJosh, NDTV व SarkariManzil में एक ही तारीख़ें। एडमिट कार्ड (e-call letter) अभी जारी नहीं हुआ — परीक्षा से 4 दिन पहले (19/21 नवंबर) आएगा। यह सिटी स्लिप है, एडमिट कार्ड नहीं। योग्यता पद के अनुसार अलग-अलग है, इसलिए check रखा है।"
+ },
+ {
+  "createdAt": "2026-11-14T10:56:04+05:30",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "ok",
+    "value": "20–38 वर्ष (पद के अनुसार)"
+   },
+   "applyUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "cat": {
+    "state": "ok",
+    "value": "result"
+   },
+   "examDate": {
+    "state": "ok",
+    "value": "2026-04-26"
+   },
+   "feeGen": {
+    "state": "ok",
+    "value": "—"
+   },
+   "feeText": {
+    "state": "ok",
+    "value": "कोई परीक्षा शुल्क नहीं था"
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-11-11"
+   },
+   "org": {
+    "state": "ok",
+    "value": "ओडिशा अधीनस्थ कर्मचारी चयन आयोग (OSSSC)"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "ok",
+    "value": "2,895 पद (RI 559, ICDS Supervisor 498, ARI 827, Amin 686, SFS 325)"
+   },
+   "qual": {
+    "state": "ok",
+    "value": "स्नातक (RI, ICDS Supervisor) / 12वीं (ARI, Amin, SFS)"
+   },
+   "salary": {
+    "state": "ok",
+    "value": "RI/ICDS Supervisor ₹35,400–1,12,400; ARI ₹19,900–63,200; Amin/SFS ₹18,000–56,900"
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://osssc.gov.in"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://www.freejobalert.com/articles/osssc-ri-icds-and-ari-result-2026-3080507"
+   },
+   "startDate": {
+    "state": "missing",
+    "value": null
+   },
+   "state": {
+    "state": "ok",
+    "value": "ओडिशा"
+   },
+   "title": {
+    "state": "ok",
+    "value": "OSSSC RI, ICDS Supervisor, ARI, Amin व SFS अनंतिम परिणाम 2026 घोषित — CRE-2023 (IV), 2,895 पद"
+   }
+  },
+  "id": "prep-osssc-ri-icds-ari-provisional-result-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "OSSSC RI, ICDS Supervisor, ARI, Amin व SFS अनंतिम परिणाम 2026 घोषित — CRE-2023 (IV), 2,895 पद",
+  "verifyNote": "OSSSC की नोटिस IIE-18/2026-3379/OSSSC, दिनांक 11 नवंबर 2026 से पुष्टि — FreeJobAlert, KollegeApply, NRAI व FreshersLive में एक ही तारीख़ व नोटिस नंबर। यह अनंतिम (provisional) परिणाम है — मुख्य परीक्षा (26 अप्रैल 2026), स्किल टेस्ट व दस्तावेज़ सत्यापन के आधार पर ज़िला आवंटन सहित। पदों की संख्या (2,895) व पद-वार बँटवारा विज्ञापन 938(C)/OSSSC से। परिणाम की PDF सीधे osssc.gov.in पर है, उसका सीधा लिंक नहीं मिला इसलिए pdfUrl missing रखा है।"
+ },
+ {
+  "createdAt": "2026-11-14T10:56:04+05:30",
+  "createdBy": "LOYATI (hourly check)",
+  "fields": {
+   "age": {
+    "state": "missing",
+    "value": null
+   },
+   "applyUrl": {
+    "state": "ok",
+    "value": "https://upsssc.gov.in"
+   },
+   "cat": {
+    "state": "ok",
+    "value": "admit"
+   },
+   "examDate": {
+    "state": "ok",
+    "value": "2026-11-22"
+   },
+   "feeGen": {
+    "state": "ok",
+    "value": "—"
+   },
+   "feeText": {
+    "state": "ok",
+    "value": "सिटी स्लिप देखने के लिए कोई शुल्क नहीं"
+   },
+   "lastDate": {
+    "state": "ok",
+    "value": "2026-11-22"
+   },
+   "org": {
+    "state": "ok",
+    "value": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग (UPSSSC)"
+   },
+   "pdfUrl": {
+    "state": "missing",
+    "value": null
+   },
+   "posts": {
+    "state": "ok",
+    "value": "209 पद (हवलदार प्रशिक्षक, होम गार्ड मुख्यालय)"
+   },
+   "qual": {
+    "state": "missing",
+    "value": null
+   },
+   "salary": {
+    "state": "missing",
+    "value": null
+   },
+   "siteUrl": {
+    "state": "ok",
+    "value": "https://upsssc.gov.in"
+   },
+   "sourceUrl": {
+    "state": "ok",
+    "value": "https://www.jagranjosh.com/lite/articles/upsssc-havaldar-instructor-city-intimation-slip-2026-released-check-exam-city-details-at-upsssc-gov-in-1800019029-1"
+   },
+   "startDate": {
+    "state": "ok",
+    "value": "2026-11-12"
+   },
+   "state": {
+    "state": "ok",
+    "value": "उत्तर प्रदेश"
+   },
+   "title": {
+    "state": "ok",
+    "value": "UPSSSC हवलदार प्रशिक्षक (मुख्य परीक्षा) एग्ज़ाम सिटी स्लिप 2026 जारी — परीक्षा 22 नवंबर, 209 पद"
+   }
+  },
+  "id": "prep-upsssc-havaldar-instructor-city-slip-2026",
+  "jobId": null,
+  "kind": "new_job",
+  "sourceSubmissionId": null,
+  "status": "ready",
+  "title": "UPSSSC हवलदार प्रशिक्षक (मुख्य परीक्षा) एग्ज़ाम सिटी स्लिप 2026 जारी — परीक्षा 22 नवंबर, 209 पद",
+  "verifyNote": "UPSSSC की सूचना (12 नवंबर 2026) से पुष्टि — JagranJosh, Testbook, SarkariExam व SarkariSahayta में एक ही तारीख़ें: सिटी स्लिप 12 नवंबर, मुख्य परीक्षा 22 नवंबर 2026 (दोपहर 3–5 बजे), विज्ञापन 11-परीक्षा/2026, 209 पद। यह सिटी स्लिप है, एडमिट कार्ड नहीं — एडमिट कार्ड परीक्षा से पहले अलग से आएगा। योग्यता, आयु व वेतन की पुष्टि बाकी है, इसलिए missing रखे हैं।"
+ }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T09:58:30+05:30",
+ "updatedAt": "2026-11-14T10:56:04+05:30",
  "version": 1
 }
