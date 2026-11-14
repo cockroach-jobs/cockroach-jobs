@@ -22269,9 +22269,171 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-15T01:54+05:30"
+  },
+  {
+   "id": "prep-ouat-faculty-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "OUAT असिस्टेंट प्रोफ़ेसर व एसोसिएट प्रोफ़ेसर भर्ती 2026 — 23 पद (विज्ञापन E-II-II-09/2026/17387/UAT)",
+   "fields": {
+    "title": {
+     "value": "OUAT असिस्टेंट प्रोफ़ेसर व एसोसिएट प्रोफ़ेसर भर्ती 2026 — 23 पद (विज्ञापन E-II-II-09/2026/17387/UAT)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "ओडिशा कृषि एवं प्रौद्योगिकी विश्वविद्यालय (OUAT), भुवनेश्वर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "23 पद (असिस्टेंट प्रोफ़ेसर 15 + एसोसिएट प्रोफ़ेसर 8, 19 भूमिकाएँ)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "M.Phil/Ph.D, स्नातकोत्तर (कृषि विज्ञान विषयों में, पद के अनुसार)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "ओडिशा",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-30",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": 700,
+     "state": "check"
+    },
+    "feeText": {
+     "value": "असिस्टेंट प्रोफ़ेसर ₹700; एसोसिएट प्रोफ़ेसर ₹1,000",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level-10 ₹57,700 (असिस्टेंट); Level-13A ₹1,31,400 (एसोसिएट)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 42 वर्ष (25.11.2026 को, असिस्टेंट प्रोफ़ेसर); एसोसिएट प्रोफ़ेसर की आयु सूचना में नहीं दी गई",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://ouat.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/ouat-recruitment-2026-apply-offline-for-23-assistant-professor-associate-professor-posts-3077734",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, FacultyPlus, SarkariResult.app, SahiSarkariJobs, 9curry व GovtJobe से cross-check — विज्ञापन E-II-II-09/2026/17387/UAT दिनांक 30 Oct 2026, 23 पद (15 असिस्टेंट + 8 एसोसिएट प्रोफ़ेसर, कृषि विज्ञान), आवेदन ऑफ़लाइन (फ़ॉर्म ouat.ac.in से, Speed/Registered Post से Registrar, OUAT भुवनेश्वर को 25 Nov 2026 शाम 5 बजे तक पहुँचना चाहिए)। चयन: असिस्टेंट — लिखित परीक्षा + इंटरव्यू; एसोसिएट — API पर इंटरव्यू। कमी: आधिकारिक PDF का सीधा link व परीक्षा तारीख़ नहीं मिली; एसोसिएट प्रोफ़ेसर की आयु-सीमा सूचना में नहीं दी गई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T02:53:26+05:30"
+  },
+  {
+   "id": "prep-rrc-swr-scouts-guides-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "RRC दक्षिण पश्चिम रेलवे स्काउट्स व गाइड्स कोटा भर्ती 2026-27 — 11 पद (ग्रुप C व ग्रुप D)",
+   "fields": {
+    "title": {
+     "value": "RRC दक्षिण पश्चिम रेलवे स्काउट्स व गाइड्स कोटा भर्ती 2026-27 — 11 पद (ग्रुप C व ग्रुप D)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती प्रकोष्ठ, दक्षिण पश्चिम रेलवे (RRC SWR), हुबली",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "11 पद (ग्रुप C लेवल-2: 3 + ग्रुप D लेवल-1: 8; रोज़गार सूचना सं. SWR/P-HQ/Scouts & Guides/26-27)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "ग्रुप C: 12वीं (50%) या 10वीं + ITI/NAC + स्काउट्स व गाइड्स योग्यता; ग्रुप D: 10वीं या ITI/NAC + स्काउट्स व गाइड्स योग्यता",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-14",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-13",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": 500,
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹500 (Gen/OBC/EWS, परीक्षा में बैठने पर ₹400 वापस); ₹250 (SC/ST/ESM/PwD/महिला/अल्पसंख्यक/EBC)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "लेवल-2: ₹19,900–₹63,200; लेवल-1: ₹18,000–₹56,900 (7th CPC)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "01/01/2027 को (आयु-सीमा सूचना में जाँचें)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://www.rrchubli.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.rrchubli.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/swr-recruitment-2026-group-c-group-d-3081214",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert, SarkariJob.in, SarkariNetwork व 9curry से cross-check — रोज़गार सूचना सं. SWR/P-HQ/Scouts & Guides/26-27 दिनांक 14 Nov 2026, आवेदन 14 Nov–13 Dec 2026 (rrchubli.in), सिर्फ़ President Scout/Guide/Rover/Ranger अवार्ड या Himalayan Wood Badge धारक पात्र। यह उत्तर रेलवे के स्काउट्स व गाइड्स कोटा (27 पद) से अलग भर्ती है — वह card पहले से site पर live है। कमी: आधिकारिक PDF का सीधा link व लिखित परीक्षा की तारीख़ नहीं मिली; आयु-सीमा की पुष्टि सूचना से बाकी है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T02:53:26+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-15T01:54:12+05:30",
+ "updatedAt": "2026-11-15T02:53:26+05:30",
  "version": 1
 }
