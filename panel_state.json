@@ -20029,9 +20029,252 @@
    "status": "ready",
    "title": "सुप्रीम कोर्ट जूनियर कोर्ट असिस्टेंट एडमिट कार्ड 2026 — परीक्षा 20 नवंबर, 250 पद",
    "verifyNote": "एडमिट कार्ड 14 Nov 2026 को जारी (आधिकारिक नोटिस दिनांक 14 Nov 2026) — FreeJobAlert, ExamNeed, AllJobAssam व Testbook से cross-check, परीक्षा 20 Nov 2026 (tentative) व 250 पद सब में एक जैसे; एग्ज़ाम सिटी स्लिप 9 Nov को जारी हुई थी। योग्यता/वेतन इसी भर्ती की पहले से तैयार exam-city-slip entry से लिए गए हैं।"
+  },
+  {
+   "id": "prep-iim-cat-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "IIM CAT एडमिट कार्ड 2026 जारी — परीक्षा 29 नवंबर, IIM इंदौर",
+   "fields": {
+    "title": {
+     "value": "IIM CAT एडमिट कार्ड 2026 जारी — परीक्षा 29 नवंबर, IIM इंदौर",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय प्रबंधन संस्थान (IIM) इंदौर",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "—",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-06",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": "—",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://iimcat.ac.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://iimcat.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.catmock.com/blog/cat-2026-admit-card/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "एडमिट कार्ड 6 Nov 2026 को जारी (4 Nov से टलकर), डाउनलोड 29 Nov 2026 तक, परीक्षा 29 Nov 2026 (रविवार) तीन स्लॉट में, ~170 शहर — CATMock, Prepp, CollegeDunia, JagranJosh से cross-check, सब में तारीख़ें एक जैसी। IIM इंदौर इस साल का संयोजक। कमी: एडमिट कार्ड login से ही मिलता है, सीधा PDF link नहीं; योग्यता/फ़ीस आवेदन-समय की जानकारी है, admit card वाली खबरों में नहीं दी — 'check' रखा है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T18:52:26+05:30"
+  },
+  {
+   "id": "prep-ipr-recruitment-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "इंस्टीट्यूट फॉर प्लाज़्मा रिसर्च (IPR) भर्ती 2026 — 58 प्रोजेक्ट पद (विज्ञापन 08/2026)",
+   "fields": {
+    "title": {
+     "value": "इंस्टीट्यूट फॉर प्लाज़्मा रिसर्च (IPR) भर्ती 2026 — 58 प्रोजेक्ट पद (विज्ञापन 08/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "इंस्टीट्यूट फॉर प्लाज़्मा रिसर्च (IPR), परमाणु ऊर्जा विभाग",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "58 पद (प्रोजेक्ट साइंटिफिक ऑफिसर 8 + प्रोजेक्ट साइंटिफिक असिस्टेंट 47 + प्रोजेक्ट एडमिनिस्ट्रेटिव स्टाफ 3)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech., डिप्लोमा, B.Sc. (भौतिकी) या स्नातक + कंप्यूटर कोर्स (पद के अनुसार)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "गुजरात (गांधीनगर)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-19",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": 200,
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "₹200 (सामान्य/OBC); SC/ST/महिला/PwBD/EWS/भूतपूर्व सैनिक — निःशुल्क",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹25,870 – ₹72,930 प्रति माह (समेकित, HRA सहित)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "PSO 40 वर्ष, PSA 35 वर्ष, PAS 30 वर्ष (16 Nov 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://erecruit.ipr.res.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.ipr.res.in/opportunities/current-opening-recruitment",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/ipr-recruitment-2026-apply-online-for-58-project-scientific-assistant-project-scientific-officer-and-more-posts-3074444",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "विज्ञापन 08/2026, 58 अस्थायी प्रोजेक्ट पद, गांधीनगर — FreeJobAlert, SarkariJobs, Karmasandhan, RojgarLive से cross-check। ध्यान दें: आख़िरी तारीख़ बढ़ी है — IPR की आधिकारिक साइट (ipr.res.in) पर Extension Notice है: 16 Nov 2026 से बढ़कर 23 Nov 2026 (शाम 5:30 तक); aggregator लेख अभी पुरानी 16 Nov तारीख़ दिखा रहे हैं, इसलिए कार्ड में बढ़ी हुई 23 Nov ही डाली है। कमी: नोटिफ़िकेशन PDF का सीधा link नहीं मिला — IPR की Current Openings page पर PDF उपलब्ध है; परीक्षा/इंटरव्यू की तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T18:52:26+05:30"
+  },
+  {
+   "id": "prep-up-police-si-final-selection-list-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UP पुलिस SI अंतिम चयन सूची 2026 जारी — 203 अभ्यर्थी चयनित (कोर्ट आदेश वाली सूची)",
+   "fields": {
+    "title": {
+     "value": "UP पुलिस SI अंतिम चयन सूची 2026 जारी — 203 अभ्यर्थी चयनित (कोर्ट आदेश वाली सूची)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "उत्तर प्रदेश पुलिस भर्ती एवं प्रोन्नति बोर्ड (UPPRPB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "203 अभ्यर्थी चयनित — सब-इंस्पेक्टर (नागरिक पुलिस) 200 + PAC प्लाटून कमांडर 3 (भर्ती 2020-21, कोर्ट आदेश)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातक",
+     "state": "check"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-14",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-14",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "—",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "—",
+     "state": "ok"
+    },
+    "age": {
+     "value": "—",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://uppbpb.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/up-police-si-final-selection-list-2026-3081256",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "14 Nov 2026 को जारी (FreeJobAlert पर प्रकाशन 17:02 IST) — इलाहाबाद हाई कोर्ट के 1 Sep 2026 के आदेश (Special Appeal 651/2026) पर 2020-21 भर्ती की पूरक अंतिम चयन सूची; 200 SI (नागरिक पुलिस) + 3 PAC प्लाटून कमांडर = 203 चयनित, नोटिस सं. PRPB-R-960/2026। यह जुलाई 2026 की 4,543 वाली मुख्य सूची से अलग है। कमी: रिजल्ट PDF का सीधा link नहीं मिला — uppbpb.gov.in पर देखें; जॉइनिंग की तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T18:52:26+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T17:53:33+05:30",
+ "updatedAt": "2026-11-14T18:52:26+05:30",
  "version": 1
 }
