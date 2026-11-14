@@ -15441,9 +15441,414 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T04:53+05:30"
+  },
+  {
+   "id": "prep-asrb-icar-technical-assistant-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ASRB ICAR टेक्निकल असिस्टेंट (T-3) व सीनियर टेक्निकल असिस्टेंट (T-4) भर्ती 2026 — 1,393 पद (केंद्रीय संयुक्त परीक्षा 2026)",
+   "fields": {
+    "title": {
+     "value": "ASRB ICAR टेक्निकल असिस्टेंट (T-3) व सीनियर टेक्निकल असिस्टेंट (T-4) भर्ती 2026 — 1,393 पद (केंद्रीय संयुक्त परीक्षा 2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "कृषि वैज्ञानिक भर्ती बोर्ड (ASRB), भारतीय कृषि अनुसंधान परिषद (ICAR)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1,393 पद (टेक्निकल असिस्टेंट T-3: 1,254 + सीनियर टेक्निकल असिस्टेंट T-4: 139)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "संबंधित विषय में स्नातक डिग्री या 3-वर्षीय इंजीनियरिंग डिप्लोमा (कृषि, पशु विज्ञान, मत्स्य, गृह विज्ञान, इंजीनियरिंग, लाइब्रेरी साइंस, IT/CS)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-17",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹300",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "UR ₹300 · OBC/EWS ₹150 · SC/ST/PwBD/महिला/ट्रांसजेंडर/भूतपूर्व सैनिक — कोई शुल्क नहीं; भुगतान सिर्फ़ Bharatkosh से",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "T-3: ₹29,200–₹92,300 (Level 5) · T-4: ₹35,400–₹1,12,400 (Level 6)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "21–30 वर्ष (17 दिसंबर 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.asrb.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.asrb.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/icar-technical-assistant-recruitment-2026-27/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "विज्ञापन F. No. 2(2)/2025-Exam, दिनांक 11 Nov 2026 — Testbook, Biotecnika, JobsLogin, SarkariResult.app, Karmasandhan, CareerAlert24 व MySarkariNaukri सभी एकमत: 1,393 पद (T-3 1,254 + T-4 139), आवेदन 18 Nov–17 Dec 2026, शुल्क व वेतन (Level 5/6) भी एकमत। चयन: प्रीलिम्स CBT (फरवरी 2027, tentative) + मेन्स CBT, कोई इंटरव्यू नहीं। कमी: official notification PDF का सीधा link नहीं मिला (asrb.gov.in पर देखें); परीक्षा की पक्की तारीख़ अभी नहीं आई।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T05:54:26+05:30"
+  },
+  {
+   "id": "prep-afms-ssc-medical-officer-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "AFMS मेडिकल ऑफ़िसर (SSC) भर्ती 2026 — 120 पद (पुरुष 90 + महिला 30)",
+   "fields": {
+    "title": {
+     "value": "AFMS मेडिकल ऑफ़िसर (SSC) भर्ती 2026 — 120 पद (पुरुष 90 + महिला 30)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "सशस्त्र सेना चिकित्सा सेवा (AFMS), रक्षा मंत्रालय",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "120 पद (पुरुष 90 + महिला 30)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS या मान्यता प्राप्त मेडिकल PG डिग्री + NEET PG (2025/2026); इंटर्नशिप 30 सितंबर 2026 तक पूरी",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-09",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹200",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "सभी अभ्यर्थी ₹200 (ऑनलाइन, non-refundable)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹61,300 मूल वेतन + ₹15,500 MSP (Level 10B, कैप्टन रैंक)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "MBBS: अधिकतम 30 वर्ष · PG: अधिकतम 35 वर्ष (31 दिसंबर 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://join.afms.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://join.afms.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/afms-medical-officer-short-service-commission-recruitment-2026-3077439",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert + NDTV + Times of India + PW.live एकमत — नोटिफ़िकेशन 7 Nov 2026, आवेदन 9–18 Nov 2026, 120 पद (90 पुरुष + 30 महिला), शुल्क ₹200, वेतन Level 10B। चयन: NEET PG स्कोर से शॉर्टलिस्ट + इंटरव्यू (2 दिसंबर 2026 से, Army Hospital R&R, दिल्ली कैंट) + मेडिकल जाँच; कोई लिखित परीक्षा नहीं। कमी: notification PDF का सीधा link नहीं मिला (join.afms.gov.in पर देखें)।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T05:54:26+05:30"
+  },
+  {
+   "id": "prep-gtbh-senior-resident-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "GTBH दिल्ली सीनियर रेज़िडेंट डॉक्टर भर्ती 2026 — 58 पद (एड-हॉक, 13 विभाग)",
+   "fields": {
+    "title": {
+     "value": "GTBH दिल्ली सीनियर रेज़िडेंट डॉक्टर भर्ती 2026 — 58 पद (एड-हॉक, 13 विभाग)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "गुरु तेग बहादुर अस्पताल (GTBH), दिल्ली सरकार",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "58 पद (13 विभागों में; संख्या बदल सकती है)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "PG डिग्री / DNB / PG डिप्लोमा या MBBS + 3 साल का अनुभव",
+     "state": "ok"
+    },
+    "state": {
+     "value": "दिल्ली",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "check"
+    },
+    "lastDate": {
+     "value": "2026-11-19",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹67,700/माह + NPA (Pay Level 11)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 45 वर्ष (इंटरव्यू की तारीख़ को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://forms.gle/oPorMv3J9eDWaGUj7",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://gtbh.delhi.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/gtbh-delhi-senior-resident-doctors-recruitment-2026-apply-online-for-58-posts-3080808",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert + FreshersLive + 9Curry एकमत — विज्ञापन F.No.1-5(13)/E-I/SR/GTBH/2026, 58 पद, एड-हॉक (44 दिन, अधिकतम 3 साल तक बढ़ सकती है), आवेदन Google form से, form 19 Nov 2026 सुबह 11:30 बजे बंद, इंटरव्यू 20–21 Nov 2026। ध्यान: इसी विज्ञापन संख्या से अगस्त व सितंबर में भी 58/89 पद के राउंड हुए थे — यह नया राउंड है, अंतिम तारीख़ 19 Nov 2026 है। कमी: notification PDF का सीधा link नहीं मिला; शुल्क की जानकारी नहीं मिली; start date की पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T05:54:26+05:30"
+  },
+  {
+   "id": "prep-assam-police-asi-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "असम पुलिस ASI (UB) विभागीय परीक्षा एडमिट कार्ड 2026 जारी — 13 नवंबर से डाउनलोड",
+   "fields": {
+    "title": {
+     "value": "असम पुलिस ASI (UB) विभागीय परीक्षा एडमिट कार्ड 2026 जारी — 13 नवंबर से डाउनलोड",
+     "state": "ok"
+    },
+    "org": {
+     "value": "राज्य स्तरीय पुलिस भर्ती बोर्ड (SLPRB), असम",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": null,
+     "state": "missing"
+    },
+    "qual": {
+     "value": "सेवारत पुलिस कर्मी (कांस्टेबल / लांस नायक / नायक / हेड कांस्टेबल) — विभागीय पदोन्नति परीक्षा",
+     "state": "ok"
+    },
+    "state": {
+     "value": "असम",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹0",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "एडमिट कार्ड डाउनलोड के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://slprbassam.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://slprbassam.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/assam-police-asi-admit-card-2026-3080955",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert + JagranJosh + Telegraph India + JobCareerUpdates एकमत — SLPRB नोटिस No. SLPRB/Conduct of Written Test/464/Vol-III/180, दिनांक 12 Nov 2026; एडमिट कार्ड 13 Nov 2026 सुबह 11 बजे से slprbassam.in व sebaonline.org पर (रोल नंबर + जन्म वर्ष से लॉगिन)। यह सेवारत पुलिस कर्मियों की विभागीय पदोन्नति परीक्षा (ASI, Unarmed Branch) है, खुली भर्ती नहीं। कमी: लिखित परीक्षा की तारीख़ नोटिस में नहीं है — सिर्फ़ एडमिट कार्ड पर छपी है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T05:54:26+05:30"
+  },
+  {
+   "id": "prep-ktet-hall-ticket-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "KTET हॉल टिकट 2026 जारी — परीक्षा 14–15 नवंबर (केरल शिक्षक पात्रता परीक्षा)",
+   "fields": {
+    "title": {
+     "value": "KTET हॉल टिकट 2026 जारी — परीक्षा 14–15 नवंबर (केरल शिक्षक पात्रता परीक्षा)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "केरल परीक्षा भवन (Kerala Pareeksha Bhavan)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": null,
+     "state": "missing"
+    },
+    "qual": {
+     "value": null,
+     "state": "missing"
+    },
+    "state": {
+     "value": "केरल",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-15",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-14",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "₹0",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "हॉल टिकट डाउनलोड के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://ktet.kerala.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://ktet.kerala.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/ktet-hall-ticket-2026-3077797",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert + Careers360 + JagranJosh + Times of India + Telegraph India एकमत — हॉल टिकट 4 Nov 2026 को जारी, परीक्षा 14–15 Nov 2026 (श्रेणी I व II 14 Nov, III व IV 15 Nov), ktet.kerala.gov.in से डाउनलोड (Application Number + ID + श्रेणी)। परीक्षा आज से शुरू हो रही है — श्रेणी III/IV की परीक्षा कल (15 Nov) है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T05:54:26+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T04:58+05:30",
+ "updatedAt": "2026-11-14T05:54:26+05:30",
  "version": 1
 }
