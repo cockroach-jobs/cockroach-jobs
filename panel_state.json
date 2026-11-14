@@ -21779,9 +21779,333 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T23:51+05:30"
+  },
+  {
+   "id": "prep-powergrid-trainee-engineer-electronics-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "POWERGRID ट्रेनी इंजीनियर (इलेक्ट्रॉनिक्स) भर्ती 2026 — 33 पद, GATE 2026 से (PowerTel)",
+   "fields": {
+    "title": {
+     "value": "POWERGRID ट्रेनी इंजीनियर (इलेक्ट्रॉनिक्स) भर्ती 2026 — 33 पद, GATE 2026 से (PowerTel)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पावर ग्रिड कॉरपोरेशन ऑफ़ इंडिया लिमिटेड (POWERGRID)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "33 पद (ट्रेनी इंजीनियर — इलेक्ट्रॉनिक्स; विज्ञापन CC/04/2026, Post ID 569)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech/B.Sc (इंजीनियरिंग) — इलेक्ट्रॉनिक्स, न्यूनतम 60% + GATE 2026 (EC पेपर) में वैध स्कोर",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-27",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹500",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹30,000 – 1,20,000/माह (E0 स्तर) + भत्ते",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18 – 28 वर्ष (27 Nov 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.powergrid.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/powergrid-trainee-engineer-electronics-recruitment-2026-3080902",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert + Times of India + Dhan Times + IndianGovtJobs + Daily Kiran से cross-check — सभी में एक जैसा: 33 पद, विज्ञापन CC/04/2026 (13 Nov 2026), आवेदन 13–27 Nov 2026, GATE 2026 (EC) अनिवार्य, PowerTel (POWERGRID की पूर्ण स्वामित्व वाली सहायक कंपनी) के लिए। चयन GATE स्कोर + व्यवहार मूल्यांकन + ग्रुप डिस्कशन + इंटरव्यू + मेडिकल से। कमी: आधिकारिक PDF का सीधा link व ऑनलाइन आवेदन का सीधा link verify नहीं हुआ (powergrid.in के Careers section से लेना होगा); शुल्क-छूट की पुष्टि बाकी।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T00:57+05:30"
+  },
+  {
+   "id": "prep-rbi-office-attendant-score-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "RBI ऑफ़िस अटेंडेंट स्कोर कार्ड व कट-ऑफ़ 2026 जारी — 572 पद (पैनल वर्ष 2025)",
+   "fields": {
+    "title": {
+     "value": "RBI ऑफ़िस अटेंडेंट स्कोर कार्ड व कट-ऑफ़ 2026 जारी — 572 पद (पैनल वर्ष 2025)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय रिज़र्व बैंक (RBI)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "572 पद (ऑफ़िस अटेंडेंट, पैनल वर्ष 2025)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": null,
+     "state": "missing"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-04",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-02-28",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://opportunities.rbi.org.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.rbi.org.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/rbi-office-attendant-scorecard-2026-out/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Testbook, jobcareerupdates.in, QuickSarkari, sarkarijob.in — सभी में एक जैसा: स्कोर कार्ड व कट-ऑफ़ 4 Nov 2026 को जारी; ऑनलाइन परीक्षा 28 Feb व 1 Mar 2026; shortlist परिणाम 22 June 2026 को आ चुका था; स्कोर कार्ड डाउनलोड 31 Mar 2027 तक। कट-ऑफ़ 120 अंकों में से (General सबसे ज़्यादा चंडीगढ़ 112.50)। कमी: कट-ऑफ़ PDF का exact official link verify नहीं हुआ (फ़ाइल नाम CutOffTable04112026.pdf बताया गया है); स्कोर कार्ड login से ही मिलता है, public PDF नहीं; अंतिम परिणाम अभी लंबित है — अगला चरण भाषा दक्षता परीक्षा (LPT), तारीख़ अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T00:57+05:30"
+  },
+  {
+   "id": "prep-upsssc-platoon-commander-city-slip-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "UPSSSC प्लाटून कमांडर / ब्लॉक ऑर्गनाइज़र मुख्य परीक्षा सिटी स्लिप 2026 — परीक्षा 22 Nov",
+   "fields": {
+    "title": {
+     "value": "UPSSSC प्लाटून कमांडर / ब्लॉक ऑर्गनाइज़र मुख्य परीक्षा सिटी स्लिप 2026 — परीक्षा 22 Nov",
+     "state": "ok"
+    },
+    "org": {
+     "value": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग (UPSSSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "295 पद (प्लाटून कमांडर + ब्लॉक ऑर्गनाइज़र, दोनों मिलाकर)",
+     "state": "check"
+    },
+    "qual": {
+     "value": "UP PET 2025 स्कोर ज़रूरी (योग्यता का पूरा ब्योरा नहीं मिला)",
+     "state": "check"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-22",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-22",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://upsssc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/upsssc-platoon-commander-exam-city-slip-2026-out/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Testbook, FreeJobAlert, PlacementStore — सिटी इंटिमेशन स्लिप 12 Nov 2026 को जारी (विज्ञापन 10-Exam/2026, नोटिस 259/11); मुख्य परीक्षा 22 Nov 2026 सुबह 10–12 बजे। यह एडमिट कार्ड नहीं है — सिर्फ़ परीक्षा ज़िला बताती है; एडमिट कार्ड अलग से आएगा (एक स्रोत में लगभग 18 Nov 2026, tentative — पक्का नहीं)। कमी: पदों की संख्या में स्रोतों में टकराव — testbook सिर्फ़ प्लाटून कमांडर के 52 पद बताता है, sarkariresult.app/sarkarisahayta दोनों पद मिलाकर 295; mains fee राशि, पूरी योग्यता व आयु-सीमा नहीं मिली।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T00:57+05:30"
+  },
+  {
+   "id": "prep-psssb-jail-warder-pmt-pet-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "PSSSB जेल वार्डर, मैट्रन व असिस्टेंट सुपरिंटेंडेंट PMT/PET 2026 — बचे पदों का शारीरिक परीक्षण (मैट्रन 16 Nov)",
+   "fields": {
+    "title": {
+     "value": "PSSSB जेल वार्डर, मैट्रन व असिस्टेंट सुपरिंटेंडेंट PMT/PET 2026 — बचे पदों का शारीरिक परीक्षण (मैट्रन 16 Nov)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पंजाब अधीनस्थ सेवा चयन बोर्ड (PSSSB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "500 पद (असिस्टेंट सुपरिंटेंडेंट 29 + वार्डर 451 + मैट्रन 20; विज्ञापन 07/2025)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं पास",
+     "state": "ok"
+    },
+    "state": {
+     "value": "पंजाब",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://sssb.punjab.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/psssb-jail-warder-physical-test-date-2026-out/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Testbook, FreeJobAlert, SarkariJob, ResultDekho — नया public notice 7 Nov 2026: बचे पदों के लिए 229 उम्मीदवार shortlist (असिस्टेंट सुपरिंटेंडेंट 39, वार्डर 120, मैट्रन 70), स्थल पोलो ग्राउंड, पटियाला। ध्यान दें: असिस्टेंट सुपरिंटेंडेंट व वार्डर का PMT/PET 11 Nov 2026 को हो चुका — इस entry में सिर्फ़ मैट्रन की 16 Nov 2026 की तारीख़ आगे की है (10 Nov 2026 के corrigendum से बदली)। पहला PMT/PET अप्रैल 2026 में हो चुका था। कमी: Nov round का admit card download link confirm नहीं हुआ (notice + shortlist ही स्रोत है); मैट्रन की 16 Nov तारीख़ FreeJobAlert में सिर्फ़ 11 Nov दिखी — corrigendum वाली बात testbook + resultdekho दोनों में है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T00:57+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T23:51+05:30",
+ "updatedAt": "2026-11-15T00:57+05:30",
  "version": 1
 }
