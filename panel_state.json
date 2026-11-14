@@ -18174,9 +18174,10 @@
    "jobId": null,
    "kind": "new_job",
    "sourceSubmissionId": null,
-   "status": "ready",
+   "status": "live",
    "title": "मणिपुर पुलिस कांस्टेबल, SI, ASI व अन्य भर्ती 2026 — 2,698 पद (ऑफ़लाइन फॉर्म)",
-   "verifyNote": "मणिपुर पुलिस मुख्यालय की अधिसूचना 2 नवंबर 2026 (सं. E/31/21/2021-PHQ) — 2,698 पद, 19 श्रेणियाँ; GovtJobsAlert, Testbook, TheJobsMe, 9Curry व JobCareerUpdates में पद-संख्या व तारीख़ एक जैसी। फॉर्म ऑफ़लाइन है — ज़िला SP कार्यालय से लेकर ज़िला Employment Exchange से जमा करना है। अंतिम तिथि में टकराव है: एक पोर्टल 30 नवंबर बता रहा है, पर अधिसूचना पढ़ने वाले स्रोतों के अनुसार उम्मीदवार की कोई अंतिम तिथि नहीं छपी — 20 दिसंबर सिर्फ़ Employment Exchange की सूची PHQ तक पहुँचने की तारीख़ है; इसलिए lastDate check रखा है। योग्यता, आयु-सीमा व शारीरिक मानक अधिसूचना में नहीं छपे — SP कार्यालय से पुष्टि बाकी। **तारीख़ पक्की (14 Nov रात):** मणिपुर पुलिस मुख्यालय का आधिकारिक Corrigendum (10 Nov 2026, DGP मुकेश सिंह) — Employment Exchange में फॉर्म जमा करने की अंतिम तिथि **10 Dec 2026** तक बढ़ी; Exchange की सूची PHQ तक 31 Dec 2026 तक पहुँचेगी; 20 Dec पुरानी SP→PHQ सूची-तारीख़ थी, आवेदक की नहीं; 30 Nov मूल तारीख़ थी। Corrigendum PDF आधिकारिक site से पढ़कर पुष्ट।"
+   "verifyNote": "मणिपुर पुलिस मुख्यालय की अधिसूचना 2 नवंबर 2026 (सं. E/31/21/2021-PHQ) — 2,698 पद, 19 श्रेणियाँ; GovtJobsAlert, Testbook, TheJobsMe, 9Curry व JobCareerUpdates में पद-संख्या व तारीख़ एक जैसी। फॉर्म ऑफ़लाइन है — ज़िला SP कार्यालय से लेकर ज़िला Employment Exchange से जमा करना है। अंतिम तिथि में टकराव है: एक पोर्टल 30 नवंबर बता रहा है, पर अधिसूचना पढ़ने वाले स्रोतों के अनुसार उम्मीदवार की कोई अंतिम तिथि नहीं छपी — 20 दिसंबर सिर्फ़ Employment Exchange की सूची PHQ तक पहुँचने की तारीख़ है; इसलिए lastDate check रखा है। योग्यता, आयु-सीमा व शारीरिक मानक अधिसूचना में नहीं छपे — SP कार्यालय से पुष्टि बाकी। **तारीख़ पक्की (14 Nov रात):** मणिपुर पुलिस मुख्यालय का आधिकारिक Corrigendum (10 Nov 2026, DGP मुकेश सिंह) — Employment Exchange में फॉर्म जमा करने की अंतिम तिथि **10 Dec 2026** तक बढ़ी; Exchange की सूची PHQ तक 31 Dec 2026 तक पहुँचेगी; 20 Dec पुरानी SP→PHQ सूची-तारीख़ थी, आवेदक की नहीं; 30 Nov मूल तारीख़ थी। Corrigendum PDF आधिकारिक site से पढ़कर पुष्ट।",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "createdAt": "2026-11-14T12:54:22+05:30",
@@ -20468,10 +20469,11 @@
     }
    },
    "verifyNote": "8 स्रोतों से cross-check (jobcareerupdates, govtjobsalert, FreeJobAlert, sarkarinaukrikar, rojgarpulse, sahisarkarijobs, marugujarat, preptm): रोज़गार सूचना सं. RRC/NR 01/2026/S&G, 4 Nov 2026; स्काउट्स व गाइड्स कोटा 2026-27 के तहत 27 पद (ग्रुप C लेवल-2: 5, ग्रुप D लेवल-1: 22), कोई आरक्षण नहीं; आवेदन 06/11–06/12/2026, लिखित परीक्षा जनवरी 2027 (संभावित) व दस्तावेज़ जाँच सिर्फ़ दिल्ली में; फ़ीस ₹500/₹250, परीक्षा में बैठने पर वापस। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला (pdfUrl missing — एक स्रोत ने बताया कि rrcnr.org का PDF सर्वर timeout हुआ); लेवल-2 की आयु-सीमा अलग से पुष्टि बाकी (age 'check'); परीक्षा की तारीख़ अभी घोषित नहीं (examDate missing)।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T20:07:44+05:30"
+   "createdAt": "2026-11-14T20:07:44+05:30",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "id": "prep-wbpdcl-technician-apprentice-2026",
@@ -20549,10 +20551,11 @@
     }
    },
    "verifyNote": "2 स्रोतों से cross-check (FreeJobAlert detail page, govtjobsai): अधिसूचना WBPDCL/Apprentice/2026/01 — 60 टेक्नीशियन अप्रेंटिस (ग्रेजुएट 30: मैकेनिकल 12, इलेक्ट्रिकल 10, इंस्ट्रूमेंटेशन/इलेक्ट्रॉनिक्स 5, माइनिंग 3; डिप्लोमा 30: मैकेनिकल 13, इलेक्ट्रिकल 10, इंस्ट्रूमेंटेशन/इलेक्ट्रॉनिक्स 7); 1 वर्ष का प्रशिक्षण (Apprentices Act 1961), NATS रजिस्ट्रेशन ज़रूरी; आवेदन 20 Nov–10 Dec 2026, सिर्फ़ ऑनलाइन। कमी: छोटी सूचना में आयु-सीमा, स्टाइपेंड, फ़ीस व चयन-प्रक्रिया नहीं दी — विस्तृत विज्ञापन wbpdcl.co.in पर देखें (age/salary/fee missing); यह नियमित नौकरी नहीं, अप्रेंटिसशिप प्रशिक्षण है।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T20:07:44+05:30"
+   "createdAt": "2026-11-14T20:07:44+05:30",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "id": "prep-tnpsc-departmental-exam-result-2026",
@@ -20630,10 +20633,11 @@
     }
    },
    "verifyNote": "5 स्रोतों से cross-check (jobreadyportal, certifica, fresherslive, trendplus24, freejobalert): TNPSC ने विभागीय परीक्षा — मई 2026 सत्र का रिजल्ट घोषित किया; रिजल्ट पेज आख़िरी बार 6 Nov 2026 को अपडेट हुआ, टेस्ट-वार PDF सूचियाँ (रिजेक्ट सूची — टेस्ट कोड 201 व 205; वाइवा-वोसी सूची — टेस्ट कोड 019) apply.tnpscexams.in पर; यह इन-सर्विस तमिलनाडु सरकारी कर्मचारियों की परीक्षा है (प्रोबेशन/पदोन्नति के लिए), नई भर्ती नहीं — इसलिए कोई पद-संख्या/आवेदन-खिड़की नहीं। कमी: पहली प्रकाशन तारीख़ स्रोतों में अलग-अलग (8 Oct/23 Oct/6 Nov) — 6 Nov पेज की आख़िरी अपडेट तारीख़ है; रिजल्ट PDF का सीधा link नहीं मिला।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T20:07:44+05:30"
+   "createdAt": "2026-11-14T20:07:44+05:30",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "id": "prep-rrb-je-vacancy-increase-2026",
@@ -20711,10 +20715,11 @@
     }
    },
    "verifyNote": "6 स्रोतों से cross-check (GovtJobsAlert, PW.live, Testbook ×2, sarkarinetwork, gujeduhouse): RRB ने CEN 04/2026 के लिए Corrigendum No. 2 (4 Nov 2026) जारी किया — JE (P.Way, कैटेगरी 17) व JE (S&T/Signal, कैटेगरी 35) के पद बढ़े, कुल notified vacancies 4,029 से बढ़कर 4,487 हुईं (+458)। Live card पर अभी 4,029 लिखा है — सिर्फ़ posts का आँकड़ा बदलना है, बाकी सब (तारीख़ें, फ़ीस, आपत्ति की अंतिम तिथि 17 Nov) वही है। Queue करोगे तभी site पर 4,487 दिखेगा।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T20:07:44+05:30"
+   "createdAt": "2026-11-14T20:07:44+05:30",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "createdAt": "2026-11-14T20:58:23+05:30",
@@ -20793,9 +20798,10 @@
    "jobId": null,
    "kind": "new_job",
    "sourceSubmissionId": null,
-   "status": "ready",
+   "status": "live",
    "title": "UPSSSC मोहरिर मुख्य परीक्षा 2026 — परीक्षा 29 नवंबर, 92 पद (विज्ञापन 07-Exam/2022)",
-   "verifyNote": "4 स्रोतों से cross-check (sarkariresult.app, governmentjobonline.in, sonukachhap.in, sarkarisahayta.com): UPSSSC ने 12 नवंबर 2026 को मुख्य परीक्षा शुल्क जमा का नोटिस जारी किया; मोहरिर मुख्य परीक्षा 29 नवंबर 2026, दोपहर 3–5 बजे (विज्ञापन 07-Exam/2022, 92 पद); पात्रता परिणाम 12 अक्टूबर 2026 को आया था; एडमिट कार्ड शुल्क जमा के बाद, परीक्षा से पहले मिलेगा (गन्ना पर्यवेक्षक की मुख्य परीक्षा भी उसी दिन सुबह 10–12 बजे है)। कमी: मुख्य परीक्षा शुल्क की राशि नहीं मिली (feeGen missing); एडमिट कार्ड की तय तारीख़ नहीं है (startDate missing); वेतन व आयु-सीमा इस चरण की सूचना में नहीं (पुष्टि बाकी)।"
+   "verifyNote": "4 स्रोतों से cross-check (sarkariresult.app, governmentjobonline.in, sonukachhap.in, sarkarisahayta.com): UPSSSC ने 12 नवंबर 2026 को मुख्य परीक्षा शुल्क जमा का नोटिस जारी किया; मोहरिर मुख्य परीक्षा 29 नवंबर 2026, दोपहर 3–5 बजे (विज्ञापन 07-Exam/2022, 92 पद); पात्रता परिणाम 12 अक्टूबर 2026 को आया था; एडमिट कार्ड शुल्क जमा के बाद, परीक्षा से पहले मिलेगा (गन्ना पर्यवेक्षक की मुख्य परीक्षा भी उसी दिन सुबह 10–12 बजे है)। कमी: मुख्य परीक्षा शुल्क की राशि नहीं मिली (feeGen missing); एडमिट कार्ड की तय तारीख़ नहीं है (startDate missing); वेतन व आयु-सीमा इस चरण की सूचना में नहीं (पुष्टि बाकी)।",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "createdAt": "2026-11-14T20:58:23+05:30",
@@ -20874,9 +20880,10 @@
    "jobId": null,
    "kind": "new_job",
    "sourceSubmissionId": null,
-   "status": "ready",
+   "status": "live",
    "title": "बुराड़ी अस्पताल सीनियर रेज़िडेंट (बाल रोग) वॉक-इन 2026 — 5 पद, हर शुक्रवार 20 नवंबर–11 दिसंबर",
-   "verifyNote": "3 स्रोतों से cross-check (FreeJobAlert, sarkari-naukri.in, mysarkarinaukri.com): बुराड़ी अस्पताल का विज्ञापन BH/Resident/Advt-16/SR/11/2026 — बाल रोग में 5 सीनियर रेज़िडेंट (एड-हॉक); वॉक-इन इंटरव्यू हर शुक्रवार 20 नवंबर से 11 दिसंबर 2026, सुबह 9–11 बजे (11 बजे तक प्रवेश), मेडिकल डायरेक्टर कार्यालय, बुराड़ी अस्पताल, कौशिक एन्क्लेव, दिल्ली-110084; पहले Google Form भरना होगा; चयन वॉक-इन इंटरव्यू की मेरिट से। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला (pdfUrl missing); वेतन की राशि विज्ञापन में नहीं छपी — Pay Level-11/₹67,700+NPA दिल्ली सरकार की SR भर्ती के सामान्य वेतनमान से है (salary 'check'); कोई आवेदन शुल्क विज्ञापन में नहीं लिखा (fee missing)।"
+   "verifyNote": "3 स्रोतों से cross-check (FreeJobAlert, sarkari-naukri.in, mysarkarinaukri.com): बुराड़ी अस्पताल का विज्ञापन BH/Resident/Advt-16/SR/11/2026 — बाल रोग में 5 सीनियर रेज़िडेंट (एड-हॉक); वॉक-इन इंटरव्यू हर शुक्रवार 20 नवंबर से 11 दिसंबर 2026, सुबह 9–11 बजे (11 बजे तक प्रवेश), मेडिकल डायरेक्टर कार्यालय, बुराड़ी अस्पताल, कौशिक एन्क्लेव, दिल्ली-110084; पहले Google Form भरना होगा; चयन वॉक-इन इंटरव्यू की मेरिट से। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला (pdfUrl missing); वेतन की राशि विज्ञापन में नहीं छपी — Pay Level-11/₹67,700+NPA दिल्ली सरकार की SR भर्ती के सामान्य वेतनमान से है (salary 'check'); कोई आवेदन शुल्क विज्ञापन में नहीं लिखा (fee missing)।",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "createdAt": "2026-11-14T20:58:23+05:30",
@@ -20955,9 +20962,10 @@
    "jobId": null,
    "kind": "new_job",
    "sourceSubmissionId": null,
-   "status": "ready",
+   "status": "live",
    "title": "NICL AO फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड 2025-26 जारी — 266 पद (2024-25 भर्ती)",
-   "verifyNote": "2 स्रोतों से cross-check (JagranJosh, jobsarkariupdate.in): NICL ने 13 नवंबर 2026 को AO (Scale-I) 2024-25 भर्ती का फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड जारी किया; मेन्स व इंटरव्यू में बैठे सभी अभ्यर्थी (चयनित या नहीं) nationalinsurance.nic.co.in पर IBPS स्कोर-डिस्प्ले लॉगिन से अपने अंक देख सकते हैं (रजिस्ट्रेशन/रोल नंबर + पासवर्ड/DOB); अंतिम परिणाम 5 जनवरी 2026 को घोषित हो चुका था (263 चयनित), यह स्कोर कार्ड उसी के बाद का अंक-पत्र है — कोई नया चरण नहीं। ध्यान: यह 2026-27 की नई AO भर्ती (प्रीलिम्स 17 नवंबर) का स्कोर कार्ड नहीं है, 2024-25 चक्र का है। कमी: स्कोर कार्ड का सीधा PDF link नहीं (लॉगिन से डाउनलोड — pdfUrl missing); मेन्स/इंटरव्यू की सटीक तारीख़ें इस खबर में नहीं (examDate missing)।"
+   "verifyNote": "2 स्रोतों से cross-check (JagranJosh, jobsarkariupdate.in): NICL ने 13 नवंबर 2026 को AO (Scale-I) 2024-25 भर्ती का फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड जारी किया; मेन्स व इंटरव्यू में बैठे सभी अभ्यर्थी (चयनित या नहीं) nationalinsurance.nic.co.in पर IBPS स्कोर-डिस्प्ले लॉगिन से अपने अंक देख सकते हैं (रजिस्ट्रेशन/रोल नंबर + पासवर्ड/DOB); अंतिम परिणाम 5 जनवरी 2026 को घोषित हो चुका था (263 चयनित), यह स्कोर कार्ड उसी के बाद का अंक-पत्र है — कोई नया चरण नहीं। ध्यान: यह 2026-27 की नई AO भर्ती (प्रीलिम्स 17 नवंबर) का स्कोर कार्ड नहीं है, 2024-25 चक्र का है। कमी: स्कोर कार्ड का सीधा PDF link नहीं (लॉगिन से डाउनलोड — pdfUrl missing); मेन्स/इंटरव्यू की सटीक तारीख़ें इस खबर में नहीं (examDate missing)।",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "id": "prep-mpesb-subedar-steno-asi-admit-card-2026",
@@ -21035,10 +21043,11 @@
     }
    },
    "verifyNote": "Cross-check: sarkariresult.com (14 Nov 2026, 06:58 PM update), sarkarig.com, mpvacancy.in, rojgarresult.com व YouTube वीडियो (MPESB ASI & Subedar Admit Card 2026 OUT, 655 posts) — एडमिट कार्ड 14 नवंबर 2026 को जारी; परीक्षा 3 नवंबर 2026 से शुरू (कई शिफ्टों में चल रही परीक्षा की बाद की शिफ्टों के लिए एडमिट कार्ड जारी हुआ); फॉर्म 24 सितंबर–8 अक्टूबर 2026 भरे गए थे। कमी: official notification PDF का सीधा link नहीं मिला (pdfUrl missing) — esb.mp.gov.in पर ही मिलेगा; एडमिट कार्ड डाउनलोड के लिए आवेदन संख्या व जन्मतिथि चाहिए।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T21:53:13+05:30"
+   "createdAt": "2026-11-14T21:53:13+05:30",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "id": "prep-gspcb-jee-jeo-2026",
@@ -21116,10 +21125,11 @@
     }
    },
    "verifyNote": "Cross-check: freejobalert.com, placementstore.com, indiangovtjobs.co.in — GSPCB विज्ञापन सं. 02/2026, नोटिस 13 नवंबर 2026; ऑनलाइन आवेदन 18 नवंबर–2 दिसंबर 2026 (cbes.goa.gov.in); दोनों पद Group 'B', Non-Gazetted, नियमित; चयन 75 अंक की MCQ लिखित परीक्षा (10 अंक कोंकणी) + दस्तावेज़ सत्यापन से; गोवा का 15 वर्षीय निवास प्रमाण-पत्र व कोंकणी का ज्ञान ज़रूरी। यह site पर live 8-पद वाली GSPCB भर्ती (विज्ञापन 01/2026) से अलग है। कमी: official notification PDF का सीधा link नहीं मिला (pdfUrl missing); परीक्षा तारीख़ व फीस नोटिफ़िकेशन में नहीं है।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T21:53:13+05:30"
+   "createdAt": "2026-11-14T21:53:13+05:30",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   },
   {
    "id": "prep-ilbs-assistant-professor-consultant-2026",
@@ -21197,13 +21207,14 @@
     }
    },
    "verifyNote": "Cross-check: indiangovtjobs.co.in, 9curry.com, mysarkarinaukri.com — ILBS (दिल्ली) ने 13 नवंबर 2026 को 10 कॉन्ट्रैक्ट पदों (1 साल) के लिए नोटिस जारी किया: असिस्टेंट प्रोफ़ेसर (रेडियोलॉजी, न्यूक्लियर मेडिसिन), कंसल्टेंट (एनेस्थीसिया, न्यूक्लियर मेडिसिन, रेडियोलॉजी, ट्रांसफ़्यूज़न मेडिसिन, डेटा साइंटिस्ट–AI Health, GEN AI डेवलपर); आवेदन ईमेल से, अंतिम तिथि 23 नवंबर 2026। कमी: योग्यता, आयु-सीमा व फीस नोटिस में नहीं छपी (qual check, age/fee missing) — ILBS वेबसाइट के Recruitment Rules से पुष्टि बाकी; official notification PDF का सीधा link नहीं मिला।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T21:53:13+05:30"
+   "createdAt": "2026-11-14T21:53:13+05:30",
+   "listedAt": "2026-11-14T22:20:47+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T21:53:13+05:30",
+ "updatedAt": "2026-11-14T22:20:47+05:30",
  "version": 1
 }
