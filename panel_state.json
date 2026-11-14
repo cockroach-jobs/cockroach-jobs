@@ -16616,9 +16616,414 @@
    "status": "ready",
    "title": "HPPSC कृषि विकास अधिकारी (ADO) भर्ती 2026 — 23 पद (सिर्फ़ भूतपूर्व सैनिकों के आश्रित), अंतिम तारीख़ बढ़कर 30 नवंबर",
    "verifyNote": "HPPSC विज्ञापन 63/9-2026 (25 सितंबर 2026) — careeralert24, govtjobsalert, freejobalert व himexam से cross-check; 23 ADO (Group-A, जॉब ट्रेनी) पद, सभी भूतपूर्व सैनिकों के आश्रितों के लिए; अंतिम तारीख़ 22 अक्टूबर से बढ़कर 30 नवंबर 2026 (नोटिस 3-94/2026-PSC(R-I), 22 अक्टूबर; वजह — कम आवेदन)। योग्यता B.Sc. (कृषि) + M.Sc. (कृषि) द्वितीय श्रेणी दोनों चाहिए; उम्र 18–45 (1 जनवरी 2026 को); फीस ₹600। Notification PDF का सीधा link नहीं मिला — hppsc.hp.gov.in से लेना बाकी।"
+  },
+  {
+   "createdAt": "2026-11-14T08:52:50+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "—"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "answer_key"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "स्कोरकार्ड / फाइनल आंसर की देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-17"
+    },
+    "org": {
+     "state": "ok",
+     "value": "कर्मचारी चयन आयोग (SSC)"
+    },
+    "pdfUrl": {
+     "state": "ok",
+     "value": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_03112026.pdf"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "25,487 पद (कांस्टेबल GD / राइफलमैन GD — CBE से 1,97,408 PET/PST के लिए चयनित)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "10वीं"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "—"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://ssc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.practicemock.com/blog/ssc-gd-final-answer-key-2026/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-03"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "SSC GD कांस्टेबल फाइनल आंसर की व स्कोर कार्ड 2026 जारी — 17 नवंबर तक डाउनलोड करें"
+    }
+   },
+   "id": "prep-ssc-gd-score-card-final-answer-key-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "SSC GD कांस्टेबल फाइनल आंसर की व स्कोर कार्ड 2026 जारी — 17 नवंबर तक डाउनलोड करें",
+   "verifyNote": "SSC ने 3 नवंबर 2026 को GD कांस्टेबल CBE की फाइनल आंसर की + प्रश्नपत्र/रिस्पॉन्स शीट + अभ्यर्थियों के अंक (स्कोरकार्ड) जारी किए — सुविधा 3 नवंबर शाम 5 बजे से 17 नवंबर 2026 शाम 5 बजे तक; prepp, practicemock, careerindia व SSC के 3 नवंबर के write-up से cross-check। CBE रिजल्ट 12 अक्टूबर को आया था, 23 अक्टूबर को संशोधित मेरिट सूची — वह कार्ड site पर पहले से live है, यह कार्ड सिर्फ़ फाइनल आंसर की/स्कोरकार्ड के लिए है। फाइनल आंसर की का लॉगिन पोर्टल sscexams.cbexams.com है — card में SSC की मुख्य site दी है।"
+  },
+  {
+   "createdAt": "2026-11-14T08:52:50+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "—"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-09-13"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-06"
+    },
+    "org": {
+     "state": "ok",
+     "value": "कोटा विश्वविद्यालय (University of Kota — UOK)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "9,191 अभ्यर्थी उत्तीर्ण (कुल 1,39,383 परीक्षार्थी; 6.59%)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "स्नातकोत्तर (PG)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "—"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.uok.ac.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/rajasthan-set-result-2026-3079301"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-06"
+    },
+    "state": {
+     "state": "ok",
+     "value": "राजस्थान"
+    },
+    "title": {
+     "state": "ok",
+     "value": "राजस्थान SET रिजल्ट 2026 घोषित — 9,191 अभ्यर्थी उत्तीर्ण (परीक्षा 13 सितंबर)"
+    }
+   },
+   "id": "prep-rajasthan-set-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "राजस्थान SET रिजल्ट 2026 घोषित — 9,191 अभ्यर्थी उत्तीर्ण (परीक्षा 13 सितंबर)",
+   "verifyNote": "कोटा विश्वविद्यालय ने 6 नवंबर 2026 को राजस्थान SET-2026 (Notification 01/2026) का रिजल्ट + विषय-वार कट-ऑफ + फाइनल आंसर की जारी की — परीक्षा 13 सितंबर 2026; 1,39,383 परीक्षार्थी, 9,191 उत्तीर्ण (6.59%); freejobalert, sarkariexam, testbook व pw.live से cross-check। स्कोरकार्ड व e-certificate SSO ID लॉगिन से रिजल्ट के ~2 हफ़्ते बाद (~20 नवंबर) मिलेंगे। रिजल्ट PDF का सीधा link नहीं मिला — uok.ac.in पर जाकर जोड़ना बाकी।"
+  },
+  {
+   "createdAt": "2026-11-14T08:52:50+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "—"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "answer_key"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-01"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "आंसर की देखने के लिए कोई शुल्क नहीं; आपत्ति सिर्फ़ ऑनलाइन"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-17"
+    },
+    "org": {
+     "state": "ok",
+     "value": "तमिलनाडु लोक सेवा आयोग (TNPSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "846 पद (Group 2 व 2A, CCSE-II)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "स्नातक (Graduate)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "—"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://www.tnpsc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.karmasandhan.com/tnpsc-group-2-answer-key/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-10"
+    },
+    "state": {
+     "state": "ok",
+     "value": "तमिलनाडु"
+    },
+    "title": {
+     "state": "ok",
+     "value": "TNPSC ग्रुप-2 / 2A प्रीलिम्स आंसर की 2026 जारी — आपत्ति 17 नवंबर शाम 5:45 तक"
+    }
+   },
+   "id": "prep-tnpsc-group2-answer-key-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "TNPSC ग्रुप-2 / 2A प्रीलिम्स आंसर की 2026 जारी — आपत्ति 17 नवंबर शाम 5:45 तक",
+   "verifyNote": "TNPSC ने 10 नवंबर 2026 को CCSE-II (Group 2 व 2A) प्रीलिम्स (परीक्षा 1 नवंबर 2026, Advt 07/2026) की provisional आंसर की जारी की — GS, सामान्य तमिल व सामान्य अंग्रेज़ी अलग-अलग; आपत्ति सिर्फ़ ऑनलाइन, 17 नवंबर 2026 शाम 5:45 तक; karmasandhan, mysarkarinaukri, testbook व shanmugamiasacademy से cross-check। 3 सवाल (GS Q67; English Q157, Q161) पहले से Expert Committee को भेजे गए। आंसर की PDF का सीधा link नहीं मिला — tnpsc.gov.in से लेना बाकी।"
+  },
+  {
+   "createdAt": "2026-11-14T08:52:50+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "21–38 वर्ष"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-29"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "₹297.20"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "सामान्य ₹297.20 (₹250 + ₹47.20 प्रोसेसिंग); OBC/MOBC ₹197.20; SC/ST/BPL/PwBD ₹47.20 — आवेदन 6 सितंबर को बंद हो चुका है"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-29"
+    },
+    "org": {
+     "state": "ok",
+     "value": "असम लोक सेवा आयोग (APSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "137 पद (Veterinary Officer / Block Veterinary Officer)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "B.V.Sc & A.H. (पशु चिकित्सा स्नातक)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "₹30,000–₹1,10,000 + ग्रेड पे ₹12,700 (Pay Band-4)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://apsc.nic.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://jobshouter.com/apsc-veterinary-officer-eligible-candidates-list-2026-out-screening-test-on-29-november-admit-card-on-23-november/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-12"
+    },
+    "state": {
+     "state": "ok",
+     "value": "असम"
+    },
+    "title": {
+     "state": "ok",
+     "value": "APSC Veterinary Officer / BVO स्क्रीनिंग टेस्ट 2026 — पात्र सूची जारी, परीक्षा 29 नवंबर, एडमिट कार्ड 23 नवंबर"
+    }
+   },
+   "id": "prep-apsc-veterinary-officer-screening-test-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "APSC Veterinary Officer / BVO स्क्रीनिंग टेस्ट 2026 — पात्र सूची जारी, परीक्षा 29 नवंबर, एडमिट कार्ड 23 नवंबर",
+   "verifyNote": "APSC ने Advt 11/2026 (VO/BVO, 137 पद) की स्क्रीनिंग टेस्ट के लिए पात्र अभ्यर्थियों की सूची 12 नवंबर 2026 को जारी की — OMR स्क्रीनिंग टेस्ट 29 नवंबर 2026 (दो पेपर), e-एडमिट कार्ड 23 नवंबर से; jobshouter, kollegeapply व 24x7jobalerts से cross-check। यह final result नहीं है — सिर्फ़ परीक्षा के लिए पात्र सूची है। आवेदन 7 अगस्त–6 सितंबर 2026 को बंद हो चुके हैं; योग्यता B.V.Sc & A.H., उम्र 21–38, वेतन ₹30,000–₹1,10,000 + GP ₹12,700 — sarkarinaukariofficial के नोटिफ़िकेशन विवरण से। पात्र सूची PDF का सीधा link नहीं मिला।"
+  },
+  {
+   "createdAt": "2026-11-14T08:52:50+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "—"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "answer_key"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-02-08"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "आंसर की देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-04"
+    },
+    "org": {
+     "state": "ok",
+     "value": "संघ लोक सेवा आयोग (UPSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "127 पद (Geologist, Geophysicist, Chemist, Scientist-B आदि)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "M.Sc. (Geology / Geophysics / Chemistry)"
+    },
+    "salary": {
+     "state": "ok",
+     "value": "—"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://upsc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/upsc-combined-geo-scientist-answer-key-2026-3078797"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-04"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "UPSC Combined Geo-Scientist (प्रीलिम्स) आंसर की 2026 जारी — 4 पेपर (GS, Geophysics, Geology, Chemistry)"
+    }
+   },
+   "id": "prep-upsc-geo-scientist-answer-key-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "UPSC Combined Geo-Scientist (प्रीलिम्स) आंसर की 2026 जारी — 4 पेपर (GS, Geophysics, Geology, Chemistry)",
+   "verifyNote": "UPSC ने 4 नवंबर 2026 को Combined Geo-Scientist (प्रीलिम्स) परीक्षा 2026 (Notification 01/2026-GEOL, परीक्षा 8 फरवरी 2026) की आंसर की जारी की — 4 पेपर (GS Paper-I, Geophysics, Geology/Hydrogeology, Chemistry Paper-II), सभी Series A–D; jobshouter, freejobalert व rojgarpulse से cross-check। यह final result के बाद की key है (final result 16 अक्टूबर 2026 को आ चुका) — इसलिए कोई आपत्ति window नहीं है। आंसर की PDF के सीधे link नहीं मिले — upsc.gov.in से लेना बाकी।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T07:56:54+05:30",
+ "updatedAt": "2026-11-14T08:52:50+05:30",
  "version": 1
 }
