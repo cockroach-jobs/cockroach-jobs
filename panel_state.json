@@ -17756,11 +17756,11 @@
    "id": "prep-uppsc-ro-aro-2026",
    "jobId": null,
    "kind": "new_job",
+   "listedAt": "2026-11-12T10:28:45+05:30",
    "sourceSubmissionId": null,
    "status": "live",
    "title": "UPPSC समीक्षा अधिकारी (RO) व सहायक समीक्षा अधिकारी (ARO) भर्ती 2026 — 501 पद (विज्ञापन सं. A-4/E-1/2026)",
-   "verifyNote": "UPPSC विज्ञापन A-4/E-1/2026 (26 अक्टूबर 2026) से पुष्टि — Drishti IAS, Testbook, Prepp, SarkariNotice व JobCareerUpdates में एक ही तारीख़ें व 501 पद (495 सामान्य + 6 विशेष भर्ती; RO 131, ARO 329)। आवेदन 26 अक्टूबर–26 नवंबर 2026, सुधार/शुल्क मिलान 3 दिसंबर तक; OTR अनिवार्य (आवेदन से कम से कम 72 घंटे पहले)। परीक्षा तिथि अभी घोषित नहीं। कमी: official notification PDF का सीधा link नहीं मिला (uppsc.up.nic.in के All Notifications से मिलेगा) और वेतन/श्रेणी-वार शुल्क की पुष्टि बाकी — queue करने से पहले PDF से जाँच लें।",
-   "listedAt": "2026-11-12T10:28:45+05:30"
+   "verifyNote": "UPPSC विज्ञापन A-4/E-1/2026 (26 अक्टूबर 2026) से पुष्टि — Drishti IAS, Testbook, Prepp, SarkariNotice व JobCareerUpdates में एक ही तारीख़ें व 501 पद (495 सामान्य + 6 विशेष भर्ती; RO 131, ARO 329)। आवेदन 26 अक्टूबर–26 नवंबर 2026, सुधार/शुल्क मिलान 3 दिसंबर तक; OTR अनिवार्य (आवेदन से कम से कम 72 घंटे पहले)। परीक्षा तिथि अभी घोषित नहीं। कमी: official notification PDF का सीधा link नहीं मिला (uppsc.up.nic.in के All Notifications से मिलेगा) और वेतन/श्रेणी-वार शुल्क की पुष्टि बाकी — queue करने से पहले PDF से जाँच लें।"
   },
   {
    "createdAt": "2026-11-14T11:55:08+05:30",
@@ -18085,9 +18085,414 @@
    "status": "ready",
    "title": "बिहार SSC स्टेनोग्राफर / स्टेनो टाइपिस्ट ग्रेड-III परीक्षा तिथि 2026 — परीक्षा 1 दिसंबर, 531 पद",
    "verifyNote": "BSSC की सूचना (9 नवंबर 2026, Memo 4900) से पुष्टि — SarkariJobers, ResultBharat, PublicNaukri व SarkariSahayta में एक ही तारीख़: लिखित परीक्षा (CBT, दो शिफ्ट) 1 दिसंबर 2026, विज्ञापन 07/25। पद 531 हैं (मूल 432 + शुद्धि-पत्र 4790 से 99 और) — कुछ स्रोत अभी भी 432 लिख रहे हैं, इसलिए यहाँ साफ़ किया है। एडमिट कार्ड परीक्षा से 7–10 दिन पहले (लगभग 21–24 नवंबर) आने की उम्मीद है — अभी जारी होने की पुष्टि नहीं हुई, इसलिए एडमिट कार्ड जारी होने का दावा नहीं किया है।"
+  },
+  {
+   "createdAt": "2026-11-14T12:54:22+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "check",
+     "value": "₹400"
+    },
+    "feeText": {
+     "state": "check",
+     "value": "₹400 प्रति फॉर्म (PwD को छूट) — कुछ स्रोतों में; अधिसूचना में शुल्क छपा होने की पुष्टि बाकी"
+    },
+    "lastDate": {
+     "state": "check",
+     "value": null
+    },
+    "org": {
+     "state": "ok",
+     "value": "मणिपुर पुलिस मुख्यालय, मणिपुर सरकार"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "2,698 पद (अनंतिम) — कांस्टेबल (पुरुष/सिविल) 1,200, कांस्टेबल (महिला) 200, राइफ़लमैन 280, SI (पुरुष/सिविल) 136, ASI 95 सहित 19 श्रेणियाँ"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "check",
+     "value": "Level 3–8 (ROP 2019) — SI Level 8 तक"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://manipurpolice.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://govtjobsalert.in/manipur-police-recruitment-2026/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-02"
+    },
+    "state": {
+     "state": "ok",
+     "value": "मणिपुर"
+    },
+    "title": {
+     "state": "ok",
+     "value": "मणिपुर पुलिस कांस्टेबल, SI, ASI व अन्य भर्ती 2026 — 2,698 पद (ऑफ़लाइन फॉर्म)"
+    }
+   },
+   "id": "prep-manipur-police-2698-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "मणिपुर पुलिस कांस्टेबल, SI, ASI व अन्य भर्ती 2026 — 2,698 पद (ऑफ़लाइन फॉर्म)",
+   "verifyNote": "मणिपुर पुलिस मुख्यालय की अधिसूचना 2 नवंबर 2026 (सं. E/31/21/2021-PHQ) — 2,698 पद, 19 श्रेणियाँ; GovtJobsAlert, Testbook, TheJobsMe, 9Curry व JobCareerUpdates में पद-संख्या व तारीख़ एक जैसी। फॉर्म ऑफ़लाइन है — ज़िला SP कार्यालय से लेकर ज़िला Employment Exchange से जमा करना है। अंतिम तिथि में टकराव है: एक पोर्टल 30 नवंबर बता रहा है, पर अधिसूचना पढ़ने वाले स्रोतों के अनुसार उम्मीदवार की कोई अंतिम तिथि नहीं छपी — 20 दिसंबर सिर्फ़ Employment Exchange की सूची PHQ तक पहुँचने की तारीख़ है; इसलिए lastDate check रखा है। योग्यता, आयु-सीमा व शारीरिक मानक अधिसूचना में नहीं छपे — SP कार्यालय से पुष्टि बाकी।"
+  },
+  {
+   "createdAt": "2026-11-14T12:54:22+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://psc.wb.gov.in/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-25"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "कॉल लेटर डाउनलोड के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-31"
+    },
+    "org": {
+     "state": "ok",
+     "value": "पश्चिम बंगाल लोक सेवा आयोग (WBPSC)"
+    },
+    "pdfUrl": {
+     "state": "ok",
+     "value": "https://psc.wb.gov.in/Download?param1=An_20261110180757_Announcement_downloading_CallLetters_MSRE.pdf&param2=advertisement"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "2,834 अभ्यर्थी पर्सनैलिटी टेस्ट (Phase-I) के लिए shortlist (विज्ञापन सं. 11/2023)"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://psc.wb.gov.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/wbpsc-miscellaneous-personality-test-call-letter-2026-3080202"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-18"
+    },
+    "state": {
+     "state": "ok",
+     "value": "पश्चिम बंगाल"
+    },
+    "title": {
+     "state": "ok",
+     "value": "WBPSC मिसलेनियस पर्सनैलिटी टेस्ट कॉल लेटर 2026 — 18 नवंबर से, टेस्ट 25 नवंबर से (विज्ञापन 11/2023)"
+    }
+   },
+   "id": "prep-wbpsc-miscellaneous-personality-test-call-letter-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "WBPSC मिसलेनियस पर्सनैलिटी टेस्ट कॉल लेटर 2026 — 18 नवंबर से, टेस्ट 25 नवंबर से (विज्ञापन 11/2023)",
+   "verifyNote": "WBPSC ने 10 नवंबर 2026 को नोटिस (सं. 406 PSC/Con.) जारी किया — Certifica, FreeJobAlert, SarkariResult.app व 9Curry में तारीख़ें एक जैसी; मिसलेनियस सेवा भर्ती परीक्षा 2023 (विज्ञापन 11/2023) के 2,834 shortlist अभ्यर्थियों के लिए Phase-I पर्सनैलिटी टेस्ट 25 नवंबर–31 दिसंबर 2026, e-Call Letter 18 नवंबर से डाउनलोड होगा। दस्तावेज़ एक ही PDF में ईमेल से भेजने हैं (स्लॉट के अनुसार 11 नवंबर–1 दिसंबर) — समय पर न भेजने पर उम्मीदवारी रद्द हो सकती है।"
+  },
+  {
+   "createdAt": "2026-11-14T12:54:22+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://ssbodisha.ac.in/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-21"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "एडमिट कार्ड डाउनलोड के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-02"
+    },
+    "org": {
+     "state": "ok",
+     "value": "राज्य चयन बोर्ड (SSB), ओडिशा"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "897 पद (विज्ञापन सं. 01/2026) — जूनियर असिस्टेंट व जूनियर क्लर्क"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://ssbodisha.ac.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/ssb-odisha-junior-assistant-and-clerk-admit-card-2026-3081210"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-18"
+    },
+    "state": {
+     "state": "ok",
+     "value": "ओडिशा"
+    },
+    "title": {
+     "state": "ok",
+     "value": "SSB ओडिशा जूनियर असिस्टेंट व जूनियर क्लर्क एडमिट कार्ड 2026 — 18 नवंबर से, परीक्षा 21 नवंबर से"
+    }
+   },
+   "id": "prep-ssb-odisha-junior-assistant-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "SSB ओडिशा जूनियर असिस्टेंट व जूनियर क्लर्क एडमिट कार्ड 2026 — 18 नवंबर से, परीक्षा 21 नवंबर से",
+   "verifyNote": "SSB ओडिशा के नोटिस (सं. 1763, 13 नवंबर 2026) से — FreeJobAlert, KollegeApply व SSB की आधिकारिक साइट (ssbodisha.ac.in) पर एक ही तारीख़ें: सिटी स्लिप 16 नवंबर रात 8 बजे, एडमिट कार्ड 18 नवंबर रात 8 बजे से; CBT 21, 23, 25, 27 नवंबर व 1–2 दिसंबर 2026 को, हर दिन 3 शिफ्ट। एडमिट कार्ड अभी जारी नहीं हुआ है — 18 नवंबर से मिलेगा, इसलिए startDate वही रखी है।"
+  },
+  {
+   "createdAt": "2026-11-14T12:54:22+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://jssc.jharkhand.gov.in/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-07-10"
+    },
+    "feeGen": {
+     "state": "ok",
+     "value": "—"
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-13"
+    },
+    "org": {
+     "state": "ok",
+     "value": "झारखंड कर्मचारी चयन आयोग (JSSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "51 पद (JJPSCCE-2025, विज्ञापन 09/2025) — अभी 21 रोल नंबर जारी (महिला नर्स ANM 2, फार्मासिस्ट 1, कंपाउंडर 9, ड्रेसर 8, X-Ray टेक्नीशियन 1)"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://jssc.jharkhand.gov.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://indiansarkari.com/jssc-paramedical-staff-nurse-result-2026/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-13"
+    },
+    "state": {
+     "state": "ok",
+     "value": "झारखंड"
+    },
+    "title": {
+     "state": "ok",
+     "value": "JSSC पैरामेडिकल स्टाफ़ नर्स रिजल्ट 2026 जारी — झारखंड जेल पैरामेडिकल (JJPSCCE-2025), 21 रोल नंबर"
+    }
+   },
+   "id": "prep-jssc-paramedical-staff-nurse-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "JSSC पैरामेडिकल स्टाफ़ नर्स रिजल्ट 2026 जारी — झारखंड जेल पैरामेडिकल (JJPSCCE-2025), 21 रोल नंबर",
+   "verifyNote": "JSSC ने 13 नवंबर 2026 को JJPSCCE-2025 (विज्ञापन 09/2025, 51 पद) का रिजल्ट जारी किया — IndianSarkari, GovtJobGuru, 9Curry व SarkariJobPress में तारीख़, नोटिस सं. 11 व 21 रोल नंबर एक जैसे; परीक्षा 10 जुलाई 2026 को हुई थी। ध्यान दें: पुरुष नर्स (ANM) का रिजल्ट अभी रुका है (योग्यता-स्पष्टीकरण बाकी) और एक कंपाउंडर का रिजल्ट भी रोका गया है — अंतिम मेरिट/अंक बाद में आएँगे।"
+  },
+  {
+   "createdAt": "2026-11-14T12:54:22+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://upsssc.gov.in/"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-29"
+    },
+    "feeGen": {
+     "state": "check",
+     "value": null
+    },
+    "feeText": {
+     "state": "check",
+     "value": "मुख्य परीक्षा का शुल्क जमा करना ज़रूरी है (राशि की पुष्टि बाकी) — शुल्क जमा करने के बाद ही एडमिट कार्ड मिलेगा"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-29"
+    },
+    "org": {
+     "state": "ok",
+     "value": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग (UPSSSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "1,182 पद (विज्ञापन सं. 13-Exam/2026) — गन्ना पर्यवेक्षक (मुख्य परीक्षा)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "कृषि में डिग्री + कंप्यूटर 'O' लेवल + UP PET 2025 पास"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://upsssc.gov.in/"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/upsssc-cane-supervisor-exam-date-2026-3061680"
+    },
+    "startDate": {
+     "state": "check",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "उत्तर प्रदेश"
+    },
+    "title": {
+     "state": "ok",
+     "value": "UPSSSC गन्ना पर्यवेक्षक मुख्य परीक्षा एडमिट कार्ड 2026 — परीक्षा 29 नवंबर, 1,182 पद"
+    }
+   },
+   "id": "prep-upsssc-cane-supervisor-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "UPSSSC गन्ना पर्यवेक्षक मुख्य परीक्षा एडमिट कार्ड 2026 — परीक्षा 29 नवंबर, 1,182 पद",
+   "verifyNote": "UPSSSC गन्ना पर्यवेक्षक (विज्ञापन 13-Exam/2026, 1,182 पद) की मुख्य परीक्षा 29 नवंबर 2026 (रविवार, सुबह 10–12) को है — FreeJobAlert, CareerPower, Testbook व The Statesman में तारीख़ एक जैसी; पात्रता रिजल्ट 12 अक्टूबर को आया (42,087 shortlist), मुख्य परीक्षा शुल्क जमा करने की प्रक्रिया 12 नवंबर से शुरू। एडमिट कार्ड अभी जारी नहीं हुआ है — शुल्क जमा करने के बाद ही मिलेगा, इसलिए यह entry परीक्षा-तारीख़ की सूचना के साथ तैयार की है; एडमिट कार्ड आते ही अगली जाँच में update करेंगे।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T11:55:08+05:30",
+ "updatedAt": "2026-11-14T12:54:22+05:30",
  "version": 1
 }
