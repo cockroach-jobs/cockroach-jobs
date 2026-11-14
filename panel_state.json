@@ -19057,9 +19057,414 @@
    "status": "ready",
    "title": "GSSSB ओफ्थैल्मिक असिस्टेंट फाइनल रिजल्ट 2026 जारी — 187 अभ्यर्थी चयनित, 261 पद",
    "verifyNote": "GSSSB की अंतिम परिणाम सूचना (30 अक्टूबर 2026, विज्ञापन 344/2025-26) से पुष्टि — JobCareerUpdates ने आधिकारिक PDF पढ़कर बताया (187 चयनित, 25 प्रतीक्षा सूची, 34 असफल/अनुपस्थित), FreeJobAlert, RojgarPulse, JagranJosh व Times of India में एक ही तारीख़ व पद-संख्या। चयन MCQ-CBRT परीक्षा व दस्तावेज़ सत्यापन के आधार पर; नियुक्ति/जॉइनिंग की तारीख़ अभी घोषित नहीं हुई। PDF का सीधा लिंक नहीं मिला इसलिए pdfUrl missing रखा है।"
+  },
+  {
+   "createdAt": "2026-11-14T15:49+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "45 वर्ष से अधिक नहीं (विज्ञापन के अनुसार)"
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-17"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-20"
+    },
+    "org": {
+     "state": "ok",
+     "value": "गोवा कर्मचारी चयन आयोग (GSSC)"
+    },
+    "pdfUrl": {
+     "state": "check",
+     "value": "https://gssc.goa.gov.in/docs/whats-new/notice-reg-physical-efficiency-tests-pet-on-17-11-2026-19-11-2026-for-various-posts-advertisement-no-2-of-year-2026.pdf"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "483 पद (पुलिस कांस्टेबल 360 + आर्म्ड पुलिस 119 + प्लाटून कमांडर 4; कुल विज्ञापन 722 Group-C पद)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "10वीं पास (कांस्टेबल); 12वीं पास (प्लाटून कमांडर)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://gssc.goa.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/goa-police-pet-date-2026-out-3081231"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-13"
+    },
+    "state": {
+     "state": "ok",
+     "value": "गोवा"
+    },
+    "title": {
+     "state": "ok",
+     "value": "गोवा पुलिस PET तारीख़ 2026 — महिला 17 नवंबर, पुरुष 20 नवंबर (GSSC विज्ञापन 2/2026)"
+    }
+   },
+   "id": "prep-goa-police-pet-date-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "गोवा पुलिस PET तारीख़ 2026 — महिला 17 नवंबर, पुरुष 20 नवंबर (GSSC विज्ञापन 2/2026)",
+   "verifyNote": "GSSC के 13 नवंबर 2026 के नोटिस (No. 1/28/2026-GSSC/1112) से पुष्टि — महिला PET 17 नवंबर, पुरुष PET 20 नवंबर 2026, सुबह 7:00 बजे, Goa University Ground, Bambolim; FreeJobAlert व KollegeApply में एक ही तारीख़ें, और GSSC की साइट पर नोटिस PDF भी है। 5 नवंबर के पुराने नोटिस में पुरुष PET 19 नवंबर से लिखा था — 13 नवंबर का नोटिस ही नवीनतम है, वही तारीख़ें ली हैं। विज्ञापन 2/2026 के कुल 722 Group-C पदों में से PET वाले पुलिस पद 483 हैं (कांस्टेबल 360 + आर्म्ड 119 + प्लाटून कमांडर 4) — CareerPower, Moneycontrol व IndGovtJobs से मिलान। PET सिर्फ़ PST पास अभ्यर्थियों के लिए है; CBT-II की तारीख़ अभी घोषित नहीं हुई। pdfUrl वाला लिंक 5 नवंबर के नोटिस का है, 13 नवंबर के नोटिस का सीधा PDF लिंक नहीं मिला इसलिए check रखा है।"
+  },
+  {
+   "createdAt": "2026-11-14T15:49+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-09-20"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-10-27"
+    },
+    "org": {
+     "state": "ok",
+     "value": "मध्य प्रदेश लोक सेवा आयोग (MPPSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "39 पद"
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://mppsc.mp.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.sarkarijob.com/mppsc-assistant-town-planner/"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-07-01"
+    },
+    "state": {
+     "state": "ok",
+     "value": "मध्य प्रदेश"
+    },
+    "title": {
+     "state": "ok",
+     "value": "MPPSC सहायक नगर नियोजक (Assistant Town Planner) लिखित परीक्षा रिजल्ट 2026 — 40 अभ्यर्थी इंटरव्यू के लिए shortlist"
+    }
+   },
+   "id": "prep-mppsc-assistant-town-planner-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "MPPSC सहायक नगर नियोजक (Assistant Town Planner) लिखित परीक्षा रिजल्ट 2026 — 40 अभ्यर्थी इंटरव्यू के लिए shortlist",
+   "verifyNote": "MPPSC के 27 अक्टूबर 2026 के लिखित परीक्षा परिणाम से पुष्टि — SarkariJob, ResultDekho, Testbook व SarkariAlarm में एक ही तारीख़ व आँकड़े: विज्ञापन 02/2026, 39 पद, परीक्षा 20 सितंबर 2026, 40 अभ्यर्थी इंटरव्यू के लिए shortlist (मुख्य 87% भाग; अस्थायी 13% भाग से कोई नहीं)। Shortlist अभ्यर्थियों को दस्तावेज़ 17 नवंबर 2026 तक MPPSC इंदौर भेजने हैं; इंटरव्यू की तारीख़ अभी घोषित नहीं हुई। योग्यता व वेतन की पुष्टि बाकी है इसलिए qual/salary missing रखे हैं; आधिकारिक रिजल्ट PDF का सीधा लिंक नहीं मिला।"
+  },
+  {
+   "createdAt": "2026-11-14T15:49+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-10-18"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-10-28"
+    },
+    "org": {
+     "state": "ok",
+     "value": "जम्मू-कश्मीर सेवा चयन बोर्ड (JKSSB)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "missing",
+     "value": null
+    },
+    "qual": {
+     "state": "missing",
+     "value": null
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://jkssb.nic.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.jagranjosh.com/lite/articles/jkssb-driver-result-2026-out-download-driver-grade-2-scorecard-pdf-link-and-more-details-at-jkssb-nic-in-1800018353-1"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "जम्मू-कश्मीर"
+    },
+    "title": {
+     "state": "ok",
+     "value": "JKSSB ड्राइवर / ड्राइवर-II / ड्राइवर ग्रेड-II लिखित परीक्षा रिजल्ट 2026 — स्कोर शीट जारी"
+    }
+   },
+   "id": "prep-jkssb-driver-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "JKSSB ड्राइवर / ड्राइवर-II / ड्राइवर ग्रेड-II लिखित परीक्षा रिजल्ट 2026 — स्कोर शीट जारी",
+   "verifyNote": "JKSSB के 28 अक्टूबर 2026 के नोटिस (No. JKSSB-COE0EXAM(UT)/01/2026-04) से पुष्टि — JagranJosh, PW.live, MySarkariNaukri, GovtJobsAlert व JKTODAY में एक ही तारीख़ें: OMR परीक्षा 18 अक्टूबर 2026, स्कोर शीट (Annexure A) में 5,270 अभ्यर्थी, टॉप स्कोर Saqib Hussain Bhat 117.50; फाइनल आंसर की भी उसी दिन जारी। यह स्कोर शीट है, चयन सूची नहीं — DV के लिए मेरिट के हिसाब से बुलाया जाएगा, DV की तारीख़ अभी नहीं आई। कुल पद-संख्या तीन विज्ञापनों (04/2025, 07/2025, 09/2025) की मिलाकर पुष्ट नहीं हुई (सिर्फ़ 09/2025 के 107 पद मिले), इसलिए posts missing रखा है; आधिकारिक PDF का सीधा लिंक नहीं मिला।"
+  },
+  {
+   "createdAt": "2026-11-14T15:49+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-01-29"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-04"
+    },
+    "org": {
+     "state": "ok",
+     "value": "बिहार लोक सेवा आयोग (BPSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "33 पद"
+    },
+    "qual": {
+     "state": "check",
+     "value": "स्नातक (खेल-संबंधी योग्यता सहित)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://bpsc.bihar.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/bpsc-dso-written-result-2026-3078751"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "बिहार"
+    },
+    "title": {
+     "state": "ok",
+     "value": "BPSC जिला खेल पदाधिकारी (DSO) लिखित परीक्षा रिजल्ट 2026 — 75 अभ्यर्थी इंटरव्यू के लिए shortlist"
+    }
+   },
+   "id": "prep-bpsc-dso-written-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "BPSC जिला खेल पदाधिकारी (DSO) लिखित परीक्षा रिजल्ट 2026 — 75 अभ्यर्थी इंटरव्यू के लिए shortlist",
+   "verifyNote": "BPSC के 4 नवंबर 2026 के लिखित परीक्षा परिणाम (विज्ञापन 90/2025) से पुष्टि — FreeJobAlert, PW.live, SarkariJob, JobShouter व RojgarPulse में एक ही तारीख़ व आँकड़े: 33 पद, लिखित परीक्षा 29–30 जनवरी 2026, 304 अभ्यर्थी शामिल, 75 इंटरव्यू के लिए shortlist (लिखित अंक + स्नातक अंक + खेल योग्यता/उपलब्धि अंक)। यह इंटरव्यू shortlist है, अंतिम चयन नहीं; इंटरव्यू की तारीख़ अभी घोषित नहीं हुई। योग्यता की पूरी पुष्टि बाकी है इसलिए qual check रखा है; आधिकारिक रिजल्ट PDF का सीधा लिंक नहीं मिला।"
+  },
+  {
+   "createdAt": "2026-11-14T15:49+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-06-11"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-10-30"
+    },
+    "org": {
+     "state": "ok",
+     "value": "बिहार लोक सेवा आयोग (BPSC)"
+    },
+    "pdfUrl": {
+     "state": "ok",
+     "value": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Results-882025-Assistant-Environmental-Scientist-Written-Exam_BPSC-20261030-rvdpno.pdf"
+    },
+    "posts": {
+     "state": "ok",
+     "value": "17 पद"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "पर्यावरण विज्ञान / पर्यावरण इंजीनियरिंग में डिग्री"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://bpsc.bihar.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/bpsc-aes-result-2026-3077415"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2025-08-27"
+    },
+    "state": {
+     "state": "ok",
+     "value": "बिहार"
+    },
+    "title": {
+     "state": "ok",
+     "value": "BPSC सहायक पर्यावरण वैज्ञानिक (AES) लिखित परीक्षा रिजल्ट 2026 — 48 अभ्यर्थी इंटरव्यू के लिए shortlist"
+    }
+   },
+   "id": "prep-bpsc-aes-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "BPSC सहायक पर्यावरण वैज्ञानिक (AES) लिखित परीक्षा रिजल्ट 2026 — 48 अभ्यर्थी इंटरव्यू के लिए shortlist",
+   "verifyNote": "BPSC के 30 अक्टूबर 2026 के लिखित परीक्षा परिणाम (विज्ञापन 88/2025) से पुष्टि — FreeJobAlert, SarkariJob, GovtJobsAlert, JobAndNews व RojgarPulse में एक ही तारीख़ व आँकड़े: 17 पद, लिखित परीक्षा 11 जून 2026, 1,310 अभ्यर्थी शामिल, 48 इंटरव्यू के लिए shortlist। यह इंटरव्यू shortlist है, अंतिम चयन नहीं; इंटरव्यू की तारीख़ अभी घोषित नहीं हुई। आधिकारिक रिजल्ट PDF का लिंक BPSC की साइट का है।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T14:49:39+05:30",
+ "updatedAt": "2026-11-14T15:49:29+05:30",
  "version": 1
 }
