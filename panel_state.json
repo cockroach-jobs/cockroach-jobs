@@ -18490,9 +18490,171 @@
    "status": "ready",
    "title": "UPSSSC गन्ना पर्यवेक्षक मुख्य परीक्षा एडमिट कार्ड 2026 — परीक्षा 29 नवंबर, 1,182 पद",
    "verifyNote": "UPSSSC गन्ना पर्यवेक्षक (विज्ञापन 13-Exam/2026, 1,182 पद) की मुख्य परीक्षा 29 नवंबर 2026 (रविवार, सुबह 10–12) को है — FreeJobAlert, CareerPower, Testbook व The Statesman में तारीख़ एक जैसी; पात्रता रिजल्ट 12 अक्टूबर को आया (42,087 shortlist), मुख्य परीक्षा शुल्क जमा करने की प्रक्रिया 12 नवंबर से शुरू। एडमिट कार्ड अभी जारी नहीं हुआ है — शुल्क जमा करने के बाद ही मिलेगा, इसलिए यह entry परीक्षा-तारीख़ की सूचना के साथ तैयार की है; एडमिट कार्ड आते ही अगली जाँच में update करेंगे।"
+  },
+  {
+   "id": "prep-cisf-constable-fire-tradesman-driver-cbe-exam-date-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "CISF कांस्टेबल (Fire / ट्रेड्समैन / ड्राइवर व DCPO) CBE परीक्षा तिथि 2026 — परीक्षा 1 दिसंबर, एडमिट कार्ड 27 नवंबर से, 3,415 पद",
+   "fields": {
+    "title": {
+     "value": "CISF कांस्टेबल (Fire / ट्रेड्समैन / ड्राइवर व DCPO) CBE परीक्षा तिथि 2026 — परीक्षा 1 दिसंबर, एडमिट कार्ड 27 नवंबर से, 3,415 पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "केंद्रीय औद्योगिक सुरक्षा बल (CISF), गृह मंत्रालय",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "3,415 पद (Fire 1,130 + ट्रेड्समैन 1,161 + ड्राइवर व DCPO 1,124)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं / 12वीं (पद के अनुसार)",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-27",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-01",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-01",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "—",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "एडमिट कार्ड डाउनलोड के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹21,700–₹69,100 (Pay Level-3)",
+     "state": "check"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://cisfrectt.cisf.gov.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://cisfrectt.cisf.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.youtube.com/watch?v=4R09It5xqYA",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "CISF का आधिकारिक नोटिस 13 नवंबर 2026 (पहला tentative नोटिस 26 अक्टूबर 2026) — CBE 1 दिसंबर 2026: Fire सुबह 9–11, ट्रेड्समैन दोपहर 1–3, ड्राइवर व DCPO शाम 5–7; एग्ज़ाम सिटी 17 नवंबर को ईमेल/SMS से, e-एडमिट कार्ड 27 नवंबर से cisfrectt.cisf.gov.in पर। पद — Fire 1,130, ट्रेड्समैन 1,161, ड्राइवर व DCPO 1,124 (कुल 3,415) — JagranJosh, FreeJobAlert, Times of India, SarkariJob व YouTube (Arora Classes, Ankush Job Update) में एक ही आँकड़े। तारीख़ tentative है — एडमिट कार्ड से अंतिम पुष्टि होगी। नोटिस PDF का सीधा link व पद-वार योग्यता/आयु इस run में verify नहीं हुए — upload से पहले मूल नोटिफ़िकेशन से जाँच लें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T13:48:05+05:30"
+  },
+  {
+   "id": "prep-mp-naib-tehsildar-exam-date-2027",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "MP नायब तहसीलदार (विभागीय) परीक्षा तिथि 2027 — परीक्षा 10 जनवरी, 73 पद",
+   "fields": {
+    "title": {
+     "value": "MP नायब तहसीलदार (विभागीय) परीक्षा तिथि 2027 — परीक्षा 10 जनवरी, 73 पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "मध्य प्रदेश कर्मचारी चयन मंडल (MPESB), भोपाल",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "73 पद (नायब तहसीलदार — विभागीय सीमित चयन परीक्षा; 44 वर्तमान + 29 बैकलॉग)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": null,
+     "state": "missing"
+    },
+    "state": {
+     "value": "मध्य प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2027-01-10",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2027-01-10",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "₹2,000",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "परीक्षा शुल्क ₹2,000 (सभी वर्ग)",
+     "state": "check"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://esb.mp.gov.in/",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://esb.mp.gov.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.thehitavada.com/Encyc/2026/11/13/nayab-tehsildar-exam-pushed-to-january-patwari-sanghs-demand-wins-aspirants-get-8-more-weeks.html",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "MPESB ने परीक्षा 14 नवंबर 2026 से बढ़ाकर 10 जनवरी 2027 की (नोटिस 12 नवंबर 2026; राजस्व विभाग की सहमति पत्र 5 नवंबर 2026) — The Hitavada, RojgarResult व ResultDekho में एक ही तारीख़। यह विभागीय सीमित परीक्षा है — सिर्फ़ म.प्र. राजस्व विभाग के सेवारत कर्मचारी (पटवारी/RI आदि कैडर) ही पात्र हैं, आम अभ्यर्थी नहीं। आवेदन विंडो नहीं बढ़ी। एडमिट कार्ड अभी जारी नहीं हुआ — esb.mp.gov.in पर आएगा। योग्यता/आयु/वेतन इस run में verify नहीं हुए।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T13:48:05+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T12:54:22+05:30",
+ "updatedAt": "2026-11-14T13:48:05+05:30",
  "version": 1
 }
