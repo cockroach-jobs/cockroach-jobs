@@ -18127,7 +18127,7 @@
     },
     "lastDate": {
      "state": "ok",
-   "value": "2026-12-10"
+     "value": "2026-12-10"
     },
     "org": {
      "state": "ok",
@@ -18135,7 +18135,7 @@
     },
     "pdfUrl": {
      "state": "ok",
-   "value": "https://manipurpolice.gov.in/wp-content/uploads/2026/11/Corrigendum-.pdf"
+     "value": "https://manipurpolice.gov.in/wp-content/uploads/2026/11/Corrigendum-.pdf"
     },
     "posts": {
      "state": "ok",
@@ -20958,9 +20958,252 @@
    "status": "ready",
    "title": "NICL AO फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड 2025-26 जारी — 266 पद (2024-25 भर्ती)",
    "verifyNote": "2 स्रोतों से cross-check (JagranJosh, jobsarkariupdate.in): NICL ने 13 नवंबर 2026 को AO (Scale-I) 2024-25 भर्ती का फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड जारी किया; मेन्स व इंटरव्यू में बैठे सभी अभ्यर्थी (चयनित या नहीं) nationalinsurance.nic.co.in पर IBPS स्कोर-डिस्प्ले लॉगिन से अपने अंक देख सकते हैं (रजिस्ट्रेशन/रोल नंबर + पासवर्ड/DOB); अंतिम परिणाम 5 जनवरी 2026 को घोषित हो चुका था (263 चयनित), यह स्कोर कार्ड उसी के बाद का अंक-पत्र है — कोई नया चरण नहीं। ध्यान: यह 2026-27 की नई AO भर्ती (प्रीलिम्स 17 नवंबर) का स्कोर कार्ड नहीं है, 2024-25 चक्र का है। कमी: स्कोर कार्ड का सीधा PDF link नहीं (लॉगिन से डाउनलोड — pdfUrl missing); मेन्स/इंटरव्यू की सटीक तारीख़ें इस खबर में नहीं (examDate missing)।"
+  },
+  {
+   "id": "prep-mpesb-subedar-steno-asi-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "MPESB सूबेदार (स्टेनो) व ASI (मिनिस्टीरियल) एडमिट कार्ड 2026 — 655 पद, परीक्षा 3 नवंबर से",
+   "fields": {
+    "title": {
+     "value": "MPESB सूबेदार (स्टेनो) व ASI (मिनिस्टीरियल) एडमिट कार्ड 2026 — 655 पद, परीक्षा 3 नवंबर से",
+     "state": "ok"
+    },
+    "org": {
+     "value": "मध्य प्रदेश कर्मचारी चयन मंडल (MPESB), भोपाल",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "655 पद (सूबेदार स्टेनो 135 + ASI मिनिस्टीरियल 520)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं (सूबेदार स्टेनो: 12वीं + हिंदी शॉर्टहैंड 100 WPM + CPCT + कंप्यूटर डिप्लोमा; ASI: 12वीं + CPCT हिंदी टाइपिंग + कंप्यूटर डिप्लोमा/डिग्री)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "मध्य प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-09-24",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "₹560",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "सामान्य/अन्य राज्य ₹560; EWS/OBC/SC/ST ₹310 (₹60 पोर्टल शुल्क सहित); MP Online कियोस्क, डेबिट/क्रेडिट कार्ड, नेट बैंकिंग, UPI से भुगतान",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "सूबेदार (स्टेनो) ₹36,200–1,14,800; ASI (मिनिस्टीरियल) ₹19,500–62,000",
+     "state": "ok"
+    },
+    "age": {
+     "value": "18–33 वर्ष (पुरुष), 18–38 वर्ष (महिला), 08/10/2026 को",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://esb.mp.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://esb.mp.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.com/2026/mpesb-mp-police-asi-subedar-sept2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Cross-check: sarkariresult.com (14 Nov 2026, 06:58 PM update), sarkarig.com, mpvacancy.in, rojgarresult.com व YouTube वीडियो (MPESB ASI & Subedar Admit Card 2026 OUT, 655 posts) — एडमिट कार्ड 14 नवंबर 2026 को जारी; परीक्षा 3 नवंबर 2026 से शुरू (कई शिफ्टों में चल रही परीक्षा की बाद की शिफ्टों के लिए एडमिट कार्ड जारी हुआ); फॉर्म 24 सितंबर–8 अक्टूबर 2026 भरे गए थे। कमी: official notification PDF का सीधा link नहीं मिला (pdfUrl missing) — esb.mp.gov.in पर ही मिलेगा; एडमिट कार्ड डाउनलोड के लिए आवेदन संख्या व जन्मतिथि चाहिए।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T21:53:13+05:30"
+  },
+  {
+   "id": "prep-gspcb-jee-jeo-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) जूनियर एनवायरनमेंटल इंजीनियर व ऑफिसर भर्ती 2026 — 11 पद (विज्ञापन सं. 02/2026)",
+   "fields": {
+    "title": {
+     "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB) जूनियर एनवायरनमेंटल इंजीनियर व ऑफिसर भर्ती 2026 — 11 पद (विज्ञापन सं. 02/2026)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड (GSPCB), सालिगाओ",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "11 पद (जूनियर एनवायरनमेंटल इंजीनियर 5 + जूनियर एनवायरनमेंटल ऑफिसर 6)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate (JEE: सिविल/केमिकल/मैकेनिकल/एनवायरनमेंटल इंजीनियरिंग डिग्री; JEO: एनवायरनमेंटल साइंसेज़ में मास्टर डिग्री)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "गोवा",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-02",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Level-6 (Pay Level 6)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 45 वर्ष",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://cbes.goa.gov.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://goaspcb.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/gspcb-recruitment-2026-junior-environmental-engineer-3081163",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Cross-check: freejobalert.com, placementstore.com, indiangovtjobs.co.in — GSPCB विज्ञापन सं. 02/2026, नोटिस 13 नवंबर 2026; ऑनलाइन आवेदन 18 नवंबर–2 दिसंबर 2026 (cbes.goa.gov.in); दोनों पद Group 'B', Non-Gazetted, नियमित; चयन 75 अंक की MCQ लिखित परीक्षा (10 अंक कोंकणी) + दस्तावेज़ सत्यापन से; गोवा का 15 वर्षीय निवास प्रमाण-पत्र व कोंकणी का ज्ञान ज़रूरी। यह site पर live 8-पद वाली GSPCB भर्ती (विज्ञापन 01/2026) से अलग है। कमी: official notification PDF का सीधा link नहीं मिला (pdfUrl missing); परीक्षा तारीख़ व फीस नोटिफ़िकेशन में नहीं है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T21:53:13+05:30"
+  },
+  {
+   "id": "prep-ilbs-assistant-professor-consultant-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "ILBS दिल्ली असिस्टेंट प्रोफ़ेसर व कंसल्टेंट भर्ती 2026 — 10 पद (कॉन्ट्रैक्ट, ईमेल से आवेदन)",
+   "fields": {
+    "title": {
+     "value": "ILBS दिल्ली असिस्टेंट प्रोफ़ेसर व कंसल्टेंट भर्ती 2026 — 10 पद (कॉन्ट्रैक्ट, ईमेल से आवेदन)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "इंस्टीट्यूट ऑफ लिवर एंड बिलियरी साइंसेज़ (ILBS), नई दिल्ली",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "10 पद (8 भूमिकाएँ — असिस्टेंट प्रोफ़ेसर 2 + कंसल्टेंट 8)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "पद के अनुसार (नोटिस में योग्यता नहीं छपी — ILBS वेबसाइट के Recruitment Rules देखें; मेडिकल फैकल्टी के लिए MD/MS, डेटा साइंटिस्ट/AI पदों के लिए संबंधित डिग्री)",
+     "state": "check"
+    },
+    "state": {
+     "value": "दिल्ली",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-13",
+     "state": "check"
+    },
+    "lastDate": {
+     "value": "2026-11-23",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "PB-IV, GP ₹8,700 (डेटा साइंटिस्ट–AI Health GP ₹9,500); 1 साल का कॉन्ट्रैक्ट",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.ilbs.in/images/media/faculty-form.pdf",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.ilbs.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://indiangovtjobs.co.in/ilbs-assistant-professor-radiology-recruitment-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Cross-check: indiangovtjobs.co.in, 9curry.com, mysarkarinaukri.com — ILBS (दिल्ली) ने 13 नवंबर 2026 को 10 कॉन्ट्रैक्ट पदों (1 साल) के लिए नोटिस जारी किया: असिस्टेंट प्रोफ़ेसर (रेडियोलॉजी, न्यूक्लियर मेडिसिन), कंसल्टेंट (एनेस्थीसिया, न्यूक्लियर मेडिसिन, रेडियोलॉजी, ट्रांसफ़्यूज़न मेडिसिन, डेटा साइंटिस्ट–AI Health, GEN AI डेवलपर); आवेदन ईमेल से, अंतिम तिथि 23 नवंबर 2026। कमी: योग्यता, आयु-सीमा व फीस नोटिस में नहीं छपी (qual check, age/fee missing) — ILBS वेबसाइट के Recruitment Rules से पुष्टि बाकी; official notification PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T21:53:13+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T21:05:25+05:30",
+ "updatedAt": "2026-11-14T21:53:13+05:30",
  "version": 1
 }
