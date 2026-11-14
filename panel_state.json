@@ -20715,9 +20715,252 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T20:07:44+05:30"
+  },
+  {
+   "createdAt": "2026-11-14T20:58:23+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://upsssc.gov.in"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "admit"
+    },
+    "examDate": {
+     "state": "ok",
+     "value": "2026-11-29"
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "check",
+     "value": "मुख्य परीक्षा शुल्क ऑनलाइन जमा करना होगा (राशि सूचना में नहीं मिली); शुल्क जमा के बाद ही एडमिट कार्ड मिलेगा"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-29"
+    },
+    "org": {
+     "state": "ok",
+     "value": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग (UPSSSC)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "92 पद (मोहरिर, भूतत्व व खनिकर्म निदेशालय)"
+    },
+    "qual": {
+     "state": "check",
+     "value": "स्नातक (2022 के विज्ञापन के अनुसार; मुख्य परीक्षा सिर्फ़ पात्रता परिणाम में चयनित अभ्यर्थियों के लिए)"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://upsssc.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.sarkariresult.app/upsssc-moharrir-jobs/"
+    },
+    "startDate": {
+     "state": "missing",
+     "value": null
+    },
+    "state": {
+     "state": "ok",
+     "value": "उत्तर प्रदेश"
+    },
+    "title": {
+     "state": "ok",
+     "value": "UPSSSC मोहरिर मुख्य परीक्षा 2026 — परीक्षा 29 नवंबर, 92 पद (विज्ञापन 07-Exam/2022)"
+    }
+   },
+   "id": "prep-upsssc-moharir-mains-exam-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "UPSSSC मोहरिर मुख्य परीक्षा 2026 — परीक्षा 29 नवंबर, 92 पद (विज्ञापन 07-Exam/2022)",
+   "verifyNote": "4 स्रोतों से cross-check (sarkariresult.app, governmentjobonline.in, sonukachhap.in, sarkarisahayta.com): UPSSSC ने 12 नवंबर 2026 को मुख्य परीक्षा शुल्क जमा का नोटिस जारी किया; मोहरिर मुख्य परीक्षा 29 नवंबर 2026, दोपहर 3–5 बजे (विज्ञापन 07-Exam/2022, 92 पद); पात्रता परिणाम 12 अक्टूबर 2026 को आया था; एडमिट कार्ड शुल्क जमा के बाद, परीक्षा से पहले मिलेगा (गन्ना पर्यवेक्षक की मुख्य परीक्षा भी उसी दिन सुबह 10–12 बजे है)। कमी: मुख्य परीक्षा शुल्क की राशि नहीं मिली (feeGen missing); एडमिट कार्ड की तय तारीख़ नहीं है (startDate missing); वेतन व आयु-सीमा इस चरण की सूचना में नहीं (पुष्टि बाकी)।"
+  },
+  {
+   "createdAt": "2026-11-14T20:58:23+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "ok",
+     "value": "अधिकतम 45 वर्ष (इंटरव्यू की तारीख़ को)"
+    },
+    "applyUrl": {
+     "state": "ok",
+     "value": "https://forms.gle/QuXk2g2MJzTiYHM79"
+    },
+    "cat": {
+     "state": "ok",
+     "value": "job"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "missing",
+     "value": null
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-12-11"
+    },
+    "org": {
+     "state": "ok",
+     "value": "बुराड़ी अस्पताल, दिल्ली सरकार (Govt. of NCT of Delhi)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "5 पद (सीनियर रेज़िडेंट, बाल रोग / Pediatrics — एड-हॉक, 44 दिन या नियमित अभ्यर्थी आने तक; विज्ञापन BH/Resident/Advt-16/SR/11/2026)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "MBBS + बाल रोग में PG (MD/MS/DNB) व दिल्ली मेडिकल काउंसिल में पंजीकरण; 3 साल से ज़्यादा SR अनुभव न हो"
+    },
+    "salary": {
+     "state": "check",
+     "value": "7th CPC के अनुसार (Pay Level-11, लगभग ₹67,700 मूल वेतन + NPA)"
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://burari.delhi.gov.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.freejobalert.com/articles/burari-hospital-senior-resident-recruitment-2026-3081262"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-20"
+    },
+    "state": {
+     "state": "ok",
+     "value": "दिल्ली"
+    },
+    "title": {
+     "state": "ok",
+     "value": "बुराड़ी अस्पताल सीनियर रेज़िडेंट (बाल रोग) वॉक-इन 2026 — 5 पद, हर शुक्रवार 20 नवंबर–11 दिसंबर"
+    }
+   },
+   "id": "prep-burari-hospital-sr-pediatrics-walkin-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "बुराड़ी अस्पताल सीनियर रेज़िडेंट (बाल रोग) वॉक-इन 2026 — 5 पद, हर शुक्रवार 20 नवंबर–11 दिसंबर",
+   "verifyNote": "3 स्रोतों से cross-check (FreeJobAlert, sarkari-naukri.in, mysarkarinaukri.com): बुराड़ी अस्पताल का विज्ञापन BH/Resident/Advt-16/SR/11/2026 — बाल रोग में 5 सीनियर रेज़िडेंट (एड-हॉक); वॉक-इन इंटरव्यू हर शुक्रवार 20 नवंबर से 11 दिसंबर 2026, सुबह 9–11 बजे (11 बजे तक प्रवेश), मेडिकल डायरेक्टर कार्यालय, बुराड़ी अस्पताल, कौशिक एन्क्लेव, दिल्ली-110084; पहले Google Form भरना होगा; चयन वॉक-इन इंटरव्यू की मेरिट से। कमी: आधिकारिक notification PDF का सीधा link नहीं मिला (pdfUrl missing); वेतन की राशि विज्ञापन में नहीं छपी — Pay Level-11/₹67,700+NPA दिल्ली सरकार की SR भर्ती के सामान्य वेतनमान से है (salary 'check'); कोई आवेदन शुल्क विज्ञापन में नहीं लिखा (fee missing)।"
+  },
+  {
+   "createdAt": "2026-11-14T20:58:23+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "state": "missing",
+     "value": null
+    },
+    "applyUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "cat": {
+     "state": "ok",
+     "value": "result"
+    },
+    "examDate": {
+     "state": "missing",
+     "value": null
+    },
+    "feeGen": {
+     "state": "missing",
+     "value": null
+    },
+    "feeText": {
+     "state": "ok",
+     "value": "स्कोर कार्ड देखने के लिए कोई शुल्क नहीं"
+    },
+    "lastDate": {
+     "state": "ok",
+     "value": "2026-11-13"
+    },
+    "org": {
+     "state": "ok",
+     "value": "नेशनल इंश्योरेंस कंपनी लिमिटेड (NICL)"
+    },
+    "pdfUrl": {
+     "state": "missing",
+     "value": null
+    },
+    "posts": {
+     "state": "ok",
+     "value": "266 पद (AO Scale-I, जनरलिस्ट व स्पेशलिस्ट — 2024-25 भर्ती)"
+    },
+    "qual": {
+     "state": "ok",
+     "value": "Graduate"
+    },
+    "salary": {
+     "state": "missing",
+     "value": null
+    },
+    "siteUrl": {
+     "state": "ok",
+     "value": "https://nationalinsurance.nic.co.in"
+    },
+    "sourceUrl": {
+     "state": "ok",
+     "value": "https://www.jagranjosh.com/articles/nicl-ao-score-card-2026-out-download-administrative-officer-mains-and-interview-marks-pdf-at-nationalinsurance-nic-co-in-1800019073-1"
+    },
+    "startDate": {
+     "state": "ok",
+     "value": "2026-11-13"
+    },
+    "state": {
+     "state": "ok",
+     "value": "सभी राज्य (केंद्रीय)"
+    },
+    "title": {
+     "state": "ok",
+     "value": "NICL AO फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड 2025-26 जारी — 266 पद (2024-25 भर्ती)"
+    }
+   },
+   "id": "prep-nicl-ao-phase2-score-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "NICL AO फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड 2025-26 जारी — 266 पद (2024-25 भर्ती)",
+   "verifyNote": "2 स्रोतों से cross-check (JagranJosh, jobsarkariupdate.in): NICL ने 13 नवंबर 2026 को AO (Scale-I) 2024-25 भर्ती का फेज़-II (मेन्स) व इंटरव्यू स्कोर कार्ड जारी किया; मेन्स व इंटरव्यू में बैठे सभी अभ्यर्थी (चयनित या नहीं) nationalinsurance.nic.co.in पर IBPS स्कोर-डिस्प्ले लॉगिन से अपने अंक देख सकते हैं (रजिस्ट्रेशन/रोल नंबर + पासवर्ड/DOB); अंतिम परिणाम 5 जनवरी 2026 को घोषित हो चुका था (263 चयनित), यह स्कोर कार्ड उसी के बाद का अंक-पत्र है — कोई नया चरण नहीं। ध्यान: यह 2026-27 की नई AO भर्ती (प्रीलिम्स 17 नवंबर) का स्कोर कार्ड नहीं है, 2024-25 चक्र का है। कमी: स्कोर कार्ड का सीधा PDF link नहीं (लॉगिन से डाउनलोड — pdfUrl missing); मेन्स/इंटरव्यू की सटीक तारीख़ें इस खबर में नहीं (examDate missing)।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T20:13:12+05:30",
+ "updatedAt": "2026-11-14T20:58:23+05:30",
  "version": 1
 }
