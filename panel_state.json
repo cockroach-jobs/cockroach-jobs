@@ -21856,10 +21856,11 @@
     }
    },
    "verifyNote": "FreeJobAlert + Times of India + Dhan Times + IndianGovtJobs + Daily Kiran से cross-check — सभी में एक जैसा: 33 पद, विज्ञापन CC/04/2026 (13 Nov 2026), आवेदन 13–27 Nov 2026, GATE 2026 (EC) अनिवार्य, PowerTel (POWERGRID की पूर्ण स्वामित्व वाली सहायक कंपनी) के लिए। चयन GATE स्कोर + व्यवहार मूल्यांकन + ग्रुप डिस्कशन + इंटरव्यू + मेडिकल से। कमी: आधिकारिक PDF का सीधा link व ऑनलाइन आवेदन का सीधा link verify नहीं हुआ (powergrid.in के Careers section से लेना होगा); शुल्क-छूट की पुष्टि बाकी।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-15T00:57+05:30"
+   "createdAt": "2026-11-15T00:57+05:30",
+   "listedAt": "2026-11-13T20:55:45+05:30"
   },
   {
    "id": "prep-rbi-office-attendant-score-card-2026",
@@ -21937,10 +21938,11 @@
     }
    },
    "verifyNote": "Testbook, jobcareerupdates.in, QuickSarkari, sarkarijob.in — सभी में एक जैसा: स्कोर कार्ड व कट-ऑफ़ 4 Nov 2026 को जारी; ऑनलाइन परीक्षा 28 Feb व 1 Mar 2026; shortlist परिणाम 22 June 2026 को आ चुका था; स्कोर कार्ड डाउनलोड 31 Mar 2027 तक। कट-ऑफ़ 120 अंकों में से (General सबसे ज़्यादा चंडीगढ़ 112.50)। कमी: कट-ऑफ़ PDF का exact official link verify नहीं हुआ (फ़ाइल नाम CutOffTable04112026.pdf बताया गया है); स्कोर कार्ड login से ही मिलता है, public PDF नहीं; अंतिम परिणाम अभी लंबित है — अगला चरण भाषा दक्षता परीक्षा (LPT), तारीख़ अभी घोषित नहीं।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-15T00:57+05:30"
+   "createdAt": "2026-11-15T00:57+05:30",
+   "listedAt": "2026-11-13T20:55:45+05:30"
   },
   {
    "id": "prep-upsssc-platoon-commander-city-slip-2026",
@@ -22018,10 +22020,11 @@
     }
    },
    "verifyNote": "Testbook, FreeJobAlert, PlacementStore — सिटी इंटिमेशन स्लिप 12 Nov 2026 को जारी (विज्ञापन 10-Exam/2026, नोटिस 259/11); मुख्य परीक्षा 22 Nov 2026 सुबह 10–12 बजे। यह एडमिट कार्ड नहीं है — सिर्फ़ परीक्षा ज़िला बताती है; एडमिट कार्ड अलग से आएगा (एक स्रोत में लगभग 18 Nov 2026, tentative — पक्का नहीं)। कमी: पदों की संख्या में स्रोतों में टकराव — testbook सिर्फ़ प्लाटून कमांडर के 52 पद बताता है, sarkariresult.app/sarkarisahayta दोनों पद मिलाकर 295; mains fee राशि, पूरी योग्यता व आयु-सीमा नहीं मिली।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-15T00:57+05:30"
+   "createdAt": "2026-11-15T00:57+05:30",
+   "listedAt": "2026-11-14T20:03:56+05:30"
   },
   {
    "id": "prep-psssb-jail-warder-pmt-pet-admit-card-2026",
@@ -22099,13 +22102,14 @@
     }
    },
    "verifyNote": "Testbook, FreeJobAlert, SarkariJob, ResultDekho — नया public notice 7 Nov 2026: बचे पदों के लिए 229 उम्मीदवार shortlist (असिस्टेंट सुपरिंटेंडेंट 39, वार्डर 120, मैट्रन 70), स्थल पोलो ग्राउंड, पटियाला। ध्यान दें: असिस्टेंट सुपरिंटेंडेंट व वार्डर का PMT/PET 11 Nov 2026 को हो चुका — इस entry में सिर्फ़ मैट्रन की 16 Nov 2026 की तारीख़ आगे की है (10 Nov 2026 के corrigendum से बदली)। पहला PMT/PET अप्रैल 2026 में हो चुका था। कमी: Nov round का admit card download link confirm नहीं हुआ (notice + shortlist ही स्रोत है); मैट्रन की 16 Nov तारीख़ FreeJobAlert में सिर्फ़ 11 Nov दिखी — corrigendum वाली बात testbook + resultdekho दोनों में है।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-15T00:57+05:30"
+   "createdAt": "2026-11-15T00:57+05:30",
+   "listedAt": "2026-11-13T20:55:45+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-15T00:57+05:30",
+ "updatedAt": "2026-11-15T01:01:51+05:30",
  "version": 1
 }
