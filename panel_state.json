@@ -20386,10 +20386,11 @@
     }
    },
    "verifyNote": "5 स्रोतों से cross-check (ssbpsych, govtjobsalert, ssbcrack, jobcareerupdates, ranchiportal): UPSC ने CDS (I) 2026 का फाइनल रिजल्ट 2 Nov 2026 को घोषित किया — लिखित परीक्षा (12 Apr 2026) व SSB इंटरव्यू के बाद 243 अभ्यर्थी (IMA 155, INA 63, AFA 25) मेरिट सूची में; टॉपर लोहिताक्ष महाजन (रोल 0500513) तीनों सूचियों में पहले स्थान पर; मेडिकल रिजल्ट इस सूची में शामिल नहीं, उम्मीदवारी अस्थायी; अंक OTA कोर्स के फाइनल रिजल्ट के बाद जारी होंगे। कमी: मेरिट लिस्ट PDF का सीधा link नहीं मिला (pdfUrl missing) — सूची upsc.gov.in पर देखें; OTA कोर्स का फाइनल रिजल्ट अभी बाकी है।",
-   "status": "ready",
+   "status": "live",
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
-   "createdAt": "2026-11-14T20:07:44+05:30"
+   "createdAt": "2026-11-14T20:07:44+05:30",
+   "listedAt": "2026-11-13T20:55:45+05:30"
   },
   {
    "id": "prep-rrc-nr-scouts-guides-2026",
@@ -20717,6 +20718,6 @@
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T20:07:44+05:30",
+ "updatedAt": "2026-11-14T20:13:12+05:30",
  "version": 1
 }
