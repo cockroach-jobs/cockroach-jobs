@@ -21536,9 +21536,252 @@
    "sourceSubmissionId": null,
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T22:55:36+05:30"
+  },
+  {
+   "id": "prep-hp-high-court-process-server-clerk-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "HP हाई कोर्ट प्रोसेस सर्वर व क्लर्क एडमिट कार्ड 2026 — स्क्रीनिंग टेस्ट 22 व 29 नवंबर (विज्ञापन DJ-Advt./2026(1))",
+   "fields": {
+    "title": {
+     "value": "HP हाई कोर्ट प्रोसेस सर्वर व क्लर्क एडमिट कार्ड 2026 — स्क्रीनिंग टेस्ट 22 व 29 नवंबर (विज्ञापन DJ-Advt./2026(1))",
+     "state": "ok"
+    },
+    "org": {
+     "value": "हिमाचल प्रदेश उच्च न्यायालय (HP High Court), शिमला — ज़िला न्यायपालिका",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "206 पद (प्रोसेस सर्वर 65 + क्लर्क 141)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "प्रोसेस सर्वर: 10+2 · क्लर्क: स्नातक + टाइपिंग (अंग्रेज़ी 30 wpm, हिंदी 25 wpm)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "हिमाचल प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-08",
+     "state": "check"
+    },
+    "lastDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-22",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.hphcrecruitment.in/auth/get-admit-card",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://hphcrecruitment.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkarijob.com/hp-hc-various-post/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "SarkariJob + JobCareerUpdates से cross-check, दोनों में प्रोसेस सर्वर 22 Nov व क्लर्क 29 Nov एक जैसे; hphcrecruitment.in के असली हॉल-टिकट पेज भी देखे (रोल नं. सहित) — एडमिट कार्ड जारी है। विज्ञापन DJ-Advt./2026(1), 5 Aug 2026; प्रोसेस सर्वर 65 पद (10+2), क्लर्क 141 पद (स्नातक + टाइपिंग)। कोर्ट मैनेजर/स्टेनोग्राफ़र/ड्राइवर की स्क्रीनिंग अक्टूबर में हो चुकी — इस कार्ड में सिर्फ़ आने वाले दो टेस्ट हैं। कमी: एडमिट कार्ड का सीधा PDF link नहीं है (मोबाइल नंबर से लॉगिन करके डाउनलोड होता है); एडमिट कार्ड जारी होने की सटीक तारीख़ पक्की नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T23:51+05:30"
+  },
+  {
+   "id": "prep-gmrc-executive-engineer-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "गुजरात मेट्रो रेल (GMRC) एक्ज़ीक्यूटिव व इंजीनियर भर्ती 2026 — 13 पद (विज्ञापन GMRCL/HR/RECT/Nov-2026/29)",
+   "fields": {
+    "title": {
+     "value": "गुजरात मेट्रो रेल (GMRC) एक्ज़ीक्यूटिव व इंजीनियर भर्ती 2026 — 13 पद (विज्ञापन GMRCL/HR/RECT/Nov-2026/29)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "गुजरात मेट्रो रेल कॉर्पोरेशन (GMRC) लिमिटेड",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "13 पद (DGM, असिस्टेंट मैनेजर, सेक्शन इंजीनियर व इंजीनियर — सिविल सुरक्षा/QA-QC/M&P/सिग्नलिंग)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech (सिविल/मैकेनिकल/इलेक्ट्रिकल व संबंधित) + अनुभव (पद अनुसार 2–7 वर्ष)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "गुजरात",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-03",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹35,000 – 2,00,000 (IDA स्केल, पद अनुसार)",
+     "state": "check"
+    },
+    "age": {
+     "value": "अधिकतम 32 वर्ष (सेक्शन इंजीनियर व इंजीनियर; DGM/AM की आयु-सीमा नोटिफ़िकेशन में देखें)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://www.gujaratmetrorail.com",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://files.govtjobsalert.in/2026/11/Recruitment-notification-dated-3.11.2026.pdf",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://www.gujaratmetrorail.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/gmrc-recruitment-2026-apply-online-for-13-deputy-general-manager-assistant-manager-and-more-posts-3078387",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "विज्ञापन GMRCL/HR/RECT/Nov-2026/29, 3 Nov 2026 — FreeJobAlert, SarkariResult.app व MaruGujarat से cross-check, तीनों में 13 पद व 18 Nov 2026 एक जैसे; आधिकारिक नोटिफ़िकेशन का text भी देखा। अहमदाबाद व सूरत मेट्रो, अनुबंध/प्रतिनियुक्ति/सेवानिवृत्ति-पश्चात आधार, 3 वर्ष (5 तक बढ़ सकता है)। कमी: पद-वार संख्या का पूरा ब्योरा व आधिकारिक PDF का सीधा link नहीं मिला — PDF link नोटिफ़िकेशन की mirror copy है (असली प्रति gujaratmetrorail.com पर है); फ़ीस का उल्लेख नोटिफ़िकेशन में नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T23:51+05:30"
+  },
+  {
+   "id": "prep-kgmu-data-analyst-project-manager-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "KGMU मैनेजर-कम-डेटा एनालिस्ट, प्रोजेक्ट मैनेजर व रिसर्च को-ऑर्डिनेटर भर्ती 2026 — 4 पद (अस्थायी, प्रोजेक्ट)",
+   "fields": {
+    "title": {
+     "value": "KGMU मैनेजर-कम-डेटा एनालिस्ट, प्रोजेक्ट मैनेजर व रिसर्च को-ऑर्डिनेटर भर्ती 2026 — 4 पद (अस्थायी, प्रोजेक्ट)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "किंग जॉर्ज चिकित्सा विश्वविद्यालय (KGMU), लखनऊ",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "4 पद (मैनेजर-कम-डेटा एनालिस्ट 1 + प्रोजेक्ट मैनेजर 1 + रिसर्च को-ऑर्डिनेटर 2)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "स्नातकोत्तर (सांख्यिकी/जनस्वास्थ्य/अर्थशास्त्र आदि; रिसर्च को-ऑर्डिनेटर — PG नर्सिंग/लाइफ़ साइंस या GNM/ANM भी विचारणीय)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "उत्तर प्रदेश",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-20",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "₹38,000 – 80,000/माह (पद अनुसार, समेकित)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 40 वर्ष (रिसर्च को-ऑर्डिनेटर, इंटरव्यू की तारीख़ को; अन्य पदों की आयु-सीमा नोटिस में नहीं)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.kgmu.org",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/kgmu-recruitment-2026-apply-offline-for-4-data-analyst-project-manager-and-more-posts-3078425",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "FreeJobAlert का पूरा लेख (आधिकारिक विज्ञापन के आधार पर) + FreshersLive से cross-check — 4 पद, 20 Nov 2026 दोपहर 2 बजे तक, इंटरव्यू 25 Nov 2026 सुबह 10 बजे, दोनों में एक जैसे (examDate में इंटरव्यू की तारीख़ है)। Gates Foundation प्रोजेक्ट 'Post marketing Analysis of Centchroman', प्रसूति व स्त्री रोग विभाग; पद पूरी तरह अस्थायी (1 साल, 1 साल और बढ़ सकता है), स्थायी नौकरी का अधिकार नहीं। कमी: आवेदन फ़ीस व आधिकारिक PDF का सीधा link नहीं मिला; आवेदन ऑफ़लाइन है (HOD कार्यालय, निर्धारित प्रारूप में) — ऑनलाइन link नहीं है।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T23:51+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T22:55:36+05:30",
+ "updatedAt": "2026-11-14T23:51+05:30",
  "version": 1
 }
