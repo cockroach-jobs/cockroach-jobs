@@ -19462,9 +19462,171 @@
    "status": "ready",
    "title": "BPSC सहायक पर्यावरण वैज्ञानिक (AES) लिखित परीक्षा रिजल्ट 2026 — 48 अभ्यर्थी इंटरव्यू के लिए shortlist",
    "verifyNote": "BPSC के 30 अक्टूबर 2026 के लिखित परीक्षा परिणाम (विज्ञापन 88/2025) से पुष्टि — FreeJobAlert, SarkariJob, GovtJobsAlert, JobAndNews व RojgarPulse में एक ही तारीख़ व आँकड़े: 17 पद, लिखित परीक्षा 11 जून 2026, 1,310 अभ्यर्थी शामिल, 48 इंटरव्यू के लिए shortlist। यह इंटरव्यू shortlist है, अंतिम चयन नहीं; इंटरव्यू की तारीख़ अभी घोषित नहीं हुई। आधिकारिक रिजल्ट PDF का लिंक BPSC की साइट का है।"
+  },
+  {
+   "createdAt": "2026-11-14T16:48:44+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.ucms.ac.in/administration/showcareers",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹2,000",
+     "state": "check"
+    },
+    "feeText": {
+     "value": "UR/OBC/EWS ₹2,000 · SC/ST/PwBD/महिला — शुल्क नहीं",
+     "state": "check"
+    },
+    "lastDate": {
+     "value": "2026-11-28",
+     "state": "ok"
+    },
+    "org": {
+     "value": "यूनिवर्सिटी कॉलेज ऑफ़ मेडिकल साइंसेज़ (UCMS), दिल्ली विश्वविद्यालय",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": "https://www.ucms.ac.in/ucmsTeachingPosts2026/Document/AssistantProfessor2026.pdf",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "54 पद (22 विभाग)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "MBBS / MD / MS / M.Sc / PhD (विभाग अनुसार)",
+     "state": "check"
+    },
+    "salary": {
+     "value": "Academic Pay Level-11 (7th CPC); Bio-Statistics — Level-10",
+     "state": "check"
+    },
+    "siteUrl": {
+     "value": "https://www.ucms.ac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.9curry.com/notices/4316ab",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-24",
+     "state": "ok"
+    },
+    "state": {
+     "value": "दिल्ली",
+     "state": "ok"
+    },
+    "title": {
+     "value": "UCMS असिस्टेंट प्रोफ़ेसर भर्ती 2026 — 54 पद (विज्ञापन MC/CCS/T/2026-II)",
+     "state": "ok"
+    }
+   },
+   "id": "prep-ucms-assistant-professor-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "UCMS असिस्टेंट प्रोफ़ेसर भर्ती 2026 — 54 पद (विज्ञापन MC/CCS/T/2026-II)",
+   "verifyNote": "आधिकारिक UCMS विज्ञापन MC/CCS/T/2026-II, 23 Oct 2026 — 54 असिस्टेंट प्रोफ़ेसर पद (22 विभाग), स्थायी/नियमित। 9curry, MySarkariNaukri व FreeJobAlert (Employment News 14–20 Nov) से cross-check — सब में 54 पद व 24 Oct से आवेदन ही है। आख़िरी तारीख़ पर ध्यान दें: विज्ञापन में 13 Nov 2026 या Employment News में प्रकाशन से 2 हफ़्ते, जो बाद में हो — Employment News में 14 Nov को छपने से बढ़ी हुई तारीख़ 28 Nov 2026 हुई; card में बढ़ी हुई नई तारीख़ ही ली है। कमी: आयु-सीमा व परीक्षा की तारीख़ नहीं मिली (चयन इंटरव्यू से लगता है); फ़ीस (₹2,000) व वेतन (Pay Level-11) एक-एक स्रोत से हैं, पुष्टि बाकी; विभाग-वार योग्यता आधिकारिक PDF में देखें।"
+  },
+  {
+   "createdAt": "2026-11-14T16:48:44+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": "18–22 वर्ष",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://joinindiancoastguard.cdac.in",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-17",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय तटरक्षक (Indian Coast Guard), रक्षा मंत्रालय",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "365 पद (नाविक GD/DB, यांत्रिक व हाइजीनिस्ट — बैच 01/2027: 190, 02/2027: 175)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "12वीं (गणित व भौतिकी — नाविक GD) / 10वीं (नाविक DB) / डिप्लोमा (यांत्रिक)",
+     "state": "check"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://joinindiancoastguard.cdac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.fastjobsearchers.com/admitcard/indian-coast-guard-icg-admit-card-2026",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-14",
+     "state": "check"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "title": {
+     "value": "भारतीय तटरक्षक (ICG) नाविक (GD/DB) व यांत्रिक एडमिट कार्ड 2026 — CGEPT परीक्षा 17–18 नवंबर (बैच 01/2027 व 02/2027)",
+     "state": "ok"
+    }
+   },
+   "id": "prep-icg-navik-yantrik-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "भारतीय तटरक्षक (ICG) नाविक (GD/DB) व यांत्रिक एडमिट कार्ड 2026 — CGEPT परीक्षा 17–18 नवंबर (बैच 01/2027 व 02/2027)",
+   "verifyNote": "एग्ज़ाम सिटी स्लिप 6 Nov 2026 को जारी; Stage-I CBT परीक्षा 17–18 Nov 2026 — FastJobSearchers, GreatSarkariJobs, RojgarResult, FreeJobAlert व JobReadyPortal से cross-check, सब में तारीख़ें व 365 पद एक जैसे। e-एडमिट कार्ड परीक्षा से 48–72 घंटे पहले जारी होता है — कुछ स्रोतों में 14 Nov से जारी बताया गया है, इसलिए startDate 'check' रखा है। कमी: योग्यता व आयु-सीमा आवेदन-समय की जानकारी है, admit card वाली खबरों में नहीं दी — 'check' रखा है; एडमिट कार्ड login से डाउनलोड होता है, सीधा PDF link नहीं मिला।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T15:49:29+05:30",
+ "updatedAt": "2026-11-14T16:48:44+05:30",
  "version": 1
 }
