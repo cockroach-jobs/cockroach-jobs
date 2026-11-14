@@ -16292,9 +16292,333 @@
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T06:52:16+05:30",
    "listedAt": "2026-11-14T06:58:48+05:30"
+  },
+  {
+   "createdAt": "2026-11-14T07:56:54+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://tgtet.aptonline.in/",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2027-01-03",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": "₹750",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "एक पेपर ₹750, दोनों पेपर ₹1,000 (General/BC); SC/ST/PwD ₹700/₹950",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-10",
+     "state": "ok"
+    },
+    "org": {
+     "value": "स्कूल शिक्षा विभाग, तेलंगाना सरकार",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "शिक्षक पात्रता परीक्षा — Paper-I (कक्षा 1–5) व Paper-II (कक्षा 6–8); कोई सीधी भर्ती नहीं",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "D.El.Ed / B.Ed (शिक्षक प्रशिक्षण)",
+     "state": "ok"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://tgtet.aptonline.in/",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/ts-tet-notification-2026-2027-out/",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-16",
+     "state": "ok"
+    },
+    "state": {
+     "value": "तेलंगाना",
+     "state": "ok"
+    },
+    "title": {
+     "value": "तेलंगाना TET (TG TET) 2026-27 नोटिफ़िकेशन — आवेदन 16 नवंबर से 10 दिसंबर, परीक्षा 3–15 जनवरी 2027",
+     "state": "ok"
+    }
+   },
+   "id": "prep-tg-tet-2026-27",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "तेलंगाना TET (TG TET) 2026-27 नोटिफ़िकेशन — आवेदन 16 नवंबर से 10 दिसंबर, परीक्षा 3–15 जनवरी 2027",
+   "verifyNote": "13 नवंबर 2026 को तेलंगाना स्कूल शिक्षा विभाग ने TG TET 2026-27 का शेड्यूल जारी किया — testbook व Deccan Chronicle (13 नवंबर) से cross-check; आवेदन 16 नवंबर–10 दिसंबर 2026, CBT परीक्षा 3–15 जनवरी 2027, हॉल टिकट 28 दिसंबर से, रिजल्ट 8–12 फरवरी अपेक्षित। यह regular TG TET है — in-service teachers वाला Special TET-II (परीक्षा 16–21 नवंबर 2026) अलग है, उसे इससे मिलाना नहीं है। विस्तृत नोटिफ़िकेशन/बुलेटिन 16 नवंबर से मिलेगा, तब pdfUrl भरना बाकी।"
+  },
+  {
+   "createdAt": "2026-11-14T07:56:54+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-05-10",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "org": {
+     "value": "पंजाब एंड सिंध बैंक (Punjab & Sind Bank)",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "1,000 LBO पदों (Phase-III) का नतीजा — संशोधित provisional सूची में 595 अभ्यर्थी (17 राज्य); 21 अक्टूबर की सूची ग़लतियों के कारण वापस ली गई",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "check"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://punjabandsind.bank.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/punjab-and-sind-bank-lbo-phase-3-result-2026-3078035",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-02",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "title": {
+     "value": "पंजाब एंड सिंध बैंक LBO Phase-III रिजल्ट 2026 — संशोधित सूची में 595 अभ्यर्थी शॉर्टलिस्ट (21 अक्टूबर वाली सूची वापस)",
+     "state": "ok"
+    }
+   },
+   "id": "prep-punjab-sind-bank-lbo-phase3-result-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "पंजाब एंड सिंध बैंक LBO Phase-III रिजल्ट 2026 — संशोधित सूची में 595 अभ्यर्थी शॉर्टलिस्ट (21 अक्टूबर वाली सूची वापस)",
+   "verifyNote": "2 नवंबर 2026 को बैंक ने LBO Phase-III की संशोधित provisional सूची जारी की — freejobalert, jobshouter, govtjobsalert व pw.live से cross-check; 595 रोल नंबर, 17 राज्य, नोटिस HOHRD/REC/LBO/2026-27; 21 अक्टूबर की सूची (587 नाम) ग़लतियों के कारण वापस — सिर्फ़ 2 नवंबर वाली सूची ही मान्य। आगे Language Proficiency Test व दस्तावेज़ सत्यापन बाकी, उसकी तारीख़ अभी घोषित नहीं। PDF का सीधा link नहीं मिला — बैंक की recruitment page से लेना बाकी। परीक्षा तारीख़ (10 मई 2026) व योग्यता (Graduate) एक-एक स्रोत से हैं, पुष्टि बाकी।"
+  },
+  {
+   "createdAt": "2026-11-14T07:56:54+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": "30 वर्ष तक (फ्रेशर)",
+     "state": "check"
+    },
+    "applyUrl": {
+     "value": "https://cdac.kspcportal.com",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-28",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "एडमिट कार्ड डाउनलोड करने के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "org": {
+     "value": "सेंटर फ़ॉर डेवलपमेंट ऑफ़ एडवांस्ड कंप्यूटिंग (C-DAC), तिरुवनंतपुरम",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "प्रोजेक्ट इंजीनियर (फ्रेशर) व प्रोजेक्ट एसोसिएट (फ्रेशर) — CBT प्रवेश पत्र; केंद्र-वार पद-संख्या पर स्रोतों में टकराव (25/118), इसलिए संख्या नहीं लिखी",
+     "state": "check"
+    },
+    "qual": {
+     "value": "B.E./B.Tech",
+     "state": "check"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.cdac.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/c-dac-project-engineer-and-project-associate-admit-card-2026-3081063",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "state": {
+     "value": "केरल (तिरुवनंतपुरम/एर्नाकुलम केंद्र)",
+     "state": "ok"
+    },
+    "title": {
+     "value": "C-DAC प्रोजेक्ट इंजीनियर (फ्रेशर) व प्रोजेक्ट एसोसिएट एडमिट कार्ड 2026 — CBT 28–29 नवंबर (तिरुवनंतपुरम केंद्र)",
+     "state": "ok"
+    }
+   },
+   "id": "prep-cdac-project-engineer-admit-card-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "C-DAC प्रोजेक्ट इंजीनियर (फ्रेशर) व प्रोजेक्ट एसोसिएट एडमिट कार्ड 2026 — CBT 28–29 नवंबर (तिरुवनंतपुरम केंद्र)",
+   "verifyNote": "13 नवंबर 2026 को C-DAC के पोर्टल पर Project Engineer (फ्रेशर) व Project Associate (फ्रेशर) के admit card download link live हुए — freejobalert के 13 नवंबर के लेख से पुष्टि; CBT 28 नवंबर (CS सुबह 10:30, Electronics दोपहर 2:30) व 29 नवंबर (E&E), केंद्र एर्नाकुलम/तिरुवनंतपुरम। यह किस विज्ञापन की परीक्षा है, इस पर स्रोत एकमत नहीं (JIT विज्ञापन CORP/JIT/03/2026 का तिरुवनंतपुरम केंद्र माना जा रहा है; केंद्र-वार पद-संख्या 25 व 118 दोनों छपी हैं) — इसलिए पद-संख्या नहीं लिखी, और वेतन भी नहीं। Admit card सिर्फ़ cdac.kspcportal.com से login करके मिलेगा।"
+  },
+  {
+   "createdAt": "2026-11-14T07:56:54+05:30",
+   "createdBy": "LOYATI (hourly check)",
+   "fields": {
+    "age": {
+     "value": "18–45 वर्ष (1 जनवरी 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://hppsc.hp.gov.in",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "₹600",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "सभी अभ्यर्थियों के लिए ₹600; फीस भुगतान की अंतिम तारीख़ extension नोटिस में दोबारा नहीं लिखी — पोर्टल पर जाँच लें",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-30",
+     "state": "ok"
+    },
+    "org": {
+     "value": "हिमाचल प्रदेश लोक सेवा आयोग (HPPSC)",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "posts": {
+     "value": "23 पद (सभी भूतपूर्व सैनिकों के आश्रितों के लिए backlog — UR 19 + SC (HP) 3 + OBC (HP) 1)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.Sc. (कृषि) 4 वर्षीय + M.Sc. (कृषि) द्वितीय श्रेणी",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹29,500 प्रति माह (जॉब ट्रेनी, नियत मानदेय — नियमित Group-A वेतनमान नहीं)",
+     "state": "ok"
+    },
+    "siteUrl": {
+     "value": "https://hppsc.hp.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/hppsc-ado-recruitment-2026-apply-online-for-23-agriculture-development-officer-posts-3069362",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-09-25",
+     "state": "ok"
+    },
+    "state": {
+     "value": "हिमाचल प्रदेश",
+     "state": "ok"
+    },
+    "title": {
+     "value": "HPPSC कृषि विकास अधिकारी (ADO) भर्ती 2026 — 23 पद (सिर्फ़ भूतपूर्व सैनिकों के आश्रित), अंतिम तारीख़ बढ़कर 30 नवंबर",
+     "state": "ok"
+    }
+   },
+   "id": "prep-hppsc-ado-2026",
+   "jobId": null,
+   "kind": "new_job",
+   "sourceSubmissionId": null,
+   "status": "ready",
+   "title": "HPPSC कृषि विकास अधिकारी (ADO) भर्ती 2026 — 23 पद (सिर्फ़ भूतपूर्व सैनिकों के आश्रित), अंतिम तारीख़ बढ़कर 30 नवंबर",
+   "verifyNote": "HPPSC विज्ञापन 63/9-2026 (25 सितंबर 2026) — careeralert24, govtjobsalert, freejobalert व himexam से cross-check; 23 ADO (Group-A, जॉब ट्रेनी) पद, सभी भूतपूर्व सैनिकों के आश्रितों के लिए; अंतिम तारीख़ 22 अक्टूबर से बढ़कर 30 नवंबर 2026 (नोटिस 3-94/2026-PSC(R-I), 22 अक्टूबर; वजह — कम आवेदन)। योग्यता B.Sc. (कृषि) + M.Sc. (कृषि) द्वितीय श्रेणी दोनों चाहिए; उम्र 18–45 (1 जनवरी 2026 को); फीस ₹600। Notification PDF का सीधा link नहीं मिला — hppsc.hp.gov.in से लेना बाकी।"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T06:52:16+05:30",
+ "updatedAt": "2026-11-14T07:56:54+05:30",
  "version": 1
 }
