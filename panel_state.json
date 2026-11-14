@@ -21212,9 +21212,333 @@
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-14T21:53:13+05:30",
    "listedAt": "2026-11-14T22:20:47+05:30"
+  },
+  {
+   "id": "prep-cwc-chief-draughtsman-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "केंद्रीय जल आयोग (CWC) चीफ़ ड्राफ्ट्समैन भर्ती 2026 — 39 पद (प्रतिनियुक्ति)",
+   "fields": {
+    "title": {
+     "value": "केंद्रीय जल आयोग (CWC) चीफ़ ड्राफ्ट्समैन भर्ती 2026 — 39 पद (प्रतिनियुक्ति)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "केंद्रीय जल आयोग (Central Water Commission), जल शक्ति मंत्रालय",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "39 पद (अनंतिम)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Diploma (सिविल/मैकेनिकल इंजीनियरिंग) + संबंधित क्षेत्र में 3 साल का अनुभव",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-27",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-28",
+     "state": "check"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": "Level-7 (₹44,900–₹1,42,400)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 56 वर्ष (प्रतिनियुक्ति, अंतिम तिथि को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://cwc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.freejobalert.com/articles/cwc-chief-draughtsman-recruitment-2026-apply-offline-for-39-posts-3077104",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Cross-check: freejobalert, govtjobsai, governmentdailyjobs, indgovtjobs, placementstore व studentsbizz — CWC चीफ़ ड्राफ्ट्समैन 39 पद (अनंतिम), Vacancy Circular 01/2026, 27 Oct 2026; सिर्फ़ प्रतिनियुक्ति (short-term contract सहित), सीधी भर्ती नहीं — सिर्फ़ सेवारत सरकारी अधिकारी proper channel से ऑफ़लाइन आवेदन करें (Under Secretary, Establishment-X, CWC, Sewa Bhawan, R.K. Puram, नई दिल्ली-110066); Diploma (Civil/Mechanical) + 3 साल अनुभव, Level-7 वेतन, अधिकतम उम्र 56। कमी: अंतिम तिथि आधिकारिक circular में कैलेंडर तारीख़ नहीं — 'Employment News में छपने से 60 दिन' लिखा है; 28 Dec 2026 aggregators का हिसाब है, इसलिए lastDate 'check' — Employment News की छपने की तारीख़ से पुष्टि बाकी; official PDF का सीधा link नहीं मिला (pdfUrl missing); कोई शुल्क circular में नहीं लिखा (fee missing)।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T22:55:36+05:30"
+  },
+  {
+   "id": "prep-rrb-group-d-result-update-2026",
+   "kind": "update",
+   "jobId": "rrb-group-d-result-2026",
+   "title": "RRB ग्रुप-D रिजल्ट 2026 — PET शॉर्टलिस्ट अपडेट (सभी 16 ज़ोन, 42,909 shortlist)",
+   "fields": {
+    "title": {
+     "value": "RRB ग्रुप-D रिजल्ट 2026 (CEN 09/2025) — PET शॉर्टलिस्ट जारी, 22,195 पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "रेलवे भर्ती बोर्ड (RRB)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "22,195 पद (Level-1) — सभी 16 RRBs से 42,909 अभ्यर्थी PET के लिए shortlist",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "10वीं",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-12",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-12-01",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "—",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "Level-1 — ₹18,000 – ₹56,900 (7th CPC)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "—",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://rrb.indianrailways.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/news/railway-rrb-group-d-result-2026-date/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Live card पर posts में 'अब तक 6 RRBs से 16,427 shortlist' लिखा है — वह 13 Nov की आधी जानकारी थी। अब testbook व rank.qmaths के अनुसार सभी 16 RRBs के नतीजे जारी हो चुके हैं और कुल 42,909 अभ्यर्थी PET के लिए shortlist हैं (CBT 3–25 Aug 2026, 52.39 लाख अभ्यर्थी; स्कोरकार्ड 16 Nov शाम 5 बजे से 1 Dec रात 11:55 तक)। नोट: prepp.in में Secunderabad ज़ोन अभी 'awaited' बताया गया है (15 ज़ोन, 41,204) — बहुमत (testbook + rank.qmaths) 16/16 व 42,909 कहता है, इसलिए posts उसी हिसाब से बदला है; queue करते समय यह टकराव देख लें। बाकी fields live card जैसे ही हैं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T22:55:36+05:30"
+  },
+  {
+   "id": "prep-bel-probationary-engineer-fee-update-2026",
+   "kind": "update",
+   "jobId": "bel-probationary-engineer-2026",
+   "title": "BEL प्रोबेशनरी इंजीनियर भर्ती 2026 — फीस व CBT तारीख़ अपडेट (₹1,180, CBT 22 Dec)",
+   "fields": {
+    "title": {
+     "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) प्रोबेशनरी इंजीनियर भर्ती 2026 — 350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "350 पद (इलेक्ट्रॉनिक्स 200 + मैकेनिकल 150)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech. (इलेक्ट्रॉनिक्स/मैकेनिकल — 4-वर्षीय इंजीनियरिंग; Gen/OBC/EWS प्रथम श्रेणी, SC/ST/PwBD पास श्रेणी)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-10-28",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-18",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-22",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": "₹1,180",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "Gen/OBC/EWS ₹1,180 (GST सहित); SC/ST/PwBD/भूतपूर्व सैनिक — कोई शुल्क नहीं; ऑनलाइन भुगतान, शुल्क वापस नहीं होगा",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹40,000–₹1,40,000 (लगभग ₹13 लाख CTC सालाना)",
+     "state": "ok"
+    },
+    "age": {
+     "value": "अधिकतम 25 वर्ष (UR/EWS, 1 अक्टूबर 2026 को)",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": "https://www.bel-india.in",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.bel-india.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://rightjobalert.com/bel-probationary-engineer-recruitment/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Live card पर feeGen/feeText '—' (missing) थे और examDate खाली था। अब rightjobalert का पूरा notification पेज + careernotification, govtjobalerts, karmasandhan, sarkarinokrii से cross-check करके फीस मिली: Gen/OBC/EWS ₹1,180 (GST सहित), SC/ST/PwBD/भूतपूर्व सैनिक छूट; CBT (अस्थायी) 22 Dec 2026 — इसलिए examDate 'check'; योग्यता भी live card के 'Graduate' से ज़्यादा सटीक (B.E./B.Tech.) करके दी है। बाकी fields live card जैसे ही हैं। अंतिम तिथि 18 Nov 2026 — queue जल्दी करें।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T22:55:36+05:30"
+  },
+  {
+   "id": "prep-upsc-cse-mains-result-lastdate-update-2026",
+   "kind": "update",
+   "jobId": "upsc-cse-mains-result-2026",
+   "title": "UPSC सिविल सेवा (मुख्य) रिजल्ट 2026 — अंतिम तिथि अपडेट (DAF-II 25 Nov तक)",
+   "fields": {
+    "title": {
+     "value": "UPSC सिविल सेवा मुख्य परीक्षा रिजल्ट 2026 — 2,526 अभ्यर्थी इंटरव्यू के लिए चयनित",
+     "state": "ok"
+    },
+    "org": {
+     "value": "संघ लोक सेवा आयोग (UPSC)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "result",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "1,016 पदों का नतीजा — मुख्य परीक्षा से 2,526 अभ्यर्थी Personality Test के लिए चयनित",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "Graduate",
+     "state": "ok"
+    },
+    "state": {
+     "value": "सभी राज्य (केंद्रीय)",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-05",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-25",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeGen": {
+     "value": "—",
+     "state": "ok"
+    },
+    "feeText": {
+     "value": "रिजल्ट देखने के लिए कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "—",
+     "state": "ok"
+    },
+    "age": {
+     "value": "—",
+     "state": "ok"
+    },
+    "applyUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.upsc.gov.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://testbook.com/prep/upsc/upsc-mains-result-2026/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "Live card पर lastDate 5 Nov 2026 (रिजल्ट की तारीख़) है — वह बीत चुकी तारीख़ card पर दिख रही है, जबकि चुने गए अभ्यर्थियों के लिए असली काम DAF-II भरना है: window 11–25 Nov 2026 (शाम 6 बजे तक) upsconline.nic.in पर खुली है (TOI, testbook, ssbcrack, aglasem से पुष्ट)। इसलिए lastDate 25 Nov 2026 की जाए। बाकी fields live card जैसे ही हैं; इंटरव्यू की तारीख़ें अभी घोषित नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-14T22:55:36+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-14T22:20:47+05:30",
+ "updatedAt": "2026-11-14T22:55:36+05:30",
  "version": 1
 }
