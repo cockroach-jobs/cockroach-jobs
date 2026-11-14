@@ -22107,9 +22107,171 @@
    "createdBy": "LOYATI (hourly check)",
    "createdAt": "2026-11-15T00:57+05:30",
    "listedAt": "2026-11-13T20:55:45+05:30"
+  },
+  {
+   "id": "prep-bpcl-pwbd-srd-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "BPCL दिव्यांगजन विशेष भर्ती (SRD) 2026 — 49 एक्ज़ीक्यूटिव पद",
+   "fields": {
+    "title": {
+     "value": "BPCL दिव्यांगजन विशेष भर्ती (SRD) 2026 — 49 एक्ज़ीक्यूटिव पद",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारत पेट्रोलियम कॉर्पोरेशन लिमिटेड (BPCL)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "job",
+     "state": "ok"
+    },
+    "posts": {
+     "value": "49 पद (एसोसिएट एक्ज़ीक्यूटिव इंजीनियरिंग 33, जूनियर एक्ज़ीक्यूटिव अकाउंट्स 8, एसोसिएट एक्ज़ीक्यूटिव हिंदी 4, क्वालिटी एश्योरेंस 4)",
+     "state": "ok"
+    },
+    "qual": {
+     "value": "B.E./B.Tech, Inter CA/CMA, हिंदी में मास्टर डिग्री, M.Sc केमिस्ट्री + 3–5 वर्ष अनुभव (पद अनुसार); कम से कम 40% बेंचमार्क दिव्यांगता",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-09",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-12-19",
+     "state": "check"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": "कोई शुल्क नहीं",
+     "state": "ok"
+    },
+    "salary": {
+     "value": "₹30,000 – ₹1,20,000 (जूनियर एक्ज़ीक्यूटिव); ₹40,000 – ₹1,40,000 (एसोसिएट एक्ज़ीक्यूटिव)",
+     "state": "ok"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://www.bharatpetroleum.in",
+     "state": "check"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://www.bharatpetroleum.in",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://www.sarkariresult.app/bpcl-srd-recruitment-2026-out-apply-online-49-posts/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "BPCL स्पेशल रिक्रूटमेंट ड्राइव (PwBD) — PlacementStore, Karmasandhan, SarkariResult.app व GovtJobsAlert से cross-check; 49 पद, 9–29 Nov 2026 व CBT 19 Dec 2026 (संभावित) सबमें एक जैसे। सिर्फ़ 40%+ बेंचमार्क दिव्यांगता वाले उम्मीदवार, हर पद पर 3–5 वर्ष अनुभव ज़रूरी — फ्रेशर के लिए नहीं। कोई आवेदन शुल्क नहीं। कमी: आयु-सीमा व आधिकारिक PDF का सीधा link नहीं मिला।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T01:54+05:30"
+  },
+  {
+   "id": "prep-aibe-22-admit-card-2026",
+   "kind": "new_job",
+   "jobId": null,
+   "title": "AIBE XXII (22) एडमिट कार्ड 2026 जारी — परीक्षा 29 नवंबर",
+   "fields": {
+    "title": {
+     "value": "AIBE XXII (22) एडमिट कार्ड 2026 जारी — परीक्षा 29 नवंबर",
+     "state": "ok"
+    },
+    "org": {
+     "value": "भारतीय बार काउंसिल (BCI)",
+     "state": "ok"
+    },
+    "cat": {
+     "value": "admit",
+     "state": "ok"
+    },
+    "posts": {
+     "value": null,
+     "state": "missing"
+    },
+    "qual": {
+     "value": "LLB (कानून स्नातक)",
+     "state": "ok"
+    },
+    "state": {
+     "value": "अखिल भारतीय",
+     "state": "ok"
+    },
+    "startDate": {
+     "value": "2026-11-14",
+     "state": "ok"
+    },
+    "lastDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "examDate": {
+     "value": "2026-11-29",
+     "state": "ok"
+    },
+    "feeGen": {
+     "value": null,
+     "state": "missing"
+    },
+    "feeText": {
+     "value": null,
+     "state": "missing"
+    },
+    "salary": {
+     "value": null,
+     "state": "missing"
+    },
+    "age": {
+     "value": null,
+     "state": "missing"
+    },
+    "applyUrl": {
+     "value": "https://allindiabarexamination.com",
+     "state": "ok"
+    },
+    "pdfUrl": {
+     "value": null,
+     "state": "missing"
+    },
+    "siteUrl": {
+     "value": "https://allindiabarexamination.com",
+     "state": "ok"
+    },
+    "sourceUrl": {
+     "value": "https://indianexpress.com/article/education/aibe-22-admit-card-2026-out-download-link-allindiabarexamination-com-hall-ticket-exam-date-timings-10962659/",
+     "state": "ok"
+    }
+   },
+   "verifyNote": "BCI प्रेस रिलीज़ (18 जुलाई 2026) व Indian Express (14 Nov), Careers360, Taxmann, StudyIQ, NDTV से cross-check — एडमिट कार्ड 14 Nov 2026 को जारी, परीक्षा 29 Nov 2026 (दोपहर 1–4 बजे, ऑफ़लाइन)। एक स्रोत (LawZone) में परीक्षा 28–29 Nov लिखी थी, बहुमत व BCI नोटिफ़िकेशन के अनुसार 29 Nov ही लिया गया है। यह वकालत के लिए योग्यता परीक्षा है, भर्ती नहीं — इसलिए पद, वेतन व आयु-सीमा लागू नहीं।",
+   "status": "ready",
+   "sourceSubmissionId": null,
+   "createdBy": "LOYATI (hourly check)",
+   "createdAt": "2026-11-15T01:54+05:30"
   }
  ],
  "submissions": [],
- "updatedAt": "2026-11-15T01:01:51+05:30",
+ "updatedAt": "2026-11-15T01:54:12+05:30",
  "version": 1
 }
